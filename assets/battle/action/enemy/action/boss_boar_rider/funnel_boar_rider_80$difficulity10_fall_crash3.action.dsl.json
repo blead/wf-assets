@@ -1,0 +1,34 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateTargetAttack",
+          -2,
+          702,
+          840,
+          [
+            "Specify",
+            120
+          ],
+          "battle/action/enemy/action/boss_boar_rider/fall_crash"
+        ]
+      ]
+    ]
+  ]
+]

@@ -1,0 +1,1553 @@
+{
+  "WorldFlipper": [
+    [
+      "help_label_world_flipper",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_world_flipper",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Home": [
+    [
+      "help_label_home",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_home",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Player": [
+    [
+      "help_label_player",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_player",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Quest": [
+    [
+      "help_label_quest",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_quest",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle": [
+    [
+      "help_label_battle",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Battle": [
+    [
+      "help_label_battle_battle",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Boss": [
+    [
+      "help_label_battle_boss",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Enemy": [
+    [
+      "help_label_battle_enemy",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_enemy",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Condition": [
+    [
+      "help_label_battle_condition",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_condition",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Skill": [
+    [
+      "help_label_battle_skill",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_skill",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Ability": [
+    [
+      "help_label_battle_ability",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_ability",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Battle_Yakumono": [
+    [
+      "help_label_battle_yakumono",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_yakumono",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Event": [
+    [
+      "help_label_event",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "2019-11-25 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Event_Event": [
+    [
+      "help_label_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Event_Challenge": [
+    [
+      "help_label_event_challenge",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_challenge",
+      "2019-11-25 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Event_Challenge_Abyss": [
+    [
+      "help_label_event_challenge_abyss",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_challenge_abyss",
+      "2021-02-09 12:00:00",
+      "2021-02-24 04:59:59"
+    ]
+  ],
+  "Event_Challenge_Abyss2": [
+    [
+      "help_label_event_challenge_abyss",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_challenge_abyss",
+      "2021-03-23 12:00:00",
+      "2021-04-07 04:59:59"
+    ]
+  ],
+  "Event_Advent_Thunder": [
+    [
+      "help_label_event_advent_thunder",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_thunder",
+      "2019-12-26 12:00:00",
+      "2020-01-17 11:59:59"
+    ]
+  ],
+  "Event_Advent_Fire": [
+    [
+      "help_label_event_advent_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_fire",
+      "2020-02-15 12:00:00",
+      "2020-03-07 11:59:59"
+    ]
+  ],
+  "Campaign": [
+    [
+      "help_label_campaign",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "2022-08-31 12:00:00",
+      "2022-09-15 20:59:59"
+    ]
+  ],
+  "help_reward_campaign": [
+    [
+      "help_label_reward_campaign",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_reward_campaign",
+      "2022-01-31 12:00:00",
+      "2022-02-13 20:59:59"
+    ]
+  ],
+  "help_reward_campaign_2anv": [
+    [
+      "help_label_reward_campaign_2ndanv",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_reward_campaign_2ndanv",
+      "2022-07-15 12:00:00",
+      "2022-07-29 20:59:59"
+    ]
+  ],
+  "help_reward_campaign_spr22": [
+    [
+      "help_label_reward_campaign_2ndanv",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_reward_campaign_spring22",
+      "2022-03-31 12:00:00",
+      "2022-04-15 20:59:59"
+    ]
+  ],
+  "help_reward_campaign_gw22": [
+    [
+      "help_label_reward_campaign_2ndanv",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_reward_campaign_gw22",
+      "2022-04-29 12:00:00",
+      "2022-05-09 20:59:59"
+    ]
+  ],
+  "help_ushi_campaign": [
+    [
+      "help_label_ushinohi_campaign",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_ushi_campaign",
+      "2022-07-23 12:00:00",
+      "2022-07-31 20:59:59"
+    ]
+  ],
+  "help_battle_support_campaign": [
+    [
+      "help_label_battle_support_campaign",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_battle_support_campaign",
+      "2022-08-31 12:00:00",
+      "2022-09-15 20:59:59"
+    ]
+  ],
+  "Character": [
+    [
+      "help_label_character",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Character_Character": [
+    [
+      "help_label_character_character",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_character",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Character_Party": [
+    [
+      "help_label_character_party",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_party",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Character_Strengthen": [
+    [
+      "help_label_character_strengthen",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_strengthen",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Character_Ability": [
+    [
+      "help_label_character_ability",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_ability",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Character_Equipment": [
+    [
+      "help_label_character_equipment",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_equipment",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Gacha": [
+    [
+      "help_label_gacha",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_gacha",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Shop": [
+    [
+      "help_label_shop",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_shop",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Equipment_Enhancement_List": [
+    [
+      "help_label_equipment_enhancement",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "2022-09-15 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Encyclopedia": [
+    [
+      "help_label_encyclopedia",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_encyclopedia",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Menu": [
+    [
+      "help_label_menu",
+      "(None)",
+      "1",
+      "1",
+      "rich_text/help_menu",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Other_List": [
+    [
+      "help_label_other",
+      "(None)",
+      "1",
+      "0",
+      "",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Other": [
+    [
+      "help_label_other",
+      "Other_List",
+      "1",
+      "1",
+      "rich_text/help_other",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Other_Comeback_Bonus": [
+    [
+      "help_label_other_comeback_bonus",
+      "Other_List",
+      "1",
+      "1",
+      "rich_text/help_other_comeback_bonus",
+      "2021-11-27 05:00:00",
+      "(None)"
+    ]
+  ],
+  "Battle_Field_Effect": [
+    [
+      "help_label_battle_field_effect",
+      "Battle",
+      "1",
+      "1",
+      "rich_text/help_battle_field_effect",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Event_Side_Story": [
+    [
+      "help_label_event_side_story",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_side_story",
+      "2021-08-12 12:00:00",
+      "(None)"
+    ]
+  ],
+  "event_world_story_yokai_emaki_01_re01": [
+    [
+      "help_label_event_world_story_yokai_emaki_01_re01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_yokai_emaki_01_re01",
+      "2021-07-16 12:00:00",
+      "2021-08-03 04:59:59"
+    ]
+  ],
+  "event_world_story_yokai_emaki_01": [
+    [
+      "help_label_event_world_story_yokai_emaki_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_yokai_emaki_01",
+      "2020-09-30 12:00:00",
+      "2020-10-22 04:59:59"
+    ]
+  ],
+  "event_world_story_vt22": [
+    [
+      "help_label_event_world_story_vt22",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_vt22",
+      "2022-02-14 12:00:00",
+      "2022-03-07 04:59:59"
+    ]
+  ],
+  "event_story_valen21": [
+    [
+      "help_label_event_story_valen20",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_story_event_valen21",
+      "2021-02-09 12:00:00",
+      "2021-02-22 20:59:59"
+    ]
+  ],
+  "Event_Advent_u_collabo": [
+    [
+      "help_label_event_advent_u_collabo",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_u_collabo",
+      "2022-06-15 12:00:00",
+      "2022-07-07 04:59:59"
+    ]
+  ],
+  "Event_treasure_hunt_quest": [
+    [
+      "help_label_event_treasure_hunt_quest",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_treasure_hunt_quest",
+      "2022-09-21 12:00:00",
+      "2022-10-06 20:59:59"
+    ]
+  ],
+  "treasure_cave_quest": [
+    [
+      "help_label_event_treasure_cave_quest",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_treasure_cave_quest",
+      "2021-09-10 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Tower_Dungeon": [
+    [
+      "help_label_tower_dungeon",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_tower_dungeon",
+      "2020-08-21 12:00:00",
+      "(None)"
+    ]
+  ],
+  "time_attack_event_water_01": [
+    [
+      "help_label_event_time_attack_event_water_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_time_attack_event_water_01",
+      "2020-08-21 12:00:00",
+      "2020-09-10 11:59:59"
+    ]
+  ],
+  "time_attack_event_white_01": [
+    [
+      "help_label_event_time_attack_event_white_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_time_attack_event_white_01",
+      "2020-10-31 12:00:00",
+      "2020-11-19 11:59:59"
+    ]
+  ],
+  "time_attack_event_green_01": [
+    [
+      "help_label_event_time_attack_event_green_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_time_attack_event_green_01",
+      "2021-01-31 12:00:00",
+      "2021-02-18 11:59:59"
+    ]
+  ],
+  "time_attack_event_yellow_01": [
+    [
+      "help_label_event_time_attack_event_yellow_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_time_attack_event_yellow_01",
+      "2021-04-28 12:00:00",
+      "2021-05-16 11:59:59"
+    ]
+  ],
+  "time_attack_event_red_01": [
+    [
+      "help_label_event_time_attack_event_red_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_time_attack_event_red_01",
+      "2021-07-16 12:00:00",
+      "2021-08-03 11:59:59"
+    ]
+  ],
+  "event_world_story_summer_2022": [
+    [
+      "help_label_event_world_story_summer_2022",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_summer_2022",
+      "2022-07-29 12:00:00",
+      "2022-08-23 04:59:59"
+    ]
+  ],
+  "event_world_story_summer_2021_re01": [
+    [
+      "help_label_event_world_story_summer_2021_re01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_summer_2021_re01",
+      "2022-05-05 12:00:00",
+      "2022-05-24 04:59:59"
+    ]
+  ],
+  "event_world_story_summer_2021": [
+    [
+      "help_label_event_world_story_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_summer_2021",
+      "2021-07-31 12:00:00",
+      "2021-08-20 04:59:59"
+    ]
+  ],
+  "event_world_story_summer_2020_re01": [
+    [
+      "help_label_event_world_story_summer_2020_re01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_summer_2020_re01",
+      "2021-04-16 12:00:00",
+      "2021-05-04 04:59:59"
+    ]
+  ],
+  "event_world_story_summer_2020": [
+    [
+      "help_label_event_world_story_summer_2020",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_summer_2020",
+      "2020-07-31 12:00:00",
+      "2020-08-20 11:59:59"
+    ]
+  ],
+  "Event_solo_time_attack": [
+    [
+      "help_label_event_solo_time_attack",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_solo_time_attack",
+      "2022-03-14 12:00:00",
+      "(None)"
+    ]
+  ],
+  "combat_diver_01": [
+    [
+      "help_label_event_rush_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_rush_event",
+      "2022-02-14 12:00:00",
+      "2022-03-08 04:59:59"
+    ]
+  ],
+  "combat_diver_02": [
+    [
+      "help_label_event_rush_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_rush_event",
+      "2022-05-16 12:00:00",
+      "2022-06-08 04:59:59"
+    ]
+  ],
+  "combat_diver_03": [
+    [
+      "help_label_event_rush_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_rush_event",
+      "2022-08-15 12:00:00",
+      "2022-09-08 04:59:59"
+    ]
+  ],
+  "event_raid_event": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event",
+      "2021-11-27 12:00:00",
+      "2021-12-24 04:59:59"
+    ]
+  ],
+  "event_raid_event_02": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event_02",
+      "2022-03-09 12:00:00",
+      "2022-03-31 04:59:59"
+    ]
+  ],
+  "event_raid_event_03": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event_03",
+      "2022-04-29 12:00:00",
+      "2022-05-14 04:59:59"
+    ]
+  ],
+  "event_raid_event_04": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event_04",
+      "2022-09-15 12:00:00",
+      "2022-09-30 04:59:59"
+    ]
+  ],
+  "multi_special_exchange_01": [
+    [
+      "help_label_event_multi_special_exchange",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_multi_special_exchange",
+      "2021-11-27 12:00:00",
+      "2021-12-23 11:59:59"
+    ]
+  ],
+  "Event_material_trader": [
+    [
+      "help_label_event_material_trader",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_material_trader",
+      "2022-02-28 12:00:00",
+      "2022-03-12 20:59:59"
+    ]
+  ],
+  "Event_Advent_k_collabo": [
+    [
+      "help_label_event_advent_k_collabo",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_k_collabo",
+      "2022-06-30 12:00:00",
+      "2022-07-21 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2020-05-27 12:00:00",
+      "2021-06-11 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_02": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2021-07-31 12:00:00",
+      "2021-08-19 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_03": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2021-10-18 12:00:00",
+      "2021-11-08 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_04": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2021-12-17 12:00:00",
+      "2021-12-30 20:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_05": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2022-03-31 12:00:00",
+      "2022-04-23 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_06": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2022-07-15 12:00:00",
+      "2022-08-06 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_07": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2022-09-30 12:00:00",
+      "2022-10-14 11:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_08": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2022-10-14 12:00:00",
+      "2022-11-05 04:59:59"
+    ]
+  ],
+  "event_world_story_fakeprincess01_re01": [
+    [
+      "help_label_event_world_story_fakeprincess01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_fakeprincess01_re01",
+      "2021-03-19 12:00:00",
+      "2021-04-03 04:59:59"
+    ]
+  ],
+  "event_world_story_fakeprincess01": [
+    [
+      "help_label_event_world_story_fakeprincess01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_fakeprincess01",
+      "2020-05-31 12:00:00",
+      "2020-06-19 11:59:59"
+    ]
+  ],
+  "Event_Expert_single": [
+    [
+      "help_label_event_expert_single",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_expert_single",
+      "2020-09-10 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Event_Expert_single2": [
+    [
+      "help_label_event_expert_single_side_story",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_expert_single_side_story",
+      "2022-09-15 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Ex_Boost": [
+    [
+      "help_label_character_ex_boost",
+      "Character",
+      "1",
+      "1",
+      "rich_text/help_character_ex_boost",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "Equipment_Enhancement": [
+    [
+      "help_label_equipment_enhancement",
+      "Equipment_Enhancement_List",
+      "1",
+      "1",
+      "rich_text/help_equipment_enhancement",
+      "2022-09-15 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Equipment_Enhancement_Anamnesis_Weapon": [
+    [
+      "help_label_equipment_enhancement_anamnesis_weapon",
+      "Equipment_Enhancement_List",
+      "1",
+      "1",
+      "rich_text/help_equipment_enhancement_anamnesis_weapon",
+      "2022-09-15 12:00:00",
+      "(None)"
+    ]
+  ],
+  "event_world_story_desert_bonds_01": [
+    [
+      "help_label_event_world_story_desert_bonds_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_desert_bonds_01",
+      "2021-03-31 12:00:00",
+      "2021-04-19 04:59:59"
+    ]
+  ],
+  "event_world_story_desert_bonds_01_re01": [
+    [
+      "help_label_event_world_story_desert_bonds_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_desert_bonds_01_re01",
+      "2022-01-11 12:00:00",
+      "2022-02-01 04:59:59"
+    ]
+  ],
+  "event_world_story_cyberpunk02_re01": [
+    [
+      "help_label_event_world_story_cyberpunk02_hero",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_cyberpunk02_re01",
+      "2022-03-31 12:00:00",
+      "2022-04-23 04:59:59"
+    ]
+  ],
+  "event_world_story_cyberpunk02_hero": [
+    [
+      "help_label_event_world_story_cyberpunk02_hero",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_cyberpunk02_hero",
+      "2021-05-31 12:00:00",
+      "2021-06-22 04:59:59"
+    ]
+  ],
+  "event_world_story_cyberpunk01_re01": [
+    [
+      "help_label_event_world_story_cyberpunk01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_cyberpunk01_re01",
+      "2020-11-09 12:00:00",
+      "2020-11-24 04:59:59"
+    ]
+  ],
+  "event_world_story_cyberpunk01": [
+    [
+      "help_label_event_world_story_cyberpunk01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_cyberpunk01",
+      "2020-03-13 12:00:00",
+      "2020-04-12 11:59:59"
+    ]
+  ],
+  "event_crown_beasts_re01": [
+    [
+      "help_label_event_world_story_crown_beasts_re01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_crown_beasts_re01",
+      "2022-08-31 12:00:00",
+      "2022-09-23 04:59:59"
+    ]
+  ],
+  "event_world_story_beast": [
+    [
+      "help_label_event_world_story_crown_beasts",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_crown_beasts",
+      "2021-09-30 12:00:00",
+      "2021-10-27 04:59:59"
+    ]
+  ],
+  "help_campaign_battle": [
+    [
+      "help_label_campaign_battle",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_campaign_battle",
+      "2021-02-28 12:00:00",
+      "2021-03-09 11:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2020-04-15 12:00:00",
+      "2020-04-30 11:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event4": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2020-05-15 12:00:00",
+      "2020-05-27 11:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event8": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2020-12-31 12:00:00",
+      "2021-01-11 20:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event12": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2021-06-14 12:00:00",
+      "2021-06-24 20:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event13": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2021-08-31 12:00:00",
+      "2021-09-10 20:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event15": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2021-12-31 12:00:00",
+      "2022-01-10 20:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event17": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2022-03-14 12:00:00",
+      "2022-03-31 20:59:59"
+    ]
+  ],
+  "boss_battle_multi_pickup_event18": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2022-08-31 12:00:00",
+      "2022-09-23 04:59:59"
+    ]
+  ],
+  "event_world_story_event_anv_story_01": [
+    [
+      "help_event_world_story_event_anv_story_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_anv_story_01",
+      "2020-11-27 12:00:00",
+      "2020-12-22 04:59:59"
+    ]
+  ],
+  "event_world_story_event_anv_re01": [
+    [
+      "help_event_world_story_event_anv_story_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_anv_re01",
+      "2021-11-11 12:00:00",
+      "2021-11-27 04:59:59"
+    ]
+  ],
+  "event_anv2_re01": [
+    [
+      "help_event_world_story_event_anv2",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_anv2_re01",
+      "2022-09-22 12:00:00",
+      "2022-10-08 04:59:59"
+    ]
+  ],
+  "event_world_story_event_anv2": [
+    [
+      "help_event_world_story_event_anv2",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_anv2",
+      "2021-11-27 12:00:00",
+      "2021-12-24 04:59:59"
+    ]
+  ],
+  "Event_Advent_light": [
+    [
+      "help_label_event_advent_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_light",
+      "2020-03-31 12:00:00",
+      "2020-04-22 11:59:59"
+    ]
+  ],
+  "Event_Advent_elements": [
+    [
+      "help_label_event_advent_elements",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_elements",
+      "2020-06-12 12:00:00",
+      "2020-06-30 11:59:59"
+    ]
+  ],
+  "Event_Advent_water": [
+    [
+      "help_label_event_advent_water",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_water",
+      "2020-06-30 12:00:00",
+      "2020-07-21 04:59:59"
+    ]
+  ],
+  "Event_Advent_fire2": [
+    [
+      "help_label_event_advent_fire2",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_fire2",
+      "2020-08-13 12:00:00",
+      "2020-08-29 04:59:59"
+    ]
+  ],
+  "Event_Advent_dark": [
+    [
+      "help_label_event_advent_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_dark",
+      "2020-08-31 12:00:00",
+      "2020-09-18 04:59:59"
+    ]
+  ],
+  "Event_Advent_Zcollab": [
+    [
+      "help_label_event_advent_zcollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_zcollab",
+      "2020-09-15 12:00:00",
+      "2020-10-10 04:59:59"
+    ]
+  ],
+  "Event_Advent_hw20": [
+    [
+      "help_label_event_advent_hw20",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_hw20",
+      "2020-10-15 12:00:00",
+      "2020-10-31 04:59:59"
+    ]
+  ],
+  "Event_Advent_thunder2": [
+    [
+      "help_label_event_advent_thunder2",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_thunder2",
+      "2020-11-16 12:00:00",
+      "2020-12-04 04:59:59"
+    ]
+  ],
+  "Event_Advent_xm20": [
+    [
+      "help_label_event_advent_xm20",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_xm20",
+      "2020-12-14 12:00:00",
+      "2021-01-02 04:59:59"
+    ]
+  ],
+  "Event_Advent_Rcollab": [
+    [
+      "help_label_event_advent_rcollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_rcollab",
+      "2021-01-16 12:00:00",
+      "2021-02-06 04:59:59"
+    ]
+  ],
+  "Event_Advent_water2": [
+    [
+      "help_label_event_advent_water2",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_water2",
+      "2021-02-17 12:00:00",
+      "2021-03-05 04:59:59"
+    ]
+  ],
+  "Event_Advent_wind": [
+    [
+      "help_label_event_advent_wind",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_wind",
+      "2021-03-10 12:00:00",
+      "2021-03-27 04:59:59"
+    ]
+  ],
+  "Event_Advent_Zcollab2": [
+    [
+      "help_label_event_advent_zcollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_zcollab2",
+      "2021-04-24 12:00:00",
+      "2021-05-10 04:59:59"
+    ]
+  ],
+  "Event_Advent_Gcollab": [
+    [
+      "help_label_event_advent_gcollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_gcollab",
+      "2021-05-12 12:00:00",
+      "2021-05-29 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_thunder": [
+    [
+      "help_label_event_advent_spirit_beast_thunder",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_thunder",
+      "2021-06-30 12:00:00",
+      "2021-07-20 04:59:59"
+    ]
+  ],
+  "Event_Advent_scollab": [
+    [
+      "help_label_event_advent_scollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_scollab",
+      "2021-08-16 12:00:00",
+      "2021-09-07 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_water": [
+    [
+      "help_label_event_advent_spirit_beast_water",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_water",
+      "2021-09-15 12:00:00",
+      "2021-10-07 04:59:59"
+    ]
+  ],
+  "Event_Advent_hw21": [
+    [
+      "help_label_event_advent_hw21",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_hw21",
+      "2021-10-18 12:00:00",
+      "2021-11-08 04:59:59"
+    ]
+  ],
+  "Event_Advent_xm21": [
+    [
+      "help_label_event_advent_xm21",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_xm21",
+      "2021-12-17 12:00:00",
+      "2022-01-07 04:59:59"
+    ]
+  ],
+  "Event_Advent_revival_Rcollab": [
+    [
+      "help_label_event_advent_revival_rcollab",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_revival_rcollab",
+      "2022-01-16 12:00:00",
+      "2022-02-07 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_fire": [
+    [
+      "help_label_event_advent_spirit_beast_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_fire",
+      "2022-02-28 12:00:00",
+      "2022-03-22 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_light": [
+    [
+      "help_label_event_advent_spirit_beast_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_light",
+      "2022-04-15 12:00:00",
+      "2022-05-08 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_thunder2": [
+    [
+      "help_label_event_advent_spirit_beast_thunder",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_thunder2",
+      "2022-05-23 12:00:00",
+      "2022-06-08 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_storm": [
+    [
+      "help_label_event_advent_spirit_beast_storm",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_storm",
+      "2022-05-31 12:00:00",
+      "2022-06-23 04:59:59"
+    ]
+  ],
+  "Event_Advent_spirit_beast_dark": [
+    [
+      "help_label_event_advent_spirit_beast_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_dark",
+      "2022-07-29 12:00:00",
+      "2022-08-23 04:59:59"
+    ]
+  ],
+  "event_advent_spirit_beast_storm2": [
+    [
+      "help_label_event_advent_spirit_beast_storm",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_storm2",
+      "2022-08-08 12:00:00",
+      "2022-08-23 04:59:59"
+    ]
+  ],
+  "event_advent_spirit_beast_water2": [
+    [
+      "help_label_event_advent_spirit_beast_water",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_water2",
+      "2022-08-23 12:00:00",
+      "2022-09-08 04:59:59"
+    ]
+  ],
+  "event_advent_spirit_beast_fire2": [
+    [
+      "help_label_event_advent_spirit_beast_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_fire2",
+      "2022-09-07 12:00:00",
+      "2022-09-23 04:59:59"
+    ]
+  ],
+  "event_advent_spirit_beast_thunder3": [
+    [
+      "help_label_event_advent_spirit_beast_thunder",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_thunder3",
+      "2022-10-07 12:00:00",
+      "2022-10-22 04:59:59"
+    ]
+  ],
+  "event_advent_hw22": [
+    [
+      "help_label_event_advent_hw22",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_hw22",
+      "2022-10-14 12:00:00",
+      "2022-11-05 04:59:59"
+    ]
+  ],
+  "event_story_valen20": [
+    [
+      "help_label_event_story_valen20",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_story_event_valen20",
+      "2020-01-31 12:00:00",
+      "2020-02-28 11:59:59"
+    ]
+  ],
+  "Event_ny20": [
+    [
+      "help_label_event_ny20",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_story_event_ny20",
+      "2020-01-01 00:00:00",
+      "2020-01-15 11:59:59"
+    ]
+  ],
+  "event_story_xm19": [
+    [
+      "help_label_event_story_xm19",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_story_event_xm19",
+      "2019-12-16 12:00:00",
+      "2020-01-07 11:59:59"
+    ]
+  ],
+  "event_world_story_2halfanv": [
+    [
+      "help_label_event_world_story_2halfanv",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_world_story_event_2halfanv",
+      "2022-05-31 12:00:00",
+      "2022-06-23 04:59:59"
+    ]
+  ]
+}

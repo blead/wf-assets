@@ -1,0 +1,74 @@
+[
+  [
+    "火属性",
+    "<icon id='red'>"
+  ],
+  [
+    "水属性",
+    "<icon id='blue'>"
+  ],
+  [
+    "雷属性",
+    "<icon id='yellow'>"
+  ],
+  [
+    "風属性",
+    "<icon id='green'>"
+  ],
+  [
+    "光属性",
+    "<icon id='white'>"
+  ],
+  [
+    "闇属性",
+    "<icon id='black'>"
+  ],
+  [
+    "火ダメージ",
+    "<icon id='red'>ダメージ"
+  ],
+  [
+    "水ダメージ",
+    "<icon id='blue'>ダメージ"
+  ],
+  [
+    "雷ダメージ",
+    "<icon id='yellow'>ダメージ"
+  ],
+  [
+    "風ダメージ",
+    "<icon id='green'>ダメージ"
+  ],
+  [
+    "光ダメージ",
+    "<icon id='white'>ダメージ"
+  ],
+  [
+    "闇ダメージ",
+    "<icon id='black'>ダメージ"
+  ],
+  [
+    "属性「火」",
+    "<icon id='red'>"
+  ],
+  [
+    "属性「水」",
+    "<icon id='blue'>"
+  ],
+  [
+    "属性「雷」",
+    "<icon id='yellow'>"
+  ],
+  [
+    "属性「風」",
+    "<icon id='green'>"
+  ],
+  [
+    "属性「光」",
+    "<icon id='white'>"
+  ],
+  [
+    "属性「闇」",
+    "<icon id='black'>"
+  ]
+]

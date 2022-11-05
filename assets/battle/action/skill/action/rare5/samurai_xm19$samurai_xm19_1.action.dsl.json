@@ -1,0 +1,255 @@
+[
+  "ActionDsl",
+  2,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "StopBall",
+          -18,
+          70,
+          [
+            "Stop"
+          ],
+          [
+            "AB"
+          ],
+          0
+        ]
+      ],
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "チャージ演出",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/skill_unique/samurai_xm19/samurai_xm19"
+          ],
+          -18,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "EF"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Some",
+            [
+              {
+                "max": 8,
+                "min": 8
+              }
+            ]
+          ]
+        ]
+      ],
+      [
+        "Event",
+        [
+          "Wait",
+          10,
+          "*",
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateHitArea",
+                  "*",
+                  -18,
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  false,
+                  false,
+                  [
+                    "Circle",
+                    [
+                      {
+                        "max": 350,
+                        "min": 350
+                      }
+                    ]
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Single"
+                  ],
+                  [
+                    "SpecifyHitAreaLifetimeDirectly",
+                    50
+                  ],
+                  [
+                    "SpecifyMinHitIntervalDirectly",
+                    6
+                  ],
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 5,
+                        "min": 5
+                      }
+                    ]
+                  ],
+                  false,
+                  true,
+                  [
+                    "None"
+                  ],
+                  0,
+                  [
+                    "Block",
+                    null
+                  ],
+                  1,
+                  2,
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          2,
+                          255,
+                          null,
+                          null,
+                          24,
+                          [
+                            {
+                              "max": 2.4,
+                              "min": 2.4
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          true,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 2,
+                              "min": 2
+                            }
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "Coarse"
+                          ],
+                          true
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "ShakeCamera",
+                          2
+                        ]
+                      ]
+                    ]
+                  ],
+                  0,
+                  0
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACSkillDamage",
+              [
+                {
+                  "max": 480,
+                  "min": 480
+                }
+              ],
+              [
+                {
+                  "max": 0.65,
+                  "min": 0.65
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ]
+        ]
+      ]
+    ]
+  ]
+]

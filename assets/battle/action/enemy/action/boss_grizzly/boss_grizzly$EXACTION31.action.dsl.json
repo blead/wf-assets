@@ -1,0 +1,32 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "AddFeverPoint",
+          [
+            {
+              "max": 30000,
+              "min": 30000
+            }
+          ]
+        ]
+      ]
+    ]
+  ]
+]

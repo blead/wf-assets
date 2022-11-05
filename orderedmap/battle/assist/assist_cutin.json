@@ -1,0 +1,812 @@
+{
+  "dryad": {
+    "1": [
+      [
+        "チャルア",
+        "チャルア、てつだう！",
+        "character/dryad/voice/words/charua_tetsudau"
+      ]
+    ]
+  },
+  "white_tiger": {
+    "1": [
+      [
+        "砂漠の狂獣",
+        "ついて来い！",
+        "character/white_tiger/voice/words/tsuitekoi"
+      ]
+    ],
+    "2": [
+      [
+        "砂漠の狂獣",
+        "邪魔なんだよぉ！",
+        "character/white_tiger/voice/words/jamanandayo"
+      ]
+    ],
+    "3": [
+      [
+        "砂漠の狂獣",
+        "ぶっ潰す！",
+        "character/white_tiger/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "pirates_girl": {
+    "1": [
+      [
+        "マリーナ",
+        "もー怒った！！",
+        "character/pirates_girl/voice/words/mookotta"
+      ]
+    ],
+    "2": [
+      [
+        "マリーナ",
+        "いいとこ見せてよね！",
+        "character/pirates_girl/voice/words/iitokomiseteyone"
+      ]
+    ],
+    "3": [
+      [
+        "マリーナ",
+        "行けぇー！",
+        "character/pirates_girl/voice/battle/power_flip_1"
+      ]
+    ],
+    "4": [
+      [
+        "マリーナ",
+        "気合い入れなぁ！",
+        "character/pirates_girl/voice/words/kiaiirena"
+      ]
+    ]
+  },
+  "mermaid": {
+    "1": [
+      [
+        "アメリア",
+        "行っくよ～！",
+        "character/mermaid/voice/words/ikkuyo"
+      ]
+    ]
+  },
+  "wolf_swordsman": {
+    "1": [
+      [
+        "アルベルト",
+        "ここまでだ！",
+        "character/wolf_swordsman/voice/battle/skill_ready"
+      ]
+    ],
+    "2": [
+      [
+        "アルベルト",
+        "逃げられると思うな！",
+        "character/wolf_swordsman/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "sing_android": {
+    "1": [
+      [
+        "ディア",
+        "気をつけて！",
+        "character/sing_android/voice/battle/power_flip_0"
+      ]
+    ],
+    "2": [
+      [
+        "ディア",
+        "この歌を、貴方に届ける！",
+        "character/sing_android/voice/battle/power_flip_1"
+      ]
+    ]
+  },
+  "rec_android": {
+    "1": [
+      [
+        "レジス",
+        "お任せあれ。",
+        "character/rec_android/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "onmyoji_boy": {
+    "1": [
+      [
+        "スイゼン",
+        "行きましょう。",
+        "character/onmyoji_boy/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "スイゼン",
+        "参ります！",
+        "character/onmyoji_boy/voice/battle/battle_start_1"
+      ]
+    ],
+    "3": [
+      [
+        "スイゼン",
+        "やれやれ……。",
+        "character/onmyoji_boy/voice/words/yareyare"
+      ]
+    ]
+  },
+  "samurai": {
+    "1": [
+      [
+        "ソウシロウ",
+        "かたじけない。",
+        "character/samurai/voice/words/katajikenai"
+      ]
+    ],
+    "2": [
+      [
+        "ソウシロウ",
+        "させません！",
+        "character/samurai/voice/words/sasemasen"
+      ]
+    ],
+    "3": [
+      [
+        "ソウシロウ",
+        "いきますよ？",
+        "character/samurai/voice/words/ikimasuyo"
+      ]
+    ],
+    "4": [
+      [
+        "ソウシロウ",
+        "参る！",
+        "character/samurai/voice/battle/battle_start_0"
+      ]
+    ],
+    "5": [
+      [
+        "ソウシロウ",
+        "いざ、尋常に！",
+        "character/samurai/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "fox_oracle": {
+    "1": [
+      [
+        "イナホ",
+        "まいる！",
+        "character/fox_oracle/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "flame_witch": {
+    "1": [
+      [
+        "シャクティ",
+        "蹴散らすぞ。",
+        "character/flame_witch/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "ekaki_onmyoji": {
+    "1": [
+      [
+        "クグイ",
+        "が、頑張ります！",
+        "character/ekaki_onmyoji/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "クグイ",
+        "お仕事ですね。",
+        "character/ekaki_onmyoji/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "ekaki_onmyoji_noskill": {
+    "1": [
+      [
+        "クグイ",
+        "が、頑張ります！",
+        "character/ekaki_onmyoji_noskill/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "クグイ",
+        "お仕事ですね。",
+        "character/ekaki_onmyoji_noskill/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lightbullet_wiz_vt21": {
+    "1": [
+      [
+        "エリヤ",
+        "アタシは甘くないわよ？",
+        "character/lightbullet_wiz_vt21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "エリヤ",
+        "チョコ、足りるかしら？",
+        "character/lightbullet_wiz_vt21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "whitedog_beast_vt21": {
+    "1": [
+      [
+        "フロレッタ",
+        "もう逃げませんよ……！",
+        "character/whitedog_beast_vt21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "フロレッタ",
+        "想いを届けるためにも……！",
+        "character/whitedog_beast_vt21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "monster_cook": {
+    "1": [
+      [
+        "パルフェ",
+        "料理人を甘くみないでよねっ！",
+        "character/monster_cook/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "パルフェ",
+        "調理のし甲斐がありそうね！",
+        "character/monster_cook/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "bigwing_shaman_smr21": {
+    "1": [
+      [
+        "シウエ",
+        "これが精霊と私の怒りです～！！",
+        "character/bigwing_shaman_smr21/voice/words/koregaseireito_watashino"
+      ]
+    ]
+  },
+  "illusionist_smr20": {
+    "1": [
+      [
+        "イルミ",
+        "真夏のステージ、開幕でーす！",
+        "character/illusionist_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "イルミ",
+        "痺れるほどの、熱いショウを！",
+        "character/illusionist_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "dimension_witch_smr20": {
+    "1": [
+      [
+        "ベルセティア",
+        "お姉さんが、相手をしてあげる♪",
+        "character/dimension_witch_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ベルセティア",
+        "私の可愛い子達に、なんの用かしら？",
+        "character/dimension_witch_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "bishop_girl_smr20": {
+    "1": [
+      [
+        "リーゼル",
+        "がんばりましょう～！",
+        "character/bishop_girl_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "リーゼル",
+        "お任せください！",
+        "character/bishop_girl_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "tiger_treasure_hunter_smr20": {
+    "1": [
+      [
+        "ミア",
+        "レッツ、サマー・ハンティーング！",
+        "character/tiger_treasure_hunter_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ミア",
+        "この辺りから、お宝の気配がする…！",
+        "character/tiger_treasure_hunter_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "casino_dealer_smr20": {
+    "1": [
+      [
+        "ネスカ",
+        "いざ、勝負！",
+        "character/casino_dealer_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ネスカ",
+        "なにもかも、賭けてみる？",
+        "character/casino_dealer_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "alice_smr20": {
+    "1": [
+      [
+        "アリス",
+        "ふふーん、私の敵じゃないわね！",
+        "character/alice_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "アリス",
+        "あたしが一番レディなのっ！",
+        "character/alice_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "unicorn_lancer_smr20": {
+    "1": [
+      [
+        "ジュラール",
+        "助けを呼ぶ声が！",
+        "character/unicorn_lancer_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ジュラール",
+        "ゆくぞ、とーう！",
+        "character/unicorn_lancer_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lady_gunner_smr20": {
+    "1": [
+      [
+        "マルグリット",
+        "美しい、闘いをしよう……！",
+        "character/lady_gunner_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "マルグリット",
+        "さあ、美の探求の時間だ……！",
+        "character/lady_gunner_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "pirates_girl_smr20": {
+    "1": [
+      [
+        "マリーナ",
+        "それじゃ、遊んであげる♪",
+        "character/pirates_girl_smr20/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "マリーナ",
+        "ふふーん、お手並み拝見♡っと。",
+        "character/pirates_girl_smr20/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "heavenly_two_right": {
+    "1": [
+      [
+        "ビューシィ",
+        "撮影を、始めましょうか。",
+        "character/heavenly_two/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "heavenly_two_left": {
+    "1": [
+      [
+        "ビューシィ",
+        "撮影を、始めましょうか。",
+        "character/heavenly_two/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "timid_kunoichi_ny21": {
+    "1": [
+      [
+        "スズカ",
+        "晴れ着が汚れちゃいますう！",
+        "character/timid_kunoichi_ny21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "スズカ",
+        "大丈夫、大丈夫……！",
+        "character/timid_kunoichi_ny21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "urban_soldier_ny21": {
+    "1": [
+      [
+        "トリスタ",
+        "年明けから物騒ですね。",
+        "character/urban_soldier_ny21/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "トリスタ",
+        "知識こそ、私の力！",
+        "character/urban_soldier_ny21/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "high_priestess_ny22": {
+    "1": [
+      [
+        "オルヴェール",
+        "この新たなる年に、言祝ぎを……。",
+        "character/high_priestess_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "dimension_witch_ny22": {
+    "1": [
+      [
+        "ベルセティア",
+        "お姉さんと遊びましょう？",
+        "character/dimension_witch_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "shapely_soldier_ny22": {
+    "1": [
+      [
+        "レヴィ",
+        "新年から大忙しね！",
+        "character/shapely_soldier_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "outlaw_panther_ny22": {
+    "1": [
+      [
+        "クロ",
+        "あけおめっすよー！",
+        "character/outlaw_panther_ny22/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "prince_zero": {
+    "1": [
+      [
+        "ラーゼルト",
+        "ゆくぞっ！",
+        "character/prince_zero/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ラーゼルト",
+        "オレが守る！",
+        "character/prince_zero/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "fake_princess": {
+    "1": [
+      [
+        "プリカ",
+        "さぁ、かかってきなさい！",
+        "character/fake_princess/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "プリカ",
+        "私に任せときなさい！",
+        "character/fake_princess/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "ruin_lady_no_piercing": {
+    "1": [
+      [
+        "ソティエス",
+        "脅威を確認。排除します！",
+        "character/ruin_lady_no_piercing/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ソティエス",
+        "戦闘開始。無力化します。",
+        "character/ruin_lady_no_piercing/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "desert_commander_no_piercing": {
+    "1": [
+      [
+        "ハーリダル",
+        "よかろう。相手になってやる。",
+        "character/desert_commander/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ハーリダル",
+        "悪いが、俺も負けられんのでな……！",
+        "character/desert_commander/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "white_tiger_desert_bonds_01": {
+    "1": [
+      [
+        "シロ",
+        "ついて来い！",
+        "character/white_tiger/voice/words/tsuitekoi"
+      ]
+    ],
+    "2": [
+      [
+        "シロ",
+        "邪魔なんだよぉ！",
+        "character/white_tiger/voice/words/jamanandayo"
+      ]
+    ],
+    "3": [
+      [
+        "シロ",
+        "ぶっ潰す！",
+        "character/white_tiger/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "machine_police_girl": {
+    "1": [
+      [
+        "セラ",
+        "制圧、開始するであります",
+        "character/machine_police_girl/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "セラ",
+        "セラに任せるでありますよ！",
+        "character/machine_police_girl/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "lady_android": {
+    "1": [
+      [
+        "ルディ",
+        "戦闘オペレーションを展開致します\n",
+        "character/lady_android/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "ルディ",
+        "どうやら戦うしかないようね\n",
+        "character/lady_android/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "justice_lady_assist": {
+    "1": [
+      [
+        "ジャスティ",
+        "執行を開始する",
+        "character/justice_lady/voice/words/shikookaishi"
+      ]
+    ]
+  },
+  "combat_soldier": {
+    "1": [
+      [
+        "バレッタ",
+        "ＡＳＡＰで済ませる！",
+        "character/combat_soldier/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "バレッタ",
+        "ハック・アンド・ブラスト！",
+        "character/combat_soldier/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "resistance_princess_assist_maou": {
+    "1": [
+      [
+        "リリス",
+        "未来を、切り拓く！",
+        "character/resistance_princess_assist/voice/battle/battle_start_1"
+      ]
+    ]
+  },
+  "devil_leader_assist_maou_multiball": {
+    "1": [
+      [
+        "エデュケウス",
+        "覚悟はいいな。",
+        "character/devil_leader_assist/voice/words/kakugowaiina"
+      ]
+    ]
+  },
+  "devil_leader_assist": {
+    "1": [
+      [
+        "エデュケウス",
+        "蹴散らすぞ！",
+        "character/devil_leader_assist/voice/words/kechirasuzo"
+      ]
+    ],
+    "2": [
+      [
+        "エデュケウス",
+        "行くぞ！",
+        "character/devil_leader_assist/voice/words/ikuzo"
+      ]
+    ],
+    "3": [
+      [
+        "エデュケウス",
+        "突破するぞ！",
+        "character/devil_leader_assist/voice/words/toppasuruzo"
+      ]
+    ],
+    "4": [
+      [
+        "エデュケウス",
+        "覚悟はいいな。",
+        "character/devil_leader_assist/voice/words/kakugowaiina"
+      ]
+    ]
+  },
+  "elf_princess_assist": {
+    "1": [
+      [
+        "エステルリエル",
+        "興が乗った、相手をしてやろう。",
+        "character/elf_princess_assist/voice/battle/battle_start_0"
+      ]
+    ],
+    "2": [
+      [
+        "エステルリエル",
+        "さだめを交える覚悟は良いか？",
+        "character/elf_princess_assist/voice/battle/battle_start_1"
+      ]
+    ],
+    "3": [
+      [
+        "エステルリエル",
+        "来い、相手をしてやる。",
+        "character/elf_princess_assist/voice/words/koi"
+      ]
+    ]
+  },
+  "resistance_princess_assist": {
+    "1": [
+      [
+        "リリス",
+        "それでは、参ります！",
+        "character/resistance_princess_assist/voice/words/soredeha"
+      ]
+    ],
+    "2": [
+      [
+        "リリス",
+        "彼女を助けに行きましょう。",
+        "character/resistance_princess_assist/voice/words/kanojo"
+      ]
+    ],
+    "3": [
+      [
+        "リリス",
+        "取り戻しましょう。手の届く限りを！",
+        "character/resistance_princess_assist/voice/words/torimodoshimasho"
+      ]
+    ]
+  },
+  "devil_leader_chapter11_assist": {
+    "1": [
+      [
+        "エデュケウス",
+        "蹴散らすぞ……！",
+        "character/devil_leader_assist/voice/words/battle_start_1"
+      ]
+    ]
+  },
+  "psychic_yuki_assist": {
+    "1": [
+      [
+        "見嶋ユキ",
+        "今度は、私が助ける番だよ……！",
+        "character/psychic_yuki/voice/words/kondowa_watashiga"
+      ]
+    ]
+  },
+  "psychic_yuki_assist_eye_dragon": {
+    "1": [
+      [
+        "見嶋ユキ",
+        "今度は、私が助ける番だよ……！",
+        "character/psychic_yuki/voice/words/kondowa_watashiga"
+      ]
+    ]
+  },
+  "psychic_shouta_assist": {
+    "1": [
+      [
+        "伊野里ショウタ",
+        "俺だって、やってやるよ……！",
+        "character/psychic_shouta/voice/words/oredatteyatteyaru"
+      ]
+    ]
+  },
+  "psychic_shouta_assist_eye_dragon": {
+    "1": [
+      [
+        "伊野里ショウタ",
+        "俺だって、やってやるよ……！",
+        "character/psychic_shouta/voice/words/oredatteyatteyaru"
+      ]
+    ]
+  },
+  "white_tiger_2anv_assist": {
+    "1": [
+      [
+        "シロ",
+        "俺が守る……！",
+        "character/white_tiger_2anv/voice/battle/battle_start_0"
+      ]
+    ]
+  },
+  "ice_witch_2anv_assist": {
+    "1": [
+      [
+        "サイファ",
+        "大魔法使いが、お相手しよう。",
+        "character/ice_witch_2anv/voice/battle/battle_start_0"
+      ]
+    ]
+  }
+}

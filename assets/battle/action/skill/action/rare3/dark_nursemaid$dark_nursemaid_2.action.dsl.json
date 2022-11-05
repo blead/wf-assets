@@ -1,0 +1,187 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          0,
+          35,
+          null,
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "DeleteCondition",
+                  0,
+                  [
+                    "DCAll",
+                    3
+                  ],
+                  999,
+                  0,
+                  ""
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          1,
+          35,
+          null,
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  1,
+                  [
+                    [
+                      "ACRegeneration",
+                      [
+                        {
+                          "max": 600,
+                          "min": 600
+                        }
+                      ],
+                      [
+                        {
+                          "max": 60,
+                          "min": 40
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  1,
+                  [
+                    [
+                      "ACToleranceOfElement",
+                      [
+                        {
+                          "max": 1200,
+                          "min": 1200
+                        }
+                      ],
+                      5,
+                      [
+                        {
+                          "max": 0.35,
+                          "min": 0.3
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateRatioAttack",
+                  1,
+                  2,
+                  [
+                    {
+                      "max": 0.2,
+                      "min": 0.2
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

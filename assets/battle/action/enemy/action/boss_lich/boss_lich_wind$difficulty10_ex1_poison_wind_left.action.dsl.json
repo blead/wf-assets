@@ -1,0 +1,156 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateWindAttack",
+          2,
+          0.1,
+          1600
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateHitArea",
+          "*",
+          -1,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Rectangle",
+            [
+              {
+                "max": 1000,
+                "min": 1000
+              }
+            ],
+            [
+              {
+                "max": 1600,
+                "min": 1600
+              }
+            ]
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Single"
+          ],
+          [
+            "SpecifyHitAreaLifetimeDirectly",
+            1600
+          ],
+          [
+            "CalculatedUsingMaxNumOfHits",
+            1
+          ],
+          [
+            "Some",
+            [
+              {
+                "max": 1,
+                "min": 1
+              }
+            ]
+          ],
+          false,
+          true,
+          [
+            "None"
+          ],
+          0,
+          [
+            "Block",
+            null
+          ],
+          1,
+          2,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACPoison",
+                      [
+                        {
+                          "max": 1600,
+                          "min": 1600
+                        }
+                      ],
+                      [
+                        {
+                          "max": 50,
+                          "min": 5
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ],
+          0,
+          0
+        ]
+      ]
+    ]
+  ]
+]

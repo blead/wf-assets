@@ -1,0 +1,114 @@
+{
+  "event": [
+    [
+      "condition_event",
+      "system_lock_event",
+      "short_system_lock_event"
+    ]
+  ],
+  "merchant": [
+    [
+      "condition_merchant",
+      "system_lock_merchant",
+      "(None)"
+    ]
+  ],
+  "attention": [
+    [
+      "condition_attention",
+      "system_lock_attention",
+      "(None)"
+    ]
+  ],
+  "auto_play": [
+    [
+      "condition_auto_play",
+      "system_lock_auto_play",
+      "(None)"
+    ]
+  ],
+  "boss_battle": [
+    [
+      "condition_boss_battle",
+      "system_lock_boss_battle",
+      "short_system_lock_boss_battle"
+    ]
+  ],
+  "challenge_dungeon": [
+    [
+      "condition_challenge_dungeon",
+      "system_lock_challenge_dungeon",
+      "short_system_lock_challenge_dungeon"
+    ]
+  ],
+  "unison": [
+    [
+      "condition_unison",
+      "system_lock_unison",
+      "(None)"
+    ]
+  ],
+  "collect_item_event": [
+    [
+      "condition_collect_item_event",
+      "system_lock_collect_item_event",
+      "short_system_lock_collect_item_event"
+    ]
+  ],
+  "tower_dungeon": [
+    [
+      "condition_tower_dungeon",
+      "system_lock_tower_dungeon",
+      "short_system_lock_tower_dungeon"
+    ]
+  ],
+  "expert_single": [
+    [
+      "condition_expert_single",
+      "system_lock_expert_single",
+      "short_system_lock_expert_single"
+    ]
+  ],
+  "boss_battle_advent": [
+    [
+      "condition_boss_battle_advent",
+      "system_lock_boss_battle_advent",
+      "short_system_lock_boss_battle_advent"
+    ]
+  ],
+  "solo_time_attack": [
+    [
+      "condition_solo_time_attack",
+      "system_lock_solo_time_attack",
+      "short_system_lock_solo_time_attack"
+    ]
+  ],
+  "character_election": [
+    [
+      "condition_character_election",
+      "system_lock_character_election",
+      "(None)"
+    ]
+  ],
+  "single_auto_start": [
+    [
+      "condition_single_auto_start",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "equipment_enhancement": [
+    [
+      "condition_equipment_enhancement",
+      "system_lock_equipment_enhancement",
+      "(None)"
+    ]
+  ],
+  "expert_single_side_story": [
+    [
+      "condition_expert_single_side_story",
+      "system_lock_expert_single_side_story",
+      "short_system_lock_expert_single_side_story"
+    ]
+  ]
+}

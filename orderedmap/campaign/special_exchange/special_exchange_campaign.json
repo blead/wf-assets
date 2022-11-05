@@ -1,0 +1,162 @@
+{
+  "1": [
+    [
+      "half_anniversary_2020",
+      "スペシャルキャラ交換ガチャセットキャンペーン",
+      "0",
+      "2020-05-31 12:00:00",
+      "2020-06-05 11:59:59",
+      "2020-05-31 12:00:00",
+      "2020-06-15 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "2": [
+    [
+      "special_exchange_equipment_01",
+      "スペシャル装備アイテム交換ガチャセットキャンペーン",
+      "1",
+      "2020-09-23 12:00:00",
+      "2020-09-30 11:59:59",
+      "2020-09-23 12:00:00",
+      "2020-10-05 11:59:59",
+      "dynamic/special_exchange/special_exchange_equipment_top_banner",
+      "999006",
+      "750",
+      "item/spends/tickets/special_exchange_equipment_ticket",
+      "スペシャル装備アイテム交換ガチャセット"
+    ]
+  ],
+  "3": [
+    [
+      "1st_anniversary_2020",
+      "スペシャルキャラ交換ガチャセットキャンペーン（1周年）",
+      "0",
+      "2020-11-27 12:00:00",
+      "2020-12-10 11:59:59",
+      "2020-11-27 12:00:00",
+      "2020-12-17 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_02",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "4": [
+    [
+      "special_exchange_character_03",
+      "スペシャルキャラ交換ガチャセットキャンペーン（2021_1）",
+      "0",
+      "2021-01-16 12:00:00",
+      "2021-01-31 11:59:59",
+      "2021-01-16 12:00:00",
+      "2021-02-07 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_03",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "5": [
+    [
+      "special_exchange_equipment_02",
+      "スペシャル装備アイテム交換ガチャセットキャンペーン_02",
+      "1",
+      "2021-04-16 12:00:00",
+      "2021-04-26 11:59:59",
+      "2021-04-16 12:00:00",
+      "2021-05-03 11:59:59",
+      "dynamic/special_exchange/special_exchange_equipment_top_banner_02",
+      "999006",
+      "750",
+      "item/spends/tickets/special_exchange_equipment_ticket",
+      "スペシャル装備アイテム交換ガチャセット"
+    ]
+  ],
+  "6": [
+    [
+      "special_exchange_character_04",
+      "スペシャルキャラ交換ガチャセットキャンペーン4（2021_5）",
+      "0",
+      "2021-05-31 12:00:00",
+      "2021-06-10 20:59:59",
+      "2021-05-31 12:00:00",
+      "2021-06-17 20:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_04",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "7": [
+    [
+      "special_exchange_character_05",
+      "スペシャルキャラ交換ガチャセットキャンペーン5（2021_9）",
+      "0",
+      "2021-09-30 12:00:00",
+      "2021-10-18 11:59:59",
+      "2021-09-30 12:00:00",
+      "2021-10-26 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_05",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "8": [
+    [
+      "special_exchange_character_06",
+      "スペシャルキャラ交換ガチャセットキャンペーン6（2021_11）",
+      "0",
+      "2021-11-27 12:00:00",
+      "2021-12-09 11:59:59",
+      "2021-11-27 12:00:00",
+      "2021-12-16 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_06",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "9": [
+    [
+      "special_exchange_character_07",
+      "スペシャルキャラ交換ガチャセットキャンペーン7（2022_5）",
+      "0",
+      "2022-05-31 12:00:00",
+      "2022-06-15 11:59:59",
+      "2022-05-31 12:00:00",
+      "2022-06-22 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_07",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ],
+  "10": [
+    [
+      "special_exchange_character_08",
+      "スペシャルキャラ交換ガチャセットキャンペーン8（2022_9）",
+      "0",
+      "2022-09-30 12:00:00",
+      "2022-10-15 11:59:59",
+      "2022-09-30 12:00:00",
+      "2022-10-22 11:59:59",
+      "dynamic/special_exchange/special_exchange_top_banner_08",
+      "999002",
+      "1500",
+      "item/spends/tickets/special_exchange_ticket",
+      "スペシャルキャラ交換ガチャセット"
+    ]
+  ]
+}

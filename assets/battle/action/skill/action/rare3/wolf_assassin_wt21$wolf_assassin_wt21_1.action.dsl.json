@@ -1,0 +1,463 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACAttackPoint",
+              [
+                {
+                  "max": 600,
+                  "min": 600
+                }
+              ],
+              [
+                {
+                  "max": 0.6,
+                  "min": 0.6
+                }
+              ],
+              [
+                {
+                  "max": 1,
+                  "min": 1
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateHitArea",
+          "*",
+          -18,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          true,
+          false,
+          [
+            "Circle",
+            [
+              {
+                "max": 60,
+                "min": 60
+              }
+            ]
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Single"
+          ],
+          [
+            "SpecifyHitAreaLifetimeDirectly",
+            300
+          ],
+          [
+            "SpecifyMinHitIntervalDirectly",
+            30
+          ],
+          [
+            "None"
+          ],
+          false,
+          true,
+          [
+            "None"
+          ],
+          0,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "スキルエフェクト",
+                  [
+                    "ResolveByElement",
+                    "battle/effect/skill_general/decoration/strengthen",
+                    1
+                  ],
+                  -18,
+                  [
+                    "ForesideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeDirectly",
+                    300
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  true,
+                  false,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 1,
+                        "min": 1
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          1,
+          2,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "ShakeCamera",
+                  1
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateNormalAttack",
+                  2,
+                  255,
+                  null,
+                  null,
+                  3,
+                  [
+                    {
+                      "max": 0.335,
+                      "min": 0.335
+                    }
+                  ],
+                  [
+                    {
+                      "max": 0,
+                      "min": 0
+                    }
+                  ],
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  [
+                    {
+                      "max": 0.5,
+                      "min": 0.5
+                    }
+                  ],
+                  [
+                    {
+                      "max": 0.25,
+                      "min": 0.25
+                    }
+                  ],
+                  [
+                    "None"
+                  ],
+                  true
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "斬撃演出１",
+                  [
+                    "ResolveByElement",
+                    "battle/effect/skill_general/area/cutting_front",
+                    1
+                  ],
+                  2,
+                  [
+                    "ForesideOfCharacter"
+                  ],
+                  [
+                    "PlayOnlyFirstSequence"
+                  ],
+                  [
+                    "GH",
+                    -18
+                  ],
+                  0,
+                  0,
+                  3.141592653589793,
+                  false,
+                  false,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 4,
+                        "min": 4
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Event",
+                [
+                  "Wait",
+                  10,
+                  "*",
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "ShakeCamera",
+                          1
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          2,
+                          255,
+                          null,
+                          null,
+                          3,
+                          [
+                            {
+                              "max": 0.335,
+                              "min": 0.335
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          false,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 0.5,
+                              "min": 0.5
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0.25,
+                              "min": 0.25
+                            }
+                          ],
+                          [
+                            "None"
+                          ],
+                          true
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "ShowEffect",
+                          "斬撃演出２",
+                          [
+                            "ResolveByElement",
+                            "battle/effect/skill_general/area/cutting_front",
+                            1
+                          ],
+                          2,
+                          [
+                            "ForesideOfCharacter"
+                          ],
+                          [
+                            "PlayOnlyFirstSequence"
+                          ],
+                          [
+                            "GH",
+                            -18
+                          ],
+                          0,
+                          0,
+                          3.141592653589793,
+                          false,
+                          false,
+                          [
+                            "Some",
+                            [
+                              {
+                                "max": 4,
+                                "min": 4
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Event",
+                [
+                  "Wait",
+                  10,
+                  "*",
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "ShakeCamera",
+                          1
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          2,
+                          255,
+                          null,
+                          null,
+                          6,
+                          [
+                            {
+                              "max": 0.67,
+                              "min": 0.67
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          false,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0.5,
+                              "min": 0.5
+                            }
+                          ],
+                          [
+                            "None"
+                          ],
+                          true
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "ShowEffect",
+                          "斬撃演出３",
+                          [
+                            "ResolveByElement",
+                            "battle/effect/skill_general/area/cutting_front",
+                            1
+                          ],
+                          2,
+                          [
+                            "ForesideOfCharacter"
+                          ],
+                          [
+                            "PlayOnlyFirstSequence"
+                          ],
+                          [
+                            "GH",
+                            -18
+                          ],
+                          0,
+                          0,
+                          3.141592653589793,
+                          false,
+                          false,
+                          [
+                            "Some",
+                            [
+                              {
+                                "max": 4,
+                                "min": 4
+                              }
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          0,
+          0
+        ]
+      ]
+    ]
+  ]
+]

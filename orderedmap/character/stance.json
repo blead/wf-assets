@@ -1,0 +1,37 @@
+{
+  "Attacker": [
+    [
+      "アタッカー",
+      "scene/general/sprite_sheet/vector_icon-assets/stance_attacker_medium",
+      "stance_attacker"
+    ]
+  ],
+  "Tank": [
+    [
+      "タンク",
+      "scene/general/sprite_sheet/vector_icon-assets/stance_tank_medium",
+      "stance_tank"
+    ]
+  ],
+  "Healer": [
+    [
+      "ヒーラー",
+      "scene/general/sprite_sheet/vector_icon-assets/stance_healer_medium",
+      "stance_healer"
+    ]
+  ],
+  "Supporter": [
+    [
+      "サポーター",
+      "scene/general/sprite_sheet/vector_icon-assets/stance_buffer_medium",
+      "stance_buffer"
+    ]
+  ],
+  "Jammer": [
+    [
+      "ジャマー",
+      "scene/general/sprite_sheet/vector_icon-assets/stance_debuffer_medium",
+      "stance_debuffer"
+    ]
+  ]
+}

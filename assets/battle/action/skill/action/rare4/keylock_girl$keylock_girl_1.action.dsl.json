@@ -1,0 +1,213 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateHitArea",
+          "*",
+          -1,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          true,
+          false,
+          [
+            "Rectangle",
+            [
+              {
+                "max": 1500,
+                "min": 1500
+              }
+            ],
+            [
+              {
+                "max": 2000,
+                "min": 2000
+              }
+            ]
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Single"
+          ],
+          [
+            "SpecifyHitAreaLifetimeDirectly",
+            60
+          ],
+          [
+            "CalculatedUsingMaxNumOfHits",
+            1
+          ],
+          [
+            "None"
+          ],
+          false,
+          true,
+          [
+            "None"
+          ],
+          0,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "演奏演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/skill_unique/keylock_girl/keylock_girl_player"
+                  ],
+                  -17,
+                  [
+                    "ForesideOfCharacter"
+                  ],
+                  [
+                    "PlayOnlyFirstSequence"
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  -100,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 1,
+                        "min": 1
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          1,
+          2,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACToleranceOfElement",
+                      [
+                        {
+                          "max": 960,
+                          "min": 960
+                        }
+                      ],
+                      255,
+                      [
+                        {
+                          "max": -0.1,
+                          "min": -0.1
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "オンヒットエフェクト",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/skill_unique/keylock_girl/keylock_girl_hit"
+                  ],
+                  2,
+                  [
+                    "ForesideOfCharacter"
+                  ],
+                  [
+                    "PlayOnlyFirstSequence"
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 1,
+                        "min": 1
+                      }
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ],
+          0,
+          0
+        ]
+      ]
+    ]
+  ]
+]

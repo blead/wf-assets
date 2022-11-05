@@ -1,0 +1,18 @@
+{
+  "1": [
+    [
+      "daily_exp_mana",
+      "経験値マナクエスト",
+      "",
+      "quest/event/banner/daily_exp_mana_event/dairy_exp_mana_event_banner_01",
+      "(None)",
+      "quest/event/background/daily_exp_mana_event/daily_exp_mana_event_background_01",
+      "3",
+      "2",
+      "daily_quest",
+      "2001-01-01 05:00:00",
+      "(None)",
+      "(None)"
+    ]
+  ]
+}

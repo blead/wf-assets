@@ -1,0 +1,3584 @@
+{
+  "1": [
+    [
+      "2000",
+      "dynamic/feature_announcement/9th_gacha",
+      "2020-03-31 12:00:00",
+      "2020-04-07 11:59:59",
+      "false"
+    ]
+  ],
+  "2": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_light",
+      "2020-03-31 12:00:00",
+      "2020-04-07 11:59:59",
+      "false"
+    ]
+  ],
+  "3": [
+    [
+      "1002",
+      "dynamic/feature_announcement/collect_item_event_20200430",
+      "2020-04-30 12:00:00",
+      "2020-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "4": [
+    [
+      "1001",
+      "dynamic/feature_announcement/houkai_campaign_20200430",
+      "2020-04-30 12:00:00",
+      "2020-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "5": [
+    [
+      "2000",
+      "dynamic/feature_announcement/star_heroes_2",
+      "2020-04-30 12:00:00",
+      "2020-05-05 11:59:59",
+      "false"
+    ]
+  ],
+  "6": [
+    [
+      "1999",
+      "dynamic/feature_announcement/new_character_pickup_11",
+      "2020-04-30 12:00:00",
+      "2020-05-11 11:59:59",
+      "false"
+    ]
+  ],
+  "7": [
+    [
+      "2000",
+      "dynamic/feature_announcement/thunder_element_pickup_02",
+      "2020-05-11 12:00:00",
+      "2020-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "8": [
+    [
+      "1999",
+      "dynamic/feature_announcement/equipment_pickup_3",
+      "2020-05-11 12:00:00",
+      "2020-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "9": [
+    [
+      "2000",
+      "dynamic/feature_announcement/new_character_pickup_12",
+      "2020-05-15 12:00:00",
+      "2020-05-25 11:59:59",
+      "false"
+    ]
+  ],
+  "10": [
+    [
+      "1999",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_04",
+      "2020-05-15 12:00:00",
+      "2020-05-27 11:59:59",
+      "false"
+    ]
+  ],
+  "11": [
+    [
+      "3000",
+      "dynamic/feature_announcement/red_element_pickup_01",
+      "2020-05-25 12:00:00",
+      "2020-05-31 11:59:59",
+      "false"
+    ]
+  ],
+  "12": [
+    [
+      "2001",
+      "dynamic/feature_announcement/notice_half_aniv",
+      "2020-05-27 12:00:00",
+      "2020-06-12 11:59:59",
+      "false"
+    ]
+  ],
+  "13": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_01",
+      "2020-05-31 12:00:00",
+      "2020-06-05 11:59:59",
+      "false"
+    ]
+  ],
+  "14": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_13",
+      "2020-05-31 12:00:00",
+      "2020-06-07 11:59:59",
+      "false"
+    ]
+  ],
+  "15": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_fakeprincess01",
+      "2020-05-31 12:00:00",
+      "2020-06-05 11:59:59",
+      "false"
+    ]
+  ],
+  "2000": [
+    [
+      "3000",
+      "dynamic/feature_announcement/white_element_pickup_02",
+      "2020-06-07 12:00:00",
+      "2020-06-12 11:59:59",
+      "false"
+    ]
+  ],
+  "4000": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_fakeprincess01_sequel",
+      "2020-06-05 12:00:00",
+      "2020-06-12 11:59:59",
+      "false"
+    ]
+  ],
+  "16": [
+    [
+      "1001",
+      "dynamic/feature_announcement/advent_event_e",
+      "2020-06-12 12:00:00",
+      "2020-06-23 11:59:59",
+      "false"
+    ]
+  ],
+  "17": [
+    [
+      "2001",
+      "dynamic/feature_announcement/event_release_200_anniv",
+      "2020-06-13 12:00:00",
+      "2020-06-28 11:59:59",
+      "false"
+    ]
+  ],
+  "2001": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_14",
+      "2020-06-12 12:00:00",
+      "2020-06-23 11:59:59",
+      "false"
+    ]
+  ],
+  "18": [
+    [
+      "1999",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_05",
+      "2020-06-23 12:00:00",
+      "2020-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "2002": [
+    [
+      "3001",
+      "dynamic/feature_announcement/black_element_pickup_02",
+      "2020-06-23 12:00:00",
+      "2020-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "2003": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_4",
+      "2020-06-23 12:00:00",
+      "2020-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "19": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_water",
+      "2020-06-30 12:00:00",
+      "2020-07-13 11:59:59",
+      "false"
+    ]
+  ],
+  "2004": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_15",
+      "2020-06-30 12:00:00",
+      "2020-07-07 11:59:59",
+      "false"
+    ]
+  ],
+  "2005": [
+    [
+      "3000",
+      "dynamic/feature_announcement/thunder_element_pickup_03",
+      "2020-07-08 12:00:00",
+      "2020-07-13 11:59:59",
+      "false"
+    ]
+  ],
+  "20": [
+    [
+      "2001",
+      "dynamic/feature_announcement/character_training_campaign_1",
+      "2020-07-13 12:00:00",
+      "2020-07-21 11:59:59",
+      "false"
+    ]
+  ],
+  "21": [
+    [
+      "1002",
+      "dynamic/feature_announcement/collect_item_event_003",
+      "2020-07-13 12:00:00",
+      "2020-07-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2006": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_16",
+      "2020-07-13 12:00:00",
+      "2020-07-21 11:59:59",
+      "false"
+    ]
+  ],
+  "22": [
+    [
+      "1999",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_06",
+      "2020-07-21 12:00:00",
+      "2020-07-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2007": [
+    [
+      "3001",
+      "dynamic/feature_announcement/green_element_pickup_02",
+      "2020-07-21 12:00:00",
+      "2020-07-31 11:59:59",
+      "false"
+    ]
+  ],
+  "4001": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2020",
+      "2020-07-31 12:00:00",
+      "2020-08-05 11:59:59",
+      "false"
+    ]
+  ],
+  "2008": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_17",
+      "2020-07-31 12:00:00",
+      "2020-08-07 11:59:59",
+      "false"
+    ]
+  ],
+  "4002": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2020_sequel",
+      "2020-08-05 12:00:00",
+      "2020-08-13 11:59:59",
+      "false"
+    ]
+  ],
+  "2009": [
+    [
+      "3001",
+      "dynamic/feature_announcement/blue_element_pickup_01",
+      "2020-08-07 12:00:00",
+      "2020-08-13 11:59:59",
+      "false"
+    ]
+  ],
+  "2010": [
+    [
+      "3001",
+      "dynamic/feature_announcement/star_heroes_3",
+      "2020-07-31 12:00:00",
+      "2020-08-07 11:59:59",
+      "false"
+    ]
+  ],
+  "3000": [
+    [
+      "2000",
+      "dynamic/feature_announcement/summer_vacation_2020",
+      "2020-07-21 12:00:00",
+      "2020-09-01 11:59:59",
+      "false"
+    ]
+  ],
+  "23": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_event_fire",
+      "2020-08-13 12:00:00",
+      "2020-08-21 11:59:59",
+      "false"
+    ]
+  ],
+  "2011": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_18",
+      "2020-08-13 12:00:00",
+      "2020-08-21 11:59:59",
+      "false"
+    ]
+  ],
+  "25": [
+    [
+      "2005",
+      "dynamic/feature_announcement/tower_dungeon",
+      "2020-08-21 12:00:00",
+      "2021-02-09 11:59:59",
+      "false"
+    ]
+  ],
+  "4003": [
+    [
+      "1000",
+      "dynamic/feature_announcement/time_attack_event_water01",
+      "2020-08-21 12:00:00",
+      "2020-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2012": [
+    [
+      "3001",
+      "dynamic/feature_announcement/thunder_element_pickup_04",
+      "2020-08-21 12:00:00",
+      "2020-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2013": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_19",
+      "2020-08-31 12:00:00",
+      "2020-09-10 11:59:59",
+      "false"
+    ]
+  ],
+  "26": [
+    [
+      "1006",
+      "dynamic/feature_announcement/advent_event_dark",
+      "2020-08-31 12:00:00",
+      "2020-09-10 11:59:59",
+      "false"
+    ]
+  ],
+  "3001": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_2",
+      "2020-09-10 12:00:00",
+      "2020-09-15 11:59:59",
+      "false"
+    ]
+  ],
+  "2014": [
+    [
+      "3001",
+      "dynamic/feature_announcement/red_element_pickup_02",
+      "2020-09-10 12:00:00",
+      "2020-09-15 11:59:59",
+      "false"
+    ]
+  ],
+  "27": [
+    [
+      "2004",
+      "dynamic/feature_announcement/expert_single_event_01",
+      "2020-09-10 12:00:00",
+      "2021-02-09 11:59:59",
+      "false"
+    ]
+  ],
+  "5001": [
+    [
+      "500",
+      "dynamic/feature_announcement/ep8_update",
+      "2020-09-10 12:00:00",
+      "2020-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "10000": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_Zcollab_event",
+      "2020-09-15 12:00:00",
+      "2020-10-02 11:59:59",
+      "false"
+    ]
+  ],
+  "2015": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_zcollabo_1",
+      "2020-09-15 12:00:00",
+      "2020-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "4004": [
+    [
+      "1004",
+      "dynamic/feature_announcement/release300day_event",
+      "2020-09-21 12:00:00",
+      "2020-10-06 11:59:59",
+      "false"
+    ]
+  ],
+  "1000": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_equipment_01",
+      "2020-09-23 12:00:00",
+      "2020-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "2016": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_5",
+      "2020-09-23 12:00:00",
+      "2020-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "4005": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_yokai_emaki_01",
+      "2020-09-30 12:00:00",
+      "2020-10-07 11:59:59",
+      "false"
+    ]
+  ],
+  "2017": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_zcollabo_2",
+      "2020-09-30 12:00:00",
+      "2020-10-15 11:59:59",
+      "false"
+    ]
+  ],
+  "4006": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_yokai_emaki_01_sequel",
+      "2020-10-07 12:00:00",
+      "2020-10-14 20:59:59",
+      "false"
+    ]
+  ],
+  "28": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_hw20",
+      "2020-10-15 12:00:00",
+      "2020-10-23 11:59:59",
+      "false"
+    ]
+  ],
+  "2018": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_20",
+      "2020-10-15 12:00:00",
+      "2020-10-23 11:59:59",
+      "false"
+    ]
+  ],
+  "4007": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_07",
+      "2020-10-23 12:00:00",
+      "2020-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2019": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_21",
+      "2020-10-23 12:00:00",
+      "2020-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "3002": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_soon_1st_anniv_gacha_campaign",
+      "2020-10-31 05:00:00",
+      "2020-11-27 04:59:59",
+      "false"
+    ]
+  ],
+  "3003": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_3",
+      "2020-10-31 12:00:00",
+      "2020-11-09 11:59:59",
+      "false"
+    ]
+  ],
+  "5002": [
+    [
+      "500",
+      "dynamic/feature_announcement/ep8_end",
+      "2020-10-31 12:00:00",
+      "2021-01-22 11:59:59",
+      "false"
+    ]
+  ],
+  "4008": [
+    [
+      "1000",
+      "dynamic/feature_announcement/time_attack_event_white01",
+      "2020-10-31 12:00:00",
+      "2020-11-09 11:59:59",
+      "false"
+    ]
+  ],
+  "29": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_004",
+      "2020-11-16 12:00:00",
+      "2020-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2020": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_22",
+      "2020-10-31 12:00:00",
+      "2020-11-09 11:59:59",
+      "false"
+    ]
+  ],
+  "2021": [
+    [
+      "3001",
+      "dynamic/feature_announcement/star_heroes_4",
+      "2020-10-31 12:00:00",
+      "2020-11-09 11:59:59",
+      "false"
+    ]
+  ],
+  "4009": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_cyberpunk01_re01",
+      "2020-11-09 12:00:00",
+      "2020-11-16 20:59:59",
+      "false"
+    ]
+  ],
+  "2022": [
+    [
+      "3000",
+      "dynamic/feature_announcement/white_ranged_special_chara_pickup_01",
+      "2020-11-09 12:00:00",
+      "2020-11-16 11:59:59",
+      "false"
+    ]
+  ],
+  "4010": [
+    [
+      "1004",
+      "dynamic/feature_announcement/anv1_countdown_event",
+      "2020-11-17 12:00:00",
+      "2020-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "4011": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_thunder2",
+      "2020-11-16 12:00:00",
+      "2020-11-26 20:59:59",
+      "false"
+    ]
+  ],
+  "2023": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_23",
+      "2020-11-16 12:00:00",
+      "2020-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "3011": [
+    [
+      "2999",
+      "dynamic/feature_announcement/notice_1st_aniv_free10_gacha_campaign",
+      "2020-11-27 05:00:00",
+      "2020-12-20 04:59:59",
+      "false"
+    ]
+  ],
+  "3010": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_02",
+      "2020-11-27 12:00:00",
+      "2020-12-10 11:59:59",
+      "false"
+    ]
+  ],
+  "2024": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_01",
+      "2020-11-27 12:00:00",
+      "2020-11-30 11:59:59",
+      "false"
+    ]
+  ],
+  "3012": [
+    [
+      "2010",
+      "dynamic/feature_announcement/notice_1st_aniv_campaign",
+      "2020-11-27 12:00:00",
+      "2020-12-27 04:59:59",
+      "false"
+    ]
+  ],
+  "4012": [
+    [
+      "2011",
+      "dynamic/feature_announcement/anv1_release_event",
+      "2020-11-27 12:00:00",
+      "2020-12-07 11:59:59",
+      "false"
+    ]
+  ],
+  "4013": [
+    [
+      "2015",
+      "dynamic/feature_announcement/world_story_event_anv_story01",
+      "2020-11-27 12:00:00",
+      "2020-12-04 11:59:59",
+      "false"
+    ]
+  ],
+  "2025": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_24",
+      "2020-11-30 12:00:00",
+      "2020-12-09 11:59:59",
+      "false"
+    ]
+  ],
+  "4014": [
+    [
+      "1005",
+      "dynamic/feature_announcement/world_story_event_anv_story01_sequel",
+      "2020-12-04 12:00:00",
+      "2020-12-14 20:59:59",
+      "false"
+    ]
+  ],
+  "2026": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_25",
+      "2020-12-09 12:00:00",
+      "2020-12-14 11:59:59",
+      "false"
+    ]
+  ],
+  "2027": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_19xmas_character_pickup_01",
+      "2020-12-14 12:00:00",
+      "2020-12-18 11:59:59",
+      "false"
+    ]
+  ],
+  "4015": [
+    [
+      "1004",
+      "dynamic/feature_announcement/xm20_white_tiger",
+      "2020-12-14 12:00:00",
+      "2020-12-28 11:59:59",
+      "false"
+    ]
+  ],
+  "4016": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_xm20",
+      "2020-12-14 12:00:00",
+      "2020-12-25 20:59:59",
+      "false"
+    ]
+  ],
+  "3013": [
+    [
+      "1000",
+      "dynamic/feature_announcement/cheering_material_campaign_1",
+      "2020-12-18 12:00:00",
+      "2020-12-25 11:59:59",
+      "false"
+    ]
+  ],
+  "2028": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_27",
+      "2020-12-18 12:00:00",
+      "2020-12-25 11:59:59",
+      "false"
+    ]
+  ],
+  "4017": [
+    [
+      "1004",
+      "dynamic/feature_announcement/xm20_dryad",
+      "2020-12-21 12:00:00",
+      "2020-12-28 11:59:59",
+      "false"
+    ]
+  ],
+  "30": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_005",
+      "2020-12-22 12:00:00",
+      "2020-12-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2029": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_6",
+      "2020-12-25 12:00:00",
+      "2020-12-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2030": [
+    [
+      "3001",
+      "dynamic/feature_announcement/black_jammer_healer_chara_pickup_01",
+      "2020-12-25 12:00:00",
+      "2020-12-31 11:59:59",
+      "false"
+    ]
+  ],
+  "3014": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_4",
+      "2020-12-31 12:00:00",
+      "2021-01-16 11:59:59",
+      "false"
+    ]
+  ],
+  "4018": [
+    [
+      "1004",
+      "dynamic/feature_announcement/ny21_cat_fighter",
+      "2021-01-01 12:00:00",
+      "2021-01-11 11:59:59",
+      "false"
+    ]
+  ],
+  "4019": [
+    [
+      "1003",
+      "dynamic/feature_announcement/notice_newyear21_event",
+      "2021-01-01 12:00:00",
+      "2021-01-11 11:59:59",
+      "false"
+    ]
+  ],
+  "2031": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_28",
+      "2020-12-31 12:00:00",
+      "2021-01-08 11:59:59",
+      "false"
+    ]
+  ],
+  "3015": [
+    [
+      "2999",
+      "dynamic/feature_announcement/notice_gacha_campaign_ny21",
+      "2020-12-31 05:00:00",
+      "2021-01-09 04:59:59",
+      "false"
+    ]
+  ],
+  "4020": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_ny",
+      "2020-12-31 12:00:00",
+      "2021-01-11 20:59:59",
+      "false"
+    ]
+  ],
+  "3016": [
+    [
+      "4001",
+      "dynamic/feature_announcement/fukubukuro2021",
+      "2020-12-31 12:00:00",
+      "2021-01-31 23:59:59",
+      "false"
+    ]
+  ],
+  "3017": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_20ny_character_pickup_01",
+      "2021-01-08 12:00:00",
+      "2021-01-16 11:59:59",
+      "false"
+    ]
+  ],
+  "10001": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_Rcollab_event",
+      "2021-01-16 12:00:00",
+      "2021-01-30 20:59:59",
+      "false"
+    ]
+  ],
+  "3018": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_rcollab_1",
+      "2021-01-16 12:00:00",
+      "2021-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "3019": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_03",
+      "2021-01-16 12:00:00",
+      "2021-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "31": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_006",
+      "2021-01-22 12:00:00",
+      "2021-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "4021": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_09",
+      "2021-01-31 12:00:00",
+      "2021-02-08 20:59:59",
+      "false"
+    ]
+  ],
+  "2032": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_29",
+      "2021-01-31 12:00:00",
+      "2021-02-09 11:59:59",
+      "false"
+    ]
+  ],
+  "4022": [
+    [
+      "1000",
+      "dynamic/feature_announcement/time_attack_event_green01",
+      "2021-01-31 12:00:00",
+      "2021-02-08 20:59:59",
+      "false"
+    ]
+  ],
+  "4023": [
+    [
+      "1003",
+      "dynamic/feature_announcement/notice_valentine21_event",
+      "2021-02-09 12:00:00",
+      "2021-02-16 11:59:59",
+      "false"
+    ]
+  ],
+  "3020": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_material_campaign_2",
+      "2021-02-09 12:00:00",
+      "2021-02-16 20:59:59",
+      "false"
+    ]
+  ],
+  "2033": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_30",
+      "2021-02-09 12:00:00",
+      "2021-02-17 11:59:59",
+      "false"
+    ]
+  ],
+  "32": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast",
+      "2021-02-09 12:00:00",
+      "2021-02-16 20:59:59",
+      "false"
+    ]
+  ],
+  "4024": [
+    [
+      "1004",
+      "dynamic/feature_announcement/story_event_vt21",
+      "2021-02-09 12:00:00",
+      "2021-02-15 20:59:59",
+      "false"
+    ]
+  ],
+  "2034": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_31",
+      "2021-02-17 12:00:00",
+      "2021-02-24 11:59:59",
+      "false"
+    ]
+  ],
+  "4025": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_water2",
+      "2021-02-17 12:00:00",
+      "2021-02-27 20:59:59",
+      "false"
+    ]
+  ],
+  "33": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_007",
+      "2021-02-22 12:00:00",
+      "2021-03-01 11:59:59",
+      "false"
+    ]
+  ],
+  "2035": [
+    [
+      "3000",
+      "dynamic/feature_announcement/yellow_element_character_pickup_01",
+      "2021-02-24 12:00:00",
+      "2021-02-28 11:59:59",
+      "false"
+    ]
+  ],
+  "4026": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_10",
+      "2021-02-28 12:00:00",
+      "2021-03-10 20:59:59",
+      "false"
+    ]
+  ],
+  "3021": [
+    [
+      "2000",
+      "dynamic/feature_announcement/campaign_battle_timeattack_01",
+      "2021-02-28 12:00:00",
+      "2021-03-09 11:59:59",
+      "false"
+    ]
+  ],
+  "2036": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_32",
+      "2021-02-28 12:00:00",
+      "2021-03-12 11:59:59",
+      "false"
+    ]
+  ],
+  "2037": [
+    [
+      "3001",
+      "dynamic/feature_announcement/star_heroes_5",
+      "2021-02-28 12:00:00",
+      "2021-03-09 11:59:59",
+      "false"
+    ]
+  ],
+  "2038": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_33",
+      "2021-03-12 12:00:00",
+      "2021-03-19 11:59:59",
+      "false"
+    ]
+  ],
+  "4027": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_wind",
+      "2021-03-10 12:00:00",
+      "2021-03-19 20:59:59",
+      "false"
+    ]
+  ],
+  "2039": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_34",
+      "2021-03-19 12:00:00",
+      "2021-03-26 11:59:59",
+      "false"
+    ]
+  ],
+  "4028": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_fakeprincess01_re01",
+      "2021-03-19 12:00:00",
+      "2021-03-26 20:59:59",
+      "false"
+    ]
+  ],
+  "34": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast_re",
+      "2021-03-23 12:00:00",
+      "2021-03-30 20:59:59",
+      "false"
+    ]
+  ],
+  "35": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_008",
+      "2021-03-26 12:00:00",
+      "2021-04-02 11:59:59",
+      "false"
+    ]
+  ],
+  "3022": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_material_campaign_3",
+      "2021-03-26 12:00:00",
+      "2021-03-31 20:59:59",
+      "false"
+    ]
+  ],
+  "2040": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_7",
+      "2021-03-26 12:00:00",
+      "2021-03-31 11:59:59",
+      "false"
+    ]
+  ],
+  "2041": [
+    [
+      "3001",
+      "dynamic/feature_announcement/blue_element_character_pickup_01",
+      "2021-03-26 12:00:00",
+      "2021-03-31 11:59:59",
+      "false"
+    ]
+  ],
+  "5003": [
+    [
+      "500",
+      "dynamic/feature_announcement/ep9_update",
+      "2021-03-26 12:00:00",
+      "2021-05-23 11:59:59",
+      "false"
+    ]
+  ],
+  "4029": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_desert_bonds_01",
+      "2021-03-31 12:00:00",
+      "2021-04-05 11:59:59",
+      "false"
+    ]
+  ],
+  "4030": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_desert_bonds_01_sequel",
+      "2021-04-05 12:00:00",
+      "2021-04-11 20:59:59",
+      "false"
+    ]
+  ],
+  "2042": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_35",
+      "2021-03-31 12:00:00",
+      "2021-04-09 11:59:59",
+      "false"
+    ]
+  ],
+  "4031": [
+    [
+      "1000",
+      "dynamic/feature_announcement/event_release_500_aniv",
+      "2021-04-09 12:00:00",
+      "2021-04-19 11:59:59",
+      "false"
+    ]
+  ],
+  "3023": [
+    [
+      "2000",
+      "dynamic/feature_announcement/release500day_mission_event",
+      "2021-04-09 12:00:00",
+      "2021-04-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2043": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_02",
+      "2021-04-09 12:00:00",
+      "2021-04-16 11:59:59",
+      "false"
+    ]
+  ],
+  "3024": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_material_campaign_4",
+      "2021-04-12 12:00:00",
+      "2021-04-26 20:59:59",
+      "false"
+    ]
+  ],
+  "3025": [
+    [
+      "4001",
+      "dynamic/feature_announcement/special_exchange_campaign_equipment_02",
+      "2021-04-16 12:00:00",
+      "2021-04-26 11:59:59",
+      "false"
+    ]
+  ],
+  "2044": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_smr20_character_pickup_01",
+      "2021-04-16 12:00:00",
+      "2021-04-21 11:59:59",
+      "false"
+    ]
+  ],
+  "4032": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2020_re01",
+      "2021-04-16 12:00:00",
+      "2021-04-26 20:59:59",
+      "false"
+    ]
+  ],
+  "2045": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_smr20_character_pickup_02",
+      "2021-04-21 12:00:00",
+      "2021-04-24 11:59:59",
+      "false"
+    ]
+  ],
+  "3026": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_pack_element_set_01",
+      "2021-04-24 12:00:00",
+      "2021-05-01 23:59:59",
+      "false"
+    ]
+  ],
+  "2046": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_zcollabo_character_pickup_01",
+      "2021-04-24 12:00:00",
+      "2021-04-30 11:59:59",
+      "false"
+    ]
+  ],
+  "10002": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_Zcollab_event2",
+      "2021-04-24 12:00:00",
+      "2021-04-30 20:59:59",
+      "false"
+    ]
+  ],
+  "4033": [
+    [
+      "1000",
+      "dynamic/feature_announcement/time_attack_event_yellow01",
+      "2021-04-28 12:00:00",
+      "2021-05-06 20:59:59",
+      "false"
+    ]
+  ],
+  "4034": [
+    [
+      "2999",
+      "dynamic/feature_announcement/notice_gacha_campaign_gw21",
+      "2021-04-30 05:00:00",
+      "2021-05-12 04:59:59",
+      "false"
+    ]
+  ],
+  "3027": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_5",
+      "2021-04-30 12:00:00",
+      "2021-05-11 20:59:59",
+      "false"
+    ]
+  ],
+  "2047": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_36",
+      "2021-04-30 12:00:00",
+      "2021-05-12 11:59:59",
+      "false"
+    ]
+  ],
+  "4035": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_11",
+      "2021-04-30 12:00:00",
+      "2021-05-12 20:59:59",
+      "false"
+    ]
+  ],
+  "4036": [
+    [
+      "2999",
+      "dynamic/feature_announcement/notice_g_collab_gacha_campaign",
+      "2021-05-12 05:00:00",
+      "2021-05-21 04:59:59",
+      "false"
+    ]
+  ],
+  "4037": [
+    [
+      "1004",
+      "dynamic/feature_announcement/anv1half_countdown_event",
+      "2021-05-17 12:00:00",
+      "2021-05-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2048": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_37",
+      "2021-05-12 12:00:00",
+      "2021-05-21 11:59:59",
+      "false"
+    ]
+  ],
+  "10003": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_Gcollab_event",
+      "2021-05-12 12:00:00",
+      "2021-05-21 20:59:59",
+      "false"
+    ]
+  ],
+  "36": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast_re",
+      "2021-05-19 12:00:00",
+      "2021-05-26 20:59:59",
+      "false"
+    ]
+  ],
+  "2049": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_38",
+      "2021-05-21 12:00:00",
+      "2021-05-27 11:59:59",
+      "false"
+    ]
+  ],
+  "3028": [
+    [
+      "4000",
+      "dynamic/feature_announcement/notice_aniv1half_free10_gacha_campaign",
+      "2021-05-27 05:00:00",
+      "2021-06-14 04:59:59",
+      "false"
+    ]
+  ],
+  "3029": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_6",
+      "2021-05-27 12:00:00",
+      "2021-06-13 20:59:59",
+      "false"
+    ]
+  ],
+  "3030": [
+    [
+      "5000",
+      "dynamic/feature_announcement/notice_1half_anv_campaign",
+      "2021-05-27 12:00:00",
+      "2021-06-27 04:59:59",
+      "false"
+    ]
+  ],
+  "4038": [
+    [
+      "3000",
+      "dynamic/feature_announcement/anv1half_release_event",
+      "2021-05-27 12:00:00",
+      "2021-06-06 11:59:59",
+      "false"
+    ]
+  ],
+  "37": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_01",
+      "2021-05-27 12:00:00",
+      "2021-06-03 20:59:59",
+      "false"
+    ]
+  ],
+  "2050": [
+    [
+      "6000",
+      "dynamic/feature_announcement/revival_half_aniv_character_pickup_01",
+      "2021-05-27 12:00:00",
+      "2021-05-31 11:59:59",
+      "false"
+    ]
+  ],
+  "4039": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_cyberpunk02_hero",
+      "2021-05-31 12:00:00",
+      "2021-06-05 11:59:59",
+      "false"
+    ]
+  ],
+  "3031": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_04",
+      "2021-05-31 12:00:00",
+      "2021-06-10 20:59:59",
+      "false"
+    ]
+  ],
+  "2051": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_39",
+      "2021-05-31 12:00:00",
+      "2021-06-14 11:59:59",
+      "false"
+    ]
+  ],
+  "3032": [
+    [
+      "4001",
+      "dynamic/feature_announcement/1half_anniversary_special_set",
+      "2021-05-31 12:00:00",
+      "2021-06-30 23:59:59",
+      "false"
+    ]
+  ],
+  "4040": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_cyberpunk02_hero_sequel",
+      "2021-06-05 12:00:00",
+      "2021-06-14 20:59:59",
+      "false"
+    ]
+  ],
+  "4041": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_12",
+      "2021-06-14 12:00:00",
+      "2021-06-24 20:59:59",
+      "false"
+    ]
+  ],
+  "4042": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_19",
+      "2021-06-14 12:00:00",
+      "2021-06-25 11:59:59",
+      "false"
+    ]
+  ],
+  "2052": [
+    [
+      "3001",
+      "dynamic/feature_announcement/yellow_element_character_pickup_02",
+      "2021-06-14 12:00:00",
+      "2021-06-18 11:59:59",
+      "false"
+    ]
+  ],
+  "2053": [
+    [
+      "3000",
+      "dynamic/feature_announcement/white_element_character_pickup_01",
+      "2021-06-14 12:00:00",
+      "2021-06-18 11:59:59",
+      "false"
+    ]
+  ],
+  "2054": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_40",
+      "2021-06-18 12:00:00",
+      "2021-06-25 11:59:59",
+      "false"
+    ]
+  ],
+  "38": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast_re",
+      "2021-06-25 12:00:00",
+      "2021-07-02 20:59:59",
+      "false"
+    ]
+  ],
+  "39": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_009",
+      "2021-06-25 12:00:00",
+      "2021-07-02 11:59:59",
+      "false"
+    ]
+  ],
+  "2055": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_03",
+      "2021-06-25 12:00:00",
+      "2021-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "3033": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_2021_summer_gacha_campaign",
+      "2021-06-30 05:00:00",
+      "2021-07-12 11:59:59",
+      "false"
+    ]
+  ],
+  "4043": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_thunder",
+      "2021-06-30 12:00:00",
+      "2021-07-12 20:59:59",
+      "false"
+    ]
+  ],
+  "2056": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_41",
+      "2021-06-30 12:00:00",
+      "2021-07-12 11:59:59",
+      "false"
+    ]
+  ],
+  "2057": [
+    [
+      "3001",
+      "dynamic/feature_announcement/star_heroes_6",
+      "2021-06-30 12:00:00",
+      "2021-07-12 11:59:59",
+      "false"
+    ]
+  ],
+  "4044": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_23_dorsal_brothers",
+      "2021-07-12 12:00:00",
+      "2021-07-26 11:59:59",
+      "false"
+    ]
+  ],
+  "2058": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_04",
+      "2021-07-12 12:00:00",
+      "2021-07-16 11:59:59",
+      "false"
+    ]
+  ],
+  "3034": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_2021_summer_gacha_campaign_02",
+      "2021-07-12 12:00:00",
+      "2021-07-26 04:59:59",
+      "false"
+    ]
+  ],
+  "3035": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_600_aniv",
+      "2021-07-18 12:00:00",
+      "2021-07-28 11:59:59",
+      "false"
+    ]
+  ],
+  "4045": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_yokai_emaki_01_re01",
+      "2021-07-16 12:00:00",
+      "2021-07-26 20:59:59",
+      "false"
+    ]
+  ],
+  "4046": [
+    [
+      "1000",
+      "dynamic/feature_announcement/time_attack_event_red01",
+      "2021-07-16 12:00:00",
+      "2021-07-24 20:59:59",
+      "false"
+    ]
+  ],
+  "2059": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_42",
+      "2021-07-16 12:00:00",
+      "2021-07-26 11:59:59",
+      "false"
+    ]
+  ],
+  "40": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast_re",
+      "2021-07-26 12:00:00",
+      "2021-08-02 20:59:59",
+      "false"
+    ]
+  ],
+  "2060": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_05",
+      "2021-07-26 12:00:00",
+      "2021-07-31 11:59:59",
+      "false"
+    ]
+  ],
+  "4047": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2021",
+      "2021-07-31 12:00:00",
+      "2021-08-05 11:59:59",
+      "false"
+    ]
+  ],
+  "41": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_02",
+      "2021-07-31 12:00:00",
+      "2021-08-11 20:59:59",
+      "false"
+    ]
+  ],
+  "2061": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_43",
+      "2021-07-31 12:00:00",
+      "2021-08-12 11:59:59",
+      "false"
+    ]
+  ],
+  "2062": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_06",
+      "2021-07-31 12:00:00",
+      "2021-08-12 11:59:59",
+      "false"
+    ]
+  ],
+  "4048": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2021_sequel",
+      "2021-08-05 12:00:00",
+      "2021-08-12 11:59:59",
+      "false"
+    ]
+  ],
+  "3036": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_material_campaign_5",
+      "2021-08-12 12:00:00",
+      "2021-08-30 20:59:59",
+      "false"
+    ]
+  ],
+  "2063": [
+    [
+      "3000",
+      "dynamic/feature_announcement/blue_element_character_pickup_02",
+      "2021-08-12 12:00:00",
+      "2021-08-16 11:59:59",
+      "false"
+    ]
+  ],
+  "42": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_adventdragon",
+      "2021-08-12 12:00:00",
+      "2021-09-10 11:59:59",
+      "false"
+    ]
+  ],
+  "43": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_sidestory",
+      "2021-08-12 12:00:00",
+      "2021-09-10 11:59:59",
+      "false"
+    ]
+  ],
+  "2064": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_scollabo_01",
+      "2021-08-16 12:00:00",
+      "2021-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "10004": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_scollab_event",
+      "2021-08-16 12:00:00",
+      "2021-08-30 20:59:59",
+      "false"
+    ]
+  ],
+  "3037": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_s_collab_gacha_campaign",
+      "2021-08-16 12:00:00",
+      "2021-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "3038": [
+    [
+      "1000",
+      "dynamic/feature_announcement/cheering_mainquest_campaign_1",
+      "2021-08-26 12:00:00",
+      "2021-09-29 20:59:59",
+      "false"
+    ]
+  ],
+  "5004": [
+    [
+      "500",
+      "dynamic/feature_announcement/ep10_update",
+      "2021-08-26 12:00:00",
+      "2021-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "44": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_010",
+      "2021-08-26 12:00:00",
+      "2021-09-04 11:59:59",
+      "false"
+    ]
+  ],
+  "3039": [
+    [
+      "1000",
+      "dynamic/feature_announcement/event_release_650_aniv",
+      "2021-09-06 12:00:00",
+      "2021-09-16 11:59:59",
+      "false"
+    ]
+  ],
+  "4049": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_13",
+      "2021-08-31 12:00:00",
+      "2021-09-10 20:59:59",
+      "false"
+    ]
+  ],
+  "2065": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_45",
+      "2021-08-31 12:00:00",
+      "2021-09-10 11:59:59",
+      "false"
+    ]
+  ],
+  "2066": [
+    [
+      "3000",
+      "dynamic/feature_announcement/red_element_character_pickup_01",
+      "2021-09-10 12:00:00",
+      "2021-09-15 11:59:59",
+      "false"
+    ]
+  ],
+  "3040": [
+    [
+      "1000",
+      "dynamic/feature_announcement/treasure_cave_quest",
+      "2021-09-10 12:00:00",
+      "2021-10-10 11:59:59",
+      "false"
+    ]
+  ],
+  "45": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_fall_2021",
+      "2021-09-13 12:00:00",
+      "2021-09-23 11:59:59",
+      "false"
+    ]
+  ],
+  "4050": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_boar_rider",
+      "2021-09-13 12:00:00",
+      "2021-09-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2067": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_46",
+      "2021-09-15 12:00:00",
+      "2021-09-24 11:59:59",
+      "false"
+    ]
+  ],
+  "4051": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_water",
+      "2021-09-15 12:00:00",
+      "2021-09-29 20:59:59",
+      "false"
+    ]
+  ],
+  "2068": [
+    [
+      "3000",
+      "dynamic/feature_announcement/yellow_element_character_pickup_03",
+      "2021-09-24 12:00:00",
+      "2021-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "3042": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_exchange_campaign_05",
+      "2021-09-30 12:00:00",
+      "2021-10-18 11:59:59",
+      "false"
+    ]
+  ],
+  "3043": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_material_campaign_6",
+      "2021-09-30 12:00:00",
+      "2021-10-17 20:59:59",
+      "false"
+    ]
+  ],
+  "46": [
+    [
+      "1000",
+      "dynamic/feature_announcement/abyss_beast_re",
+      "2021-09-30 12:00:00",
+      "2021-10-19 20:59:59",
+      "false"
+    ]
+  ],
+  "4052": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_crown_beasts",
+      "2021-09-30 12:00:00",
+      "2021-10-19 20:59:59",
+      "false"
+    ]
+  ],
+  "2069": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_47",
+      "2021-09-30 12:00:00",
+      "2021-10-18 11:59:59",
+      "false"
+    ]
+  ],
+  "47": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_adventdragon2",
+      "2021-10-12 12:00:00",
+      "2021-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "2070": [
+    [
+      "3000",
+      "dynamic/feature_announcement/common_character_pickup_07",
+      "2021-10-12 12:00:00",
+      "2021-10-19 11:59:59",
+      "false"
+    ]
+  ],
+  "3044": [
+    [
+      "2000",
+      "dynamic/feature_announcement/halloween21_campaign_mission",
+      "2021-10-18 12:00:00",
+      "2021-10-31 20:59:59",
+      "false"
+    ]
+  ],
+  "3045": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_700_aniv",
+      "2021-10-25 12:00:00",
+      "2021-11-04 11:59:59",
+      "false"
+    ]
+  ],
+  "48": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_03",
+      "2021-10-18 12:00:00",
+      "2021-10-31 20:59:59",
+      "false"
+    ]
+  ],
+  "2071": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_hw20_character_pickup_01",
+      "2021-10-18 12:00:00",
+      "2021-10-26 11:59:59",
+      "false"
+    ]
+  ],
+  "49": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_hw21",
+      "2021-10-18 12:00:00",
+      "2021-10-31 20:59:59",
+      "false"
+    ]
+  ],
+  "900001": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_47",
+      "2021-10-18 21:00:00",
+      "2021-10-19 11:59:59",
+      "false"
+    ]
+  ],
+  "2072": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_48",
+      "2021-10-26 12:00:00",
+      "2021-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "4053": [
+    [
+      "2800",
+      "dynamic/feature_announcement/notice_encyclopedia",
+      "2021-10-29 12:00:00",
+      "2021-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "3046": [
+    [
+      "3001",
+      "dynamic/feature_announcement/equipment_pickup_8",
+      "2021-10-31 12:00:00",
+      "2021-11-11 11:59:59",
+      "false"
+    ]
+  ],
+  "3047": [
+    [
+      "1000",
+      "dynamic/feature_announcement/cheering_mainquest_campaign_2",
+      "2021-10-31 12:00:00",
+      "2021-11-11 20:59:59",
+      "false"
+    ]
+  ],
+  "2073": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_49",
+      "2021-10-31 12:00:00",
+      "2021-11-11 11:59:59",
+      "false"
+    ]
+  ],
+  "3048": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_chapter10_finish_gacha_campaign",
+      "2021-10-31 12:00:00",
+      "2021-11-12 04:59:59",
+      "false"
+    ]
+  ],
+  "5005": [
+    [
+      "3002",
+      "dynamic/feature_announcement/ep10_update_sequel",
+      "2021-10-31 12:00:00",
+      "2021-11-19 11:59:59",
+      "false"
+    ]
+  ],
+  "2074": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_50",
+      "2021-11-11 12:00:00",
+      "2021-11-19 11:59:59",
+      "false"
+    ]
+  ],
+  "4054": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_anv1_re01",
+      "2021-11-11 12:00:00",
+      "2021-11-19 20:59:59",
+      "false"
+    ]
+  ],
+  "4055": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_14",
+      "2021-11-11 12:00:00",
+      "2021-11-19 20:59:59",
+      "false"
+    ]
+  ],
+  "4056": [
+    [
+      "1000",
+      "dynamic/feature_announcement/anv2_countdown_event",
+      "2021-11-17 12:00:00",
+      "2021-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "3049": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_soon_2st_anniv",
+      "2021-11-17 12:00:00",
+      "2021-11-27 04:59:59",
+      "false"
+    ]
+  ],
+  "2075": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_1halfanv_character_pickup_01",
+      "2021-11-19 12:00:00",
+      "2021-11-27 11:59:59",
+      "false"
+    ]
+  ],
+  "4057": [
+    [
+      "5010",
+      "dynamic/feature_announcement/multi_special_exchange_campaign_01",
+      "2021-11-27 12:00:00",
+      "2021-12-16 11:59:59",
+      "false"
+    ]
+  ],
+  "4058": [
+    [
+      "5009",
+      "dynamic/feature_announcement/notice_2nd_aniv_gacha_campaign",
+      "2021-11-27 12:00:00",
+      "2021-12-20 04:59:59",
+      "false"
+    ]
+  ],
+  "3050": [
+    [
+      "5008",
+      "dynamic/feature_announcement/special_exchange_campaign_06",
+      "2021-11-27 12:00:00",
+      "2021-12-09 11:59:59",
+      "false"
+    ]
+  ],
+  "3051": [
+    [
+      "5007",
+      "dynamic/feature_announcement/new_character_pickup_51",
+      "2021-11-27 12:00:00",
+      "2021-12-10 11:59:59",
+      "false"
+    ]
+  ],
+  "2076": [
+    [
+      "5006",
+      "dynamic/feature_announcement/notice_comeback_gacha_04",
+      "(None)",
+      "(None)",
+      "true"
+    ]
+  ],
+  "3052": [
+    [
+      "5005",
+      "dynamic/feature_announcement/2_anniversary_special_set",
+      "2021-11-27 12:00:00",
+      "2021-12-31 23:59:59",
+      "false"
+    ]
+  ],
+  "4059": [
+    [
+      "5004",
+      "dynamic/feature_announcement/notice_raid_event_01",
+      "2021-11-27 12:00:00",
+      "2021-12-16 20:59:59",
+      "false"
+    ]
+  ],
+  "3053": [
+    [
+      "5003",
+      "dynamic/feature_announcement/world_story_event_anv2",
+      "2021-11-27 12:00:00",
+      "2021-12-16 20:59:59",
+      "false"
+    ]
+  ],
+  "3054": [
+    [
+      "5002",
+      "dynamic/feature_announcement/anv2_release_event",
+      "2021-11-27 12:00:00",
+      "2021-12-17 11:59:59",
+      "false"
+    ]
+  ],
+  "4060": [
+    [
+      "5001",
+      "dynamic/feature_announcement/notice_2nd_aniv_campaign",
+      "2021-11-27 12:00:00",
+      "2021-12-16 20:59:59",
+      "false"
+    ]
+  ],
+  "2078": [
+    [
+      "5000",
+      "dynamic/feature_announcement/notice_sidestory_2",
+      "2021-11-27 12:00:00",
+      "2021-12-10 11:59:59",
+      "false"
+    ]
+  ],
+  "3055": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_750_aniv",
+      "2021-12-15 12:00:00",
+      "2021-12-25 11:59:59",
+      "false"
+    ]
+  ],
+  "2079": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_52",
+      "2021-12-10 12:00:00",
+      "2021-12-17 11:59:59",
+      "false"
+    ]
+  ],
+  "2080": [
+    [
+      "3000",
+      "dynamic/feature_announcement/new_character_pickup_53",
+      "2021-12-17 12:00:00",
+      "2021-12-24 11:59:59",
+      "false"
+    ]
+  ],
+  "50": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_011",
+      "2021-12-17 12:00:00",
+      "2021-12-24 20:59:59",
+      "false"
+    ]
+  ],
+  "51": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_xm21",
+      "2021-12-17 12:00:00",
+      "2021-12-30 20:59:59",
+      "false"
+    ]
+  ],
+  "52": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_04",
+      "2021-12-17 12:00:00",
+      "2021-12-30 20:59:59",
+      "false"
+    ]
+  ],
+  "2081": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_xm20_character_pickup_01",
+      "2021-12-24 12:00:00",
+      "2021-12-31 11:59:59",
+      "false"
+    ]
+  ],
+  "5006": [
+    [
+      "500",
+      "dynamic/feature_announcement/notice_newbie_weapon",
+      "2021-12-24 12:00:00",
+      "2022-01-07 11:59:59",
+      "false"
+    ]
+  ],
+  "4061": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_newyear22_event",
+      "2021-12-31 12:00:00",
+      "2022-01-10 11:59:59",
+      "false"
+    ]
+  ],
+  "2082": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_54",
+      "2021-12-31 12:00:00",
+      "2022-01-07 11:59:59",
+      "false"
+    ]
+  ],
+  "3056": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_9",
+      "2021-12-31 12:00:00",
+      "2022-01-16 11:59:59",
+      "false"
+    ]
+  ],
+  "4062": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_15",
+      "2021-12-31 12:00:00",
+      "2022-01-10 20:59:59",
+      "false"
+    ]
+  ],
+  "3057": [
+    [
+      "5005",
+      "dynamic/feature_announcement/fukubukuro2022",
+      "2021-12-31 12:00:00",
+      "2022-01-31 23:59:59",
+      "false"
+    ]
+  ],
+  "2083": [
+    [
+      "5000",
+      "dynamic/feature_announcement/ny2022_new_year_gacha_campaign",
+      "2022-01-01 12:00:00",
+      "2022-01-04 04:59:59",
+      "false"
+    ]
+  ],
+  "2084": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_1anv_character_pickup_01",
+      "2022-01-07 12:00:00",
+      "2022-01-16 11:59:59",
+      "false"
+    ]
+  ],
+  "2085": [
+    [
+      "3004",
+      "dynamic/feature_announcement/revival_ny20ny21_character_pickup_01",
+      "2022-01-07 12:00:00",
+      "2022-01-16 11:59:59",
+      "false"
+    ]
+  ],
+  "53": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_012",
+      "2022-01-11 12:00:00",
+      "2022-01-18 20:59:59",
+      "false"
+    ]
+  ],
+  "4063": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_desert_bonds_01_re01",
+      "2022-01-11 12:00:00",
+      "2022-01-24 20:59:59",
+      "false"
+    ]
+  ],
+  "3058": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_water_pickup_1",
+      "2022-01-16 12:00:00",
+      "2022-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "10005": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_revival_Rcollab_event",
+      "2022-01-16 12:00:00",
+      "2022-01-30 20:59:59",
+      "false"
+    ]
+  ],
+  "3059": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_rcollab_character_pickup_01",
+      "2022-01-16 12:00:00",
+      "2022-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "54": [
+    [
+      "1000",
+      "dynamic/feature_announcement/challenge_dungeon_add_abyss_beast",
+      "2022-01-24 12:00:00",
+      "2022-02-14 20:59:59",
+      "false"
+    ]
+  ],
+  "4064": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_Pcollab_02",
+      "2022-01-31 12:00:00",
+      "2022-02-13 20:59:59",
+      "false"
+    ]
+  ],
+  "2086": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_56",
+      "2022-01-31 12:00:00",
+      "2022-02-14 11:59:59",
+      "false"
+    ]
+  ],
+  "3060": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_800_aniv",
+      "2022-02-03 12:00:00",
+      "2022-02-13 11:59:59",
+      "false"
+    ]
+  ],
+  "3061": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_wind_pickup_1",
+      "2022-01-31 12:00:00",
+      "2022-02-14 11:59:59",
+      "false"
+    ]
+  ],
+  "3062": [
+    [
+      "1000",
+      "dynamic/feature_announcement/cheering_material_campaign_220131",
+      "2022-01-31 12:00:00",
+      "2022-02-13 20:59:59",
+      "false"
+    ]
+  ],
+  "4065": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_combat_diver_01",
+      "2022-02-14 12:00:00",
+      "2022-02-28 20:59:59",
+      "false"
+    ]
+  ],
+  "180002": [
+    [
+      "1000",
+      "dynamic/feature_announcement/multiboss_evil_envy",
+      "2022-02-14 12:00:00",
+      "2022-02-28 20:59:59",
+      "false"
+    ]
+  ],
+  "4067": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_vt22",
+      "2022-02-14 12:00:00",
+      "2022-02-28 20:59:59",
+      "false"
+    ]
+  ],
+  "4068": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_ex_boost",
+      "2022-02-14 12:00:00",
+      "2022-03-14 11:59:59",
+      "false"
+    ]
+  ],
+  "3063": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_white_pickup_1",
+      "2022-02-14 12:00:00",
+      "2022-02-28 11:59:59",
+      "false"
+    ]
+  ],
+  "178665": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_57",
+      "2022-02-14 12:00:00",
+      "2022-02-21 11:59:59",
+      "false"
+    ]
+  ],
+  "179245": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_vt21_character_pickup_01",
+      "2022-02-21 12:00:00",
+      "2022-02-28 11:59:59",
+      "false"
+    ]
+  ],
+  "179728": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_58",
+      "2022-02-28 12:00:00",
+      "2022-03-07 11:59:59",
+      "false"
+    ]
+  ],
+  "172826": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_fire",
+      "2022-02-28 12:00:00",
+      "2022-03-14 20:59:59",
+      "false"
+    ]
+  ],
+  "3064": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_book_pickup_1",
+      "2022-02-28 12:00:00",
+      "2022-03-14 11:59:59",
+      "false"
+    ]
+  ],
+  "55": [
+    [
+      "1000",
+      "dynamic/feature_announcement/material_trader",
+      "2022-02-28 12:00:00",
+      "2022-03-05 20:59:59",
+      "false"
+    ]
+  ],
+  "179737": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_smr21_character_pickup_01",
+      "2022-03-07 12:00:00",
+      "2022-03-14 11:59:59",
+      "false"
+    ]
+  ],
+  "4069": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_raid_event_02",
+      "2022-03-09 12:00:00",
+      "2022-03-22 20:59:59",
+      "false"
+    ]
+  ],
+  "179746": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_59",
+      "2022-03-14 12:00:00",
+      "2022-03-22 11:59:59",
+      "false"
+    ]
+  ],
+  "179844": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_pack_ether_set_01",
+      "2022-03-14 12:00:00",
+      "2022-04-04 11:59:59",
+      "false"
+    ]
+  ],
+  "3065": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_solota_pickup_1",
+      "2022-03-14 12:00:00",
+      "2022-03-31 11:59:59",
+      "false"
+    ]
+  ],
+  "179157": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_013",
+      "2022-03-14 12:00:00",
+      "2022-03-25 20:59:59",
+      "false"
+    ]
+  ],
+  "4070": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_14",
+      "2022-03-14 12:00:00",
+      "2022-03-31 20:59:59",
+      "false"
+    ]
+  ],
+  "183244": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_solo_timeattack_01",
+      "2022-03-14 12:00:00",
+      "2022-03-31 20:59:59",
+      "false"
+    ]
+  ],
+  "180809": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_850_aniv",
+      "2022-03-25 12:00:00",
+      "2022-04-04 11:59:59",
+      "false"
+    ]
+  ],
+  "180617": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_smr21_character_pickup_02",
+      "2022-03-22 12:00:00",
+      "2022-03-31 11:59:59",
+      "false"
+    ]
+  ],
+  "180403": [
+    [
+      "1001",
+      "dynamic/feature_announcement/world_story_event_cyberpunk02_re01",
+      "2022-03-31 12:00:00",
+      "2022-04-15 20:59:59",
+      "false"
+    ]
+  ],
+  "180635": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_pickup_10",
+      "2022-03-31 12:00:00",
+      "2022-04-15 11:59:59",
+      "false"
+    ]
+  ],
+  "3066": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_220331",
+      "2022-03-31 12:00:00",
+      "2022-04-15 20:59:59",
+      "false"
+    ]
+  ],
+  "180625": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_60",
+      "2022-03-31 12:00:00",
+      "2022-04-08 11:59:59",
+      "false"
+    ]
+  ],
+  "3067": [
+    [
+      "2000",
+      "dynamic/feature_announcement/spring22_campaign_mission",
+      "2022-03-31 12:00:00",
+      "2022-04-15 20:59:59",
+      "false"
+    ]
+  ],
+  "56": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_05",
+      "2022-03-31 12:00:00",
+      "2022-04-15 20:59:59",
+      "false"
+    ]
+  ],
+  "3068": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_Spring2022_Gacha",
+      "2022-03-31 12:00:00",
+      "2022-04-03 04:59:59",
+      "false"
+    ]
+  ],
+  "181564": [
+    [
+      "3002",
+      "dynamic/feature_announcement/star_heroes_7",
+      "2022-03-31 12:00:00",
+      "2022-04-08 11:59:59",
+      "false"
+    ]
+  ],
+  "180649": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_crown_beasts_character_pickup_01",
+      "2022-04-08 12:00:00",
+      "2022-04-15 11:59:59",
+      "false"
+    ]
+  ],
+  "180674": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_black_pickup_1",
+      "2022-04-15 12:00:00",
+      "2022-04-29 11:59:59",
+      "false"
+    ]
+  ],
+  "180658": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_61",
+      "2022-04-15 12:00:00",
+      "2022-04-22 11:59:59",
+      "false"
+    ]
+  ],
+  "179258": [
+    [
+      "4000",
+      "dynamic/feature_announcement/daily_stone_pack",
+      "2022-04-15 12:00:00",
+      "2022-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "180666": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_desert_bonds_character_pickup_01",
+      "2022-04-15 12:00:00",
+      "2022-04-22 11:59:59",
+      "false"
+    ]
+  ],
+  "181525": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_light",
+      "2022-04-15 12:00:00",
+      "2022-04-30 20:59:59",
+      "false"
+    ]
+  ],
+  "180191": [
+    [
+      "4000",
+      "dynamic/feature_announcement/special_pack_element_set_02",
+      "2022-04-24 12:00:00",
+      "2022-05-15 11:59:59",
+      "false"
+    ]
+  ],
+  "180682": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_hw21_character_pickup_01",
+      "2022-04-22 12:00:00",
+      "2022-04-29 11:59:59",
+      "false"
+    ]
+  ],
+  "3069": [
+    [
+      "2000",
+      "dynamic/feature_announcement/gw22_campaign_mission",
+      "2022-04-29 12:00:00",
+      "2022-05-09 20:59:59",
+      "false"
+    ]
+  ],
+  "3070": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_220429",
+      "2022-04-29 12:00:00",
+      "2022-05-09 20:59:59",
+      "false"
+    ]
+  ],
+  "180690": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_62",
+      "2022-04-29 12:00:00",
+      "2022-05-09 11:59:59",
+      "false"
+    ]
+  ],
+  "180706": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_common_pickup_1",
+      "2022-04-29 12:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "182289": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_raid_event_03",
+      "2022-04-29 12:00:00",
+      "2022-05-05 20:59:59",
+      "false"
+    ]
+  ],
+  "180810": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_900_aniv",
+      "2022-05-14 12:00:00",
+      "2022-05-24 11:59:59",
+      "false"
+    ]
+  ],
+  "184404": [
+    [
+      "3000",
+      "dynamic/feature_announcement/yellow_element_character_pickup_04",
+      "2022-04-29 12:00:00",
+      "2022-05-16 11:59:59",
+      "false"
+    ]
+  ],
+  "3071": [
+    [
+      "2001",
+      "dynamic/feature_announcement/gw22_campaign_gacha",
+      "2022-04-29 12:00:00",
+      "2022-05-09 04:59:59",
+      "false"
+    ]
+  ],
+  "182713": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_summer_2021_re01",
+      "2022-05-05 12:00:00",
+      "2022-05-16 20:59:59",
+      "false"
+    ]
+  ],
+  "186469": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_wt21_character_pickup_01",
+      "2022-05-09 12:00:00",
+      "2022-05-16 11:59:59",
+      "false"
+    ]
+  ],
+  "184744": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_combat_diver_02",
+      "2022-05-16 12:00:00",
+      "2022-05-31 11:59:59",
+      "false"
+    ]
+  ],
+  "184309": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_63",
+      "2022-05-16 12:00:00",
+      "2022-05-23 11:59:59",
+      "false"
+    ]
+  ],
+  "184318": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_smr20_character_pickup_03",
+      "2022-05-23 12:00:00",
+      "2022-05-31 11:59:59",
+      "false"
+    ]
+  ],
+  "182405": [
+    [
+      "400",
+      "dynamic/feature_announcement/notice_sidestory_2_halfanv",
+      "2022-05-31 12:00:00",
+      "2022-07-01 11:59:59",
+      "false"
+    ]
+  ],
+  "187531": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_thunder",
+      "2022-05-23 12:00:00",
+      "2022-05-30 11:59:59",
+      "false"
+    ]
+  ],
+  "57": [
+    [
+      "300",
+      "dynamic/feature_announcement/notice_hokaiiki_abyss_new_equip",
+      "2022-06-01 05:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "184487": [
+    [
+      "5008",
+      "dynamic/feature_announcement/special_exchange_campaign_07",
+      "2022-05-31 12:00:00",
+      "2022-06-15 11:59:59",
+      "false"
+    ]
+  ],
+  "3072": [
+    [
+      "6700",
+      "dynamic/feature_announcement/2halfanv_campaign_mission",
+      "2022-05-31 12:00:00",
+      "2022-06-14 20:59:59",
+      "false"
+    ]
+  ],
+  "3073": [
+    [
+      "6900",
+      "dynamic/feature_announcement/notice_2-5_aniv_campaign",
+      "2022-05-31 12:00:00",
+      "2022-06-14 20:59:59",
+      "false"
+    ]
+  ],
+  "187188": [
+    [
+      "4000",
+      "dynamic/feature_announcement/2ndhalf_anniversary_special_set",
+      "2022-05-31 12:00:00",
+      "2022-07-08 11:59:59",
+      "false"
+    ]
+  ],
+  "181526": [
+    [
+      "1800",
+      "dynamic/feature_announcement/advent_event_spirit_beast_storm",
+      "2022-05-31 12:00:00",
+      "2022-06-15 20:59:59",
+      "false"
+    ]
+  ],
+  "179535": [
+    [
+      "1900",
+      "dynamic/feature_announcement/world_story_event_2halfanv",
+      "2022-05-31 12:00:00",
+      "2022-06-15 20:59:59",
+      "false"
+    ]
+  ],
+  "184350": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_64",
+      "2022-05-31 12:00:00",
+      "2022-06-07 11:59:59",
+      "false"
+    ]
+  ],
+  "3074": [
+    [
+      "6800",
+      "dynamic/feature_announcement/notice_2-5_aniv_gacha_campaign",
+      "2022-05-31 12:00:00",
+      "2022-06-15 04:59:59",
+      "false"
+    ]
+  ],
+  "188792": [
+    [
+      "450",
+      "dynamic/feature_announcement/notice_dailyquest_renewal",
+      "2022-05-31 12:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "188481": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_solo_timeattack_02",
+      "2022-06-07 12:00:00",
+      "2022-06-24 20:59:59",
+      "false"
+    ]
+  ],
+  "184367": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_2anv_character_pickup_01",
+      "2022-06-07 12:00:00",
+      "2022-06-15 11:59:59",
+      "false"
+    ]
+  ],
+  "184385": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_xm21_character_pickup_01",
+      "2022-06-22 12:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "180811": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_aniv",
+      "2022-07-02 12:00:00",
+      "2022-07-12 11:59:59",
+      "false"
+    ]
+  ],
+  "184422": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_wind_pickup_2",
+      "2022-06-30 12:00:00",
+      "2022-07-29 11:59:59",
+      "false"
+    ]
+  ],
+  "184430": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_ny22_character_pickup_01",
+      "2022-07-07 12:00:00",
+      "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "3075": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_220715",
+      "2022-07-15 12:00:00",
+      "2022-07-29 20:59:59",
+      "false"
+    ]
+  ],
+  "179289": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_06",
+      "2022-07-15 12:00:00",
+      "2022-07-29 20:59:59",
+      "false"
+    ]
+  ],
+  "3076": [
+    [
+      "2000",
+      "dynamic/feature_announcement/summer22_campaign_mission",
+      "2022-07-15 12:00:00",
+      "2022-07-29 20:59:59",
+      "false"
+    ]
+  ],
+  "189639": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_multi_pickup_event_1",
+      "2022-07-15 12:00:00",
+      "2022-07-29 20:59:59",
+      "false"
+    ]
+  ],
+  "184438": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_67",
+      "2022-07-15 12:00:00",
+      "2022-07-22 11:59:59",
+      "false"
+    ]
+  ],
+  "190288": [
+    [
+      "2000",
+      "dynamic/feature_announcement/smr22_campaign_gacha",
+      "2022-07-15 12:00:00",
+      "2022-07-29 11:59:59",
+      "false"
+    ]
+  ],
+  "184448": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_1anv_character_pickup_02",
+      "2022-07-22 12:00:00",
+      "2022-07-29 11:59:59",
+      "false"
+    ]
+  ],
+  "3077": [
+    [
+      "2000",
+      "dynamic/feature_announcement/ushi_campaign",
+      "2022-07-23 12:00:00",
+      "2022-07-31 20:59:59",
+      "false"
+    ]
+  ],
+  "189830": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_water_pickup_2",
+      "2022-07-29 12:00:00",
+      "2022-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "187274": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_dark",
+      "2022-07-29 12:00:00",
+      "2022-08-15 20:59:59",
+      "false"
+    ]
+  ],
+  "184986": [
+    [
+      "1001",
+      "dynamic/feature_announcement/world_story_event_summer_2022",
+      "2022-07-29 12:00:00",
+      "2022-08-15 20:59:59",
+      "false"
+    ]
+  ],
+  "184462": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_68",
+      "2022-07-29 12:00:00",
+      "2022-08-08 11:59:59",
+      "false"
+    ]
+  ],
+  "192124": [
+    [
+      "2000",
+      "dynamic/feature_announcement/smr22_campaign_gacha2",
+      "2022-07-29 12:00:00",
+      "2022-08-15 04:59:59",
+      "false"
+    ]
+  ],
+  "193629": [
+    [
+      "1800",
+      "dynamic/feature_announcement/advent_event_spirit_beast_storm2",
+      "2022-08-08 12:00:00",
+      "2022-08-15 20:59:59",
+      "false"
+    ]
+  ],
+  "184472": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_19xmas_character_pickup_02",
+      "2022-08-08 12:00:00",
+      "2022-08-15 11:59:59",
+      "false"
+    ]
+  ],
+  "193140": [
+    [
+      "2000",
+      "dynamic/feature_announcement/event_release_aniv",
+      "2022-08-22 12:00:00",
+      "2022-09-01 11:59:59",
+      "false"
+    ]
+  ],
+  "193174": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_69",
+      "2022-08-15 12:00:00",
+      "2022-08-23 11:59:59",
+      "false"
+    ]
+  ],
+  "194316": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_combat_diver_03",
+      "2022-08-15 12:00:00",
+      "2022-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "193649": [
+    [
+      "1800",
+      "dynamic/feature_announcement/advent_event_spirit_beast_water2",
+      "2022-08-23 12:00:00",
+      "2022-08-31 20:59:59",
+      "false"
+    ]
+  ],
+  "193458": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_ny20_character_pickup_02",
+      "2022-08-23 12:00:00",
+      "2022-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "194274": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_crown_beasts_re01",
+      "2022-08-31 12:00:00",
+      "2022-09-15 20:59:59",
+      "false"
+    ]
+  ],
+  "195089": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_white_pickup_2",
+      "2022-08-31 12:00:00",
+      "2022-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "3078": [
+    [
+      "2000",
+      "dynamic/feature_announcement/battle_support_campaign_220831",
+      "2022-08-31 12:00:00",
+      "2022-09-15 20:59:59",
+      "false"
+    ]
+  ],
+  "194023": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_70",
+      "2022-08-31 12:00:00",
+      "2022-09-07 11:59:59",
+      "false"
+    ]
+  ],
+  "194568": [
+    [
+      "3002",
+      "dynamic/feature_announcement/star_heroes_9",
+      "2022-08-31 12:00:00",
+      "2022-09-07 11:59:59",
+      "false"
+    ]
+  ],
+  "194906": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_solo_timeattack_02",
+      "2022-08-31 12:00:00",
+      "2022-09-17 20:59:59",
+      "false"
+    ]
+  ],
+  "196327": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_18",
+      "2022-08-31 12:00:00",
+      "2022-09-15 20:59:59",
+      "false"
+    ]
+  ],
+  "194613": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_fire2",
+      "2022-09-07 12:00:00",
+      "2022-09-15 20:59:59",
+      "false"
+    ]
+  ],
+  "194576": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_smr20_character_pickup_04",
+      "2022-09-07 12:00:00",
+      "2022-09-15 11:59:59",
+      "false"
+    ]
+  ],
+  "180094": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_014",
+      "2022-09-21 12:00:00",
+      "2022-09-30 20:59:59",
+      "false"
+    ]
+  ],
+  "195487": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_71",
+      "2022-09-15 12:00:00",
+      "2022-09-22 11:59:59",
+      "false"
+    ]
+  ],
+  "195512": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_raid_event_04",
+      "2022-09-15 12:00:00",
+      "2022-09-21 20:59:59",
+      "false"
+    ]
+  ],
+  "196645": [
+    [
+      "300",
+      "dynamic/feature_announcement/notice_equipment_enhancement",
+      "2022-09-15 12:00:00",
+      "2022-10-15 11:59:59",
+      "false"
+    ]
+  ],
+  "197109": [
+    [
+      "2004",
+      "dynamic/feature_announcement/expert_single_event_02",
+      "2022-09-15 12:00:00",
+      "2023-02-09 11:59:59",
+      "false"
+    ]
+  ],
+  "194056": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_anv2_re01",
+      "2022-09-22 12:00:00",
+      "2022-09-30 20:59:59",
+      "false"
+    ]
+  ],
+  "195954": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_vt22wt22_character_pickup_01",
+      "2022-09-22 12:00:00",
+      "2022-09-30 11:59:59",
+      "false"
+    ]
+  ],
+  "184488": [
+    [
+      "5000",
+      "dynamic/feature_announcement/special_exchange_campaign_08",
+      "2022-09-30 12:00:00",
+      "2022-10-15 11:59:59",
+      "false"
+    ]
+  ],
+  "196432": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_72",
+      "2022-09-30 12:00:00",
+      "2022-10-07 11:59:59",
+      "false"
+    ]
+  ],
+  "196726": [
+    [
+      "1000",
+      "dynamic/feature_announcement/boss_battle_multi_pickup_event_19",
+      "2022-09-30 12:00:00",
+      "2022-10-14 20:59:59",
+      "false"
+    ]
+  ],
+  "195097": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_red_pickup_1",
+      "2022-09-30 12:00:00",
+      "2022-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "195572": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_07",
+      "2022-09-30 12:00:00",
+      "2022-10-14 11:59:59",
+      "false"
+    ]
+  ],
+  "196668": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_smr21_character_pickup_03",
+      "2022-10-07 12:00:00",
+      "2022-10-14 11:59:59",
+      "false"
+    ]
+  ],
+  "196888": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_thunder",
+      "2022-10-07 12:00:00",
+      "2022-10-14 11:59:59",
+      "false"
+    ]
+  ],
+  "3079": [
+    [
+      "2000",
+      "dynamic/feature_announcement/halloween22_campaign_mission",
+      "2022-10-14 12:00:00",
+      "2022-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "198219": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_03",
+      "2022-10-14 12:00:00",
+      "2022-10-28 20:59:59",
+      "false"
+    ]
+  ],
+  "197653": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_hw21",
+      "2022-10-14 12:00:00",
+      "2022-10-28 20:59:59",
+      "false"
+    ]
+  ],
+  "189866": [
+    [
+      "3002",
+      "dynamic/feature_announcement/main_quest_chapter_11",
+      "2022-10-14 12:00:00",
+      "2022-11-14 11:59:59",
+      "false"
+    ]
+  ],
+  "197617": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_73",
+      "2022-10-14 12:00:00",
+      "2022-10-21 11:59:59",
+      "false"
+    ]
+  ],
+  "197403": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_hw20_character_pickup_02",
+      "2022-10-21 12:00:00",
+      "2022-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "199460": [
+    [
+      "1000",
+      "dynamic/feature_announcement/boss_battle_multi_pickup_event_20",
+      "2022-10-21 12:00:00",
+      "2022-10-30 20:59:59",
+      "false"
+    ]
+  ],
+  "174595": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_u_collabo_event",
+      "2022-06-15 12:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "184412": [
+    [
+      "3002",
+      "dynamic/feature_announcement/star_heroes_8",
+      "2022-06-30 12:00:00",
+      "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "184395": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_66",
+      "2022-06-30 12:00:00",
+      "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "184377": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_65",
+      "2022-06-15 12:00:00",
+      "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "174339": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_k_collabo_event",
+      "2022-06-30 12:00:00",
+      "2022-07-14 20:59:59",
+      "false"
+    ]
+  ],
+  "190987": [
+    [
+      "4000",
+      "dynamic/feature_announcement/k_collabo_special_set",
+      "2022-06-30 12:00:00",
+      "2022-07-15 11:59:59",
+      "false"
+    ]
+  ]
+}

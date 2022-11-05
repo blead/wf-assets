@@ -1,0 +1,29 @@
+{
+  "2": [
+    [
+      "user_questionnaire_02",
+      "https://questant.jp/q/PRXEBFPA",
+      "(None)",
+      "ブラウザを起動し、Webサイトに移動します\nよろしいですか？",
+      "(None)"
+    ]
+  ],
+  "1": [
+    [
+      "user_questionnaire_01",
+      "https://questant.jp/q/0GSKA2A8?id=::viewer_id::",
+      "0",
+      "ブラウザを起動し、Webサイトに移動します\nよろしいですか？\n\n<font size='32px'>※アプリからサイトに移動する際、プレイヤーIDを取得します\nプレイヤーIDは後日、回答者へのお礼アイテムの配布のみに使用します</font>",
+      "(None)"
+    ]
+  ],
+  "5000": [
+    [
+      "twitter_check_misson_dialog",
+      "https://twitter.com/world_flipper",
+      "(None)",
+      "ワールドフリッパーの公式Twitterページに\n移動します\nよろしいですか？\n\n※別のアプリを開きます",
+      "twitter_check"
+    ]
+  ]
+}

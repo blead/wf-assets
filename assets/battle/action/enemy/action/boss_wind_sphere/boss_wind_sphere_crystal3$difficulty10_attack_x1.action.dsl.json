@@ -1,0 +1,29 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateWindAttack",
+          1,
+          0.2,
+          1800
+        ]
+      ]
+    ]
+  ]
+]

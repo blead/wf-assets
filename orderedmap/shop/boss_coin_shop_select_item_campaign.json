@@ -1,0 +1,70 @@
+{
+  "4": [
+    [
+      "boss_coin_shop_select_campaign_04",
+      "17",
+      "30",
+      "quest/boss_battle/background/boss_battle_empress_02",
+      "3",
+      "boss_coin_shop_select_campaign_empress_02",
+      "2022-03-14 12:00:00",
+      "2022-03-31 20:59:59",
+      "2022-03-31 20:59:59",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "3": [
+    [
+      "boss_coin_shop_select_campaign_03",
+      "15",
+      "30",
+      "quest/boss_battle/background/boss_battle_empress_02",
+      "3",
+      "boss_coin_shop_select_campaign_empress_02",
+      "2021-12-31 12:00:00",
+      "2022-01-10 20:59:59",
+      "2022-01-10 20:59:59",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "2": [
+    [
+      "boss_coin_shop_select_campaign_02",
+      "13",
+      "21",
+      "quest/boss_battle/background/boss_battle_empress_01",
+      "3",
+      "boss_coin_shop_select_campaign_empress_01",
+      "2021-08-31 12:00:00",
+      "2021-09-10 20:59:59",
+      "2021-09-10 20:59:59",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "1": [
+    [
+      "boss_coin_shop_select_campaign_01",
+      "12",
+      "21",
+      "quest/boss_battle/background/boss_battle_empress_01",
+      "3",
+      "boss_coin_shop_select_campaign_empress_01",
+      "2021-06-14 12:00:00",
+      "2021-06-24 20:59:59",
+      "2021-06-24 20:59:59",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
+  ]
+}

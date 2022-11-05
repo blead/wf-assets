@@ -1,0 +1,34 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateTornado",
+          -1,
+          -350,
+          100,
+          0.5,
+          600,
+          600,
+          "battle/action/enemy/action/general_boss/tornado_shot",
+          true
+        ]
+      ]
+    ]
+  ]
+]

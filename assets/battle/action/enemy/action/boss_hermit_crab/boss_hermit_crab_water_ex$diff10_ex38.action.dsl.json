@@ -1,0 +1,36 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateBarrier",
+          -17,
+          [
+            {
+              "max": 0.2,
+              "min": 0.2
+            }
+          ],
+          [
+            "GenericBarrierHitEffect"
+          ]
+        ]
+      ]
+    ]
+  ]
+]

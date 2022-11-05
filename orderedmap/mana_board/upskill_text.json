@@ -1,0 +1,262 @@
+{
+  "heal_up": [
+    [
+      "回復量強化"
+    ]
+  ],
+  "condition_effect_attack_power_down": [
+    [
+      "敵への攻撃力ダウン効果強化"
+    ]
+  ],
+  "resistance_allelement": [
+    [
+      "全属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_red": [
+    [
+      "火属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_blue": [
+    [
+      "水属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_yellow": [
+    [
+      "雷属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_green": [
+    [
+      "風属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_white": [
+    [
+      "光属性耐性アップ効果強化"
+    ]
+  ],
+  "resistance_black": [
+    [
+      "闇属性耐性アップ効果強化"
+    ]
+  ],
+  "damage_cut_allelement": [
+    [
+      "全属性ダメージカット効果強化"
+    ]
+  ],
+  "damage_cut_red": [
+    [
+      "火属性ダメージカット効果強化"
+    ]
+  ],
+  "damage_cut_blue": [
+    [
+      "水属性ダメージカット効果強化"
+    ]
+  ],
+  "damage_cut_yellow": [
+    [
+      "雷属性ダメージカット効果強化"
+    ]
+  ],
+  "damage_cut_green": [
+    [
+      "風属性ダメージカット性能強化"
+    ]
+  ],
+  "damage_cut_white": [
+    [
+      "光属性ダメージカット性能強化"
+    ]
+  ],
+  "damage_cut_black": [
+    [
+      "闇属性ダメージカット性能強化"
+    ]
+  ],
+  "condition_effect_allelement_up": [
+    [
+      "敵への全属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_red_up": [
+    [
+      "敵への火属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_blue_up": [
+    [
+      "敵への水属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_yellow_up": [
+    [
+      "敵への雷属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_green_up": [
+    [
+      "敵への風属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_white_up": [
+    [
+      "敵への光属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_black_up": [
+    [
+      "敵への闇属性耐性ダウン性能強化"
+    ]
+  ],
+  "condition_effect_poison_up": [
+    [
+      "毒効果強化"
+    ]
+  ],
+  "condition_effect_paralysis_up": [
+    [
+      "マヒ効果強化"
+    ]
+  ],
+  "skill_damage_up": [
+    [
+      "スキルダメージアップ効果強化"
+    ]
+  ],
+  "skill_gauge_up": [
+    [
+      "スキルゲージ増加量強化"
+    ]
+  ],
+  "powerflip_damage_up": [
+    [
+      "パワーフリップダメージアップ効果強化"
+    ]
+  ],
+  "multiball_up": [
+    [
+      "マルチボール性能強化"
+    ]
+  ],
+  "condition_flying_up": [
+    [
+      "浮遊効果強化"
+    ]
+  ],
+  "condition_debuff_resistance_up": [
+    [
+      "弱体耐性効果強化"
+    ]
+  ],
+  "condition_piercing_up": [
+    [
+      "貫通効果強化"
+    ]
+  ],
+  "condition_slow": [
+    [
+      "鈍足効果強化"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "フィーバーゲージ増加効果強化"
+    ]
+  ],
+  "condition_regeneration_up": [
+    [
+      "再生効果強化"
+    ]
+  ],
+  "coffin_reduce": [
+    [
+      "棺桶カウント減少効果強化"
+    ]
+  ],
+  "invinceble_up": [
+    [
+      "無敵効果強化"
+    ]
+  ],
+  "condition_stun_wince": [
+    [
+      "追い打ちダメージ強化"
+    ]
+  ],
+  "condition_directdamage_up": [
+    [
+      "直接攻撃ダメージアップ効果強化"
+    ]
+  ],
+  "condition_directattack_more": [
+    [
+      "連撃効果強化"
+    ]
+  ],
+  "barrier_up": [
+    [
+      "バリア効果強化"
+    ]
+  ],
+  "ability_damage_up": [
+    [
+      "アビリティダメージアップ効果強化"
+    ]
+  ],
+  "adversity_up": [
+    [
+      "逆境効果強化"
+    ]
+  ],
+  "comboboost_up": [
+    [
+      "コンボブースト効果強化"
+    ]
+  ],
+  "combo_count_up": [
+    [
+      "コンボ数増加効果強化"
+    ]
+  ],
+  "condition_effect_stun_up": [
+    [
+      "スタン効果強化"
+    ]
+  ],
+  "condition_guts_up": [
+    [
+      "ガッツ効果強化"
+    ]
+  ],
+  "condition_fixed_speed_up": [
+    [
+      "最大速度固定効果強化"
+    ]
+  ],
+  "condition_skill_gauge_charging_up": [
+    [
+      "スキルチャージ速度効果強化"
+    ]
+  ],
+  "separated_term_powerflip_damage_up": [
+    [
+      "別枠パワーフリップダメージアップ効果強化"
+    ]
+  ],
+  "separated_term_directdamage_up": [
+    [
+      "別枠直接攻撃ダメージアップ効果強化"
+    ]
+  ],
+  "speed_up": [
+    [
+      "スピードアップ効果強化"
+    ]
+  ]
+}

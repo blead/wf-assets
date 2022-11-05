@@ -1,0 +1,331 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "StopBall",
+          -18,
+          10,
+          [
+            "RestoreToSpeedBeforeActionExecution"
+          ],
+          [
+            "EF"
+          ],
+          0
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindNearSubjects",
+          -18,
+          1,
+          49,
+          [
+            "CreateImaginaryTarget",
+            -1
+          ],
+          0,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "竜巻演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/skill_unique/bigwing_shaman_smr21/bigwing_shaman_smr21_wind"
+                  ],
+                  0,
+                  [
+                    "ForesideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeDirectly",
+                    150
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  false,
+                  false,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateHitArea",
+                  "*",
+                  0,
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  false,
+                  false,
+                  [
+                    "Circle",
+                    [
+                      {
+                        "max": 175,
+                        "min": 175
+                      }
+                    ]
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Single"
+                  ],
+                  [
+                    "SpecifyHitAreaLifetimeDirectly",
+                    150
+                  ],
+                  [
+                    "CalculatedUsingMaxNumOfHits",
+                    24
+                  ],
+                  [
+                    "None"
+                  ],
+                  false,
+                  true,
+                  [
+                    "None"
+                  ],
+                  1,
+                  [
+                    "Block",
+                    null
+                  ],
+                  2,
+                  3,
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "ShakeCamera",
+                          1
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          3,
+                          255,
+                          null,
+                          null,
+                          4,
+                          [
+                            {
+                              "max": 0.4458333333333333,
+                              "min": 0.4458333333333333
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          false,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 0.5416666666666666,
+                              "min": 0.5416666666666666
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0.625,
+                              "min": 0.625
+                            }
+                          ],
+                          [
+                            "Fine"
+                          ],
+                          true
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateCondition",
+                          3,
+                          [
+                            [
+                              "ACToleranceOfElement",
+                              [
+                                {
+                                  "max": 960,
+                                  "min": 960
+                                }
+                              ],
+                              4,
+                              [
+                                {
+                                  "max": -0.09,
+                                  "min": -0.09
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1,
+                                  "min": 1
+                                }
+                              ]
+                            ]
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "GenericConditionHitEffect"
+                          ],
+                          true,
+                          false,
+                          "",
+                          null,
+                          false,
+                          3,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ]
+                        ]
+                      ]
+                    ]
+                  ],
+                  0,
+                  0
+                ]
+              ]
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          4,
+          33,
+          null,
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  4,
+                  [
+                    [
+                      "ACPowerFlipDamage",
+                      [
+                        {
+                          "max": 960,
+                          "min": 960
+                        }
+                      ],
+                      [
+                        {
+                          "alv_max": 0.3,
+                          "alv_min": 0.15,
+                          "max": 0.5,
+                          "min": 0.5
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

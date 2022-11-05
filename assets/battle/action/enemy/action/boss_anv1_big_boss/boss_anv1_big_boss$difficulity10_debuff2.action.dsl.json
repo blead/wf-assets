@@ -1,0 +1,288 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "DeleteCondition",
+          -17,
+          [
+            "DCAll",
+            3
+          ],
+          10,
+          0,
+          ""
+        ]
+      ],
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "画面全体用の演出",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/enemy_unique/enemy_shot_arck_evil/enemy_shot_arck_evil"
+          ],
+          -33,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Some",
+            [
+              {
+                "max": 1,
+                "min": 1
+              }
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateHitArea",
+          "*",
+          -33,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Rectangle",
+            [
+              {
+                "max": 3000,
+                "min": 3000
+              }
+            ],
+            [
+              {
+                "max": 4000,
+                "min": 4000
+              }
+            ]
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Single"
+          ],
+          [
+            "SpecifyHitAreaLifetimeDirectly",
+            60
+          ],
+          [
+            "CalculatedUsingMaxNumOfHits",
+            1
+          ],
+          [
+            "Some",
+            [
+              {
+                "max": 1,
+                "min": 1
+              }
+            ]
+          ],
+          false,
+          true,
+          [
+            "None"
+          ],
+          0,
+          [
+            "Block",
+            null
+          ],
+          1,
+          2,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACAttackPoint",
+                      [
+                        {
+                          "max": 180000,
+                          "min": 180000
+                        }
+                      ],
+                      [
+                        {
+                          "max": -0.4,
+                          "min": -0.4
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACToleranceOfElement",
+                      [
+                        {
+                          "max": 180000,
+                          "min": 180000
+                        }
+                      ],
+                      6,
+                      [
+                        {
+                          "max": -0.4,
+                          "min": -0.4
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACFrozen",
+                      [
+                        {
+                          "max": 180000,
+                          "min": 180000
+                        }
+                      ],
+                      true
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ]
+                ]
+              ]
+            ]
+          ],
+          0,
+          0
+        ]
+      ]
+    ]
+  ]
+]
