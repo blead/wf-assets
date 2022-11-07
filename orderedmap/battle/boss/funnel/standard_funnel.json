@@ -357,6 +357,11 @@
       [
         "battle/enemy/boss/spirit_beast_light_right_arm_funnel_multi4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_right_arm_funnel_multi5"
+      ]
     ]
   },
   "spirit_beast_light_right_arm_funnel_single": {
@@ -378,6 +383,11 @@
     "80": [
       [
         "battle/enemy/boss/spirit_beast_light_right_arm_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_right_arm_funnel_single5"
       ]
     ]
   },
@@ -401,6 +411,11 @@
       [
         "battle/enemy/boss/spirit_beast_light_left_arm_funnel_multi4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_left_arm_funnel_multi5"
+      ]
     ]
   },
   "spirit_beast_light_left_arm_funnel_single": {
@@ -422,6 +437,11 @@
     "80": [
       [
         "battle/enemy/boss/spirit_beast_light_left_arm_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_left_arm_funnel_single5"
       ]
     ]
   },
@@ -445,6 +465,11 @@
       [
         "battle/enemy/boss/spirit_beast_light_bomb_funnel_multi4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_bomb_funnel_multi5"
+      ]
     ]
   },
   "spirit_beast_light_bomb_funnel_single": {
@@ -466,6 +491,11 @@
     "80": [
       [
         "battle/enemy/boss/spirit_beast_light_bomb_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_light_bomb_funnel_single5"
       ]
     ]
   },

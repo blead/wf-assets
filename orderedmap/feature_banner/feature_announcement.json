@@ -3527,6 +3527,42 @@
       "false"
     ]
   ],
+  "3080": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_221031",
+      "2022-10-31 12:00:00",
+      "2022-11-15 20:59:59",
+      "false"
+    ]
+  ],
+  "195103": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_black_pickup_2",
+      "2022-10-31 12:00:00",
+      "2022-11-28 11:59:59",
+      "false"
+    ]
+  ],
+  "197985": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_light2",
+      "2022-11-07 12:00:00",
+      "2022-11-15 20:59:59",
+      "false"
+    ]
+  ],
+  "198272": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_xm20_character_pickup_02",
+      "2022-11-07 12:00:00",
+      "2022-11-15 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -3578,6 +3614,24 @@
       "dynamic/feature_announcement/k_collabo_special_set",
       "2022-06-30 12:00:00",
       "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "192639": [
+    [
+      "1005",
+      "dynamic/feature_announcement/advent_b_collabo_event",
+      "2022-10-31 12:00:00",
+      "2022-11-15 20:59:59",
+      "false"
+    ]
+  ],
+  "196086": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_74",
+      "2022-10-31 12:00:00",
+      "2022-11-15 11:59:59",
       "false"
     ]
   ]
