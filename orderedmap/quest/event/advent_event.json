@@ -779,32 +779,6 @@
       "2022-10-22 04:59:59"
     ]
   ],
-  "200011": [
-    [
-      "advent_spirit_beast_light2",
-      "(None)",
-      "巫光の精霊獣",
-      "",
-      "quest/event/banner/advent_event/advent_event_spirit_beast_light",
-      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_light",
-      "quest/event/background/advent_event/advent_event_spirit_beast_light",
-      "(None)",
-      "1",
-      "(None)",
-      "21",
-      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
-      "49326",
-      "49327",
-      "49328",
-      "(None)",
-      "true",
-      "advent_spirit_beast_light",
-      "true",
-      "2022-11-07 12:00:00",
-      "2022-11-15 20:59:59",
-      "2022-11-23 04:59:59"
-    ]
-  ],
   "100007": [
     [
       "advent_u_collabo_event",
@@ -855,32 +829,6 @@
       "2022-06-30 12:00:00",
       "2022-07-14 20:59:59",
       "2022-07-21 04:59:59"
-    ]
-  ],
-  "100009": [
-    [
-      "advent_b_collabo_event",
-      "(None)",
-      "不諦の魔道士",
-      "",
-      "quest/event/banner/advent_event/advent_b_collabo_event_banner",
-      "quest/event/bossbattle_banner/advent_event/advent_event_b_collabo_banner",
-      "quest/event/background/advent_event/advent_b_collabo_background",
-      "(None)",
-      "1",
-      "(None)",
-      "26",
-      "bgm/event/advent_event/advent_event_b_collabo/system/b_collabo_event_top",
-      "51000",
-      "51001",
-      "51002",
-      "(None)",
-      "true",
-      "advent_b_collabo_event",
-      "false",
-      "2022-10-31 12:00:00",
-      "2022-11-15 20:59:59",
-      "2022-11-22 04:59:59"
     ]
   ],
   "200005": [

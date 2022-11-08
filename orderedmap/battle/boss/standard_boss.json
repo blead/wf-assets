@@ -273,12 +273,6 @@
         "光蜘ドゥーメオ",
         "battle/enemy/boss/spirit_beast_light_multi4"
       ]
-    ],
-    "100": [
-      [
-        "光蜘ドゥーメオ",
-        "battle/enemy/boss/spirit_beast_light_multi5"
-      ]
     ]
   },
   "spirit_beast_light_single": {
@@ -304,12 +298,6 @@
       [
         "光蜘ドゥーメオ",
         "battle/enemy/boss/spirit_beast_light_single4"
-      ]
-    ],
-    "100": [
-      [
-        "光蜘ドゥーメオ",
-        "battle/enemy/boss/spirit_beast_light_single5"
       ]
     ]
   },
