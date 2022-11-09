@@ -13310,6 +13310,23 @@
       "1"
     ]
   ],
+  "funnel_b_collabo_boss": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "2.5",
+      "1.8",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "70",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_anv1_big_boss": [
     [
       "0",

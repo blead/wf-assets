@@ -5847,6 +5847,23 @@
       "125"
     ]
   ],
+  "b_collabo_boss": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "320",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "30",
+      "1",
+      "atk_multi",
+      "tp_normal",
+      "1000"
+    ]
+  ],
   "arch_evil_tripple_single_a": [
     [
       "0",

@@ -7335,6 +7335,27 @@
       "valen_20_hell"
     ]
   ],
+  "skill_preview_asta": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_asta",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_yuno": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_yuno",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_noelle_silva": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_noelle_silva",
+      "skill_preview_common"
+    ]
+  ],
   "anv2_release_event": [
     [
       "anv1_release_event",
@@ -7991,6 +8012,13 @@
       "dark_dragon_area",
       "battle/terrain/event_quest/advent_event/discarded_dragon_dark/discarded_dragon_dark_5",
       "advent_event_discarded_dragon_dark_5"
+    ]
+  ],
+  "advent_b_collabo": [
+    [
+      "advent_b_collabo",
+      "battle/terrain/event_quest/advent_event/advent_b_collabo/advent_b_collabo",
+      "advent_b_collabo"
     ]
   ],
   "advent_event_multi_advent_discarded_dragon_thunder_single_1": [

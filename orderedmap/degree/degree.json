@@ -10919,6 +10919,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "161141": [
+    [
+      "degree_favor_asta",
+      "172000",
+      "魔力なき魔道士",
+      "まりょくなきまどうし",
+      "獲得条件：【魔力なき魔道士】アスタをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asta"
+    ]
+  ],
+  "141129": [
+    [
+      "degree_favor_yuno",
+      "112000",
+      "風を操る天才魔道士",
+      "かぜをあやつるてんさいまどうし",
+      "獲得条件：【風を操る天才魔道士】ユノをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_yuno"
+    ]
+  ],
+  "123001": [
+    [
+      "degree_favor_noelle_silva",
+      "60000",
+      "王族シルヴァ家の末娘",
+      "おうぞくしるヴぁけのすえむすめ",
+      "獲得条件：【王族シルヴァ家の末娘】ノエル・シルヴァをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_noelle_silva"
+    ]
+  ],
   "161135": [
     [
       "degree_favor_wind_spgirl_hw22",
@@ -14505,6 +14544,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_advent_event_dark_clear_3"
+    ]
+  ],
+  "59700": [
+    [
+      "degree_advent_event_bcollab_clear_1",
+      "647200",
+      "私は王族よ！",
+      "わたしはおうぞくよ",
+      "獲得条件：降臨討伐 不諦の魔道士を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_bcollab_clear_1"
+    ]
+  ],
+  "59701": [
+    [
+      "degree_advent_event_bcollab_clear_2",
+      "647201",
+      "魔（マナ）に愛された者",
+      "まなにあいされたもの",
+      "獲得条件：降臨討伐 不諦の魔道士を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_bcollab_clear_2"
+    ]
+  ],
+  "59702": [
+    [
+      "degree_advent_event_bcollab_clear_3",
+      "647202",
+      "不諦の魔道士",
+      "ふたいのまどうし",
+      "獲得条件：降臨討伐 不諦の魔道士を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_bcollab_clear_3"
     ]
   ],
   "62120": [

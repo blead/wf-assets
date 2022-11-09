@@ -8189,6 +8189,36 @@
       "12"
     ]
   ],
+  "bgm/event/advent_event/advent_event_b_collabo/battle/b_collabo_event_battle": [
+    [
+      "0.35",
+      "157",
+      "0.05798186",
+      "0.05798186",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_event/advent_event_b_collabo/story/b_collabo_event_story": [
+    [
+      "0.35",
+      "130",
+      "0.07283447",
+      "103.416824",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_event/advent_event_b_collabo/system/b_collabo_event_top": [
+    [
+      "0.35",
+      "120",
+      "0.070362814",
+      "36.53036",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/anv2/battle/anv2_battle_1_normal": [
     [
       "0.35",

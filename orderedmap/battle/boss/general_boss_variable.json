@@ -12744,6 +12744,45 @@
       ]
     }
   },
+  "b_collabo_boss": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge": [
+        [
+          "60"
+        ]
+      ],
+      "target_charge": [
+        [
+          "240"
+        ]
+      ],
+      "shot6_loop": [
+        [
+          "240"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "360"
+        ]
+      ],
+      "skill2_shot": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
   "arch_evil_single_tower": {
     "49": {
       "charge1": [

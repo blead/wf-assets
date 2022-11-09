@@ -54670,6 +54670,53 @@
       ]
     ]
   },
+  "advent_b_collabo": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "b_collabo_boss",
+        "1",
+        "b_collabo_boss",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_town/town_barren/outhole/zone2/town_barren_outhole_zone2",
+        "battle/field_object/world_town/town_barren/yakumono/dash_panel",
+        "battle/field_object/world_town/town_barren/rotation_panel/town_barren_rotation_panel",
+        "(None)",
+        "chapter1_mana_breakableblock",
+        "chapter1_mana_decoration"
+      ]
+    ]
+  },
   "advent_event_multi_advent_discarded_dragon_thunder_single_1": {
     "0": [
       [

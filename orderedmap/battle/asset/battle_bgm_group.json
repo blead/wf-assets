@@ -1331,6 +1331,15 @@
       "(None)"
     ]
   ],
+  "advent_b_collabo_event_boss": [
+    [
+      "2",
+      "",
+      "bgm/event/advent_event/advent_event_b_collabo/battle/b_collabo_event_battle",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "anv2_battle1_normal": [
     [
       "2",

@@ -14962,7 +14962,7 @@
   "mob_injury_adventurer": [
     [
       "傷だらけの冒険者",
-      "0x7c8574",
+      "0x8091a3",
       "(None)",
       "",
       "",
@@ -14982,7 +14982,7 @@
   "mob_injury_adventurer_voice": [
     [
       "？？？",
-      "0x7c8574",
+      "0x8091a3",
       "(None)",
       "",
       "",
@@ -23647,6 +23647,96 @@
       "normal,akire,angry,angry_most,angry_serious,joy,joy_b,nigawarai,nigawarai_b,pain,pain_b,pain_c,sad,sad_b,sad_c,serious,shame,shy,smile,smile_b,smile_c,smile_d,surprise,surprise_b,surprise_c,surprise_d,surprise_e,surprise_f,sweat,despair,might_cry,might_cry_b,might_cry_c,might_cry_d,seriously,shout_c,shout_c_c,tragic,doubt,interest,relieved,seriously_b,confused,shout,tear,think,wail,akire_right,angry_most_right,angry_right,angry_serious_right,joy_b_right,joy_right,nigawarai_right,nigawarai_b_right,normal_right,pain_b_right,pain_c_right,pain_right,sad_b_right,sad_c_right,sad_right,serious_right,shame_right,shy_right,smile_b_right,smile_c_right,smile_d_right,smile_right,surprise_b_right,surprise_c_right,surprise_d_right,surprise_e_right,surprise_f_right,surprise_right,sweat_right,despair_right,tragic_right,might_cry_b_right,might_cry_right,might_cry_c_right,might_cry_d_right,seriously_right,shout_c_b_right,shout_c_c_right,shout_c_right,doubt_right,interest_right,relieved_right,seriously_b_right,confused_right,shout_right,tear_right,think_right,wail_right",
       "character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right,character/alk/ui/story/base_0_right",
       "character/alk/ui/story/normal,character/alk/ui/story/akire,character/alk/ui/story/angry,character/alk/ui/story/angry_most,character/alk/ui/story/angry_serious,character/alk/ui/story/joy,character/alk/ui/story/joy_b,character/alk/ui/story/nigawarai,character/alk/ui/story/nigawarai_b,character/alk/ui/story/pain,character/alk/ui/story/pain_b,character/alk/ui/story/pain_c,character/alk/ui/story/sad,character/alk/ui/story/sad_b,character/alk/ui/story/sad_c,character/alk/ui/story/serious,character/alk/ui/story/shame,character/alk/ui/story/shy,character/alk/ui/story/smile,character/alk/ui/story/smile_b,character/alk/ui/story/smile_c,character/alk/ui/story/smile_d,character/alk/ui/story/surprise,character/alk/ui/story/surprise_b,character/alk/ui/story/surprise_c,character/alk/ui/story/surprise_d,character/alk/ui/story/surprise_e,character/alk/ui/story/surprise_f,character/alk/ui/story/sweat,character/alk/ui/story/despair,character/alk/ui/story/might_cry,character/alk/ui/story/might_cry_b,character/alk/ui/story/might_cry_c,character/alk/ui/story/might_cry_d,character/alk/ui/story/seriously,character/alk/ui/story/shout_c,character/alk/ui/story/shout_c_c,character/alk/ui/story/tragic,character/alk/ui/story/doubt,character/alk/ui/story/interest,character/alk/ui/story/relieved,character/alk/ui/story/seriously_b,character/alk/ui/story/confused,character/alk/ui/story/shout,character/alk/ui/story/tear,character/alk/ui/story/think,character/alk/ui/story/wail,character/alk/ui/story/akire_right,character/alk/ui/story/angry_most_right,character/alk/ui/story/angry_right,character/alk/ui/story/angry_serious_right,character/alk/ui/story/joy_b_right,character/alk/ui/story/joy_right,character/alk/ui/story/nigawarai_right,character/alk/ui/story/nigawarai_b_right,character/alk/ui/story/normal_right,character/alk/ui/story/pain_b_right,character/alk/ui/story/pain_c_right,character/alk/ui/story/pain_right,character/alk/ui/story/sad_b_right,character/alk/ui/story/sad_c_right,character/alk/ui/story/sad_right,character/alk/ui/story/serious_right,character/alk/ui/story/shame_right,character/alk/ui/story/shy_right,character/alk/ui/story/smile_b_right,character/alk/ui/story/smile_c_right,character/alk/ui/story/smile_d_right,character/alk/ui/story/smile_right,character/alk/ui/story/surprise_b_right,character/alk/ui/story/surprise_c_right,character/alk/ui/story/surprise_d_right,character/alk/ui/story/surprise_e_right,character/alk/ui/story/surprise_f_right,character/alk/ui/story/surprise_right,character/alk/ui/story/sweat_right,character/alk/ui/story/despair_right,character/alk/ui/story/tragic_right,character/alk/ui/story/might_cry_b_right,character/alk/ui/story/might_cry_right,character/alk/ui/story/might_cry_c_right,character/alk/ui/story/might_cry_d_right,character/alk/ui/story/seriously_right,character/alk/ui/story/shout_c_b_right,character/alk/ui/story/shout_c_c_right,character/alk/ui/story/shout_c_right,character/alk/ui/story/doubt_right,character/alk/ui/story/interest_right,character/alk/ui/story/relieved_right,character/alk/ui/story/seriously_b_right,character/alk/ui/story/confused_right,character/alk/ui/story/shout_right,character/alk/ui/story/tear_right,character/alk/ui/story/think_right,character/alk/ui/story/wail_right"
+    ]
+  ],
+  "asta": [
+    [
+      "アスタ",
+      "0x3f2843",
+      "character/asta/voice/",
+      "normal,anger,patient,serious,serious_c,shame,smile,smile_c,surprise,surprise_b,surprise_c,sweat,sweat_b,normal_base_0_b,anger_base_0_b,patient_base_0_b,serious_base_0_b,serious_c_base_0_b,shame_base_0_b,smile_base_0_b,smile_c_base_0_b,surprise_base_0_b,surprise_b_base_0_b,surprise_c_base_0_b,sweat_base_0_b,sweat_b_base_0_b,anger_b_base_0_c,serious_b_base_0_c,smile_b_base_0_c,surprise_d_base_0_c,sweat_base_0_c,sweat_b_base_0_c,shame_base_0_c,evolve",
+      "character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_1",
+      "character/asta/ui/story/normal,character/asta/ui/story/anger,character/asta/ui/story/patient,character/asta/ui/story/serious,character/asta/ui/story/serious_c,character/asta/ui/story/shame,character/asta/ui/story/smile,character/asta/ui/story/smile_c,character/asta/ui/story/surprise,character/asta/ui/story/surprise_b,character/asta/ui/story/surprise_c,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/normal,character/asta/ui/story/anger,character/asta/ui/story/patient,character/asta/ui/story/serious,character/asta/ui/story/serious_c,character/asta/ui/story/shame,character/asta/ui/story/smile,character/asta/ui/story/smile_c,character/asta/ui/story/surprise,character/asta/ui/story/surprise_b,character/asta/ui/story/surprise_c,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/anger_b,character/asta/ui/story/serious_b,character/asta/ui/story/smile_b,character/asta/ui/story/surprise_d,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/shame,(None)"
+    ]
+  ],
+  "yuno": [
+    [
+      "ユノ",
+      "0x539722",
+      "character/yuno/voice/",
+      "normal,normal_b,pride,serious,serious_b,shame,smile,surprise,sweat,normal_c_base_0_b,serious_c_base_0_b,anger_base_0_b,shame_base_0_b,sweat_base_0_b,evolve",
+      "character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0,character/yuno/ui/story/base_0_b,character/yuno/ui/story/base_0_b,character/yuno/ui/story/base_0_b,character/yuno/ui/story/base_0_b,character/yuno/ui/story/base_0_b,character/yuno/ui/story/base_1",
+      "character/yuno/ui/story/normal,character/yuno/ui/story/normal_b,character/yuno/ui/story/pride,character/yuno/ui/story/serious,character/yuno/ui/story/serious_b,character/yuno/ui/story/shame,character/yuno/ui/story/smile,character/yuno/ui/story/surprise,character/yuno/ui/story/sweat,character/yuno/ui/story/normal_c,character/yuno/ui/story/serious_c,character/yuno/ui/story/anger,character/yuno/ui/story/shame,character/yuno/ui/story/sweat,(None)"
+    ]
+  ],
+  "noelle_silva": [
+    [
+      "ノエル",
+      "0x2f60b2",
+      "character/noelle_silva/voice/",
+      "normal,anger,normal_b,sad,serious,serious_b,shame,smile,surprise,surprise_b,sweat,think,evolve",
+      "character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_1",
+      "character/noelle_silva/ui/story/normal,character/noelle_silva/ui/story/anger,character/noelle_silva/ui/story/normal_b,character/noelle_silva/ui/story/sad,character/noelle_silva/ui/story/serious,character/noelle_silva/ui/story/serious_b,character/noelle_silva/ui/story/shame,character/noelle_silva/ui/story/smile,character/noelle_silva/ui/story/surprise,character/noelle_silva/ui/story/surprise_b,character/noelle_silva/ui/story/sweat,character/noelle_silva/ui/story/think,(None)"
+    ]
+  ],
+  "asta_noname": [
+    [
+      "黒いローブの少年",
+      "0x3f2843",
+      "character/asta/voice/",
+      "normal,anger,patient,serious,serious_c,shame,smile,smile_c,surprise,surprise_b,surprise_c,sweat,sweat_b,normal_base_0_b,anger_base_0_b,patient_base_0_b,serious_base_0_b,serious_c_base_0_b,shame_base_0_b,smile_base_0_b,smile_c_base_0_b,surprise_base_0_b,surprise_b_base_0_b,surprise_c_base_0_b,sweat_base_0_b,sweat_b_base_0_b,anger_b_base_0_c,serious_b_base_0_c,smile_b_base_0_c,surprise_d_base_0_c,sweat_base_0_c,sweat_b_base_0_c,shame_base_0_c,evolve",
+      "character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_b,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_0_c,character/asta/ui/story/base_1",
+      "character/asta/ui/story/normal,character/asta/ui/story/anger,character/asta/ui/story/patient,character/asta/ui/story/serious,character/asta/ui/story/serious_c,character/asta/ui/story/shame,character/asta/ui/story/smile,character/asta/ui/story/smile_c,character/asta/ui/story/surprise,character/asta/ui/story/surprise_b,character/asta/ui/story/surprise_c,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/normal,character/asta/ui/story/anger,character/asta/ui/story/patient,character/asta/ui/story/serious,character/asta/ui/story/serious_c,character/asta/ui/story/shame,character/asta/ui/story/smile,character/asta/ui/story/smile_c,character/asta/ui/story/surprise,character/asta/ui/story/surprise_b,character/asta/ui/story/surprise_c,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/anger_b,character/asta/ui/story/serious_b,character/asta/ui/story/smile_b,character/asta/ui/story/surprise_d,character/asta/ui/story/sweat,character/asta/ui/story/sweat_b,character/asta/ui/story/shame,(None)"
+    ]
+  ],
+  "noelle_silva_noname": [
+    [
+      "黒いローブの少女",
+      "0x2f60b2",
+      "character/noelle_silva/voice/",
+      "normal,anger,normal_b,sad,serious,serious_b,shame,smile,surprise,surprise_b,sweat,think,evolve",
+      "character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_0,character/noelle_silva/ui/story/base_1",
+      "character/noelle_silva/ui/story/normal,character/noelle_silva/ui/story/anger,character/noelle_silva/ui/story/normal_b,character/noelle_silva/ui/story/sad,character/noelle_silva/ui/story/serious,character/noelle_silva/ui/story/serious_b,character/noelle_silva/ui/story/shame,character/noelle_silva/ui/story/smile,character/noelle_silva/ui/story/surprise,character/noelle_silva/ui/story/surprise_b,character/noelle_silva/ui/story/sweat,character/noelle_silva/ui/story/think,(None)"
+    ]
+  ],
+  "mob_black_garment_magician": [
+    [
+      "黒衣の魔術師",
+      "0x32587d",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "noelle_silva_voice": [
+    [
+      "ノエルの声",
+      "0x2f60b2",
+      "character/noelle_silva/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "mob_boy_voice_bcollabo": [
+    [
+      "少年の声",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_boy_bcollabo": [
+    [
+      "少年",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
     ]
   ],
   "alk_smr21": [

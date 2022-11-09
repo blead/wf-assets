@@ -959,6 +959,38 @@
       "(None)"
     ]
   ],
+  "13001": [
+    [
+      "b_collabo_campaign_mission",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/b_collabo_mission_event_background",
+      "quest/event/banner/collect_item_event/b_collabo_mission_event_001",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2022-10-31 12:00:00",
+      "2022-11-15 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "10005": [
     [
       "rcollab_campaign_mission",

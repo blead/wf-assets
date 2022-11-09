@@ -1163,6 +1163,12 @@
       "dynamic/world_story_event_tutorial/crown_beasts/tutorial_expert_single"
     ]
   ],
+  "advent_b_collabo_event": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_b_collab_event/tutorial_01"
+    ]
+  ],
   "anv_story_01_how_to_play": [
     [
       "0",

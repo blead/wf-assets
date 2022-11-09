@@ -2461,6 +2461,73 @@
       ]
     ]
   },
+  "161141": {
+    "5": [
+      [
+        "sound_effect\\weapon\\se_swing_ver2"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect\\unique\\se_asta_attack"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect\\unique\\se_asta_transformation"
+      ]
+    ],
+    "89": [
+      [
+        "sound_effect\\blow\\se_blow_hard_parry"
+      ]
+    ]
+  },
+  "123001": {
+    "5": [
+      [
+        "sound_effect\\water\\se_wave_splash"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect\\water\\se_ice_blade_dissolve"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect\\water\\se_water_large_explosion"
+      ],
+      [
+        "sound_effect\\water\\se_in_water_babble"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect\\water\\se_splash_slam"
+      ]
+    ]
+  },
+  "141129": {
+    "5": [
+      [
+        "sound_effect\\wind\\se_wind_generic_squall"
+      ],
+      [
+        "sound_effect\\wind\\se_single_tornado"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect\\wind\\se_wind_beam"
+      ]
+    ],
+    "143": [
+      [
+        "sound_effect\\wind\\se_swift_tornado"
+      ]
+    ]
+  },
   "161135": {
     "5": [
       [

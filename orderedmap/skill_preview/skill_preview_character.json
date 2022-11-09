@@ -5407,6 +5407,45 @@
       ""
     ]
   ],
+  "161141": [
+    [
+      "287",
+      "false",
+      "false",
+      "287",
+      "false",
+      "false",
+      "character/asta/battle/character_detail_skill_preview",
+      "0",
+      "0"
+    ]
+  ],
+  "141129": [
+    [
+      "288",
+      "false",
+      "false",
+      "288",
+      "false",
+      "false",
+      "character/yuno/battle/character_detail_skill_preview",
+      "400",
+      "0"
+    ]
+  ],
+  "123001": [
+    [
+      "289",
+      "false",
+      "false",
+      "289",
+      "false",
+      "false",
+      "character/noelle_silva/battle/character_detail_skill_preview",
+      "200",
+      "0"
+    ]
+  ],
   "253013": [
     [
       "216",

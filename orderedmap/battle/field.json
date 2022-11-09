@@ -2869,6 +2869,20 @@
       "battle/field_object/world_advent/dark_dragon_area/fever_gauge/dark_dragon_area_fever_gauge"
     ]
   ],
+  "advent_b_collabo": [
+    [
+      "battle/field/world_town/town_barren/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_town/town_barren/fever_gauge/town_barren_fever_gauge"
+    ]
+  ],
   "end_wall_gate": [
     [
       "battle/field/world_end/end_wall_gate/background/background",

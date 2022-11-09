@@ -3911,6 +3911,20 @@
       ]
     }
   },
+  "funnel_b_collabo_boss": {
+    "100": {
+      "neutral": [
+        [
+          "180"
+        ]
+      ],
+      "charge": [
+        [
+          "180"
+        ]
+      ]
+    }
+  },
   "funnel_anv1_big_boss": {
     "49": {
       "neutral": [

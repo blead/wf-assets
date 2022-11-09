@@ -6383,6 +6383,206 @@
       "690"
     ]
   ],
+  "character/asta/ui/full_shot_1440_1920_0": [
+    [
+      "263",
+      "181",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/asta/ui/skill_cutin_0": [
+    [
+      "189",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/asta/ui/full_shot_1440_1920_1": [
+    [
+      "82",
+      "135",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/asta/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/asta/ui/story/anger": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/anger_b": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/base_0": [
+    [
+      "0",
+      "36",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/base_0_b": [
+    [
+      "0",
+      "36",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/base_0_c": [
+    [
+      "0",
+      "20",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/normal": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/patient": [
+    [
+      "212",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/serious": [
+    [
+      "212",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/serious_b": [
+    [
+      "212",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/serious_c": [
+    [
+      "212",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/shame": [
+    [
+      "203",
+      "281",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/smile": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/smile_b": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/smile_c": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/surprise": [
+    [
+      "213",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/surprise_b": [
+    [
+      "213",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/surprise_c": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/surprise_d": [
+    [
+      "213",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/sweat": [
+    [
+      "335",
+      "306",
+      "570",
+      "690"
+    ]
+  ],
+  "character/asta/ui/story/sweat_b": [
+    [
+      "235",
+      "306",
+      "570",
+      "690"
+    ]
+  ],
   "character/aureo_xm19/ui/story/anger": [
     [
       "218",
@@ -45239,6 +45439,150 @@
       "690"
     ]
   ],
+  "character/noelle_silva/ui/full_shot_1440_1920_0": [
+    [
+      "252",
+      "244",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/noelle_silva/ui/skill_cutin_0": [
+    [
+      "358",
+      "127",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/noelle_silva/ui/full_shot_1440_1920_1": [
+    [
+      "14",
+      "136",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/noelle_silva/ui/skill_cutin_1": [
+    [
+      "0",
+      "19",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/noelle_silva/ui/story/anger": [
+    [
+      "208",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/base_0": [
+    [
+      "0",
+      "136",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/base_1": [
+    [
+      "0",
+      "4",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/normal": [
+    [
+      "208",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/normal_b": [
+    [
+      "214",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/sad": [
+    [
+      "214",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/serious": [
+    [
+      "214",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/serious_b": [
+    [
+      "213",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/shame": [
+    [
+      "210",
+      "288",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/smile": [
+    [
+      "213",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/surprise": [
+    [
+      "208",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/surprise_b": [
+    [
+      "213",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/sweat": [
+    [
+      "229",
+      "316",
+      "570",
+      "690"
+    ]
+  ],
+  "character/noelle_silva/ui/story/think": [
+    [
+      "216",
+      "259",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/anger": [
     [
       "207",
@@ -78483,6 +78827,158 @@
     [
       "211",
       "221",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/full_shot_1440_1920_0": [
+    [
+      "381",
+      "171",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/yuno/ui/skill_cutin_0": [
+    [
+      "242",
+      "48",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/yuno/ui/full_shot_1440_1920_1": [
+    [
+      "152",
+      "185",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/yuno/ui/skill_cutin_1": [
+    [
+      "0",
+      "1",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/yuno/ui/story/anger": [
+    [
+      "220",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/base_0": [
+    [
+      "0",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/base_0_b": [
+    [
+      "0",
+      "41",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/base_1": [
+    [
+      "0",
+      "23",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/normal": [
+    [
+      "220",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/normal_b": [
+    [
+      "220",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/normal_c": [
+    [
+      "220",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/pride": [
+    [
+      "220",
+      "258",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/serious": [
+    [
+      "220",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/serious_b": [
+    [
+      "220",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/serious_c": [
+    [
+      "220",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/shame": [
+    [
+      "208",
+      "280",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/smile": [
+    [
+      "220",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/surprise": [
+    [
+      "220",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/yuno/ui/story/sweat": [
+    [
+      "243",
+      "317",
       "570",
       "690"
     ]
