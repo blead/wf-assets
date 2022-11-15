@@ -314,6 +314,11 @@
       "<font size='32px' color='#AAAAAA'><b>::from::</b></font> を\n<font size='32px' color='#FF9F1C'><b>::to::</b></font> にコピー（上書き）します\n<font size='24px' color='#EA3553'>※上書きしたパーティは戻せません</font>"
     ]
   ],
+  "party_group_edit_copy_dialog_thumbnail_tap_caution": [
+    [
+      "※詳細確認で別の画面に移動した場合、コピーはキャンセルされます"
+    ]
+  ],
   "party_group_edit_carnival_event_invalid_party_select_message": [
     [
       "ハニワカーニバル用のSETから選択してください"
@@ -1437,6 +1442,11 @@
   "ability_description_target_multiball_group": [
     [
       "::multiball_group::"
+    ]
+  ],
+  "ability_description_target_multiball_constraint": [
+    [
+      "::constraint::のマルチボール"
     ]
   ],
   "ability_description_target_specific_multiball": [
@@ -3327,6 +3337,11 @@
   "ability_description_condition_target_damage_cut": [
     [
       "ダメージカット効果"
+    ]
+  ],
+  "ability_description_condition_target_damage_cut_element": [
+    [
+      "::element::ダメージカット効果"
     ]
   ],
   "ability_description_condition_target_invincible": [
@@ -5369,6 +5384,11 @@
       "クリア"
     ]
   ],
+  "button_label_multi_room_allow_heal_from_others": [
+    [
+      "他者からの回復"
+    ]
+  ],
   "button_label_lounge_start": [
     [
       "開始する"
@@ -5482,6 +5502,16 @@
   "multibattle_room_confirm_back_guest": [
     [
       "ルームから退出しますか？"
+    ]
+  ],
+  "multibattle_room_confirm_allow_heal_from_other_players_on": [
+    [
+      "協力バトル中、\n他プレイヤーからの回復を\n受けるようになります。\nよろしいですか？"
+    ]
+  ],
+  "multibattle_room_confirm_allow_heal_from_other_players_off": [
+    [
+      "協力バトル中、\n他プレイヤーからの回復を\n受けなくなります。\nよろしいですか？"
     ]
   ],
   "multibattle_room_auto_disbanded": [
@@ -9604,6 +9634,21 @@
       "優先する属性を選択して下さい"
     ]
   ],
+  "party_copy_confirm_not_enough_dialog_partial_edit": [
+    [
+      "部分編成"
+    ]
+  ],
+  "party_copy_confirm_not_enough_dialog_auto_edit": [
+    [
+      "自動編成"
+    ]
+  ],
+  "party_copy_confirm_not_enough_dialog_message": [
+    [
+      "上記の編成項目が不足しています\n\n不足している編成項目を自動で編成するか\n編成可能な部分のみ編成するか\n選択してください"
+    ]
+  ],
   "chapter_select_main_progress_rate": [
     [
       "メインクリア率"
@@ -12079,6 +12124,21 @@
       "入力桁数が6桁に満たないまたは入力が間違っています"
     ]
   ],
+  "party_copy_confirm_enough_dialog_title": [
+    [
+      "編成コピー完了"
+    ]
+  ],
+  "party_copy_confirm_not_enough_dialog_title": [
+    [
+      "編成コピー確認"
+    ]
+  ],
+  "party_copy_confirm_dialog_party_copied": [
+    [
+      "編成をコピーしました"
+    ]
+  ],
   "overlimit_conversion_character_into_experience_bond_token_dialog_message": [
     [
       "帰還したキャラの絆の証を\n受け取る条件を満たしていたため\n絆の証は『メール』に送られました"
@@ -13442,6 +13502,26 @@
   "user_data_erase_request_complete_message": [
     [
       "アカウント削除申請が完了しました"
+    ]
+  ],
+  "recent_other_player_party_button": [
+    [
+      "おすすめ編成"
+    ]
+  ],
+  "recent_other_player_party_party_power_label": [
+    [
+      "戦力"
+    ]
+  ],
+  "recent_other_player_party_list_empty_label": [
+    [
+      "現在のおすすめ編成はありません"
+    ]
+  ],
+  "recent_other_player_party_maintenance": [
+    [
+      "ただいまメンテナンス中です"
     ]
   ],
   "help_label_event_advent_u_collabo": [

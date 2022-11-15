@@ -10919,6 +10919,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141135": [
+    [
+      "degree_favor_asymmetry_birdgirl",
+      "113000",
+      "鳥族の姫巫女",
+      "とりぞくのひめみこ",
+      "獲得条件：【鳥族の姫巫女】ゼフィールをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asymmetry_birdgirl"
+    ]
+  ],
+  "161147": [
+    [
+      "degree_favor_horn_mypace",
+      "173000",
+      "心角の癒し手",
+      "しんかくのいやして",
+      "獲得条件：【心角の癒し手】エルモルをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_horn_mypace"
+    ]
+  ],
+  "241069": [
+    [
+      "degree_favor_kung_fu_girl",
+      "308000",
+      "仇敵を追う拳士",
+      "きゅうてきをおうけんし",
+      "獲得条件：【仇敵を追う拳士】フーランをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kung_fu_girl"
+    ]
+  ],
   "161141": [
     [
       "degree_favor_asta",
@@ -13660,6 +13699,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_crown_beasts_challenge_clear_1_1"
+    ]
+  ],
+  "64009": [
+    [
+      "degree_combat_diver_04_01",
+      "550009",
+      "D-Ｒｅｖ．１",
+      "でぃーりびじょんわん",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング ６０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_04_01"
+    ]
+  ],
+  "64010": [
+    [
+      "degree_combat_diver_04_02",
+      "550010",
+      "D-Ｒｅｖ．２",
+      "でぃーりびじょんつー",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング ３０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_04_02"
+    ]
+  ],
+  "64011": [
+    [
+      "degree_combat_diver_04_03",
+      "550011",
+      "D-Ｒｅｖ．３",
+      "でぃーりびじょんすりー",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング １０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_04_03"
     ]
   ],
   "64006": [

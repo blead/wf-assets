@@ -20,6 +20,7 @@
         [
           "CreateOneWayWallGimmick",
           -33,
+          "*",
           540,
           450,
           -20,
