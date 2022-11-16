@@ -66,5 +66,22 @@
       "(None)",
       "(None)"
     ]
+  ],
+  "10000004": [
+    [
+      "boss_battle_multi_pickup_event_21_boss_coin_shop_select_campaign",
+      "10000011",
+      "33",
+      "quest/boss_battle/background/boss_battle_empress_03",
+      "3",
+      "boss_coin_shop_select_campaign_empress_03",
+      "2022-11-15 12:00:00",
+      "2022-11-27 20:59:59",
+      "2022-12-04 04:59:59",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)"
+    ]
   ]
 }
