@@ -1,29 +1,4 @@
 {
-  "700004": [
-    [
-      "combat_diver_04",
-      "コンバットダイバー",
-      "2022-11-15 12:00:00,2022-11-28 12:00:00,2022-12-01 12:00:00,2022-12-07 04:59:59",
-      "quest/event/banner/rush_event/combat_diver_01_banner_001,quest/event/banner/rush_event/combat_diver_01_banner_002,quest/event/banner/rush_event/combat_diver_01_banner_003",
-      "quest/event/bossbattle_banner/rush_event/combat_diver_01_bossbattle_banner_001,(None),(None)",
-      "quest/event/background/rush_event/combat_diver_01_background",
-      "quest/event/logo/rush_event/combat_diver_logo",
-      "quest/event/animation_background/rush_event/combat_diver_lobby_background",
-      "bgm/event/rush_battle_event/combat_diver_event_top",
-      "3",
-      "1",
-      "2022-12-01 11:59:59",
-      "2022-12-07 04:59:59",
-      "70004",
-      "(None)",
-      "(None)",
-      "(None)",
-      "combat_diver_01",
-      "2022-11-15 12:00:00",
-      "2022-11-28 11:59:59",
-      "2022-12-07 04:59:59"
-    ]
-  ],
   "700003": [
     [
       "combat_diver_03",
