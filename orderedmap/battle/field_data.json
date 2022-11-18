@@ -4080,55 +4080,6 @@
       "skill_preview_common"
     ]
   ],
-  "rush_04_treant1": [
-    [
-      "tree_worldtree",
-      "battle/terrain/event_quest/combat_event/treant_rush",
-      "rush_04_treant1"
-    ]
-  ],
-  "rush_04_treant2": [
-    [
-      "tree_worldtree",
-      "battle/terrain/event_quest/combat_event/treant_rush",
-      "rush_04_treant2"
-    ]
-  ],
-  "rush_04_treant3": [
-    [
-      "tree_worldtree",
-      "battle/terrain/event_quest/combat_event/treant_rush",
-      "rush_04_treant3"
-    ]
-  ],
-  "rush_04_yokai_emaki_big_boss1": [
-    [
-      "japan_shrine",
-      "battle/terrain/event_quest/combat_event/yokai_emaki_big_boss_rush",
-      "rush_04_yokai_emaki_big_boss1"
-    ]
-  ],
-  "rush_04_yokai_emaki_big_boss2": [
-    [
-      "japan_shrine",
-      "battle/terrain/event_quest/combat_event/yokai_emaki_big_boss_rush",
-      "rush_04_yokai_emaki_big_boss2"
-    ]
-  ],
-  "rush_04_yokai_emaki_big_boss3": [
-    [
-      "japan_shrine",
-      "battle/terrain/event_quest/combat_event/yokai_emaki_big_boss_rush",
-      "rush_04_yokai_emaki_big_boss3"
-    ]
-  ],
-  "rush_04_smr21_big_boss": [
-    [
-      "drifting_island_laboratory_heathen_gods_room",
-      "battle/terrain/event_quest/combat_event/smr21_big_boss_rush",
-      "rush_04_smr21_big_boss"
-    ]
-  ],
   "rush_guardian_totem_1": [
     [
       "sand_ruins",
@@ -5520,27 +5471,6 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
-    ]
-  ],
-  "skill_preview_asymmetry_birdgirl": [
-    [
-      "common_skill_preview",
-      "battle/terrain/skill_preview/skill_preview_asymmetry_birdgirl",
-      "skill_preview_common"
-    ]
-  ],
-  "skill_preview_horn_mypace": [
-    [
-      "common_skill_preview",
-      "battle/terrain/skill_preview/skill_preview_horn_mypace",
-      "skill_preview_common"
-    ]
-  ],
-  "skill_preview_kung_fu_girl": [
-    [
-      "common_skill_preview",
-      "battle/terrain/skill_preview/skill_preview_kung_fu_girl",
-      "skill_preview_common"
     ]
   ],
   "skill_preview_wind_spgirl_hw22": [

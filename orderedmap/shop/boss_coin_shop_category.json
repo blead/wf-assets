@@ -46,7 +46,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_3_lich",
       "quest/boss_battle/background/boss_battle_lich",
-      "1,3,6,8,10,11,13,14,15,17,10000008,10000011,16",
+      "1,3,6,8,10,11,13,14,15,17,10000008,16",
       "false"
     ]
   ],
@@ -80,7 +80,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_6_gurdian_golem",
       "quest/boss_battle/background/boss_battle_gurdian_golem",
-      "1,4,5,6,8,9,13,14,15,10000004,10000008,10000011,16",
+      "1,4,5,6,8,9,13,14,15,10000004,10000008,16",
       "false"
     ]
   ],
@@ -148,7 +148,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_13_boar_rider",
       "quest/boss_battle/background/boss_battle_boar_rider",
-      "9,14,15,17,10000008,10000011,16",
+      "9,14,15,17,10000008,16",
       "false"
     ]
   ],
@@ -335,7 +335,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_24_grizzly_fire",
       "quest/boss_battle/background/boss_battle_grizzly_fire",
-      "14,15,10000004,10000008,10000011,16",
+      "14,15,10000004,10000008,16",
       "false"
     ]
   ],
@@ -451,10 +451,10 @@
       "34",
       "1",
       "1034001",
-      "2022-12-04 04:59:59",
+      "2022-09-23 04:59:59",
       "quest/boss_battle/banner/boss_battle_34_empress_01",
       "quest/boss_battle/background/boss_battle_empress_03",
-      "10000004,10000011",
+      "10000004",
       "true"
     ]
   ]

@@ -75,34 +75,6 @@
       ]
     }
   },
-  "funnel_strong1_rush": {
-    "100": {
-      "skill_charge_a1": [
-        [
-          "200"
-        ]
-      ],
-      "skill_charge_a2": [
-        [
-          "180"
-        ]
-      ]
-    }
-  },
-  "funnel_strong2_rush": {
-    "100": {
-      "skill_charge_b1": [
-        [
-          "200"
-        ]
-      ],
-      "skill_charge_b2": [
-        [
-          "180"
-        ]
-      ]
-    }
-  },
   "funnel_strong1_single": {
     "79": {
       "skill_charge_a1": [
