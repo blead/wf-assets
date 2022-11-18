@@ -2535,6 +2535,53 @@
       ]
     ]
   },
+  "yokai_emaki_oni_rush": {
+    "100": [
+      [
+        "0",
+        "",
+        "character/oni_fire/pixelart/pixelart",
+        "character/oni_water/pixelart/pixelart",
+        "character/oni_thunder/pixelart/pixelart",
+        "character/oni_wind/pixelart/pixelart",
+        "character/oni_light/pixelart/pixelart",
+        "character/oni/pixelart/pixelart",
+        "Mystery",
+        "Female",
+        "battle/zako/general_zako/general_zako_marker",
+        "battle/zako/general_zako/general_zako_shadow",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "*spawn-point*",
+        "general_zako",
+        "start",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "false",
+        "false",
+        "false",
+        "false",
+        "false",
+        "battle/action/enemy/action/boss_yokai_emaki_big_boss/funnel_yokai_emaki_big_boss$difficulity10_shot5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "yokai_emaki_oni": {
     "100": [
       [

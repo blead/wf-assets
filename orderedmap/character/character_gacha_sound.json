@@ -2461,6 +2461,87 @@
       ]
     ]
   },
+  "141135": {
+    "5": [
+      [
+        "sound_effect/wind/se_wind_bang_down"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/wind/se_swirling_wind_stick"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/wind/se_single_tornado"
+      ]
+    ],
+    "107": [
+      [
+        "sound_effect/weapon/se_throw_slow"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/weapon/se_throw_slow"
+      ]
+    ]
+  },
+  "161147": {
+    "5": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/light/se_power_flip_supporter_lv3_attack"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ]
+    ]
+  },
+  "241069": {
+    "11": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "47": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "69": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "87": [
+      [
+        "sound_effect/blow/se_blow_hard_parry"
+      ]
+    ],
+    "121": [
+      [
+        "sound_effect/blow/se_power_flip_fighter_lv1"
+      ]
+    ],
+    "165": [
+      [
+        "sound_effect/wind/se_screw_thrust_small"
+      ]
+    ],
+    "207": [
+      [
+        "sound_effect/situation/se_emote_notice_v01"
+      ]
+    ]
+  },
   "161141": {
     "5": [
       [

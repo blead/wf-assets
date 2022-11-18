@@ -474,6 +474,48 @@
       ]
     }
   },
+  "yokai_emaki_big_boss_rush1": {
+    "100": {
+      "skill_charge1": [
+        [
+          "450"
+        ]
+      ],
+      "skill_loop": [
+        [
+          "250"
+        ]
+      ]
+    }
+  },
+  "yokai_emaki_big_boss_rush2": {
+    "100": {
+      "skill_charge1": [
+        [
+          "450"
+        ]
+      ],
+      "skill_loop": [
+        [
+          "250"
+        ]
+      ]
+    }
+  },
+  "yokai_emaki_big_boss_rush3": {
+    "100": {
+      "skill_charge1": [
+        [
+          "450"
+        ]
+      ],
+      "skill_loop": [
+        [
+          "250"
+        ]
+      ]
+    }
+  },
   "yokai_emaki_big_boss_single": {
     "59": {
       "skill_charge1": [
@@ -1336,6 +1378,123 @@
       "skill_charge3": [
         [
           "210"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
+  "treant_rush1": {
+    "49": {
+      "neutral1": [
+        [
+          "90"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "neutral3": [
+        [
+          "90"
+        ]
+      ],
+      "neutral4": [
+        [
+          "60"
+        ]
+      ],
+      "neutral5": [
+        [
+          "90"
+        ]
+      ],
+      "neutral6": [
+        [
+          "60"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "2"
+        ]
+      ]
+    }
+  },
+  "treant_rush2": {
+    "79": {
+      "neutral1": [
+        [
+          "150"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "neutral3": [
+        [
+          "150"
+        ]
+      ],
+      "neutral4": [
+        [
+          "60"
+        ]
+      ],
+      "neutral5": [
+        [
+          "150"
+        ]
+      ],
+      "neutral6": [
+        [
+          "60"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
+  "treant_rush3": {
+    "100": {
+      "neutral1": [
+        [
+          "150"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "neutral3": [
+        [
+          "150"
+        ]
+      ],
+      "neutral4": [
+        [
+          "60"
+        ]
+      ],
+      "neutral5": [
+        [
+          "150"
+        ]
+      ],
+      "neutral6": [
+        [
+          "60"
         ]
       ],
       "neutral_attack": [
