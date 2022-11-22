@@ -58134,6 +58134,7 @@ dynamic/degree/degree_favor_gunslinger_2
 dynamic/degree/degree_favor_halberd_princess
 dynamic/degree/degree_favor_halberd_princess_2
 dynamic/degree/degree_favor_halberd_princess_2halfanv
+dynamic/degree/degree_favor_halberd_princess_2halfanv_2
 dynamic/degree/degree_favor_half_knight
 dynamic/degree/degree_favor_half_knight_2
 dynamic/degree/degree_favor_half_oni_boy
@@ -58195,6 +58196,7 @@ dynamic/degree/degree_favor_horn_mypace
 dynamic/degree/degree_favor_hoshikawa_ririi
 dynamic/degree/degree_favor_hoshikawa_ririi_2
 dynamic/degree/degree_favor_ice_dragon
+dynamic/degree/degree_favor_ice_dragon_2
 dynamic/degree/degree_favor_ice_witch
 dynamic/degree/degree_favor_ice_witch_2
 dynamic/degree/degree_favor_ice_witch_2anv
@@ -58239,6 +58241,7 @@ dynamic/degree/degree_favor_kyaru
 dynamic/degree/degree_favor_kyaru_2
 dynamic/degree/degree_favor_kyon
 dynamic/degree/degree_favor_kyouka
+dynamic/degree/degree_favor_kyouka_2
 dynamic/degree/degree_favor_lady_android
 dynamic/degree/degree_favor_lady_android_2
 dynamic/degree/degree_favor_lady_gunner
@@ -58288,6 +58291,7 @@ dynamic/degree/degree_favor_magic_sword_girl_2
 dynamic/degree/degree_favor_magical_bayonetter
 dynamic/degree/degree_favor_magical_bayonetter_2
 dynamic/degree/degree_favor_marching_conductor
+dynamic/degree/degree_favor_marching_conductor_2
 dynamic/degree/degree_favor_marching_rival
 dynamic/degree/degree_favor_master_knight
 dynamic/degree/degree_favor_master_knight_2
@@ -58305,12 +58309,14 @@ dynamic/degree/degree_favor_mermaid_2
 dynamic/degree/degree_favor_mighty_striker
 dynamic/degree/degree_favor_mighty_striker_2
 dynamic/degree/degree_favor_mimi
+dynamic/degree/degree_favor_mimi_2
 dynamic/degree/degree_favor_minamoto_sakura
 dynamic/degree/degree_favor_minamoto_sakura_2
 dynamic/degree/degree_favor_minotaur_girl
 dynamic/degree/degree_favor_minotaur_girl_2
 dynamic/degree/degree_favor_mirror_witch
 dynamic/degree/degree_favor_misogi
+dynamic/degree/degree_favor_misogi_2
 dynamic/degree/degree_favor_mizuno_ai
 dynamic/degree/degree_favor_mizuno_ai_2
 dynamic/degree/degree_favor_monster_attract
@@ -58489,6 +58495,7 @@ dynamic/degree/degree_favor_silent_ninja_2
 dynamic/degree/degree_favor_sing_android
 dynamic/degree/degree_favor_sing_android_2
 dynamic/degree/degree_favor_sing_android_2halfanv
+dynamic/degree/degree_favor_sing_android_2halfanv_2
 dynamic/degree/degree_favor_sing_android_hw20
 dynamic/degree/degree_favor_sing_android_hw20_2
 dynamic/degree/degree_favor_skateboard_boy
@@ -58526,6 +58533,7 @@ dynamic/degree/degree_favor_still_obstinator
 dynamic/degree/degree_favor_student_gunsmith
 dynamic/degree/degree_favor_student_gunsmith_2
 dynamic/degree/degree_favor_student_president
+dynamic/degree/degree_favor_student_president_2
 dynamic/degree/degree_favor_stylish_witch
 dynamic/degree/degree_favor_stylish_witch_2
 dynamic/degree/degree_favor_subaru
@@ -58535,6 +58543,7 @@ dynamic/degree/degree_favor_summoner_little_2
 dynamic/degree/degree_favor_summoner_little_2anv
 dynamic/degree/degree_favor_summoner_little_2anv_2
 dynamic/degree/degree_favor_super_robot
+dynamic/degree/degree_favor_super_robot_2
 dynamic/degree/degree_favor_suzumiya_haruhi
 dynamic/degree/degree_favor_swallow_knight
 dynamic/degree/degree_favor_swallow_knight_2
@@ -58600,6 +58609,7 @@ dynamic/degree/degree_favor_warashi_2
 dynamic/degree/degree_favor_warlock
 dynamic/degree/degree_favor_warlock_2
 dynamic/degree/degree_favor_warlock_2halfanv
+dynamic/degree/degree_favor_warlock_2halfanv_2
 dynamic/degree/degree_favor_waste_armor
 dynamic/degree/degree_favor_waterdragon_kunfu
 dynamic/degree/degree_favor_waterdragon_kunfu_2
@@ -59132,6 +59142,7 @@ dynamic/feature_announcement/revival_1anv_character_pickup_02
 dynamic/feature_announcement/revival_1halfanv_character_pickup_01
 dynamic/feature_announcement/revival_20ny_character_pickup_01
 dynamic/feature_announcement/revival_2anv_character_pickup_01
+dynamic/feature_announcement/revival_2halfanv_character_pickup_01
 dynamic/feature_announcement/revival_crown_beasts_character_pickup_01
 dynamic/feature_announcement/revival_desert_bonds_character_pickup_01
 dynamic/feature_announcement/revival_half_aniv_character_pickup_01
@@ -59468,6 +59479,7 @@ dynamic/gacha_list_banner/revival_1anv_character_pickup_02
 dynamic/gacha_list_banner/revival_1halfanv_character_pickup_01
 dynamic/gacha_list_banner/revival_20ny_character_pickup_01
 dynamic/gacha_list_banner/revival_2anv_character_pickup_01
+dynamic/gacha_list_banner/revival_2halfanv_character_pickup_01
 dynamic/gacha_list_banner/revival_crown_beasts_character_pickup_01
 dynamic/gacha_list_banner/revival_desert_bonds_character_pickup_01
 dynamic/gacha_list_banner/revival_half_aniv_character_pickup_01
@@ -59852,6 +59864,7 @@ dynamic/home_banner/gacha/revival_1anv_character_pickup_02
 dynamic/home_banner/gacha/revival_1halfanv_character_pickup_01
 dynamic/home_banner/gacha/revival_20ny_character_pickup_01
 dynamic/home_banner/gacha/revival_2anv_character_pickup_01
+dynamic/home_banner/gacha/revival_2halfanv_character_pickup_01
 dynamic/home_banner/gacha/revival_crown_beasts_character_pickup_01
 dynamic/home_banner/gacha/revival_desert_bonds_character_pickup_01
 dynamic/home_banner/gacha/revival_half_aniv_character_pickup_01
@@ -61180,6 +61193,7 @@ gacha/feature_movie/revival_1anv_character_pickup_02/top/feature
 gacha/feature_movie/revival_1halfanv_character_pickup_01/top/feature
 gacha/feature_movie/revival_20ny_character_pickup_01/top/feature
 gacha/feature_movie/revival_2anv_character_pickup_01/top/feature
+gacha/feature_movie/revival_2halfanv_character_pickup_01/top/feature
 gacha/feature_movie/revival_crown_beasts_character_pickup_01/top/feature
 gacha/feature_movie/revival_desert_bonds_character_pickup_01/top/feature
 gacha/feature_movie/revival_half_aniv_character_pickup_01/ruin_girl_halfanv/feature

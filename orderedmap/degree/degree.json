@@ -7877,6 +7877,136 @@
       "dynamic/degree/degree_favor_delusion_girl_2"
     ]
   ],
+  "1111111": [
+    [
+      "degree_favor_halberd_princess_2halfanv_2",
+      "11011",
+      "いざ躍進ミレイア！",
+      "いざやくしんみれいあ",
+      "獲得条件：【怪力プリンセス留学生】トーリアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_halberd_princess_2halfanv_2"
+    ]
+  ],
+  "1121117": [
+    [
+      "degree_favor_sing_android_2halfanv_2",
+      "321021",
+      "きっとあなたに届く歌",
+      "きっとあなたにとどくうた",
+      "獲得条件：【鋼鉄深淵の歌姫】ディアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sing_android_2halfanv_2"
+    ]
+  ],
+  "1161117": [
+    [
+      "degree_favor_warlock_2halfanv_2",
+      "354011",
+      "最果てを目指す魔道",
+      "さいはてをめざすまどう",
+      "獲得条件：【真理の探求者】リアンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_warlock_2halfanv_2"
+    ]
+  ],
+  "1223019": [
+    [
+      "degree_favor_student_president_2",
+      "255001",
+      "共に歩もう！同じ夢へ！",
+      "ともにあゆもうおなじゆめへ",
+      "獲得条件：【魔法学院の生徒会長】ルシアーダのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_student_president_2"
+    ]
+  ],
+  "1121099": [
+    [
+      "degree_favor_kyouka_2",
+      "50001",
+      "防犯魔石を鳴らしますよ？",
+      "ぼうはんませきをならしますよ",
+      "獲得条件：【小さな優等生エルフ】キョウカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kyouka_2"
+    ]
+  ],
+  "1111093": [
+    [
+      "degree_favor_misogi_2",
+      "19001",
+      "トラップエキスパート",
+      "とらっぷえきすぱーと",
+      "獲得条件：【イタズラの天才】ミソギのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_misogi_2"
+    ]
+  ],
+  "1141087": [
+    [
+      "degree_favor_mimi_2",
+      "107001",
+      "ミミ、がんばるね！",
+      "みみがんばるね",
+      "獲得条件：【心優しいウサギ少女】ミミのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mimi_2"
+    ]
+  ],
+  "1121105": [
+    [
+      "degree_favor_ice_dragon_2",
+      "51001",
+      "解き放たれた運命",
+      "ときはなたれたうんめい",
+      "獲得条件：【自由を謳う氷牙龍】アンバッハのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ice_dragon_2"
+    ]
+  ],
+  "1131092": [
+    [
+      "degree_favor_super_robot_2",
+      "81001",
+      "インスタントヒーロー",
+      "いんすたんとひーろー",
+      "獲得条件：【モラトリアムウェポン】テクトのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_super_robot_2"
+    ]
+  ],
+  "1141093": [
+    [
+      "degree_favor_marching_conductor_2",
+      "108001",
+      "そして少女は星と輝く",
+      "そしてしょうじょはほしとかがやく",
+      "獲得条件：【マーチングスター】マルチアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_marching_conductor_2"
+    ]
+  ],
   "1121070": [
     [
       "degree_favor_psychic_yuki_2",
