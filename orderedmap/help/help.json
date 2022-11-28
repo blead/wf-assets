@@ -215,8 +215,8 @@
       "1",
       "0",
       "",
-      "2022-10-31 12:00:00",
-      "2022-11-15 20:59:59"
+      "2022-11-28 12:00:00",
+      "2023-01-05 23:59:59"
     ]
   ],
   "help_reward_campaign": [
@@ -237,8 +237,8 @@
       "1",
       "1",
       "rich_text/help_reward_campaign_2ndanv",
-      "2022-07-15 12:00:00",
-      "2022-07-29 20:59:59"
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59"
     ]
   ],
   "help_reward_campaign_spr22": [
@@ -283,6 +283,17 @@
       "rich_text/help_battle_support_campaign",
       "2022-08-31 12:00:00",
       "2022-09-15 20:59:59"
+    ]
+  ],
+  "help_reward_100manyen_campaign": [
+    [
+      "help_label_reward_100manyen_campaign",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_reward_100manyen_campaign",
+      "2022-11-28 12:00:00",
+      "2023-01-05 23:59:59"
     ]
   ],
   "Character": [
@@ -769,6 +780,17 @@
       "2021-12-23 11:59:59"
     ]
   ],
+  "multi_special_exchange_02": [
+    [
+      "help_label_event_multi_special_exchange",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_multi_special_exchange_02",
+      "2022-11-28 12:00:00",
+      "2022-12-23 11:59:59"
+    ]
+  ],
   "Event_material_trader": [
     [
       "help_label_event_material_trader",
@@ -956,6 +978,17 @@
       "(None)"
     ]
   ],
+  "equipment_enhancement_epuration_weapon": [
+    [
+      "help_label_equipment_enhancement_epuration_weapon",
+      "Equipment_Enhancement_List",
+      "1",
+      "1",
+      "rich_text/help_equipment_enhancement_epuration_weapon",
+      "2022-11-28 12:00:00",
+      "(None)"
+    ]
+  ],
   "event_world_story_desert_bonds_01": [
     [
       "help_label_event_world_story_desert_bonds_01",
@@ -1053,6 +1086,17 @@
       "rich_text/help_campaign_battle",
       "2021-02-28 12:00:00",
       "2021-03-09 11:59:59"
+    ]
+  ],
+  "event_boss_epuration_event_01": [
+    [
+      "help_label_event_boss_epuration_event_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_epuration_event_01",
+      "2022-11-28 12:00:00",
+      "2022-12-23 04:59:59"
     ]
   ],
   "boss_battle_multi_pickup_event": [
@@ -1185,6 +1229,17 @@
       "rich_text/help_event_world_story_event_anv_re01",
       "2021-11-11 12:00:00",
       "2021-11-27 04:59:59"
+    ]
+  ],
+  "event_anv3": [
+    [
+      "help_event_world_story_event_anv3",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_anv3",
+      "2022-11-28 12:00:00",
+      "2022-12-23 04:59:59"
     ]
   ],
   "event_anv2_re01": [

@@ -1511,6 +1511,34 @@
       "battle/field_object/world_mecha/mecha_area02_expert/fever_gauge/mecha_area02_fever_gauge"
     ]
   ],
+  "epuration_boss_highest": [
+    [
+      "battle/field/world_advent/epuration_boss_highest/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/epuration_boss_highest/fever_gauge/fever_gauge"
+    ]
+  ],
+  "epuration_boss_3anv_dammy": [
+    [
+      "battle/field/world_advent/epuration_boss_3anv_dammy/background/background",
+      "battle/field/world_advent/epuration_boss_3anv_dammy/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/epuration_boss_3anv_dammy/fever_gauge/fever_gauge"
+    ]
+  ],
   "sand_giant_inside_ev": [
     [
       "battle/field/world_sand/sand_giant_inside_ev/background/background",
@@ -2155,6 +2183,34 @@
       "battle/field_object/world_advent/valentine_area_expert/fever_gauge/valentine_area_expert_fever_gauge"
     ]
   ],
+  "lion_tribe_sanctuary_kings_room_hell": [
+    [
+      "battle/field/world_beast/lion_tribe_sanctuary_kings_room_expert/background/background",
+      "battle/field/world_beast/lion_tribe_sanctuary_kings_room_expert/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_beast/lion_tribe_sanctuary_kings_room_expert/fever_gauge/lion_tribe_sanctuary_kings_room_fever_gauge"
+    ]
+  ],
+  "cyber_punk_vacant_land_battle_hell": [
+    [
+      "battle/field/world_cyber_punk/cyber_punk_vacant_land_battle_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_cyber_punk/cyber_punk_vacant_land_battle_expert/fever_gauge/cyber_punk_vacant_land_battle_fever_gauge"
+    ]
+  ],
   "boss_battle_shark_area": [
     [
       "battle/field/world_boss_battle/shark_area/background/background",
@@ -2167,6 +2223,20 @@
       "battle/field_object/world_end/weekly_dungeon/gate/weekly_dungeon_gate",
       "battle/field_object/world_end/weekly_dungeon/transit_pod/weekly_dungeon_transit_pod",
       "battle/field_object/world_end/weekly_dungeon/fever_gauge/weekly_dungeon_fever_gauge"
+    ]
+  ],
+  "anv3": [
+    [
+      "battle/field/world_advent/anv3_area/background/background",
+      "battle/field/world_advent/anv3_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/anv3_area/fever_gauge/anv3_area_fever_gauge"
     ]
   ],
   "anv2_countdown_event1": [

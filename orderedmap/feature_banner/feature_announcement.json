@@ -3599,6 +3599,123 @@
       "false"
     ]
   ],
+  "199257": [
+    [
+      "5002",
+      "dynamic/feature_announcement/anv3_release_event",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "false"
+    ]
+  ],
+  "199766": [
+    [
+      "6900",
+      "dynamic/feature_announcement/notice_3rd_aniv_campaign",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "false"
+    ]
+  ],
+  "195110": [
+    [
+      "5000",
+      "dynamic/feature_announcement/special_exchange_campaign_09",
+      "2022-11-28 12:00:00",
+      "2022-12-12 11:59:59",
+      "false"
+    ]
+  ],
+  "201265": [
+    [
+      "5010",
+      "dynamic/feature_announcement/multi_special_exchange_campaign_02",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "false"
+    ]
+  ],
+  "200185": [
+    [
+      "5000",
+      "dynamic/feature_announcement/special_exchange_equipment_present_01",
+      "2022-11-28 12:00:00",
+      "2022-12-19 11:59:59",
+      "false"
+    ]
+  ],
+  "200272": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_76",
+      "2022-11-28 12:00:00",
+      "2022-12-06 11:59:59",
+      "false"
+    ]
+  ],
+  "199828": [
+    [
+      "4000",
+      "dynamic/feature_announcement/3rd_anniversary_special_set",
+      "2022-11-28 12:00:00",
+      "2022-12-31 11:59:59",
+      "false"
+    ]
+  ],
+  "193371": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_anv3",
+      "2022-11-28 12:00:00",
+      "2022-12-15 20:59:59",
+      "false"
+    ]
+  ],
+  "199308": [
+    [
+      "2000",
+      "dynamic/feature_announcement/anv3_campaign_gacha1",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "false"
+    ]
+  ],
+  "198315": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_sidestory_anv3",
+      "2022-11-28 12:00:00",
+      "2022-12-29 11:59:59",
+      "false"
+    ]
+  ],
+  "202182": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_white_pickup_2",
+      "2022-11-28 12:00:00",
+      "2022-12-30 11:59:59",
+      "false"
+    ]
+  ],
+  "201198": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_3anniv_100_campaign",
+      "2022-11-28 12:00:00",
+      "2022-12-12 11:59:59",
+      "false"
+    ]
+  ],
+  "192914": [
+    [
+      "1000",
+      "dynamic/feature_announcement/boss_epuration_event_01",
+      "2022-11-28 12:00:00",
+      "2022-12-15 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

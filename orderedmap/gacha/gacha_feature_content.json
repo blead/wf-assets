@@ -5029,6 +5029,125 @@
       ]
     ]
   },
+  "147": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_76/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151129",
+        "0",
+        "151129",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_76/swallow_knight_3anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151129",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161153",
+        "0",
+        "161153",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_76/veteran_hunter_3anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161153",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121141",
+        "0",
+        "121141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_76/wind_spbro_3anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121141",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161159",
+        "0",
+        "161159",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_76/rector_sorcerer_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161159",
+        ""
+      ]
+    ]
+  },
   "145": {
     "1": [
       [
@@ -10777,6 +10896,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_wind_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5031": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_white_pickup_2",
         "",
         "",
         "",

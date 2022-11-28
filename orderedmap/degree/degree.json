@@ -77,6 +77,45 @@
       "dynamic/degree/degree_player_rank_growth_5"
     ]
   ],
+  "1050": [
+    [
+      "degree_player_rank_growth_6",
+      "105",
+      "努力の向こう側",
+      "どりょくのむこうがわ",
+      "獲得条件：プレイヤーランクが 200 に到達",
+      "1",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_player_rank_growth_6"
+    ]
+  ],
+  "1060": [
+    [
+      "degree_player_rank_growth_7",
+      "106",
+      "息をするように",
+      "いきをするように",
+      "獲得条件：プレイヤーランクが 225 に到達",
+      "1",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_player_rank_growth_7"
+    ]
+  ],
+  "1070": [
+    [
+      "degree_player_rank_growth_8",
+      "107",
+      "極致の麓",
+      "きょくちのふもと",
+      "獲得条件：プレイヤーランクが 250 に到達",
+      "1",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_player_rank_growth_8"
+    ]
+  ],
   "111001": [
     [
       "degree_favor_fire_dragon",
@@ -11049,6 +11088,71 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "151129": [
+    [
+      "degree_favor_swallow_knight_3anv",
+      "231020",
+      "飛燕自由騎士団団長",
+      "ひえんじゆうきしだんだんちょう",
+      "獲得条件：【飛燕自由騎士団団長】ユーウェルをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_swallow_knight_3anv"
+    ]
+  ],
+  "161153": [
+    [
+      "degree_favor_veteran_hunter_3anv",
+      "152010",
+      "奪還の戦士",
+      "だっかんのせんし",
+      "獲得条件：【奪還の戦士】ヴェロンをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_veteran_hunter_3anv"
+    ]
+  ],
+  "121141": [
+    [
+      "degree_favor_wind_spbro_3anv",
+      "56000",
+      "ロード・サーディア",
+      "ろーどさーでぃあ",
+      "獲得条件：【ロード・サーディア】シエルをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spbro_3anv"
+    ]
+  ],
+  "161159": [
+    [
+      "degree_favor_rector_sorcerer_playable",
+      "174000",
+      "虚影の織手",
+      "きょえいのおりて",
+      "獲得条件：【虚影の織手】ニルヤーナをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_rector_sorcerer_playable"
+    ]
+  ],
+  "253019": [
+    [
+      "degree_favor_reformist_prince",
+      "350000",
+      "一つの王道",
+      "ひとつのおうどう",
+      "獲得条件：【一つの王道】ヴァーレインをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_reformist_prince"
+    ]
+  ],
   "141135": [
     [
       "degree_favor_asymmetry_birdgirl",
@@ -14195,6 +14299,32 @@
       "dynamic/degree/degree_challenge_single_battle_clear_6_2"
     ]
   ],
+  "68000": [
+    [
+      "degree_boss_epuration_event_01_clear_1_1",
+      "538000",
+      "星の騎士達",
+      "ほしのきしたち",
+      "獲得条件：【粛清者討伐戦】イベント最後の高難易度シングルバトルをクリア",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_boss_epuration_event_01_clear_1_1"
+    ]
+  ],
+  "60930": [
+    [
+      "degree_anv3_challenge_clear_1_1",
+      "533200",
+      "寄星の試練：極",
+      "きせいのしれんきわみ",
+      "獲得条件：チャレンジシングルバトルでパラサイト・アビスの超級＋を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_anv3_challenge_clear_1_1"
+    ]
+  ],
   "60800": [
     [
       "degree_2anv_challenge_clear_1_1",
@@ -15147,10 +15277,10 @@
   "60920": [
     [
       "degree_smr22_challenge_clear_1_1",
-      "534000",
+      "533100",
       "翔離の試練：極",
-      "しょうりのしれんしん",
-      "獲得条件：チャレンジシングルバトルでSTM-パリデスの超級を討伐",
+      "しょうりのしれんきわみ",
+      "獲得条件：チャレンジシングルバトルでSTM-パリデスの超級＋を討伐",
       "3",
       "dynamic/degree/background",
       "item/etc/degree",

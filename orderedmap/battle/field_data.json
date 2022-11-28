@@ -5319,6 +5319,13 @@
       "holy_sphere"
     ]
   ],
+  "high_epuration_boss_3anv": [
+    [
+      "week_town_boulevard_night_ver2",
+      "battle/terrain/event_quest/advent_event/high_epuration_boss_3anv/high_epuration_boss_3anv",
+      "high_epuration_boss_3anv"
+    ]
+  ],
   "haniwa_carnival_fire": [
     [
       "haniwa_carnival_fire",
@@ -5520,6 +5527,41 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_swallow_knight_3anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_swallow_knight_3anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_veteran_hunter_3anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_veteran_hunter_3anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_wind_spbro_3anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_wind_spbro_3anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_rector_sorcerer_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_rector_sorcerer_playable",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_reformist_prince": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_reformist_prince",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_asymmetry_birdgirl": [
@@ -6353,6 +6395,27 @@
       "mecha_area02_expert",
       "battle/terrain/event_quest/expert_single/expert_admiinstrator_100",
       "expert_administrator_100"
+    ]
+  ],
+  "epuration_boss_variant_ver_3anv": [
+    [
+      "week_town_boulevard_night_ver2",
+      "battle/terrain/event_quest/advent_event/epuration_boss_variant_ver_3anv/epuration_boss_variant_ver_3anv",
+      "epuration_boss_variant_ver_3anv"
+    ]
+  ],
+  "epuration_boss_highest": [
+    [
+      "epuration_boss_highest",
+      "battle/terrain/event_quest/advent_event/epuration_boss_highest/epuration_boss_highest",
+      "epuration_boss_highest"
+    ]
+  ],
+  "epuration_boss_3anv": [
+    [
+      "week_town_boulevard_night_ver2",
+      "battle/terrain/event_quest/advent_event/epuration_boss_3anv/epuration_boss_3anv",
+      "epuration_boss_3anv"
     ]
   ],
   "multi_normal_1_25_1": [
@@ -7405,6 +7468,20 @@
       "valen_20_hell"
     ]
   ],
+  "crown_beasts_big_boss_challenge_hell": [
+    [
+      "lion_tribe_sanctuary_kings_room_hell",
+      "battle/terrain/event_quest/story_event/crown_beasts/boss_battle_beasts_big_boss_hell",
+      "crown_beasts_challenge_hell"
+    ]
+  ],
+  "mechanic_dragon_eater_challenge_hell": [
+    [
+      "cyber_punk_vacant_land_battle_hell",
+      "battle/terrain/event_quest/story_event/anv2/boss_battle_mechanic_dragon_eater_hell",
+      "anv2_mechanic_dragon_eater_challenge_hell"
+    ]
+  ],
   "skill_preview_asta": [
     [
       "common_skill_preview",
@@ -7424,6 +7501,34 @@
       "common_skill_preview",
       "battle/terrain/skill_preview/skill_preview_noelle_silva",
       "skill_preview_common"
+    ]
+  ],
+  "anv3_release_event": [
+    [
+      "anv1_release_event",
+      "battle/terrain/event_quest/story_event/anv3_release_event/anv3_release_event",
+      "anv3_release_event"
+    ]
+  ],
+  "anv3": [
+    [
+      "anv3",
+      "battle/terrain/event_quest/story_event/anv3/anv3",
+      "anv3"
+    ]
+  ],
+  "anv3_story": [
+    [
+      "anv3",
+      "battle/terrain/event_quest/story_event/anv3/anv3",
+      "anv3_story"
+    ]
+  ],
+  "anv3_expert": [
+    [
+      "anv3",
+      "battle/terrain/event_quest/story_event/anv3/anv3",
+      "anv3_expert"
     ]
   ],
   "anv2_release_event": [

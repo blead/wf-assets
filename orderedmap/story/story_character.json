@@ -454,9 +454,9 @@
       "ユーウェル",
       "0x2f60b2",
       "character/swallow_knight/voice/",
-      "normal,angry,angry_b,feel,feel_b,joy,joy_b,sad,sad_b,sad_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,evolve",
-      "character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_1",
-      "character/swallow_knight/ui/story/normal,character/swallow_knight/ui/story/angry,character/swallow_knight/ui/story/angry_b,character/swallow_knight/ui/story/feel,character/swallow_knight/ui/story/feel_b,character/swallow_knight/ui/story/joy,character/swallow_knight/ui/story/joy_b,character/swallow_knight/ui/story/sad,character/swallow_knight/ui/story/sad_b,character/swallow_knight/ui/story/sad_c,character/swallow_knight/ui/story/shame,character/swallow_knight/ui/story/smile,character/swallow_knight/ui/story/smile_b,character/swallow_knight/ui/story/smile_c,character/swallow_knight/ui/story/surprise,character/swallow_knight/ui/story/surprise_b,character/swallow_knight/ui/story/sweat,(None)"
+      "normal,angry,angry_b,feel,feel_b,joy,joy_b,sad,sad_b,sad_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,joy_c,normal_b,serious,serious_b,surprise_c,evolve",
+      "character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_0,character/swallow_knight/ui/story/base_1",
+      "character/swallow_knight/ui/story/normal,character/swallow_knight/ui/story/angry,character/swallow_knight/ui/story/angry_b,character/swallow_knight/ui/story/feel,character/swallow_knight/ui/story/feel_b,character/swallow_knight/ui/story/joy,character/swallow_knight/ui/story/joy_b,character/swallow_knight/ui/story/sad,character/swallow_knight/ui/story/sad_b,character/swallow_knight/ui/story/sad_c,character/swallow_knight/ui/story/shame,character/swallow_knight/ui/story/smile,character/swallow_knight/ui/story/smile_b,character/swallow_knight/ui/story/smile_c,character/swallow_knight/ui/story/surprise,character/swallow_knight/ui/story/surprise_b,character/swallow_knight/ui/story/sweat,character/swallow_knight/ui/story/joy_c,character/swallow_knight/ui/story/normal_b,character/swallow_knight/ui/story/serious,character/swallow_knight/ui/story/serious_b,character/swallow_knight/ui/story/surprise_c,(None)"
     ]
   ],
   "devil_princess": [
@@ -534,9 +534,9 @@
       "ラムス",
       "0xb29614",
       "character/thunder_dragon/voice/",
-      "normal,angry,feel,feel_b,normal_b,jitome,jitome_b,shame,shy,shy_b,smile,smile_b,evolve",
-      "character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_1",
-      "character/thunder_dragon/ui/story/normal,character/thunder_dragon/ui/story/angry,character/thunder_dragon/ui/story/feel,character/thunder_dragon/ui/story/feel_b,character/thunder_dragon/ui/story/normal_b,character/thunder_dragon/ui/story/jitome,character/thunder_dragon/ui/story/jitome_b,character/thunder_dragon/ui/story/shame,character/thunder_dragon/ui/story/shy,character/thunder_dragon/ui/story/shy_b,character/thunder_dragon/ui/story/smile,character/thunder_dragon/ui/story/smile_b,(None)"
+      "normal,angry,feel,feel_b,normal_b,jitome,jitome_b,shame,shy,shy_b,smile,smile_b,angry_b,surprise,sweat,evolve",
+      "character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_0,character/thunder_dragon/ui/story/base_1",
+      "character/thunder_dragon/ui/story/normal,character/thunder_dragon/ui/story/angry,character/thunder_dragon/ui/story/feel,character/thunder_dragon/ui/story/feel_b,character/thunder_dragon/ui/story/normal_b,character/thunder_dragon/ui/story/jitome,character/thunder_dragon/ui/story/jitome_b,character/thunder_dragon/ui/story/shame,character/thunder_dragon/ui/story/shy,character/thunder_dragon/ui/story/shy_b,character/thunder_dragon/ui/story/smile,character/thunder_dragon/ui/story/smile_b,character/thunder_dragon/ui/story/angry_b,character/thunder_dragon/ui/story/surprise,character/thunder_dragon/ui/story/sweat,(None)"
     ]
   ],
   "thunder_dragon_known": [
@@ -1274,9 +1274,9 @@
       "ヴェロン",
       "0x3f2843",
       "character/veteran_hunter/voice/",
-      "normal,angry,consent,etc,etc_b,joy,sad,shame,surprise,sweat,evolve",
-      "character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_1",
-      "character/veteran_hunter/ui/story/normal,character/veteran_hunter/ui/story/angry,character/veteran_hunter/ui/story/consent,character/veteran_hunter/ui/story/etc,character/veteran_hunter/ui/story/etc_b,character/veteran_hunter/ui/story/joy,character/veteran_hunter/ui/story/sad,character/veteran_hunter/ui/story/shame,character/veteran_hunter/ui/story/surprise,character/veteran_hunter/ui/story/sweat,(None)"
+      "normal,angry,consent,etc,etc_b,joy,sad,shame,surprise,sweat,normal_b,smile,think,evolve",
+      "character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_0,character/veteran_hunter/ui/story/base_1",
+      "character/veteran_hunter/ui/story/normal,character/veteran_hunter/ui/story/angry,character/veteran_hunter/ui/story/consent,character/veteran_hunter/ui/story/etc,character/veteran_hunter/ui/story/etc_b,character/veteran_hunter/ui/story/joy,character/veteran_hunter/ui/story/sad,character/veteran_hunter/ui/story/shame,character/veteran_hunter/ui/story/surprise,character/veteran_hunter/ui/story/sweat,character/veteran_hunter/ui/story/normal_b,character/veteran_hunter/ui/story/smile,character/veteran_hunter/ui/story/think,(None)"
     ]
   ],
   "veteran_hunter_unknown": [
@@ -2514,9 +2514,9 @@
       "フィン",
       "0xabb283",
       "character/palpebra_knight/voice/",
-      "normal,angry,consent,joy,sad,shame,surprise,sweat,think,evolve",
-      "character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_1",
-      "character/palpebra_knight/ui/story/normal,character/palpebra_knight/ui/story/angry,character/palpebra_knight/ui/story/consent,character/palpebra_knight/ui/story/joy,character/palpebra_knight/ui/story/sad,character/palpebra_knight/ui/story/shame,character/palpebra_knight/ui/story/surprise,character/palpebra_knight/ui/story/sweat,character/palpebra_knight/ui/story/think,(None)"
+      "normal,angry,consent,joy,sad,shame,surprise,sweat,think,angry_b,sad_b,evolve",
+      "character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_0,character/palpebra_knight/ui/story/base_1",
+      "character/palpebra_knight/ui/story/normal,character/palpebra_knight/ui/story/angry,character/palpebra_knight/ui/story/consent,character/palpebra_knight/ui/story/joy,character/palpebra_knight/ui/story/sad,character/palpebra_knight/ui/story/shame,character/palpebra_knight/ui/story/surprise,character/palpebra_knight/ui/story/sweat,character/palpebra_knight/ui/story/think,character/palpebra_knight/ui/story/angry_b,character/palpebra_knight/ui/story/sad_b,(None)"
     ]
   ],
   "palpebra_knight_known": [
@@ -8267,6 +8267,236 @@
       "",
       "",
       ""
+    ]
+  ],
+  "mob_reformist_prince_steward": [
+    [
+      "ヴァーレインのじいや",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_liaison": [
+    [
+      "連絡係",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_lookout_elder_bro": [
+    [
+      "見張りの男・兄",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_lookout_young_bro": [
+    [
+      "見張りの男・弟",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_lookout_brothers": [
+    [
+      "見張り兄弟",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_prince_zero_steward": [
+    [
+      "ラーゼルトのじいや",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "alk_and_swallow_knight": [
+    [
+      "ユーウェル＆アルク",
+      "0x5481e6",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_two_steward": [
+    [
+      "ふたりのじいや",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "prince_zero_bro_noname": [
+    [
+      "ラーゼルトの弟君",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "prince_zero_bro_name": [
+    [
+      "アースラム",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_young_guildknight_unknown": [
+    [
+      "？？？",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_young_guildknight": [
+    [
+      "若きギルドナイト",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_young_guildknight_name": [
+    [
+      "ヴェルディアス",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_past_swallow_max_noname": [
+    [
+      "元飛燕自由騎士団の男性",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_past_swallow_max": [
+    [
+      "マックス",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_past_swallow_eliza": [
+    [
+      "エリザ",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "hexad_prince_unknown": [
+    [
+      "？？？",
+      "0xb3839c",
+      "character/hexad_prince/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_peddler_man": [
+    [
+      "行商人の男",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_zero_knight_name": [
+    [
+      "ローナイト",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "priest_prince_noname": [
+    [
+      "笑う青年",
+      "0x32587d",
+      "character/priest_prince/voice/",
+      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think"
+    ]
+  ],
+  "mob_lobe_man": [
+    [
+      "ローブの男",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "halberd_princess_2halfanv_unknown": [
+    [
+      "？？？",
+      "0xa32535",
+      "character/halberd_princess/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "rector_sorcerer_playable": [
+    [
+      "ニルヤーナ",
+      "0x3f2843",
+      "character/rector_sorcerer/voice/",
+      "normal",
+      "character/rector_sorcerer_playable/ui/story/base_0",
+      "character/rector_sorcerer_playable/ui/story/normal"
     ]
   ],
   "kung_fu_girl": [
@@ -19984,9 +20214,9 @@
       "オルヴェール",
       "0xabb283",
       "character/high_priestess/voice/",
-      "normal,anger,anger_b,consent,consent_b,discontent,joy,sad,shame,smile,surprise,sweat,think,tired,normal_base_b,anger_base_b,anger_b_base_b,consent_base_b,consent_b_base_b,discontent_base_b,joy_base_b,sad_base_b,smile_base_b,surprise_base_b,think_base_b,tired_base_b,evolve",
-      "character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_1",
-      "character/high_priestess/ui/story/normal,character/high_priestess/ui/story/anger,character/high_priestess/ui/story/anger_b,character/high_priestess/ui/story/consent,character/high_priestess/ui/story/consent_b,character/high_priestess/ui/story/discontent,character/high_priestess/ui/story/joy,character/high_priestess/ui/story/sad,character/high_priestess/ui/story/shame,character/high_priestess/ui/story/smile,character/high_priestess/ui/story/surprise,character/high_priestess/ui/story/sweat,character/high_priestess/ui/story/think,character/high_priestess/ui/story/tired,character/high_priestess/ui/story/normal,character/high_priestess/ui/story/anger,character/high_priestess/ui/story/anger_b,character/high_priestess/ui/story/consent,character/high_priestess/ui/story/consent_b,character/high_priestess/ui/story/discontent,character/high_priestess/ui/story/joy,character/high_priestess/ui/story/sad,character/high_priestess/ui/story/smile,character/high_priestess/ui/story/surprise,character/high_priestess/ui/story/think,character/high_priestess/ui/story/tired,(None)"
+      "normal,anger,anger_b,consent,consent_b,discontent,joy,sad,shame,smile,surprise,sweat,think,tired,anger_c,sad_b,serious_b,serious,surprise_b,normal_base_b,anger_base_b,anger_b_base_b,consent_base_b,consent_b_base_b,discontent_base_b,joy_base_b,sad_base_b,smile_base_b,surprise_base_b,think_base_b,tired_base_b,anger_c_base_b,sad_b_base_b,serious_b_base_b,serious_base_b,surprise_b_base_b,evolve",
+      "character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_0,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_b,character/high_priestess/ui/story/base_1",
+      "character/high_priestess/ui/story/normal,character/high_priestess/ui/story/anger,character/high_priestess/ui/story/anger_b,character/high_priestess/ui/story/consent,character/high_priestess/ui/story/consent_b,character/high_priestess/ui/story/discontent,character/high_priestess/ui/story/joy,character/high_priestess/ui/story/sad,character/high_priestess/ui/story/shame,character/high_priestess/ui/story/smile,character/high_priestess/ui/story/surprise,character/high_priestess/ui/story/sweat,character/high_priestess/ui/story/think,character/high_priestess/ui/story/tired,character/high_priestess/ui/story/anger_c,character/high_priestess/ui/story/sad_b,character/high_priestess/ui/story/serious_b,character/high_priestess/ui/story/serious,character/high_priestess/ui/story/surprise_b,character/high_priestess/ui/story/normal,character/high_priestess/ui/story/anger,character/high_priestess/ui/story/anger_b,character/high_priestess/ui/story/consent,character/high_priestess/ui/story/consent_b,character/high_priestess/ui/story/discontent,character/high_priestess/ui/story/joy,character/high_priestess/ui/story/sad,character/high_priestess/ui/story/smile,character/high_priestess/ui/story/surprise,character/high_priestess/ui/story/think,character/high_priestess/ui/story/tired,character/high_priestess/ui/story/anger_c,character/high_priestess/ui/story/sad_b,character/high_priestess/ui/story/serious_b,character/high_priestess/ui/story/serious,character/high_priestess/ui/story/surprise_b,(None)"
     ]
   ],
   "mob_pastor": [
@@ -20019,7 +20249,7 @@
       ""
     ]
   ],
-  "high_priestess_unknown": [
+  "high_priestess_noname": [
     [
       "若き司教",
       "0xabb283",
@@ -23374,9 +23604,9 @@
       "ニルヤーナ",
       "0x3f2843",
       "character/rector_sorcerer/voice/",
-      "normal,amazed,amazed_b,anger,anger_blood,aria,aria_b,joy,normal_b,normal_b_blood,normal_c,provoke,provoke_blood,sad,sad_blood,serious,serious_blood,shame,smile,smile_b,sweat,think,think_blood,normal_base_b,amazed_base_b,amazed_b_base_b,anger_base_b,anger_blood_base_b,aria_base_b,aria_b_base_b,joy_base_b,normal_b_base_b,normal_b_blood_base_b,normal_c_base_b,provoke_base_b,provoke_blood_base_b,sad_base_b,sad_blood_base_b,serious_base_b,serious_blood_base_b,shame_base_b,smile_base_b,smile_b_base_b,sweat_base_b,think_base_b,think_blood_base_b",
-      "character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b",
-      "character/rector_sorcerer/ui/story/normal,character/rector_sorcerer/ui/story/amazed,character/rector_sorcerer/ui/story/amazed_b,character/rector_sorcerer/ui/story/anger,character/rector_sorcerer/ui/story/anger_blood,character/rector_sorcerer/ui/story/aria,character/rector_sorcerer/ui/story/aria_b,character/rector_sorcerer/ui/story/joy,character/rector_sorcerer/ui/story/normal_b,character/rector_sorcerer/ui/story/normal_b_blood,character/rector_sorcerer/ui/story/normal_c,character/rector_sorcerer/ui/story/provoke,character/rector_sorcerer/ui/story/provoke_blood,character/rector_sorcerer/ui/story/sad,character/rector_sorcerer/ui/story/sad_blood,character/rector_sorcerer/ui/story/serious,character/rector_sorcerer/ui/story/serious_blood,character/rector_sorcerer/ui/story/shame,character/rector_sorcerer/ui/story/smile,character/rector_sorcerer/ui/story/smile_b,character/rector_sorcerer/ui/story/sweat,character/rector_sorcerer/ui/story/think,character/rector_sorcerer/ui/story/think_blood,character/rector_sorcerer/ui/story/normal,character/rector_sorcerer/ui/story/amazed,character/rector_sorcerer/ui/story/amazed_b,character/rector_sorcerer/ui/story/anger,character/rector_sorcerer/ui/story/anger_blood,character/rector_sorcerer/ui/story/aria,character/rector_sorcerer/ui/story/aria_b,character/rector_sorcerer/ui/story/joy,character/rector_sorcerer/ui/story/normal_b,character/rector_sorcerer/ui/story/normal_b_blood,character/rector_sorcerer/ui/story/normal_c,character/rector_sorcerer/ui/story/provoke,character/rector_sorcerer/ui/story/provoke_blood,character/rector_sorcerer/ui/story/sad,character/rector_sorcerer/ui/story/sad_blood,character/rector_sorcerer/ui/story/serious,character/rector_sorcerer/ui/story/serious_blood,character/rector_sorcerer/ui/story/shame,character/rector_sorcerer/ui/story/smile,character/rector_sorcerer/ui/story/smile_b,character/rector_sorcerer/ui/story/sweat,character/rector_sorcerer/ui/story/think,character/rector_sorcerer/ui/story/think_blood"
+      "normal,amazed,amazed_b,anger,anger_blood,aria,aria_b,joy,normal_b,normal_b_blood,normal_c,provoke,provoke_blood,sad,sad_blood,serious,serious_blood,shame,smile,smile_b,sweat,think,think_blood,normal_d,sad_b,surprise,think_b,normal_base_b,amazed_base_b,amazed_b_base_b,anger_base_b,anger_blood_base_b,aria_base_b,aria_b_base_b,joy_base_b,normal_b_base_b,normal_b_blood_base_b,normal_c_base_b,provoke_base_b,provoke_blood_base_b,sad_base_b,sad_blood_base_b,serious_base_b,serious_blood_base_b,shame_base_b,smile_base_b,smile_b_base_b,sweat_base_b,think_base_b,think_blood_base_b,normal_d_base_b,sad_b_base_b,surprise_base_b,think_b_base_b",
+      "character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b,character/rector_sorcerer/ui/story/base_b",
+      "character/rector_sorcerer/ui/story/normal,character/rector_sorcerer/ui/story/amazed,character/rector_sorcerer/ui/story/amazed_b,character/rector_sorcerer/ui/story/anger,character/rector_sorcerer/ui/story/anger_blood,character/rector_sorcerer/ui/story/aria,character/rector_sorcerer/ui/story/aria_b,character/rector_sorcerer/ui/story/joy,character/rector_sorcerer/ui/story/normal_b,character/rector_sorcerer/ui/story/normal_b_blood,character/rector_sorcerer/ui/story/normal_c,character/rector_sorcerer/ui/story/provoke,character/rector_sorcerer/ui/story/provoke_blood,character/rector_sorcerer/ui/story/sad,character/rector_sorcerer/ui/story/sad_blood,character/rector_sorcerer/ui/story/serious,character/rector_sorcerer/ui/story/serious_blood,character/rector_sorcerer/ui/story/shame,character/rector_sorcerer/ui/story/smile,character/rector_sorcerer/ui/story/smile_b,character/rector_sorcerer/ui/story/sweat,character/rector_sorcerer/ui/story/think,character/rector_sorcerer/ui/story/think_blood,character/rector_sorcerer/ui/story/normal_d,character/rector_sorcerer/ui/story/sad_b,character/rector_sorcerer/ui/story/surprise,character/rector_sorcerer/ui/story/think_b,character/rector_sorcerer/ui/story/normal,character/rector_sorcerer/ui/story/amazed,character/rector_sorcerer/ui/story/amazed_b,character/rector_sorcerer/ui/story/anger,character/rector_sorcerer/ui/story/anger_blood,character/rector_sorcerer/ui/story/aria,character/rector_sorcerer/ui/story/aria_b,character/rector_sorcerer/ui/story/joy,character/rector_sorcerer/ui/story/normal_b,character/rector_sorcerer/ui/story/normal_b_blood,character/rector_sorcerer/ui/story/normal_c,character/rector_sorcerer/ui/story/provoke,character/rector_sorcerer/ui/story/provoke_blood,character/rector_sorcerer/ui/story/sad,character/rector_sorcerer/ui/story/sad_blood,character/rector_sorcerer/ui/story/serious,character/rector_sorcerer/ui/story/serious_blood,character/rector_sorcerer/ui/story/shame,character/rector_sorcerer/ui/story/smile,character/rector_sorcerer/ui/story/smile_b,character/rector_sorcerer/ui/story/sweat,character/rector_sorcerer/ui/story/think,character/rector_sorcerer/ui/story/think_blood,character/rector_sorcerer/ui/story/normal_d,character/rector_sorcerer/ui/story/sad_b,character/rector_sorcerer/ui/story/surprise,character/rector_sorcerer/ui/story/think_b"
     ]
   ],
   "rector_sorcerer_unknown": [
@@ -23664,9 +23894,9 @@
       "凪原ナオ",
       "0x00BAFF",
       "character/psychic_nao/voice/",
-      "normal,anger,anger_b,anger_c,anger_d,anger_e,anger_f,cry,cry_b,cry_c,jitome,joy,joy_b,normal_b,normal_c,sad,sad_b,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,surprise_c,surprise_d,surprise_e,surprise_f,surprise_g,surprise_h,sweat,think",
-      "character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base",
-      "character/psychic_nao/ui/story/normal,character/psychic_nao/ui/story/anger,character/psychic_nao/ui/story/anger_b,character/psychic_nao/ui/story/anger_c,character/psychic_nao/ui/story/anger_d,character/psychic_nao/ui/story/anger_e,character/psychic_nao/ui/story/anger_f,character/psychic_nao/ui/story/cry,character/psychic_nao/ui/story/cry_b,character/psychic_nao/ui/story/cry_c,character/psychic_nao/ui/story/jitome,character/psychic_nao/ui/story/joy,character/psychic_nao/ui/story/joy_b,character/psychic_nao/ui/story/normal_b,character/psychic_nao/ui/story/normal_c,character/psychic_nao/ui/story/sad,character/psychic_nao/ui/story/sad_b,character/psychic_nao/ui/story/serious,character/psychic_nao/ui/story/serious_b,character/psychic_nao/ui/story/shame,character/psychic_nao/ui/story/smile,character/psychic_nao/ui/story/smile_b,character/psychic_nao/ui/story/surprise,character/psychic_nao/ui/story/surprise_b,character/psychic_nao/ui/story/surprise_c,character/psychic_nao/ui/story/surprise_d,character/psychic_nao/ui/story/surprise_e,character/psychic_nao/ui/story/surprise_f,character/psychic_nao/ui/story/surprise_g,character/psychic_nao/ui/story/surprise_h,character/psychic_nao/ui/story/sweat,character/psychic_nao/ui/story/think"
+      "normal,anger,anger_b,anger_c,anger_d,anger_e,anger_f,cry,cry_b,cry_c,jitome,joy,joy_b,normal_b,normal_c,sad,sad_b,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,surprise_c,surprise_d,surprise_e,surprise_f,surprise_g,surprise_h,sweat,think,sad_c,serious_c,smile_c,smile_d,surprise_i",
+      "character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base,character/psychic_nao/ui/story/base",
+      "character/psychic_nao/ui/story/normal,character/psychic_nao/ui/story/anger,character/psychic_nao/ui/story/anger_b,character/psychic_nao/ui/story/anger_c,character/psychic_nao/ui/story/anger_d,character/psychic_nao/ui/story/anger_e,character/psychic_nao/ui/story/anger_f,character/psychic_nao/ui/story/cry,character/psychic_nao/ui/story/cry_b,character/psychic_nao/ui/story/cry_c,character/psychic_nao/ui/story/jitome,character/psychic_nao/ui/story/joy,character/psychic_nao/ui/story/joy_b,character/psychic_nao/ui/story/normal_b,character/psychic_nao/ui/story/normal_c,character/psychic_nao/ui/story/sad,character/psychic_nao/ui/story/sad_b,character/psychic_nao/ui/story/serious,character/psychic_nao/ui/story/serious_b,character/psychic_nao/ui/story/shame,character/psychic_nao/ui/story/smile,character/psychic_nao/ui/story/smile_b,character/psychic_nao/ui/story/surprise,character/psychic_nao/ui/story/surprise_b,character/psychic_nao/ui/story/surprise_c,character/psychic_nao/ui/story/surprise_d,character/psychic_nao/ui/story/surprise_e,character/psychic_nao/ui/story/surprise_f,character/psychic_nao/ui/story/surprise_g,character/psychic_nao/ui/story/surprise_h,character/psychic_nao/ui/story/sweat,character/psychic_nao/ui/story/think,character/psychic_nao/ui/story/sad_c,character/psychic_nao/ui/story/serious_c,character/psychic_nao/ui/story/smile_c,character/psychic_nao/ui/story/smile_d,character/psychic_nao/ui/story/surprise_i"
     ]
   ],
   "psychic_nao_error": [
@@ -23694,9 +23924,9 @@
       "鷹森セイジ",
       "0x2f60b2",
       "character/psychic_seiji/voice/",
-      "normal,anger,normal_b,normal_c,normal_d,normal_e,normal_f,sad,sad_b,scared,shame,shock,smile,smile_b,smile_c,smile_d,smile_e,smile_f,surprise,surprise_b,sweat,think,think_b",
-      "character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base",
-      "character/psychic_seiji/ui/story/normal,character/psychic_seiji/ui/story/anger,character/psychic_seiji/ui/story/normal_b,character/psychic_seiji/ui/story/normal_c,character/psychic_seiji/ui/story/normal_d,character/psychic_seiji/ui/story/normal_e,character/psychic_seiji/ui/story/normal_f,character/psychic_seiji/ui/story/sad,character/psychic_seiji/ui/story/sad_b,character/psychic_seiji/ui/story/scared,character/psychic_seiji/ui/story/shame,character/psychic_seiji/ui/story/shock,character/psychic_seiji/ui/story/smile,character/psychic_seiji/ui/story/smile_b,character/psychic_seiji/ui/story/smile_c,character/psychic_seiji/ui/story/smile_d,character/psychic_seiji/ui/story/smile_e,character/psychic_seiji/ui/story/smile_f,character/psychic_seiji/ui/story/surprise,character/psychic_seiji/ui/story/surprise_b,character/psychic_seiji/ui/story/sweat,character/psychic_seiji/ui/story/think,character/psychic_seiji/ui/story/think_b"
+      "normal,anger,normal_b,normal_c,normal_d,normal_e,normal_f,sad,sad_b,scared,shame,shock,smile,smile_b,smile_c,smile_d,smile_e,smile_f,surprise,surprise_b,sweat,think,think_b,anger_b,shock_b",
+      "character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base,character/psychic_seiji/ui/story/base",
+      "character/psychic_seiji/ui/story/normal,character/psychic_seiji/ui/story/anger,character/psychic_seiji/ui/story/normal_b,character/psychic_seiji/ui/story/normal_c,character/psychic_seiji/ui/story/normal_d,character/psychic_seiji/ui/story/normal_e,character/psychic_seiji/ui/story/normal_f,character/psychic_seiji/ui/story/sad,character/psychic_seiji/ui/story/sad_b,character/psychic_seiji/ui/story/scared,character/psychic_seiji/ui/story/shame,character/psychic_seiji/ui/story/shock,character/psychic_seiji/ui/story/smile,character/psychic_seiji/ui/story/smile_b,character/psychic_seiji/ui/story/smile_c,character/psychic_seiji/ui/story/smile_d,character/psychic_seiji/ui/story/smile_e,character/psychic_seiji/ui/story/smile_f,character/psychic_seiji/ui/story/surprise,character/psychic_seiji/ui/story/surprise_b,character/psychic_seiji/ui/story/sweat,character/psychic_seiji/ui/story/think,character/psychic_seiji/ui/story/think_b,character/psychic_seiji/ui/story/anger_b,character/psychic_seiji/ui/story/shock_b"
     ]
   ],
   "seimei_staff": [
@@ -23909,6 +24139,36 @@
       "character/alk/ui/story/normal,character/alk/ui/story/akire,character/alk/ui/story/angry,character/alk/ui/story/angry_most,character/alk/ui/story/angry_serious,character/alk/ui/story/joy,character/alk/ui/story/joy_b,character/alk/ui/story/nigawarai,character/alk/ui/story/nigawarai_b,character/alk/ui/story/pain,character/alk/ui/story/pain_b,character/alk/ui/story/pain_c,character/alk/ui/story/sad,character/alk/ui/story/sad_b,character/alk/ui/story/sad_c,character/alk/ui/story/serious,character/alk/ui/story/shame,character/alk/ui/story/shy,character/alk/ui/story/smile,character/alk/ui/story/smile_b,character/alk/ui/story/smile_c,character/alk/ui/story/smile_d,character/alk/ui/story/surprise,character/alk/ui/story/surprise_b,character/alk/ui/story/surprise_c,character/alk/ui/story/surprise_d,character/alk/ui/story/surprise_e,character/alk/ui/story/surprise_f,character/alk/ui/story/sweat,character/alk/ui/story/despair,character/alk/ui/story/might_cry,character/alk/ui/story/might_cry_b,character/alk/ui/story/might_cry_c,character/alk/ui/story/might_cry_d,character/alk/ui/story/seriously,character/alk/ui/story/shout_c,character/alk/ui/story/shout_c_c,character/alk/ui/story/tragic,character/alk/ui/story/doubt,character/alk/ui/story/interest,character/alk/ui/story/relieved,character/alk/ui/story/seriously_b,character/alk/ui/story/confused,character/alk/ui/story/shout,character/alk/ui/story/tear,character/alk/ui/story/think,character/alk/ui/story/wail,character/alk/ui/story/akire_right,character/alk/ui/story/angry_most_right,character/alk/ui/story/angry_right,character/alk/ui/story/angry_serious_right,character/alk/ui/story/joy_b_right,character/alk/ui/story/joy_right,character/alk/ui/story/nigawarai_right,character/alk/ui/story/nigawarai_b_right,character/alk/ui/story/normal_right,character/alk/ui/story/pain_b_right,character/alk/ui/story/pain_c_right,character/alk/ui/story/pain_right,character/alk/ui/story/sad_b_right,character/alk/ui/story/sad_c_right,character/alk/ui/story/sad_right,character/alk/ui/story/serious_right,character/alk/ui/story/shame_right,character/alk/ui/story/shy_right,character/alk/ui/story/smile_b_right,character/alk/ui/story/smile_c_right,character/alk/ui/story/smile_d_right,character/alk/ui/story/smile_right,character/alk/ui/story/surprise_b_right,character/alk/ui/story/surprise_c_right,character/alk/ui/story/surprise_d_right,character/alk/ui/story/surprise_e_right,character/alk/ui/story/surprise_f_right,character/alk/ui/story/surprise_right,character/alk/ui/story/sweat_right,character/alk/ui/story/despair_right,character/alk/ui/story/tragic_right,character/alk/ui/story/might_cry_b_right,character/alk/ui/story/might_cry_right,character/alk/ui/story/might_cry_c_right,character/alk/ui/story/might_cry_d_right,character/alk/ui/story/seriously_right,character/alk/ui/story/shout_c_b_right,character/alk/ui/story/shout_c_c_right,character/alk/ui/story/shout_c_right,character/alk/ui/story/doubt_right,character/alk/ui/story/interest_right,character/alk/ui/story/relieved_right,character/alk/ui/story/seriously_b_right,character/alk/ui/story/confused_right,character/alk/ui/story/shout_right,character/alk/ui/story/tear_right,character/alk/ui/story/think_right,character/alk/ui/story/wail_right"
     ]
   ],
+  "mob_fatima_priest": [
+    [
+      "ファトマの神官",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_palpebra_knight_boy": [
+    [
+      "ギルドナイツの青年",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "high_priestess_unknown": [
+    [
+      "？？？",
+      "0xabb283",
+      "character/high_priestess/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
   "asta": [
     [
       "アスタ",
@@ -23993,6 +24253,156 @@
     [
       "少年",
       "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "swallow_knight_3anv": [
+    [
+      "ユーウェル",
+      "0xabb283",
+      "character/swallow_knight/voice/",
+      "normal,angry,angry_b,jito,joy,joy_b,joy_c,normal_b,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_0,character/swallow_knight_3anv/ui/story/base_1",
+      "character/swallow_knight_3anv/ui/story/normal,character/swallow_knight_3anv/ui/story/angry,character/swallow_knight_3anv/ui/story/angry_b,character/swallow_knight_3anv/ui/story/jito,character/swallow_knight_3anv/ui/story/joy,character/swallow_knight_3anv/ui/story/joy_b,character/swallow_knight_3anv/ui/story/joy_c,character/swallow_knight_3anv/ui/story/normal_b,character/swallow_knight_3anv/ui/story/sad,character/swallow_knight_3anv/ui/story/serious,character/swallow_knight_3anv/ui/story/serious_b,character/swallow_knight_3anv/ui/story/shame,character/swallow_knight_3anv/ui/story/smile,character/swallow_knight_3anv/ui/story/smile_b,character/swallow_knight_3anv/ui/story/surprise,character/swallow_knight_3anv/ui/story/surprise_b,character/swallow_knight_3anv/ui/story/sweat,character/swallow_knight_3anv/ui/story/think,(None)"
+    ]
+  ],
+  "reformist_prince": [
+    [
+      "ヴァーレイン",
+      "0xabb283",
+      "character/reformist_prince/voice/",
+      "normal,anger,discontent,doya,normal_b,pain,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,surprise_d,sweat,think,evolve",
+      "character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_1",
+      "character/reformist_prince/ui/story/normal,character/reformist_prince/ui/story/anger,character/reformist_prince/ui/story/discontent,character/reformist_prince/ui/story/doya,character/reformist_prince/ui/story/normal_b,character/reformist_prince/ui/story/pain,character/reformist_prince/ui/story/sad,character/reformist_prince/ui/story/sad_b,character/reformist_prince/ui/story/serious,character/reformist_prince/ui/story/serious_b,character/reformist_prince/ui/story/shame,character/reformist_prince/ui/story/smile,character/reformist_prince/ui/story/smile_b,character/reformist_prince/ui/story/smile_c,character/reformist_prince/ui/story/surprise,character/reformist_prince/ui/story/surprise_b,character/reformist_prince/ui/story/surprise_c,character/reformist_prince/ui/story/surprise_d,character/reformist_prince/ui/story/sweat,character/reformist_prince/ui/story/think,(None)"
+    ]
+  ],
+  "reformist_prince_unknown": [
+    [
+      "？？？",
+      "0xabb283",
+      "character/reformist_prince/voice/",
+      "normal",
+      "character/reformist_prince/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "hexad_prince": [
+    [
+      "アズラール",
+      "0xb3839c",
+      "character/hexad_prince/voice/",
+      "normal,normal_b,sad,serious,serious_b,shame,smile,smile_b,smile_c,surprise,sweat,think",
+      "character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base,character/hexad_prince/ui/story/base",
+      "character/hexad_prince/ui/story/normal,character/hexad_prince/ui/story/normal_b,character/hexad_prince/ui/story/sad,character/hexad_prince/ui/story/serious,character/hexad_prince/ui/story/serious_b,character/hexad_prince/ui/story/shame,character/hexad_prince/ui/story/smile,character/hexad_prince/ui/story/smile_b,character/hexad_prince/ui/story/smile_c,character/hexad_prince/ui/story/surprise,character/hexad_prince/ui/story/sweat,character/hexad_prince/ui/story/think"
+    ]
+  ],
+  "priest_prince": [
+    [
+      "マーデン",
+      "0x32587d",
+      "character/priest_prince/voice/",
+      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think"
+    ]
+  ],
+  "priest_prince_unknown": [
+    [
+      "？？？",
+      "0x32587d",
+      "character/priest_prince/voice/",
+      "normal",
+      "character/priest_prince/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "priest_prince_noname_ev": [
+    [
+      "貴族風の神官",
+      "0x32587d",
+      "character/priest_prince/voice/",
+      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think"
+    ]
+  ],
+  "veteran_hunter_3anv": [
+    [
+      "ヴェロン",
+      "0x3f2843",
+      "character/veteran_hunter/voice/",
+      "normal,angry,angry_b,etc,joy,joy_b,normal_b,sad,serious,shame,smile,smile_b,surprise,sweat,think,evolve",
+      "character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_0,character/veteran_hunter_3anv/ui/story/base_1",
+      "character/veteran_hunter_3anv/ui/story/normal,character/veteran_hunter_3anv/ui/story/angry,character/veteran_hunter_3anv/ui/story/angry_b,character/veteran_hunter_3anv/ui/story/etc,character/veteran_hunter_3anv/ui/story/joy,character/veteran_hunter_3anv/ui/story/joy_b,character/veteran_hunter_3anv/ui/story/normal_b,character/veteran_hunter_3anv/ui/story/sad,character/veteran_hunter_3anv/ui/story/serious,character/veteran_hunter_3anv/ui/story/shame,character/veteran_hunter_3anv/ui/story/smile,character/veteran_hunter_3anv/ui/story/smile_b,character/veteran_hunter_3anv/ui/story/surprise,character/veteran_hunter_3anv/ui/story/sweat,character/veteran_hunter_3anv/ui/story/think,(None)"
+    ]
+  ],
+  "veteran_hunter_3anv_unknown": [
+    [
+      "？？？",
+      "0x3f2843",
+      "character/veteran_hunter/voice/",
+      "normal",
+      "character/veteran_hunter_3anv/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "veteran_hunter_ev_unknown": [
+    [
+      "？？？",
+      "0x3f2843",
+      "character/veteran_hunter/voice/",
+      "normal",
+      "character/veteran_hunter/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "wind_spbro_3anv": [
+    [
+      "シエル",
+      "0x2f60b2",
+      "character/wind_spbro/voice/",
+      "normal,anger,consent,normal_b,provoke,sad,serious,shame,smile,smile_b,smile_c,surprise,sweat,think,think_b,evolve",
+      "character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_0,character/wind_spbro_3anv/ui/story/base_1",
+      "character/wind_spbro_3anv/ui/story/normal,character/wind_spbro_3anv/ui/story/anger,character/wind_spbro_3anv/ui/story/consent,character/wind_spbro_3anv/ui/story/normal_b,character/wind_spbro_3anv/ui/story/provoke,character/wind_spbro_3anv/ui/story/sad,character/wind_spbro_3anv/ui/story/serious,character/wind_spbro_3anv/ui/story/shame,character/wind_spbro_3anv/ui/story/smile,character/wind_spbro_3anv/ui/story/smile_b,character/wind_spbro_3anv/ui/story/smile_c,character/wind_spbro_3anv/ui/story/surprise,character/wind_spbro_3anv/ui/story/sweat,character/wind_spbro_3anv/ui/story/think,character/wind_spbro_3anv/ui/story/think_b,(None)"
+    ]
+  ],
+  "swallow_bro": [
+    [
+      "イグノーツ",
+      "0xcdcd8b",
+      "character/swallow_bro/voice/",
+      "normal,normal_b,sad,serious,shame,smile,surprise,sweat,think",
+      "character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base,character/swallow_bro/ui/story/base",
+      "character/swallow_bro/ui/story/normal,character/swallow_bro/ui/story/normal_b,character/swallow_bro/ui/story/sad,character/swallow_bro/ui/story/serious,character/swallow_bro/ui/story/shame,character/swallow_bro/ui/story/smile,character/swallow_bro/ui/story/surprise,character/swallow_bro/ui/story/sweat,character/swallow_bro/ui/story/think"
+    ]
+  ],
+  "mob_nines_knight": [
+    [
+      "ナインズの騎士",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_eightran_noble": [
+    [
+      "エイトラン貴族",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_anv_messenger": [
+    [
+      "伝令",
+      "0x8091a3",
       "(None)",
       "",
       "",

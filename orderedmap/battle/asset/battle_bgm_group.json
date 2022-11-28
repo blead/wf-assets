@@ -1331,11 +1331,29 @@
       "(None)"
     ]
   ],
+  "boss_epuration_event_boss": [
+    [
+      "2",
+      "",
+      "bgm/event/boss_epuration_event/battle/boss_epuration_event_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "advent_b_collabo_event_boss": [
     [
       "2",
       "",
       "bgm/event/advent_event/advent_event_b_collabo/battle/b_collabo_event_battle",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "anv3_battle_boss": [
+    [
+      "2",
+      "",
+      "bgm/event/anv3/battle/anv3_battle_boss",
       "(None)",
       "(None)"
     ]

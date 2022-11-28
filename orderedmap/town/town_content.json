@@ -262,5 +262,27 @@
       "10",
       "bgm/common/worldflipper_town_quest_spring"
     ]
+  ],
+  "13": [
+    [
+      "anv3",
+      "1",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "town/background/anv1/background",
+      "town/background/anv1/background_blur",
+      "town/background/anv1/background_mask",
+      "town/particle/firework",
+      "1",
+      "0",
+      "0",
+      "1",
+      "0.5",
+      "1",
+      "1",
+      "120",
+      "120",
+      "bgm/common/worldflipper_town_quest_anniversary_melody"
+    ]
   ]
 }

@@ -991,6 +991,38 @@
       "(None)"
     ]
   ],
+  "10019": [
+    [
+      "anv3_campaign_mission",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/anv3_mission_event_background",
+      "quest/event/banner/collect_item_event/anv3_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "10005": [
     [
       "rcollab_campaign_mission",

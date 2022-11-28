@@ -624,6 +624,31 @@
       "true"
     ]
   ],
+  "241": [
+    [
+      "limited_stamina_potion_39_00",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2022-12-28 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "240": [
     [
       "limited_stamina_potion_38_00",
@@ -7424,6 +7449,56 @@
       "true"
     ]
   ],
+  "60011": [
+    [
+      "token_crown_beasts_side_story_event",
+      "モノリス切片",
+      "item/materials/event/crown_beasts/box_token_crown_beasts",
+      "item_icon/materials/event/crown_beasts/box_token_crown_beasts",
+      "獣人達の聖地でみつけた石板のかけら。\n好事家たちが集めているらしい。\nイベント：百獣の王冠\n交換用アイテム",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2022-11-28 12:00:00",
+      "(None)",
+      "(None)",
+      "true"
+    ]
+  ],
+  "60012": [
+    [
+      "token_anv2_side_story_event",
+      "呪晶の破片",
+      "item/materials/event/anv2/box_token_anv2_01",
+      "item_icon/materials/event/anv2/box_token_anv2_01",
+      "魔界に存在する、人の思念を記憶する結晶体。好事家たちが珍品として集めているらしい\nイベント：歩め、闇の夢人達よ。\n交換用アイテム",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2022-11-28 12:00:00",
+      "(None)",
+      "(None)",
+      "true"
+    ]
+  ],
   "50500": [
     [
       "scollab_exchange_item_01",
@@ -7802,6 +7877,31 @@
   "980003": [
     [
       "multi_special_exchange_ticket_01_C",
+      "みんなでキャラチョイスチケット",
+      "item/spends/tickets/special_exchange_ticket",
+      "(None)",
+      "みんなでキャラチョイスで使用するチケットです",
+      "12",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "4",
+      "(None)",
+      "100",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2199-12-31 23:59:59",
+      "30",
+      "false"
+    ]
+  ],
+  "980004": [
+    [
+      "multi_special_exchange_ticket_02_A",
       "みんなでキャラチョイスチケット",
       "item/spends/tickets/special_exchange_ticket",
       "(None)",
@@ -8874,6 +8974,106 @@
       "true"
     ]
   ],
+  "40311": [
+    [
+      "boss_epuration_exchange_item_01",
+      "粛清の光輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "粛清者との戦闘跡地から見つかった、歪んだ光輪。ドラゴンの素材と似た性質を持っている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2022-11-28 12:00:00",
+      "2022-12-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40312": [
+    [
+      "boss_epuration_exchange_item_02",
+      "粛清の天輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "要注意粛清者の残留粒子が固まった光輪。学者達が対策を練る為に集めている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2022-11-28 12:00:00",
+      "2022-12-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40313": [
+    [
+      "equipment_enhancement_material_boss_epuration_01",
+      "ピナクリスタル",
+      "item/materials/event/boss_epuration_event/equipment_enhancement_material_boss_epuration_01",
+      "item/materials/event/boss_epuration_event/equipment_enhancement_material_boss_epuration_01",
+      "粛清者が持つ膨大なエネルギーの一部が秘められた結晶。\n\n特殊装備強化に使用します\n\n最大所持数：2000",
+      "1",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "9",
+      "(None)",
+      "300",
+      "4",
+      "2000",
+      "2022-11-28 12:00:00",
+      "(None)",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40314": [
+    [
+      "boss_epuration_point",
+      "粛清の心核",
+      "item/materials/event/boss_epuration_event/boss_epuration_point",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
+      "粛清者を倒した場所で稀に発見される結晶。特殊な波長を発しており、要注意個体の粛清者をおびき出す事ができる",
+      "19",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "0",
+      "5",
+      "99",
+      "2022-11-28 12:00:00",
+      "2022-12-15 20:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "40122": [
     [
       "boss_coin_boar_rider_3",
@@ -8970,6 +9170,31 @@
       "9999",
       "2022-10-31 12:00:00",
       "2022-11-22 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "30128": [
+    [
+      "box_token_anv3",
+      "模造騎士団章",
+      "item/materials/event/anv3/box_token_anv3",
+      "item_icon/materials/event/anv3/box_token_anv3",
+      "飛燕自由騎士団の団員であることを証明する団章を模した一品。\nファン達が集めているらしい。\nイベント：遥かな王道、継承の騎士道\nトークンガチャ専用アイテム",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2022-11-28 12:00:00",
+      "2022-12-23 04:59:59",
       "(None)",
       "true"
     ]
@@ -15999,6 +16224,81 @@
       "false"
     ]
   ],
+  "5010070": [
+    [
+      "sword_0070_epuration",
+      "リベレイターのソウル",
+      "item/generated/ability_soul/general/sword_0070_epuration",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0,3,2,1,4,5",
+      "5",
+      "(None)",
+      "100",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
+  "5020041": [
+    [
+      "axe_0041",
+      "アダマスのソウル",
+      "item/generated/ability_soul/general/axe_0041",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0,3,2,1,4,5",
+      "5",
+      "(None)",
+      "0",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
+  "5060044": [
+    [
+      "staff_0044",
+      "テュルソスのソウル",
+      "item/generated/ability_soul/general/staff_0044",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0,3,2,1,4,5",
+      "5",
+      "(None)",
+      "0",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
   "5040022": [
     [
       "bow_0022",
@@ -16313,6 +16613,81 @@
       "",
       "",
       "1",
+      "5",
+      "(None)",
+      "500",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
+  "4010071": [
+    [
+      "sword_0071_storyevent",
+      "イノセンスのソウル",
+      "item/generated/ability_soul/general/sword_0071_storyevent",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "4",
+      "5",
+      "(None)",
+      "300",
+      "4",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
+  "5050038": [
+    [
+      "book_0038_storyevent",
+      "エイトランレポートのソウル",
+      "item/generated/ability_soul/general/book_0038_storyevent",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "5",
+      "5",
+      "(None)",
+      "500",
+      "5",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
+  "5010072": [
+    [
+      "sword_0072_storyevent",
+      "ナインズワンのソウル",
+      "item/generated/ability_soul/general/sword_0072_storyevent",
+      "(None)",
+      "アビリティソウル",
+      "11",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "4",
       "5",
       "(None)",
       "500",

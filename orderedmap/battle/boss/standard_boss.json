@@ -517,6 +517,14 @@
       ]
     ]
   },
+  "high_epuration_boss_3anv": {
+    "100": [
+      [
+        "僧正の粛清者",
+        "battle/enemy/boss/high_epuration_boss_3anv"
+      ]
+    ]
+  },
   "halfanv25_big_boss_multi": {
     "60": [
       [
@@ -561,11 +569,51 @@
       ]
     ]
   },
+  "boss_epuration_boss_variant_ver_3anv": {
+    "100": [
+      [
+        "異形粛清者",
+        "battle/enemy/boss/boss_epuration_boss_variant_ver_3anv"
+      ]
+    ]
+  },
+  "epuration_boss_highest_multi": {
+    "100": [
+      [
+        "女帝の粛清者",
+        "battle/enemy/boss/epuration_boss_highest_3anv_multi"
+      ]
+    ]
+  },
+  "epuration_boss_highest_single": {
+    "100": [
+      [
+        "女帝の粛清者",
+        "battle/enemy/boss/epuration_boss_highest_3anv_single"
+      ]
+    ]
+  },
   "epuration_boss_dragon_main": {
     "80": [
       [
         "ドラグ・パラサイト",
         "battle/enemy/boss/epuration_boss_dragon_main"
+      ]
+    ]
+  },
+  "epuration_boss_3anv_multi": {
+    "100": [
+      [
+        "歩兵の粛清者",
+        "battle/enemy/boss/epuration_boss_3anv_multi"
+      ]
+    ]
+  },
+  "epuration_boss_3anv_single": {
+    "100": [
+      [
+        "歩兵の粛清者",
+        "battle/enemy/boss/epuration_boss_3anv_single"
       ]
     ]
   },
@@ -686,6 +734,50 @@
       [
         "アークガーディアン",
         "battle/enemy/boss/arc_guardian_pcollab_02_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_multi": {
+    "55": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_single": {
+    "55": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_single2"
+      ]
+    ],
+    "80": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_expert": {
+    "100": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_story": {
+    "100": [
+      [
+        "パラサイト・アビス",
+        "battle/enemy/boss/anv3_big_boss_story"
       ]
     ]
   }

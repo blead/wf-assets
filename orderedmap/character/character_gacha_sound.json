@@ -2461,6 +2461,99 @@
       ]
     ]
   },
+  "253019": {
+    "5": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ]
+  },
+  "161159": {
+    "5": [
+      [
+        "sound_effect/dark/se_bad_soul_wind"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/dark/se_gigantic_darkness_emit"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ]
+    ]
+  },
+  "151129": {
+    "5": [
+      [
+        "sound_effect/slash/se_slash_finish"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/slash/se_fury_cutter"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/light/se_light_bright_shooting_star"
+      ]
+    ]
+  },
+  "161153": {
+    "5": [
+      [
+        "sound_effect/sf/se_sf_machine_breakdown"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/sf/se_security_armor_explosion"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/sf/se_security_armor_explosion"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/blow/se_blow_laser_shot"
+      ]
+    ]
+  },
+  "121141": {
+    "5": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ],
+      [
+        "sound_effect/slash/se_big_spark_claw"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/situation/se_energy_attack_ready"
+      ]
+    ]
+  },
   "141135": {
     "5": [
       [

@@ -533,6 +533,34 @@
       "dynamic/world_story_event_tutorial/side_story_event_top/tutorial_plot"
     ]
   ],
+  "crown_beasts_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/crown_beasts/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/crown_beasts/tutorial_plot_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/crown_beasts/tutorial_plot_03"
+    ]
+  ],
+  "anv2_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv2/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv2/tutorial_plot_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv2/tutorial_plot_03"
+    ]
+  ],
   "combat_diver_01": [
     [
       "0",
@@ -575,6 +603,16 @@
     [
       "0",
       "dynamic/how_to/rush_event/combat_diver_01/howto_05"
+    ]
+  ],
+  "real_incentive_01": [
+    [
+      "0",
+      "dynamic/how_to/real_incentive/real_incentive_01/howto_01"
+    ],
+    [
+      "0",
+      "dynamic/how_to/real_incentive/real_incentive_01/howto_02"
     ]
   ],
   "raid_event_01": [
@@ -673,6 +711,20 @@
     [
       "0",
       "dynamic/how_to/multi_special_exchange/how_to_02"
+    ],
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_03"
+    ],
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_04"
+    ]
+  ],
+  "multi_special_exchange_02": [
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_01"
     ],
     [
       "0",
@@ -1001,6 +1053,12 @@
       "dynamic/equipment_enhancement/howto02"
     ]
   ],
+  "equipment_enhancement_epuration_weapon_how_to_play": [
+    [
+      "0",
+      "dynamic/equipment_enhancement/epuration_weapon_howto_01"
+    ]
+  ],
   "desert_bonds_01_how_to_play": [
     [
       "0",
@@ -1125,6 +1183,16 @@
       "dynamic/world_story_event_tutorial/tutorial_token_gacha"
     ]
   ],
+  "boss_epuration_event_01": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/boss_epuration_event/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/boss_epuration_event/tutorial_02"
+    ]
+  ],
   "boss_coin_shop_select_campaign_empress_01": [
     [
       "0",
@@ -1199,6 +1267,24 @@
     [
       "0",
       "dynamic/world_story_event_tutorial/anv_story_01/tutorial_expert_single"
+    ]
+  ],
+  "anv3": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/tutorial_token_gacha"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_multi"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_expert_single"
     ]
   ],
   "anv2_re01": [

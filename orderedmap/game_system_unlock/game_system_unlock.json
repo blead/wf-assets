@@ -110,5 +110,12 @@
       "system_lock_expert_single_side_story",
       "short_system_lock_expert_single_side_story"
     ]
+  ],
+  "boss_epuration": [
+    [
+      "condition_boss_epuration",
+      "system_lock_boss_epuration",
+      "(None)"
+    ]
   ]
 }

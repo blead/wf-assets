@@ -6151,6 +6151,38 @@
       "11"
     ]
   ],
+  "sound_effect/wind/se_wind_gliding_all": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/wind/se_wind_gliding": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/wind/se_wind_gliding_in": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/wind/se_wind_gliding_out": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/yakumono/se_baloon_break_a": [
     [
       "0.2",

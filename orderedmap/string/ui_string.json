@@ -149,6 +149,11 @@
       "特殊装備強化は\nプレイヤーランクが::need_player_rank::以上になることで\n解放されます"
     ]
   ],
+  "system_lock_boss_epuration": [
+    [
+      "粛清者討伐戦はメインクエスト\n11 章 10 - 3をクリアすることで\n解放されます"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -272,6 +277,11 @@
   "party_group_edit_description_swap": [
     [
       "そのまま <font size='32px' color='#FF9F1C'><b>上下ドラッグ</b></font> で順序入れ替え"
+    ]
+  ],
+  "party_group_edit_description_auto_start_party_select": [
+    [
+      "<font size='32px' color='#FF9F1C'><b>タップ</b></font> で選択"
     ]
   ],
   "party_group_edit_tab": [
@@ -5079,6 +5089,11 @@
       "追憶装備強化"
     ]
   ],
+  "help_label_equipment_enhancement_epuration_weapon": [
+    [
+      "粛清装備強化"
+    ]
+  ],
   "help_label_encyclopedia": [
     [
       "星見の図鑑"
@@ -5232,6 +5247,11 @@
   "help_label_event_advent": [
     [
       "降臨討伐"
+    ]
+  ],
+  "help_label_event_boss_epuration_event_01": [
+    [
+      "粛清者討伐戦"
     ]
   ],
   "help_label_event_challenge": [
@@ -5474,6 +5494,11 @@
       "運営チームが対応していない、\n星導石の購入取り消しが続いたため、\n星導石購入の利用制限を実施しました"
     ]
   ],
+  "payment_feature_not_supported": [
+    [
+      "購入処理に関するエラーが発生しています\nストアのバージョンを最新版へアップデートのうえ、端末の再起動をお試しください"
+    ]
+  ],
   "multibattle_rooms_list_reload_disabled": [
     [
       "更新可能になるまで、しばらくお待ちください"
@@ -5612,6 +5637,11 @@
   "boss_battle_select_play_single_pickup_caution": [
     [
       "ピックアップ対象のボスには\n協力バトルで挑まないと\n<font color='#EA354C'>ピックアップの効果で報酬が増えません</font>\n\nよろしいですか？"
+    ]
+  ],
+  "boss_battle_select_play_single_not_selectable": [
+    [
+      "シングルバトルは選択できません"
     ]
   ],
   "character_scene_room_disband": [
@@ -7674,6 +7704,11 @@
       "::ticketName:: × ::cost:: を\n消費して『::equipmentName::』と交換します\nよろしいですか？\n\n<font color='#ea354c' size='24px'>※交換した装備アイテムは直接付与されます</font>"
     ]
   ],
+  "special_exchange_campaign_ticket_not_owned": [
+    [
+      "::ticketName::を所持していません"
+    ]
+  ],
   "special_exchange_campaign_how_to_play_title": [
     [
       "遊び方"
@@ -7684,14 +7719,19 @@
       "開催期間が終了しているため\n購入できません"
     ]
   ],
+  "special_exchange_enter_campaign_out_of_date": [
+    [
+      "開催期間が終了しました"
+    ]
+  ],
   "special_exchange_ticket_buy_dialog_character_caution": [
     [
-      "<font color='#ea354c' size='24px'>※::exchangeTicketName::と::gachaTicketName::は直接付与されます\n※セット購入後、星のカケラ × 20 をメールで付与します</font>"
+      "<font color='#ea354c' size='24px'>※::exchangeTicketName::::if (gachaTicketName != null)::と::gachaTicketName::::end::は直接付与されます\n※セット購入後、星のカケラ × 20 をメールで付与します</font>"
     ]
   ],
   "special_exchange_ticket_buy_dialog_equipment_caution": [
     [
-      "<font color='#ea354c' size='24px'>※::exchangeTicketName::と\n::gachaTicketName::は直接付与されます\n※セット購入後、星のカケラ × 10 をメールで付与します</font>"
+      "<font color='#ea354c' size='24px'>※::exchangeTicketName::と\n::if (gachaTicketName != null)::::gachaTicketName::::end::は直接付与されます\n※セット購入後、星のカケラ × 10 をメールで付与します</font>"
     ]
   ],
   "start_dash_campaign_have_expired_ticket_dialog_message": [
@@ -7746,12 +7786,12 @@
   ],
   "multi_special_exchange_campaign_create_room_dialog_confirm": [
     [
-      "ルームを作成します\n本当によろしいですか？\n\n<font color='#ea354c' size='30px'>※イベント期間中、「みんなで選ぶ」「ひとりで選ぶ」のどちらかを、\n1度しか選ぶことができません\nセットは同じセットが複数選ばれる可能性があります\nまた、マッチングが成立して開始をすると、\nキャラを選択するまでホームに戻れません</font>"
+      "ルームを作成します\n本当によろしいですか？\n\n<font color='#ea354c' size='30px'>※イベント期間中、「みんなで選ぶ」「ひとりで選ぶ」のどちらかを、\n1度しか選ぶことができません\nまた、マッチングが成立して開始をすると、\nキャラを選択するまでホームに戻れません</font>"
     ]
   ],
   "multi_special_exchange_campaign_enter_room_dialog_confirm": [
     [
-      "「みんなで選ぶ」のルームに参加します\n本当によろしいですか？\n\n<font color='#ea354c' size='30px'>※イベント期間中、「みんなで選ぶ」「ひとりで選ぶ」のどちらかを\n1度しか選ぶことができません\nセットは同じセットが複数選ばれる可能性があります\nまた、マッチングが成立して開始をすると、キャラを選択するまでホームに戻れません</font>"
+      "「みんなで選ぶ」のルームに参加します\n本当によろしいですか？\n\n<font color='#ea354c' size='30px'>※イベント期間中、「みんなで選ぶ」「ひとりで選ぶ」のどちらかを\n1度しか選ぶことができません\nまた、マッチングが成立して開始をすると、キャラを選択するまでホームに戻れません</font>"
     ]
   ],
   "multi_special_exchange_campaign_create_lounge_out_of_period": [
@@ -8729,6 +8769,11 @@
       "プレイヤーランク::rank::以上"
     ]
   ],
+  "quest_unselectable_reason_message_start_time": [
+    [
+      "::questName::は::startTime::から解放されます"
+    ]
+  ],
   "quest_warning_spoiler_main": [
     [
       "未読ストーリーの情報を含むため、以下の条件を達成した状態で開始すると、よりお楽しみいただけます。"
@@ -9339,6 +9384,21 @@
       "挑戦する"
     ]
   ],
+  "active_mission_lottery_enter": [
+    [
+      "受け取って応募"
+    ]
+  ],
+  "active_mission_lottery_entered": [
+    [
+      "応募済み"
+    ]
+  ],
+  "active_mission_out_of_period": [
+    [
+      "期限切れ"
+    ]
+  ],
   "active_mission_received_message": [
     [
       "報酬は受取済みです"
@@ -9364,6 +9424,51 @@
       "ミッション達成報酬を受け取りました"
     ]
   ],
+  "active_mission_receive_and_apply_for_lottery_title": [
+    [
+      "応募を受け付けました！"
+    ]
+  ],
+  "active_mission_receive_ingame_reward_title": [
+    [
+      "おめでとうございます！"
+    ]
+  ],
+  "active_mission_receive_ingame_reward": [
+    [
+      "::name:: × ::count:: が当選しました"
+    ]
+  ],
+  "active_mission_receive_at_mail_caution": [
+    [
+      "<font size='32px'>※報酬はメールで付与されます</font>"
+    ]
+  ],
+  "active_mission_receive_multi_ingame_reward_title": [
+    [
+      "以下の報酬が当選しました"
+    ]
+  ],
+  "active_mission_receive_ingame_reward_expired": [
+    [
+      "報酬の受け取り期限を過ぎました"
+    ]
+  ],
+  "active_mission_already_received_ingame_reward": [
+    [
+      "報酬は受取済みのため、受け取れませんでした"
+    ]
+  ],
+  "active_mission_already_lottery_entered_message": [
+    [
+      "すでに応募済みです"
+    ]
+  ],
+  "active_mission_out_of_period_message": [
+    [
+      "このミッションは期限切れです"
+    ]
+  ],
   "active_mission_clear_phase": [
     [
       "::phase::のミッションをすべて達成しました！\n::next::のミッションにも挑戦してみましょう！"
@@ -9382,6 +9487,71 @@
   "active_mission_need_challenge_message": [
     [
       "「::need::」のミッションを達成する必要があります"
+    ]
+  ],
+  "active_mission_playable_period": [
+    [
+      "応募期間"
+    ]
+  ],
+  "active_mission_playable_period_datetime": [
+    [
+      "::start_date:: - ::end_date_time::"
+    ]
+  ],
+  "active_mission_lottery_period": [
+    [
+      "抽選期間"
+    ]
+  ],
+  "active_mission_lottery_period_datetime": [
+    [
+      "::start_date:: - ::end_date_time::"
+    ]
+  ],
+  "active_mission_receive_period": [
+    [
+      "結果発表期間"
+    ]
+  ],
+  "active_mission_receive_period_datetime": [
+    [
+      "::start_date:: - ::end_date_time::"
+    ]
+  ],
+  "active_mission_win_lottery_name": [
+    [
+      "::name:: 当選！"
+    ]
+  ],
+  "active_mission_win_lottery_dialog_title": [
+    [
+      "おめでとうございます！"
+    ]
+  ],
+  "active_mission_win_lottery_register": [
+    [
+      "送付先登録"
+    ]
+  ],
+  "active_mission_win_lotter_registery_description": [
+    [
+      "<font color=\"#ff9e1c\">::description::</font> が\n当選しました！\n\n下記の「送付先登録」ボタンより、\n報酬をお受け取りください\n<font size='-8'>※「送付先登録」ボタンを押すと、ブラウザを起動し、\n外部Webサイトに移動します</font>\n"
+    ]
+  ],
+  "active_mission_win_lottery_exchange": [
+    [
+      "引き換え"
+    ]
+  ],
+  "active_mission_win_lottery_exchange_description": [
+    [
+      "<font color=\"#ff9e1c\">::description::</font> が\n当選しました！\n\n下記の「引き換え」ボタンより、\n報酬をお受け取りください\n<font size='-8'>※「引き換え」ボタンを押すと、ブラウザを起動し、\n外部Webサイトに移動します</font>\n"
+    ]
+  ],
+  "active_mission_dialog_negative": [
+    [
+      "とじる"
     ]
   ],
   "event_item_exchange_featured_shop_item": [
@@ -10829,6 +10999,21 @@
       "降臨討伐イベント『::questName::』をクリア"
     ]
   ],
+  "quest_unselectable_reason_message_single_advent_event_quest_host_clear": [
+    [
+      "降臨討伐イベント『::questName::』をホストでクリア"
+    ]
+  ],
+  "quest_unselectable_reason_message_advent_event_boss_epuration_quest_clear": [
+    [
+      "イベント「::event_name::」の「::quest_name::」をクリア"
+    ]
+  ],
+  "quest_unselectable_reason_message_advent_event_boss_epuration_quest_host_clear": [
+    [
+      "イベント「::event_name::」の「::quest_name::」をホストでクリア"
+    ]
+  ],
   "quest_unselectable_reason_message_single_ranking_event_quest_clear": [
     [
       "スコアアタックイベント『::questName::』をクリア"
@@ -10864,9 +11049,9 @@
       "ボスバトル『::questName::』をクリア"
     ]
   ],
-  "quest_unselectable_reason_message_advent_boss_battle_quest_clear": [
+  "quest_unselectable_reason_message_boss_battle_quest_host_clear": [
     [
-      "降臨討伐ボスバトル『::questName::』をクリア"
+      "ボスバトル『::questName::』をホストでクリア"
     ]
   ],
   "quest_unselectable_reason_message_multi_ranking_event_quest_clear": [
@@ -10882,6 +11067,11 @@
   "quest_unselectable_reason_message_side_story_event_quest_clear": [
     [
       "サイドストーリー『::eventName::』の『::questName::』をクリア"
+    ]
+  ],
+  "quest_unselectable_reason_message_event_quest_host_clear": [
+    [
+      "イベント『::eventName::』の『::questName::』をホストでクリア"
     ]
   ],
   "quest_unselectable_reason_message_single_tower_dungeon_event_quest_clear": [
@@ -10907,6 +11097,11 @@
   "quest_unselectable_reason_message_solo_time_attack_event_quest_clear": [
     [
       "タイムアタックイベント『::questName::』をクリア"
+    ]
+  ],
+  "quest_sub_progress_host_clear": [
+    [
+      "協力バトルをホストでクリア"
     ]
   ],
   "quest_start_out_of_period_error": [
@@ -11509,6 +11704,11 @@
       "::round::戦目"
     ]
   ],
+  "rush_event_auto_start_battle_round": [
+    [
+      "::round::戦目"
+    ]
+  ],
   "rush_event_clear_reward_dialog_retry": [
     [
       "再挑戦する"
@@ -11527,6 +11727,11 @@
   "rush_event_break_through_reward_gotten_message": [
     [
       "踏破報酬を獲得しました！"
+    ]
+  ],
+  "rush_event_break_through_reward_gotten_message_with_auto_start_completed": [
+    [
+      "踏破報酬を獲得しました！\n連戦指定回数に到達したので、連戦機能が停止しました"
     ]
   ],
   "rush_event_unselectable_challenging_another_rush_battle": [
@@ -12384,6 +12589,21 @@
       "スタミナ1/2CP : ::start_date:: - ::end_date::"
     ]
   ],
+  "special_exchange_campaign_open_dates": [
+    [
+      "開催期間 : ::start_date:: - ::end_date::"
+    ]
+  ],
+  "special_exchange_campaign_exchange_dates": [
+    [
+      "交換期間 : ::start_date:: - ::end_date::"
+    ]
+  ],
+  "special_exchange_campaign_sale_dates": [
+    [
+      "販売期間 : ::start_date:: - ::end_date::"
+    ]
+  ],
   "shop_item_own_count": [
     [
       "所持数："
@@ -12864,6 +13084,11 @@
       "未来へ紡ぐ世界の歌"
     ]
   ],
+  "help_event_world_story_event_anv3": [
+    [
+      "遥かな王道、継承の騎士道"
+    ]
+  ],
   "help_label_event_material_trader": [
     [
       "マテリアルトレーダー"
@@ -13196,7 +13421,17 @@
   ],
   "party_select_notify_single_auto_play_stop_game_over": [
     [
-      "連戦機能が停止しました。\nリタイアした為、\nリタイアしたクエストのスタミナは\n返却され、獲得した\n<font color='#ea354c'>アイテム・RP・経験値・マナ</font>\nは手に入りません"
+      "連戦機能が停止しました\nリタイアしたため、\nリタイアしたクエストの::cost::は\n返却され、獲得した\n<font color='#ea354c'>アイテム・RP・経験値・マナ</font>\nは手に入りません"
+    ]
+  ],
+  "party_select_notify_single_auto_play_stop_game_over_no_cost": [
+    [
+      "連戦機能が停止しました。\nリタイアした為、\n<font color='#ea354c'>アイテム・RP・経験値・マナ</font>\nは手に入りません"
+    ]
+  ],
+  "party_select_notify_single_auto_play_stop_game_over_separator": [
+    [
+      "、"
     ]
   ],
   "party_select_notify_single_auto_play_stop_stamina": [
@@ -13204,9 +13439,19 @@
       "スタミナが無い為、連戦機能が停止しました"
     ]
   ],
+  "party_select_notify_single_auto_play_stop_stamina_difference": [
+    [
+      "消費スタミナに変化があった為、連戦機能が停止しました"
+    ]
+  ],
   "party_select_notify_single_auto_play_stop_interruption": [
     [
       "シングルバトルが中断された為、\n連戦機能を停止しました"
+    ]
+  ],
+  "party_select_notify_single_auto_play_stop_complete": [
+    [
+      "連戦が完了しました"
     ]
   ],
   "party_select_auto_start_button": [
@@ -13222,6 +13467,46 @@
   "party_select_auto_start_insufficient_point": [
     [
       "本日はこれ以上自動連戦できません\n自動連戦回数は毎日5:00にリセットされます"
+    ]
+  ],
+  "party_select_auto_start_insufficient_cost": [
+    [
+      "::min::回分以上の::cost::が足りないため、連戦できません"
+    ]
+  ],
+  "party_select_auto_start_insufficient_cost_separator": [
+    [
+      "/"
+    ]
+  ],
+  "single_auto_start_cost_stamina": [
+    [
+      "スタミナ"
+    ]
+  ],
+  "single_auto_start_cost_daily_challenge_point": [
+    [
+      "挑戦回数"
+    ]
+  ],
+  "single_auto_start_cost_auto_start_point": [
+    [
+      "本日の自動連戦回数"
+    ]
+  ],
+  "single_auto_start_setting_dialog_title": [
+    [
+      "連戦機能"
+    ]
+  ],
+  "single_auto_start_setting_dialog_slider": [
+    [
+      "周回回数: ::value::回"
+    ]
+  ],
+  "single_auto_start_setting_dialog_change_party": [
+    [
+      "変更"
     ]
   ],
   "orb_movie_open_detail": [
@@ -13297,6 +13582,11 @@
   "help_label_battle_support_campaign": [
     [
       "超バトル応援キャンペーン"
+    ]
+  ],
+  "help_label_reward_100manyen_campaign": [
+    [
+      "100万円キャンペーン"
     ]
   ],
   "help_label_campaign": [

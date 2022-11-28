@@ -10,12 +10,35 @@
       "dynamic/home_banner/etc/multi_special_exchange_campaign",
       "dynamic/multi_special_exchange/multi_special_exchange_01_top",
       "multi_special_exchange",
+      "multi_special_exchange_01",
       "980001",
       "dynamic/multi_special_exchange/multi_special_exchange_01_A",
       "980002",
       "dynamic/multi_special_exchange/multi_special_exchange_01_B",
       "980003",
-      "dynamic/multi_special_exchange/multi_special_exchange_01_C"
+      "dynamic/multi_special_exchange/multi_special_exchange_01_C",
+      "(None)"
+    ]
+  ],
+  "2": [
+    [
+      "multi_special_exchange_campaign_02",
+      "みんなでキャラチョイス2回目",
+      "0",
+      "2022-11-28 12:00:00",
+      "2022-12-15 11:59:59",
+      "2022-12-23 11:59:59",
+      "dynamic/home_banner/etc/multi_special_exchange_campaign",
+      "dynamic/multi_special_exchange/multi_special_exchange_02_top",
+      "multi_special_exchange_02",
+      "multi_special_exchange_02",
+      "980004",
+      "dynamic/multi_special_exchange/multi_special_exchange_02_top",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "一緒に「みんなでキャラチョイス」をあそんでくれる人を募集中！！\n自分がチョイスするキャラは「〇〇」の予定です！ #ワールドフリッパー #ワーフリアニバ #みんなでキャラチョイス"
     ]
   ]
 }

@@ -29935,6 +29935,110 @@
       "690"
     ]
   ],
+  "character/hexad_prince/ui/story/base": [
+    [
+      "0",
+      "53",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/normal": [
+    [
+      "207",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/normal_b": [
+    [
+      "207",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/sad": [
+    [
+      "207",
+      "174",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/serious": [
+    [
+      "207",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/serious_b": [
+    [
+      "207",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/shame": [
+    [
+      "195",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/smile": [
+    [
+      "207",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/smile_b": [
+    [
+      "207",
+      "174",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/smile_c": [
+    [
+      "211",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/surprise": [
+    [
+      "207",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/sweat": [
+    [
+      "321",
+      "317",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hexad_prince/ui/story/think": [
+    [
+      "212",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
   "character/hidden_blader/ui/full_shot_1440_1920_0": [
     [
       "343",
@@ -30143,6 +30247,14 @@
       "690"
     ]
   ],
+  "character/high_priestess/ui/story/anger_c": [
+    [
+      "211",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
   "character/high_priestess/ui/story/base_0": [
     [
       "0",
@@ -30215,6 +30327,30 @@
       "690"
     ]
   ],
+  "character/high_priestess/ui/story/sad_b": [
+    [
+      "211",
+      "258",
+      "570",
+      "690"
+    ]
+  ],
+  "character/high_priestess/ui/story/serious": [
+    [
+      "211",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/high_priestess/ui/story/serious_b": [
+    [
+      "211",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
   "character/high_priestess/ui/story/shame": [
     [
       "228",
@@ -30235,6 +30371,14 @@
     [
       "211",
       "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/high_priestess/ui/story/surprise_b": [
+    [
+      "211",
+      "257",
       "570",
       "690"
     ]
@@ -48207,6 +48351,14 @@
       "690"
     ]
   ],
+  "character/palpebra_knight/ui/story/angry_b": [
+    [
+      "228",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
   "character/palpebra_knight/ui/story/base_0": [
     [
       "0",
@@ -48251,6 +48403,14 @@
     [
       "227",
       "225",
+      "570",
+      "690"
+    ]
+  ],
+  "character/palpebra_knight/ui/story/sad_b": [
+    [
+      "227",
+      "223",
       "570",
       "690"
     ]
@@ -50855,6 +51015,198 @@
       "690"
     ]
   ],
+  "character/priest_prince/ui/story/anger": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/anger_b": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/anger_c": [
+    [
+      "205",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/base": [
+    [
+      "56",
+      "124",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/normal": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/normal_b": [
+    [
+      "207",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/normal_c": [
+    [
+      "207",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/normal_d": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/provoke": [
+    [
+      "208",
+      "227",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/provoke_b": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/provoke_c": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious_b": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious_c": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/shame": [
+    [
+      "215",
+      "279",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/smile": [
+    [
+      "210",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/smile_b": [
+    [
+      "207",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/smile_c": [
+    [
+      "208",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/surprise": [
+    [
+      "207",
+      "227",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/surprise_b": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/sweat": [
+    [
+      "330",
+      "313",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/tear": [
+    [
+      "219",
+      "285",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/think": [
+    [
+      "210",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/unknown": [
+    [
+      "56",
+      "124",
+      "570",
+      "690"
+    ]
+  ],
   "character/prince_zero/ui/full_shot_1440_1920_0": [
     [
       "527",
@@ -51551,6 +51903,14 @@
       "690"
     ]
   ],
+  "character/psychic_nao/ui/story/sad_c": [
+    [
+      "215",
+      "315",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_nao/ui/story/serious": [
     [
       "215",
@@ -51560,6 +51920,14 @@
     ]
   ],
   "character/psychic_nao/ui/story/serious_b": [
+    [
+      "215",
+      "315",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao/ui/story/serious_c": [
     [
       "215",
       "315",
@@ -51587,6 +51955,22 @@
     [
       "215",
       "317",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao/ui/story/smile_c": [
+    [
+      "215",
+      "304",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao/ui/story/smile_d": [
+    [
+      "218",
+      "315",
       "570",
       "690"
     ]
@@ -51651,6 +52035,14 @@
     [
       "214",
       "308",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao/ui/story/surprise_i": [
+    [
+      "215",
+      "306",
       "570",
       "690"
     ]
@@ -52023,6 +52415,14 @@
       "690"
     ]
   ],
+  "character/psychic_seiji/ui/story/anger_b": [
+    [
+      "186",
+      "191",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_seiji/ui/story/base": [
     [
       "86",
@@ -52112,6 +52512,14 @@
     ]
   ],
   "character/psychic_seiji/ui/story/shock": [
+    [
+      "186",
+      "215",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_seiji/ui/story/shock_b": [
     [
       "186",
       "215",
@@ -55607,6 +56015,14 @@
       "690"
     ]
   ],
+  "character/rector_sorcerer/ui/story/normal_d": [
+    [
+      "203",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
   "character/rector_sorcerer/ui/story/provoke": [
     [
       "202",
@@ -55624,6 +56040,14 @@
     ]
   ],
   "character/rector_sorcerer/ui/story/sad": [
+    [
+      "203",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/rector_sorcerer/ui/story/sad_b": [
     [
       "203",
       "249",
@@ -55679,6 +56103,14 @@
       "690"
     ]
   ],
+  "character/rector_sorcerer/ui/story/surprise": [
+    [
+      "202",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
   "character/rector_sorcerer/ui/story/sweat": [
     [
       "228",
@@ -55688,6 +56120,14 @@
     ]
   ],
   "character/rector_sorcerer/ui/story/think": [
+    [
+      "202",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/rector_sorcerer/ui/story/think_b": [
     [
       "202",
       "252",
@@ -55707,6 +56147,62 @@
     [
       "0",
       "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/full_shot_1440_1920_0": [
+    [
+      "323",
+      "119",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/skill_cutin_0": [
+    [
+      "214",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/full_shot_1440_1920_1": [
+    [
+      "161",
+      "206",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/skill_cutin_1": [
+    [
+      "49",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/rector_sorcerer_playable/ui/story/normal": [
+    [
+      "196",
+      "238",
       "570",
       "690"
     ]
@@ -55859,6 +56355,222 @@
     [
       "241",
       "384",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/full_shot_1440_1920_0": [
+    [
+      "264",
+      "267",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/reformist_prince/ui/skill_cutin_0": [
+    [
+      "133",
+      "95",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/reformist_prince/ui/full_shot_1440_1920_1": [
+    [
+      "322",
+      "20",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/reformist_prince/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/reformist_prince/ui/story/anger": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/base_0": [
+    [
+      "0",
+      "96",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/discontent": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/doya": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/normal": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/normal_b": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/pain": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/sad": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/sad_b": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/serious": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/serious_b": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/shame": [
+    [
+      "220",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/smile": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/smile_b": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/smile_c": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/surprise": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/surprise_b": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/surprise_c": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/surprise_d": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/sweat": [
+    [
+      "229",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/think": [
+    [
+      "198",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/reformist_prince/ui/story/unknown": [
+    [
+      "0",
+      "85",
       "570",
       "690"
     ]
@@ -68783,6 +69495,86 @@
       "690"
     ]
   ],
+  "character/swallow_bro/ui/story/base": [
+    [
+      "30",
+      "108",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/normal": [
+    [
+      "200",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/normal_b": [
+    [
+      "200",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/sad": [
+    [
+      "200",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/serious": [
+    [
+      "201",
+      "234",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/shame": [
+    [
+      "208",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/smile": [
+    [
+      "200",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/surprise": [
+    [
+      "200",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/sweat": [
+    [
+      "322",
+      "311",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_bro/ui/story/think": [
+    [
+      "200",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
   "character/swallow_knight/ui/full_shot_1440_1920_0": [
     [
       "448",
@@ -68879,7 +69671,23 @@
       "690"
     ]
   ],
+  "character/swallow_knight/ui/story/joy_c": [
+    [
+      "228",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
   "character/swallow_knight/ui/story/normal": [
+    [
+      "228",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight/ui/story/normal_b": [
     [
       "228",
       "245",
@@ -68907,6 +69715,22 @@
     [
       "233",
       "264",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight/ui/story/serious": [
+    [
+      "228",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight/ui/story/serious_b": [
+    [
+      "228",
+      "253",
       "570",
       "690"
     ]
@@ -68959,10 +69783,210 @@
       "690"
     ]
   ],
+  "character/swallow_knight/ui/story/surprise_c": [
+    [
+      "233",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
   "character/swallow_knight/ui/story/sweat": [
     [
       "225",
       "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/full_shot_1440_1920_0": [
+    [
+      "78",
+      "231",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/skill_cutin_0": [
+    [
+      "132",
+      "98",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/full_shot_1440_1920_1": [
+    [
+      "305",
+      "138",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/skill_cutin_1": [
+    [
+      "131",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/angry": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/angry_b": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/base_0": [
+    [
+      "0",
+      "104",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/base_1": [
+    [
+      "0",
+      "52",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/jito": [
+    [
+      "198",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/joy": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/joy_b": [
+    [
+      "198",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/joy_c": [
+    [
+      "198",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/normal": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/normal_b": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/sad": [
+    [
+      "198",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/serious": [
+    [
+      "198",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/serious_b": [
+    [
+      "198",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/shame": [
+    [
+      "199",
+      "278",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/smile": [
+    [
+      "198",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/smile_b": [
+    [
+      "198",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/surprise": [
+    [
+      "198",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/surprise_b": [
+    [
+      "198",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/sweat": [
+    [
+      "323",
+      "315",
+      "570",
+      "690"
+    ]
+  ],
+  "character/swallow_knight_3anv/ui/story/think": [
+    [
+      "198",
+      "256",
       "570",
       "690"
     ]
@@ -69711,6 +70735,14 @@
       "690"
     ]
   ],
+  "character/thunder_dragon/ui/story/angry_b": [
+    [
+      "199",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
   "character/thunder_dragon/ui/story/base_0": [
     [
       "0",
@@ -69811,6 +70843,22 @@
     [
       "197",
       "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/thunder_dragon/ui/story/surprise": [
+    [
+      "199",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/thunder_dragon/ui/story/sweat": [
+    [
+      "325",
+      "213",
       "570",
       "690"
     ]
@@ -73503,6 +74551,14 @@
       "690"
     ]
   ],
+  "character/veteran_hunter/ui/story/normal_b": [
+    [
+      "239",
+      "218",
+      "570",
+      "690"
+    ]
+  ],
   "character/veteran_hunter/ui/story/sad": [
     [
       "235",
@@ -73519,6 +74575,14 @@
       "690"
     ]
   ],
+  "character/veteran_hunter/ui/story/smile": [
+    [
+      "235",
+      "219",
+      "570",
+      "690"
+    ]
+  ],
   "character/veteran_hunter/ui/story/surprise": [
     [
       "237",
@@ -73531,6 +74595,198 @@
     [
       "267",
       "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter/ui/story/think": [
+    [
+      "236",
+      "218",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter/ui/story/unknown": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/full_shot_1440_1920_0": [
+    [
+      "181",
+      "162",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/skill_cutin_0": [
+    [
+      "100",
+      "34",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/full_shot_1440_1920_1": [
+    [
+      "426",
+      "188",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/skill_cutin_1": [
+    [
+      "200",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/angry": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/angry_b": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/base_0": [
+    [
+      "0",
+      "15",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/etc": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/joy": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/joy_b": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/normal": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/normal_b": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/sad": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/serious": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/shame": [
+    [
+      "161",
+      "197",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/smile": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/smile_b": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/surprise": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/sweat": [
+    [
+      "224",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/think": [
+    [
+      "189",
+      "187",
+      "570",
+      "690"
+    ]
+  ],
+  "character/veteran_hunter_3anv/ui/story/unknown": [
+    [
+      "0",
+      "15",
       "570",
       "690"
     ]
@@ -77299,6 +78555,174 @@
     [
       "208",
       "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/full_shot_1440_1920_0": [
+    [
+      "368",
+      "246",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/skill_cutin_0": [
+    [
+      "318",
+      "107",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/full_shot_1440_1920_1": [
+    [
+      "33",
+      "251",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/skill_cutin_1": [
+    [
+      "0",
+      "46",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/anger": [
+    [
+      "222",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/base_0": [
+    [
+      "0",
+      "108",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/base_1": [
+    [
+      "0",
+      "90",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/consent": [
+    [
+      "222",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/normal": [
+    [
+      "222",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/normal_b": [
+    [
+      "222",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/provoke": [
+    [
+      "222",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/sad": [
+    [
+      "222",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/serious": [
+    [
+      "222",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/shame": [
+    [
+      "223",
+      "274",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/smile": [
+    [
+      "222",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/smile_b": [
+    [
+      "222",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/smile_c": [
+    [
+      "221",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/surprise": [
+    [
+      "222",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/sweat": [
+    [
+      "246",
+      "307",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/think": [
+    [
+      "222",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spbro_3anv/ui/story/think_b": [
+    [
+      "222",
+      "236",
       "570",
       "690"
     ]

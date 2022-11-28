@@ -663,6 +663,22 @@
       "3"
     ]
   ],
+  "71": [
+    [
+      "ss_boss_epuration_event_80",
+      "0",
+      "11003",
+      "1"
+    ]
+  ],
+  "72": [
+    [
+      "ss_boss_epuration_event_90",
+      "0",
+      "13001",
+      "1"
+    ]
+  ],
   "10040315": [
     [
       "yokai_emaki_01_re01_equipment_boss1",
@@ -1516,6 +1532,54 @@
       "character_b_collabo_op_clear",
       "2",
       "123001",
+      ""
+    ]
+  ],
+  "100016": [
+    [
+      "anv3_release_event_clear_first",
+      "3",
+      "",
+      "150"
+    ]
+  ],
+  "10042601": [
+    [
+      "world_story_event_expert_boss_first",
+      "0",
+      "14040",
+      "2"
+    ]
+  ],
+  "10042602": [
+    [
+      "world_story_event_expert_boss_ss",
+      "0",
+      "13001",
+      "1"
+    ]
+  ],
+  "10042603": [
+    [
+      "world_story_event_multi_strong_ss",
+      "0",
+      "11003",
+      "1"
+    ]
+  ],
+  "10042604": [
+    [
+      "anv3_equipment_boss",
+      "1",
+      "5050038",
+      "1"
+    ]
+  ],
+  "10042605": [
+    [
+      "anv3_scenario_end",
+      "2",
+      "253019",
       ""
     ]
   ],

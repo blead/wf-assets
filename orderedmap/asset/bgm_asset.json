@@ -3839,6 +3839,46 @@
       "12"
     ]
   ],
+  "bgm/character_unique/rector_sorcerer_playable/rector_sorcerer_playable": [
+    [
+      "0.35",
+      "130",
+      "0.05668934",
+      "0.05668934",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/swallow_knight_3anv/swallow_knight_3anv": [
+    [
+      "0.35",
+      "200",
+      "0.071156465",
+      "96.522156",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/veteran_hunter_3anv/veteran_hunter_3anv": [
+    [
+      "0.35",
+      "117",
+      "0.070612244",
+      "32.850613",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wind_spbro_3anv/wind_spbro_3anv": [
+    [
+      "0.35",
+      "130",
+      "0.052630387",
+      "38.78161",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/asymmetry_birdgirl/asymmetry_birdgirl": [
     [
       "0.35",
@@ -8179,6 +8219,26 @@
       "12"
     ]
   ],
+  "bgm/event/boss_epuration_event/battle/boss_epuration_event_boss": [
+    [
+      "0.35",
+      "160",
+      "0.061473925",
+      "8.146462",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/boss_epuration_event/system/boss_epuration_event_top": [
+    [
+      "0.35",
+      "160",
+      "0.07201814",
+      "12.39",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/boss_battle_multi_pickup/battle/reine_bleu_battle_boss": [
     [
       "0.37",
@@ -8235,6 +8295,176 @@
       "120",
       "0.070362814",
       "36.53036",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/battle/anv3_battle_boss": [
+    [
+      "0.35",
+      "155",
+      "0.07562358",
+      "49.963604",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_opennning": [
+    [
+      "0.35",
+      "112",
+      "0.07197279",
+      "8.40297",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_serious": [
+    [
+      "0.35",
+      "78",
+      "0.052222222",
+      "52.30821",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_show_up": [
+    [
+      "0.35",
+      "145",
+      "0.07133787",
+      "1.6863265",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_conference": [
+    [
+      "0.35",
+      "92",
+      "0.05655329",
+      "9.838549",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_negotiation": [
+    [
+      "0.35",
+      "165",
+      "0.067800455",
+      "0.067800455",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_behind": [
+    [
+      "0.35",
+      "125",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_motive": [
+    [
+      "0.35",
+      "74",
+      "0.076054424",
+      "0.076054424",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_imminence": [
+    [
+      "0.35",
+      "160",
+      "0.07566893",
+      "0.07566893",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_decision": [
+    [
+      "0.35",
+      "125",
+      "0.063401364",
+      "76.8234",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_solemn": [
+    [
+      "0.35",
+      "120",
+      "0.07648526",
+      "44.076485",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_battle": [
+    [
+      "0.35",
+      "60",
+      "0.061609976",
+      "17.824604",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_reckless": [
+    [
+      "0.35",
+      "166",
+      "0.063446715",
+      "0.063446715",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_sore": [
+    [
+      "0.35",
+      "102",
+      "0.05331066",
+      "29.426304",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/story/anv3_story_end": [
+    [
+      "0.35",
+      "79",
+      "0.054807257",
+      "0.054807257",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/system/anv3_questlist": [
+    [
+      "0.35",
+      "92",
+      "0.06664399",
+      "104.50263",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3/system/anv3_tokengacha": [
+    [
+      "0.35",
+      "140",
+      "0.076326534",
+      "30.89331",
       "(None)",
       "12"
     ]

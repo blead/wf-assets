@@ -771,6 +771,20 @@
       ]
     ]
   },
+  "high_epuration_boss_attack_funnel_3anv": {
+    "100": [
+      [
+        "battle/enemy/boss/high_epuration_boss_attack_funnel_3anv"
+      ]
+    ]
+  },
+  "high_epuration_boss_gimmick_funnel_3anv": {
+    "100": [
+      [
+        "battle/enemy/boss/high_epuration_boss_gimmick_funnel_3anv"
+      ]
+    ]
+  },
   "halfanv25_big_boss_funnel_multi": {
     "60": [
       [
@@ -809,10 +823,80 @@
       ]
     ]
   },
+  "epuration_boss_variant_ver_funnel_3anv": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_variant_ver_funnel_3anv"
+      ]
+    ]
+  },
+  "red_epuration_boss_variant_ver_funnel_3anv": {
+    "100": [
+      [
+        "battle/enemy/boss/red_epuration_boss_variant_ver_funnel_3anv"
+      ]
+    ]
+  },
+  "coffin_epuration_boss_variant_ver_funnel_3anv": {
+    "100": [
+      [
+        "battle/enemy/boss/coffin_epuration_boss_variant_ver_funnel_3anv"
+      ]
+    ]
+  },
+  "epuration_boss_highest_funnel_single": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_highest_funnel_3anv_single"
+      ]
+    ]
+  },
+  "epuration_boss_highest_funnel_crystal_center_single": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_highest_funnel_crystal_center_3anv_single"
+      ]
+    ]
+  },
+  "epuration_boss_highest_funnel_crystal_left_single": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_highest_funnel_crystal_left_3anv_single"
+      ]
+    ]
+  },
+  "epuration_boss_highest_funnel_crystal_right_single": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_highest_funnel_crystal_right_3anv_single"
+      ]
+    ]
+  },
+  "epuration_boss_highest_funnel_metal_single": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_highest_funnel_metal_3anv_single"
+      ]
+    ]
+  },
   "epuration_boss_dragon_funnel": {
     "80": [
       [
         "battle/enemy/boss/epuration_boss_dragon_funnel_main"
+      ]
+    ]
+  },
+  "epuration_boss_funnel_3anv_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_funnel_3anv_multi"
+      ]
+    ]
+  },
+  "epuration_boss_funnel_strong_3anv_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/epuration_boss_funnel_strong_3anv_multi"
       ]
     ]
   },
@@ -993,6 +1077,158 @@
     "80": [
       [
         "battle/enemy/boss/arc_guardian_pcollab_02_funnel_rock_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large_multi": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large_single": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_single2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large_expert": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large_story": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large_story"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small_multi": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small_single": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_single2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small_expert": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small_story": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small_story"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large2_multi": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large2_single": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_single2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large2_expert": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_large2_story": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_large2_story"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small2_multi": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_multi4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small2_single": {
+    "55": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_single2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_single4"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small2_expert": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_expert"
+      ]
+    ]
+  },
+  "anv3_big_boss_funnel_small2_story": {
+    "100": [
+      [
+        "battle/enemy/boss/anv3_big_boss_funnel_small2_story"
       ]
     ]
   }
