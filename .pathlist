@@ -1405,6 +1405,8 @@ battle/action/enemy/action/boss_benzaiten/boss_benzaiten$skill1
 battle/action/enemy/action/boss_benzaiten/funnel_benzaiten$difficulity10_shot1
 battle/action/enemy/action/boss_benzaiten/funnel_benzaiten$difficulity10_shot2
 battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$
+battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$big_funnel
+battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$big_funnel_multi
 battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$buff
 battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$buff_reset
 battle/action/enemy/action/boss_big_slime_boss/boss_big_slime_boss$front_attack
@@ -2176,6 +2178,7 @@ battle/action/enemy/action/boss_epuration/boss_epuration$difficulity10_skill_sho
 battle/action/enemy/action/boss_epuration/boss_epuration$difficulity10_skill_shot2
 battle/action/enemy/action/boss_epuration/boss_epuration_3anv$
 battle/action/enemy/action/boss_epuration/boss_epuration_3anv$circle_cut
+battle/action/enemy/action/boss_epuration/boss_epuration_3anv$element_field
 battle/action/enemy/action/boss_epuration/boss_epuration_3anv$field_buf
 battle/action/enemy/action/boss_epuration/boss_epuration_3anv$field_debuf
 battle/action/enemy/action/boss_epuration/boss_epuration_3anv$funnel1
@@ -2216,6 +2219,7 @@ battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_b
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$beem1
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$beem2
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$beem3
+battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$element_field
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$element_green
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$element_red
 battle/action/enemy/action/boss_epuration_boss_variant_ver_3anv/boss_epuration_boss_variant_ver_3anv$element_water
@@ -2272,6 +2276,7 @@ battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$attack_
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$buff_clear
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$buff_reset_wave
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$crystal_dead
+battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$element_field
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$field_debuff
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$funnel1
 battle/action/enemy/action/boss_epuration_highest/boss_epuration_highest$funnel_absorption
@@ -2502,6 +2507,7 @@ battle/action/enemy/action/boss_grizzly/boss_grizzly_ex$shot5
 battle/action/enemy/action/boss_grizzly/boss_grizzly_ex$shot6
 battle/action/enemy/action/boss_grizzly/boss_grizzly_ex$shot7
 battle/action/enemy/action/boss_grizzly/boss_grizzly_ex$shot8
+battle/action/enemy/action/boss_grizzly/boss_grizzly_ex$time_admin_set
 battle/action/enemy/action/boss_grizzly/funnel_grizzly$ACTION01
 battle/action/enemy/action/boss_grizzly/funnel_grizzly$FOREST_SUMMON1
 battle/action/enemy/action/boss_grizzly/funnel_grizzly$FOREST_SUMMON2
@@ -2612,6 +2618,12 @@ battle/action/enemy/action/boss_guardian_totem_another/boss_guardian_totem_anoth
 battle/action/enemy/action/boss_guardian_totem_another/funnel_guardian_totem_another$difficulity10_shot1
 battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$
 battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_end
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_expert
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_multi2
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_multi4
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_single2
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_single4
+battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$field_start_story
 battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$shotA
 battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$shotB1
 battle/action/enemy/action/boss_halfanv25_big_boss/boss_halfanv25_big_boss$shotB2
@@ -3695,6 +3707,7 @@ battle/action/enemy/action/boss_high_epuration/tornado_shot1
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$action1
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$beem
+battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$buff_start
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$damage
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$field_start
 battle/action/enemy/action/boss_high_epuration_boss_3anv/boss_epuration_3anv$frontsrash
@@ -3888,6 +3901,7 @@ battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$normal_shot15_
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$normal_shot15_right
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$normal_shot2
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$normal_shot3
+battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$preaction1
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$shot1
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$shot2
 battle/action/enemy/action/boss_lich/boss_lich_another_thunder_ex$shot20
@@ -4768,6 +4782,7 @@ battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$damage_
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$hit_check_prevent
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$invincible
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$invincible_delete
+battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$pre_action01
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$skill01
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$skill02
 battle/action/enemy/action/boss_spirit_beast_dark/boss_spirit_beast_dark$summon01
@@ -4803,9 +4818,15 @@ battle/action/enemy/action/boss_spirit_beast_fire/funnel_spirit_beast_fire$diffi
 battle/action/enemy/action/boss_spirit_beast_fire/target_shot2
 battle/action/enemy/action/boss_spirit_beast_fire/target_shot3
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$arm_break
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$arm_break_multi4
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$arm_break_single4
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$arm_shot
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$arm_shot_multi
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$buff_field
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$chase1
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$chase2
+battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$element_field
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$enemy_boost
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$funnel_shot2
 battle/action/enemy/action/boss_spirit_beast_light/boss_spirit_beast_light$silent
@@ -4953,6 +4974,10 @@ battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$act
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$action7_expert
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$action8
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$buff_action1
+battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action1
+battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action1_expert
+battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action1_multi
+battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action1_story
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action2
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action2_expert
 battle/action/enemy/action/boss_summer22_helicopter/boss_summer22_helicopter$field_action2_multi
@@ -5201,6 +5226,11 @@ battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_f
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$ex4
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel1
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_delete_action1
+battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_spawn_core_1
+battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_spawn_core_2
+battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_spawn_core_3
+battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_spawn_core_4
+battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$funnel_spawn_core_5
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$shot1
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$shot2
 battle/action/enemy/action/boss_variant_empress_wind/boss_variant_empress_wind_form1$shot3
@@ -5491,6 +5521,7 @@ battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tig
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_buff_reset
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_defense_up
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_down_action
+battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_pre_action
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_shot1
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_shot2
 battle/action/enemy/action/boss_white_tiger_ghost_another_wind_ex/boss_white_tiger_ghost_another_wind_ex$orb_shot3
