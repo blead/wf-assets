@@ -1,0 +1,36 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "SpawnFunnel",
+          [
+            "StandardFunnel",
+            "big_slime_boss_funnel_slime_multi"
+          ],
+          2,
+          [
+            "FunnelGroup",
+            3
+          ],
+          null
+        ]
+      ]
+    ]
+  ]
+]
