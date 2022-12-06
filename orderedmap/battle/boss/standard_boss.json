@@ -337,6 +337,12 @@
         "闇鳳シアトリオ",
         "battle/enemy/boss/spirit_beast_dark_multi4"
       ]
+    ],
+    "100": [
+      [
+        "闇鳳シアトリオ",
+        "battle/enemy/boss/spirit_beast_dark_multi5"
+      ]
     ]
   },
   "spirit_beast_dark_single": {
@@ -362,6 +368,12 @@
       [
         "闇鳳シアトリオ",
         "battle/enemy/boss/spirit_beast_dark_single4"
+      ]
+    ],
+    "100": [
+      [
+        "闇鳳シアトリオ",
+        "battle/enemy/boss/spirit_beast_dark_single5"
       ]
     ]
   },

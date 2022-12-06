@@ -1079,6 +1079,36 @@
       "2022-09-23 04:59:59"
     ]
   ],
+  "200016": [
+    [
+      "advent_spirit_beast_dark2",
+      "(None)",
+      "闇喚の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_dark",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_dark",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_dark",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "25",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49329",
+      "49330",
+      "49331",
+      "(None)",
+      "true",
+      "advent_spirit_beast_dark",
+      "true",
+      "2022-12-06 12:00:00",
+      "2022-12-15 20:59:59",
+      "2022-12-23 04:59:59"
+    ]
+  ],
   "200010": [
     [
       "advent_hw22",

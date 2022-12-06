@@ -32,8 +32,8 @@
               254,
               [
                 {
-                  "max": 3000000,
-                  "min": 3000000
+                  "max": 8000000,
+                  "min": 8000000
                 }
               ],
               [
@@ -55,7 +55,7 @@
           ],
           false,
           false,
-          "damage_cut3",
+          "damage_cut2",
           null,
           false,
           3,

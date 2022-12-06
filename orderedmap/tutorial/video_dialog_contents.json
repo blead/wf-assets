@@ -1333,6 +1333,16 @@
       "dynamic/advent_event_tutorial/advent_spirit_beast_water/tutorial_02"
     ]
   ],
+  "advent_spirit_beast_dark2": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_spirit_beast_dark2/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_spirit_beast_dark2/tutorial_02"
+    ]
+  ],
   "advent_event_hw20": [
     [
       "0",

@@ -624,6 +624,31 @@
       "true"
     ]
   ],
+  "242": [
+    [
+      "limited_stamina_potion_41_00",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2023-01-14 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "241": [
     [
       "limited_stamina_potion_39_00",
@@ -10495,6 +10520,81 @@
       "9999",
       "2022-09-07 12:00:00",
       "2022-09-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "49329": [
+    [
+      "boss_coin_advent_spirit_beast_dark2_1",
+      "闇鳳シアトリオの銀貨",
+      "item/materials/boss_coin/spirit_beast_dark_1",
+      "item_icon/materials/boss_coin/boss_coin_1",
+      "闇鳳シアトリオの彫りが入った銀貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "3",
+      "3",
+      "9999",
+      "2022-12-06 12:00:00",
+      "2022-12-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "49330": [
+    [
+      "boss_coin_advent_spirit_beast_dark2_2",
+      "闇鳳シアトリオの金貨",
+      "item/materials/boss_coin/spirit_beast_dark_2",
+      "item_icon/materials/boss_coin/boss_coin_2",
+      "闇鳳シアトリオの彫りが入った金貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2022-12-06 12:00:00",
+      "2022-12-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "49331": [
+    [
+      "boss_coin_advent_spirit_beast_dark2_3",
+      "闇鳳シアトリオの紫貨",
+      "item/materials/boss_coin/spirit_beast_dark_3",
+      "item_icon/materials/boss_coin/boss_coin_3",
+      "闇鳳シアトリオの彫りが入った紫貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2022-12-06 12:00:00",
+      "2022-12-23 04:59:59",
       "(None)",
       "true"
     ]

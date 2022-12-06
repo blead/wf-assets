@@ -8028,6 +8028,13 @@
       "advent_event_spirit_beast_dark_4"
     ]
   ],
+  "advent_spirit_beast_dark_5": [
+    [
+      "spirit_beast_dark_area",
+      "battle/terrain/event_quest/advent_event/spirit_beast_dark/spirit_beast_dark",
+      "advent_event_spirit_beast_dark_5"
+    ]
+  ],
   "advent_s_collabo1": [
     [
       "weekly_dungeon",

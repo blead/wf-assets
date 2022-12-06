@@ -519,6 +519,11 @@
       [
         "battle/enemy/boss/spirit_beast_dark_funnel_mini_multi4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_dark_funnel_mini_multi5"
+      ]
     ]
   },
   "spirit_beast_dark_funnel_mini_single": {
@@ -540,6 +545,11 @@
     "80": [
       [
         "battle/enemy/boss/spirit_beast_dark_funnel_mini_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_dark_funnel_mini_single5"
       ]
     ]
   },

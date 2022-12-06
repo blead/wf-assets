@@ -54247,6 +54247,53 @@
       ]
     ]
   },
+  "advent_event_spirit_beast_dark_5": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "0",
+        "spirit_beast_dark_single",
+        "0",
+        "spirit_beast_dark_multi",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_advent/spirit_beast_dark_area/outhole/spirit_beast_dark_area_outhole_zone1",
+        "battle/field_object/world_advent/spirit_beast_dark_area/yakumono/dash_panel",
+        "battle/field_object/world_advent/spirit_beast_dark_area/rotation_panel/spirit_beast_dark_area_rotation_panel",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "advent_s_collabo_1": {
     "0": [
       [

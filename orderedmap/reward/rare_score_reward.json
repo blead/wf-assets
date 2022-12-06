@@ -26217,6 +26217,186 @@
       ]
     ]
   },
+  "11000200": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_1",
+        "1",
+        "4070041",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000201": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_2",
+        "1",
+        "5060040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000202": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_3",
+        "1",
+        "5020040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000203": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_4",
+        "0",
+        "49329",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000204": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_5",
+        "0",
+        "49330",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000205": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_6",
+        "0",
+        "49330",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000206": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_7",
+        "0",
+        "49331",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000207": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_8",
+        "0",
+        "49331",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000208": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_9",
+        "0",
+        "49330",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_dark2_rare_9",
+        "0",
+        "49330",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_dark2_rare_9",
+        "0",
+        "49331",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_dark2_rare_9",
+        "0",
+        "49331",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000209": {
+    "1": [
+      [
+        "advent_spirit_beast_dark2_rare_10",
+        "0",
+        "49330",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_dark2_rare_10",
+        "0",
+        "49330",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_dark2_rare_10",
+        "0",
+        "49331",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_dark2_rare_10",
+        "0",
+        "49331",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "3215": {
     "1": [
       [

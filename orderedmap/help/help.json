@@ -1264,6 +1264,17 @@
       "2021-12-24 04:59:59"
     ]
   ],
+  "event_advent_spirit_beast_dark2": [
+    [
+      "help_label_event_advent_spirit_beast_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_dark2",
+      "2022-12-06 12:00:00",
+      "2022-12-23 04:59:59"
+    ]
+  ],
   "Event_Advent_light": [
     [
       "help_label_event_advent_light",

@@ -3117,6 +3117,125 @@
       ]
     ]
   },
+  "148": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_half_aniv_character_pickup_02/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_ruin_girl_halfanv_new_layout",
+        "151009",
+        "0",
+        "151009",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_half_aniv_character_pickup_01/ruin_girl_halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151009",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_blindness_gunner_1halfanv",
+        "161063",
+        "0",
+        "161063",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/blindness_gunner_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161063",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_elf_princess_1halfanv",
+        "141051",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/elf_princess_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_mermaid_1halfanv",
+        "121045",
+        "0",
+        "121045",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/mermaid_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121045",
+        ""
+      ]
+    ]
+  },
   "76": {
     "1": [
       [
@@ -11960,6 +12079,21 @@
       [
         "1",
         "dynamic/gacha_banner/common_character_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "700004": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/comeback_gacha_05",
         "",
         "",
         "",
