@@ -1323,6 +1323,12 @@
       "dynamic/world_story_event_tutorial/anv2/tutorial_expert_single"
     ]
   ],
+  "advent_xm22": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_xm22/tutorial_01"
+    ]
+  ],
   "advent_spirit_beast_water2": [
     [
       "0",
@@ -1336,11 +1342,11 @@
   "advent_spirit_beast_dark2": [
     [
       "0",
-      "dynamic/advent_event_tutorial/advent_spirit_beast_dark2/tutorial_01"
+      "dynamic/advent_event_tutorial/advent_event_spirit_beast_dark/tutorial_01"
     ],
     [
       "0",
-      "dynamic/advent_event_tutorial/advent_spirit_beast_dark2/tutorial_02"
+      "dynamic/advent_event_tutorial/advent_event_spirit_beast_dark/tutorial_02"
     ]
   ],
   "advent_event_hw20": [

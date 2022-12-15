@@ -14047,6 +14047,174 @@
       "690"
     ]
   ],
+  "character/compliment_oiran_xm22/ui/full_shot_1440_1920_0": [
+    [
+      "294",
+      "103",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/skill_cutin_0": [
+    [
+      "324",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/full_shot_1440_1920_1": [
+    [
+      "252",
+      "65",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/skill_cutin_1": [
+    [
+      "89",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/anger": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/doya": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/normal": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/normal_b": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/sad": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/sad_b": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/shame": [
+    [
+      "234",
+      "297",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/smile": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/smile_b": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/smile_c": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/surprise": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/surprise_b": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/sweat": [
+    [
+      "204",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/tear": [
+    [
+      "228",
+      "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/compliment_oiran_xm22/ui/story/think": [
+    [
+      "203",
+      "173",
+      "570",
+      "690"
+    ]
+  ],
   "character/conductor/ui/story/base": [
     [
       "0",
@@ -29491,6 +29659,174 @@
     [
       "239",
       "307",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/full_shot_1440_1920_0": [
+    [
+      "393",
+      "279",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/herbalist_xm22/ui/skill_cutin_0": [
+    [
+      "238",
+      "92",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/herbalist_xm22/ui/full_shot_1440_1920_1": [
+    [
+      "327",
+      "145",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/herbalist_xm22/ui/skill_cutin_1": [
+    [
+      "125",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/angry": [
+    [
+      "208",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/base_0": [
+    [
+      "0",
+      "100",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/doya": [
+    [
+      "208",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/joy": [
+    [
+      "212",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/normal": [
+    [
+      "208",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/normal_b": [
+    [
+      "208",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/normal_c": [
+    [
+      "208",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/pride": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/provoke": [
+    [
+      "208",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/sad": [
+    [
+      "208",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/serious": [
+    [
+      "208",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/shame": [
+    [
+      "213",
+      "300",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/smile": [
+    [
+      "208",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/surprise": [
+    [
+      "208",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/sweat": [
+    [
+      "318",
+      "332",
+      "570",
+      "690"
+    ]
+  ],
+  "character/herbalist_xm22/ui/story/think": [
+    [
+      "208",
+      "236",
       "570",
       "690"
     ]
@@ -71163,6 +71499,166 @@
     [
       "208",
       "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/full_shot_1440_1920_0": [
+    [
+      "228",
+      "222",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/skill_cutin_0": [
+    [
+      "211",
+      "53",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/full_shot_1440_1920_1": [
+    [
+      "225",
+      "255",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/skill_cutin_1": [
+    [
+      "81",
+      "69",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/angry": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/angry_b": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/base_0": [
+    [
+      "31",
+      "120",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/base_1": [
+    [
+      "0",
+      "144",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/doya": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/joy": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/normal": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/normal_b": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/sad": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/serious": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/shame": [
+    [
+      "204",
+      "362",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/smile": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/smile_b": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/surprise": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/surprise_b": [
+    [
+      "192",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/tiger_treasure_hunter_xm22/ui/story/sweat": [
+    [
+      "225",
+      "394",
       "570",
       "690"
     ]

@@ -11088,6 +11088,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "111141": [
+    [
+      "degree_favor_tiger_treasure_hunter_xm22",
+      "291020",
+      "トレジャーサンタ",
+      "とれじゃーさんた",
+      "獲得条件：【トレジャーサンタ】ミアをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_tiger_treasure_hunter_xm22"
+    ]
+  ],
+  "151141": [
+    [
+      "degree_favor_compliment_oiran_xm22",
+      "6010",
+      "聖夜祭の花魁",
+      "せいやさいのおいらん",
+      "獲得条件：【聖夜祭の花魁】キクノをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_compliment_oiran_xm22"
+    ]
+  ],
+  "261083": [
+    [
+      "degree_favor_herbalist_xm22",
+      "448010",
+      "サンタナースな薬草士",
+      "さんたなーすなやくそうし",
+      "獲得条件：【サンタナースな薬草士】ハートリーフをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_herbalist_xm22"
+    ]
+  ],
   "151129": [
     [
       "degree_favor_swallow_knight_3anv",

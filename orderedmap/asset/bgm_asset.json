@@ -3839,6 +3839,26 @@
       "12"
     ]
   ],
+  "bgm/character_unique/compliment_oiran_xm22/compliment_oiran_xm22": [
+    [
+      "0.35",
+      "110",
+      "0.06122449",
+      "4.4242177",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/tiger_treasure_hunter_xm22/tiger_treasure_hunter_xm22": [
+    [
+      "0.35",
+      "160",
+      "0.064240366",
+      "3.0242403",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/rector_sorcerer_playable/rector_sorcerer_playable": [
     [
       "0.35",

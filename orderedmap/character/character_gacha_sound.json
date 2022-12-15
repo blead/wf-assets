@@ -2461,6 +2461,62 @@
       ]
     ]
   },
+  "151141": {
+    "5": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/light/se_power_flip_supporter_lv3_attack"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ]
+    ]
+  },
+  "111141": {
+    "5": [
+      [
+        "sound_effect/light/se_light_awakening"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
+  "261083": {
+    "5": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/element/se_energy_inhalation"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "81": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ]
+  },
   "253019": {
     "5": [
       [

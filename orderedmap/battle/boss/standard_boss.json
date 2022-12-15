@@ -1,4 +1,68 @@
 {
+  "xmas_golem_22_multi": {
+    "20": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_multi5"
+      ]
+    ]
+  },
+  "xmas_golem_22_single": {
+    "20": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single1"
+      ]
+    ],
+    "50": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single2"
+      ]
+    ],
+    "70": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single3"
+      ]
+    ],
+    "80": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single4"
+      ]
+    ],
+    "100": [
+      [
+        "聖夜の雪像G",
+        "battle/enemy/boss/xms_golem_22_single5"
+      ]
+    ]
+  },
   "variant_empress_wind_form1_multi": {
     "25": [
       [

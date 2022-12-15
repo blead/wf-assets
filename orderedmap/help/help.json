@@ -1096,7 +1096,7 @@
       "1",
       "rich_text/help_event_boss_epuration_event_01",
       "2022-11-28 12:00:00",
-      "2022-12-23 04:59:59"
+      "2022-12-31 04:59:59"
     ]
   ],
   "boss_battle_multi_pickup_event": [
@@ -1262,6 +1262,17 @@
       "rich_text/help_event_world_story_event_anv2",
       "2021-11-27 12:00:00",
       "2021-12-24 04:59:59"
+    ]
+  ],
+  "event_advent_xm22": [
+    [
+      "help_label_event_advent_xm21",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_xm22",
+      "2022-12-15 12:00:00",
+      "2023-01-07 04:59:59"
     ]
   ],
   "event_advent_spirit_beast_dark2": [

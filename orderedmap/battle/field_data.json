@@ -5529,6 +5529,27 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_tiger_treasure_hunter_xm22": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_tiger_treasure_hunter_xm22",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_compliment_oiran_xm22": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_compliment_oiran_xm22",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_herbalist_xm22": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_herbalist_xm22",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_swallow_knight_3anv": [
     [
       "common_skill_preview",
@@ -7823,6 +7844,13 @@
       "anv1_countdown_event10",
       "battle/terrain/event_quest/story_event/anv1_countdown/anv1_countdown_event_10",
       "anv1_countdown_event10"
+    ]
+  ],
+  "advent_xm22": [
+    [
+      "xmas19",
+      "battle/terrain/event_quest/advent_event/advent_xm22/advent_xm22",
+      "advent_xm22"
     ]
   ],
   "advent_xm21_1": [

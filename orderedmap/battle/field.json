@@ -1525,20 +1525,6 @@
       "battle/field_object/world_advent/epuration_boss_highest/fever_gauge/fever_gauge"
     ]
   ],
-  "epuration_boss_3anv_dammy": [
-    [
-      "battle/field/world_advent/epuration_boss_3anv_dammy/background/background",
-      "battle/field/world_advent/epuration_boss_3anv_dammy/foreground/foreground",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "battle/field_object/world_advent/epuration_boss_3anv_dammy/fever_gauge/fever_gauge"
-    ]
-  ],
   "sand_giant_inside_ev": [
     [
       "battle/field/world_sand/sand_giant_inside_ev/background/background",

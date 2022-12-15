@@ -4975,6 +4975,14 @@
       "12"
     ]
   ],
+  "sound_effect/situation/se_syamisen_jingle": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/unique/se_asta_transformation": [
     [
       "0.35",
@@ -6506,6 +6514,22 @@
   "sound_effect/monster/se_epuration_boss_variant_ver_scream": [
     [
       "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_syamisen_single": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_syamisen_double": [
+    [
+      "0.3",
       "0",
       "0",
       "12"

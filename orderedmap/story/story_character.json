@@ -8269,6 +8269,256 @@
       ""
     ]
   ],
+  "herbalist_xm22": [
+    [
+      "ハートリーフ",
+      "0x3f2843",
+      "character/herbalist/voice/",
+      "normal,angry,doya,joy,normal_b,normal_c,pride,provoke,sad,serious,shame,smile,surprise,sweat,think,evolve",
+      "character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_0,character/herbalist_xm22/ui/story/base_1",
+      "character/herbalist_xm22/ui/story/normal,character/herbalist_xm22/ui/story/angry,character/herbalist_xm22/ui/story/doya,character/herbalist_xm22/ui/story/joy,character/herbalist_xm22/ui/story/normal_b,character/herbalist_xm22/ui/story/normal_c,character/herbalist_xm22/ui/story/pride,character/herbalist_xm22/ui/story/provoke,character/herbalist_xm22/ui/story/sad,character/herbalist_xm22/ui/story/serious,character/herbalist_xm22/ui/story/shame,character/herbalist_xm22/ui/story/smile,character/herbalist_xm22/ui/story/surprise,character/herbalist_xm22/ui/story/sweat,character/herbalist_xm22/ui/story/think,(None)"
+    ]
+  ],
+  "mob_shibuya_youth": [
+    [
+      "渋谷の青年",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_younger": [
+    [
+      "渋谷の若者",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_shy_youth": [
+    [
+      "渋谷の照れてる青年",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_shy_younger": [
+    [
+      "渋谷の照れてる若者",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_guild_middleaged_man": [
+    [
+      "ギルドナイツのおっちゃん",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_guild_younger_men": [
+    [
+      "ギルドナイツの後輩",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_guild_middleaged_man_wife": [
+    [
+      "おっちゃんの妻",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_guild_middleaged_man_son": [
+    [
+      "おっちゃんの息子",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "tiger_treasure_hunter_xm22": [
+    [
+      "ミア",
+      "0xa32535",
+      "character/tiger_treasure_hunter/voice/",
+      "normal,angry,angry_b,doya,joy,normal_b,sad,serious,shame,smile,smile_b,surprise,surprise_b,sweat,evolve",
+      "character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_0,character/tiger_treasure_hunter_xm22/ui/story/base_1",
+      "character/tiger_treasure_hunter_xm22/ui/story/normal,character/tiger_treasure_hunter_xm22/ui/story/angry,character/tiger_treasure_hunter_xm22/ui/story/angry_b,character/tiger_treasure_hunter_xm22/ui/story/doya,character/tiger_treasure_hunter_xm22/ui/story/joy,character/tiger_treasure_hunter_xm22/ui/story/normal_b,character/tiger_treasure_hunter_xm22/ui/story/sad,character/tiger_treasure_hunter_xm22/ui/story/serious,character/tiger_treasure_hunter_xm22/ui/story/shame,character/tiger_treasure_hunter_xm22/ui/story/smile,character/tiger_treasure_hunter_xm22/ui/story/smile_b,character/tiger_treasure_hunter_xm22/ui/story/surprise,character/tiger_treasure_hunter_xm22/ui/story/surprise_b,character/tiger_treasure_hunter_xm22/ui/story/sweat,(None)"
+    ]
+  ],
+  "mob_prejudiced_child": [
+    [
+      "捻くれた子供",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_obedient_child": [
+    [
+      "素直な子供",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_boy": [
+    [
+      "渋谷の少年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_refugee_woman": [
+    [
+      "難民の女性",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_devil_child": [
+    [
+      "魔族の子供",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_human_child": [
+    [
+      "人間の子供",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "compliment_oiran_xm22": [
+    [
+      "キクノ",
+      "0xabb283",
+      "character/compliment_oiran/voice/",
+      "normal,anger,doya,normal_b,sad,sad_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think,evolve",
+      "character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_0,character/compliment_oiran_xm22/ui/story/base_1",
+      "character/compliment_oiran_xm22/ui/story/normal,character/compliment_oiran_xm22/ui/story/anger,character/compliment_oiran_xm22/ui/story/doya,character/compliment_oiran_xm22/ui/story/normal_b,character/compliment_oiran_xm22/ui/story/sad,character/compliment_oiran_xm22/ui/story/sad_b,character/compliment_oiran_xm22/ui/story/shame,character/compliment_oiran_xm22/ui/story/smile,character/compliment_oiran_xm22/ui/story/smile_b,character/compliment_oiran_xm22/ui/story/smile_c,character/compliment_oiran_xm22/ui/story/surprise,character/compliment_oiran_xm22/ui/story/surprise_b,character/compliment_oiran_xm22/ui/story/sweat,character/compliment_oiran_xm22/ui/story/tear,character/compliment_oiran_xm22/ui/story/think,(None)"
+    ]
+  ],
+  "mob_madam_eva_name": [
+    [
+      "マダム・エーヴァ",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_zashiki_madam": [
+    [
+      "内儀",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "compliment_oiran_bro_unknown": [
+    [
+      "？？？",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "compliment_oiran_bro": [
+    [
+      "キクノの兄",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_zashiki_female": [
+    [
+      "白雲楼の元遊女",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_forestall_merchant": [
+    [
+      "抜け駆けする商人",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_done_forestall_merchant": [
+    [
+      "抜け駆けされた商人",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_oiran_fun_merchant": [
+    [
+      "ロック",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "mob_reformist_prince_steward": [
     [
       "ヴァーレインのじいや",

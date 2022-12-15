@@ -3712,7 +3712,7 @@
       "1000",
       "dynamic/feature_announcement/boss_epuration_event_01",
       "2022-11-28 12:00:00",
-      "2022-12-15 20:59:59",
+      "2022-12-23 20:59:59",
       "false"
     ]
   ],
@@ -3731,6 +3731,42 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_dark2",
       "2022-12-06 12:00:00",
       "2022-12-15 20:59:59",
+      "false"
+    ]
+  ],
+  "201097": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_multi_pickup_event_2",
+      "2022-12-21 12:00:00",
+      "2022-12-30 20:59:59",
+      "false"
+    ]
+  ],
+  "202066": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_xm21",
+      "2022-12-15 12:00:00",
+      "2022-12-30 20:59:59",
+      "false"
+    ]
+  ],
+  "201452": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_77",
+      "2022-12-15 12:00:00",
+      "2022-12-23 11:59:59",
+      "false"
+    ]
+  ],
+  "200094": [
+    [
+      "2000",
+      "dynamic/feature_announcement/anv3_campaign_gacha2",
+      "2022-12-15 12:00:00",
+      "2022-12-23 04:59:59",
       "false"
     ]
   ],

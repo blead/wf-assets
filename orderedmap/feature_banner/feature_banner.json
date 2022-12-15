@@ -8127,6 +8127,38 @@
       ""
     ]
   ],
+  "201452": [
+    [
+      "991",
+      "24",
+      "feature_banner_new_character_pickup_77",
+      "",
+      "",
+      "",
+      "4",
+      "",
+      "",
+      "",
+      "",
+      "149",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "dynamic/home_banner/gacha/new_character_pickup_77",
+      "1",
+      "",
+      "",
+      "",
+      "(None)",
+      ""
+    ]
+  ],
   "100407": [
     [
       "1500",
@@ -11807,6 +11839,38 @@
       ""
     ]
   ],
+  "10000036": [
+    [
+      "1999",
+      "2",
+      "boss_battle_advent_multi_pickup_event_2",
+      "",
+      "",
+      "",
+      "2",
+      "",
+      "",
+      "10000012",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "dynamic/home_banner/event/advent_multi_pickup_event_1",
+      "1",
+      "",
+      "",
+      "",
+      "(None)",
+      ""
+    ]
+  ],
   "1095": [
     [
       "990",
@@ -12152,6 +12216,38 @@
       "2020-11-27 12:00:00,2020-12-04 12:00:00,2020-12-14 12:00:00,2020-12-22 04:59:59",
       "dynamic/home_banner/event/world_story_event/anv_story_01/prequel,dynamic/home_banner/event/world_story_event/anv_story_01/sequel,dynamic/home_banner/event/world_story_event/anv_story_01/sequel",
       "3",
+      "",
+      "",
+      "",
+      "(None)",
+      ""
+    ]
+  ],
+  "10000034": [
+    [
+      "2016",
+      "7",
+      "AdventEvent",
+      "advent_xm22",
+      "",
+      "",
+      "7",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "200015",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "dynamic/home_banner/event/advent_event/event_advent_xm21",
+      "1",
       "",
       "",
       "",

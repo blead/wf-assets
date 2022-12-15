@@ -1,4 +1,58 @@
 {
+  "xmas_golem_22_funnel_snowman_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_snowman_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_snowman_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_snowman_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_snowman_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_snowman_multi5"
+      ]
+    ]
+  },
+  "xmas_golem_22_funnel_present_box_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_present_box_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_present_box_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_present_box_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_present_box_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/xms_golem_22_funnel_present_box_multi5"
+      ]
+    ]
+  },
   "variant_empress_wind_funnel_big_bomb": {
     "25": [
       [
@@ -844,13 +898,6 @@
     "100": [
       [
         "battle/enemy/boss/red_epuration_boss_variant_ver_funnel_3anv"
-      ]
-    ]
-  },
-  "coffin_epuration_boss_variant_ver_funnel_3anv": {
-    "100": [
-      [
-        "battle/enemy/boss/coffin_epuration_boss_variant_ver_funnel_3anv"
       ]
     ]
   },

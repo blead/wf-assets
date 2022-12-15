@@ -284,5 +284,27 @@
       "120",
       "bgm/common/worldflipper_town_quest_anniversary_melody"
     ]
+  ],
+  "14": [
+    [
+      "xmas2022",
+      "1",
+      "2022-12-15 12:00:00",
+      "2022-12-30 11:59:59",
+      "town/background/xmas/xmas_background",
+      "town/background/xmas/xmas_background_blur",
+      "town/background/xmas/xmas_mask",
+      "town/particle/snowfall",
+      "80",
+      "0",
+      "20",
+      "4",
+      "1",
+      "1",
+      "0",
+      "10",
+      "10",
+      "bgm/common/worldflipper_town_quest_christmas"
+    ]
   ]
 }

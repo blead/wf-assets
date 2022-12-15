@@ -1015,8 +1015,8 @@
       "boss_epuration_event_01",
       "true",
       "2022-11-28 12:00:00",
-      "2022-12-15 20:59:59",
-      "2022-12-23 04:59:59"
+      "2022-12-23 20:59:59",
+      "2022-12-31 04:59:59"
     ]
   ],
   "100009": [
@@ -1047,6 +1047,36 @@
       "2022-10-31 12:00:00",
       "2022-11-15 20:59:59",
       "2022-11-22 04:59:59"
+    ]
+  ],
+  "200015": [
+    [
+      "advent_xm22",
+      "11",
+      "聖夜の暴れん坊",
+      "",
+      "quest/event/banner/advent_event/event_advent_xm21",
+      "quest/event/bossbattle_banner/advent_event/advent_event_xm21",
+      "0",
+      "quest/event/background/advent_event/advent_event_xm21",
+      "quest/event/logo/advent_event/advent_xm20",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "18",
+      "bgm/event/advent_event/advent_xm20/advent_xm20_top",
+      "event",
+      "40315",
+      "40316",
+      "40317",
+      "(None)",
+      "true",
+      "advent_xm22",
+      "true",
+      "2022-12-15 12:00:00",
+      "2022-12-30 20:59:59",
+      "2023-01-07 04:59:59"
     ]
   ],
   "200005": [
