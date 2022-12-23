@@ -4327,6 +4327,22 @@
       "12"
     ]
   ],
+  "sound_effect/element/se_spout": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/time_attack/se_ranking_cutin_disappear": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/situation/se_car_drive": [
     [
       "0.35",
@@ -4536,6 +4552,14 @@
     ]
   ],
   "sound_effect/time_attack/se_ranking_item_arrange_add": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "11"
+    ]
+  ],
+  "sound_effect/time_attack/se_ranking_cutin_appear": [
     [
       "0.35",
       "0",
@@ -4885,6 +4909,22 @@
       "0",
       "0",
       "11"
+    ]
+  ],
+  "sound_effect/system/se_unlock_list_banner": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/battle_common/se_hard_multi_start": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
     ]
   ],
   "sound_effect/high_score_update/se_high_score_update_before_jump": [

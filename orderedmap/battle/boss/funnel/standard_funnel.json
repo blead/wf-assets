@@ -719,13 +719,6 @@
       ]
     ]
   },
-  "grizzly_ex_funnel_bear": {
-    "100": [
-      [
-        "battle/enemy/boss/grizzly_ex_funnel_bear_single4"
-      ]
-    ]
-  },
   "hermit_crab_another_light_ex_funnel": {
     "100": [
       [
@@ -839,13 +832,6 @@
     "100": [
       [
         "battle/enemy/boss/high_epuration_boss_attack_funnel_3anv"
-      ]
-    ]
-  },
-  "high_epuration_boss_gimmick_funnel_3anv": {
-    "100": [
-      [
-        "battle/enemy/boss/high_epuration_boss_gimmick_funnel_3anv"
       ]
     ]
   },

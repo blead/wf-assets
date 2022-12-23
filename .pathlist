@@ -14101,6 +14101,7 @@ bgm/common/story/character_story_sorrow
 bgm/common/story/character_story_victory
 bgm/common/story_ending
 bgm/common/worldflipper_battle_fanfare
+bgm/common/worldflipper_battle_fanfare_hard_multi
 bgm/common/worldflipper_ending
 bgm/common/worldflipper_gacha_bgm
 bgm/common/worldflipper_title
@@ -28585,6 +28586,7 @@ character/general_toyakiren/voice/words/chimuniteo
 character/general_toyakiren/voice/words/chotto
 character/general_toyakiren/voice/words/chotto_1
 character/general_toyakiren/voice/words/chotto_matte
+character/general_toyakiren/voice/words/chottomattetene
 character/general_toyakiren/voice/words/dattedatte
 character/general_toyakiren/voice/words/dayone
 character/general_toyakiren/voice/words/doorya
@@ -41357,6 +41359,7 @@ character/outlaw_panther/voice/words/naruhodo
 character/outlaw_panther/voice/words/naruhodo_1
 character/outlaw_panther/voice/words/naruhodonaruhodo
 character/outlaw_panther/voice/words/ne_ne_onegai
+character/outlaw_panther/voice/words/nechan_moippai
 character/outlaw_panther/voice/words/nha
 character/outlaw_panther/voice/words/o
 character/outlaw_panther/voice/words/o_isshoni
@@ -44050,6 +44053,7 @@ character/psychic_seiji/voice/words/anatatachitohanashio
 character/psychic_seiji/voice/words/anatatachiwaerabukotoga
 character/psychic_seiji/voice/words/anatawa
 character/psychic_seiji/voice/words/ano
+character/psychic_seiji/voice/words/anofutariwa
 character/psychic_seiji/voice/words/arigato
 character/psychic_seiji/voice/words/arigatogozaimasu
 character/psychic_seiji/voice/words/bokuwa_zaiakukano
@@ -53241,6 +53245,7 @@ character/student_president/voice/words/uuu
 character/student_president/voice/words/wa_watashiwa
 character/student_president/voice/words/wakarimasen
 character/student_president/voice/words/warenagara_jitsuni
+character/student_president/voice/words/watashi_goremubu
 character/student_president/voice/words/watashi_goremubu.
 character/student_president/voice/words/watashi_seitokaichoo
 character/student_president/voice/words/watashidattebikkuri
@@ -60550,6 +60555,7 @@ dynamic/degree/degree_favor_arabic_swordman_2
 dynamic/degree/degree_favor_arisa
 dynamic/degree/degree_favor_arisa_2
 dynamic/degree/degree_favor_asahina_mikuru
+dynamic/degree/degree_favor_asahina_mikuru_2
 dynamic/degree/degree_favor_assistant_boy
 dynamic/degree/degree_favor_assistant_boy_2
 dynamic/degree/degree_favor_asta
@@ -60894,6 +60900,7 @@ dynamic/degree/degree_favor_junior_soldier_2
 dynamic/degree/degree_favor_junior_yearngirl
 dynamic/degree/degree_favor_junior_yearngirl_2
 dynamic/degree/degree_favor_justice_lady
+dynamic/degree/degree_favor_justice_lady_2
 dynamic/degree/degree_favor_katana_ghost
 dynamic/degree/degree_favor_katana_ghost_2
 dynamic/degree/degree_favor_katana_ghost_wt22
@@ -60905,6 +60912,7 @@ dynamic/degree/degree_favor_kids_gunner
 dynamic/degree/degree_favor_kids_gunner_2
 dynamic/degree/degree_favor_kinoko
 dynamic/degree/degree_favor_koizumi_ituki
+dynamic/degree/degree_favor_koizumi_ituki_2
 dynamic/degree/degree_favor_kokkoro
 dynamic/degree/degree_favor_kokkoro_2
 dynamic/degree/degree_favor_konno_junko
@@ -60917,6 +60925,7 @@ dynamic/degree/degree_favor_kunoichi_2
 dynamic/degree/degree_favor_kyaru
 dynamic/degree/degree_favor_kyaru_2
 dynamic/degree/degree_favor_kyon
+dynamic/degree/degree_favor_kyon_2
 dynamic/degree/degree_favor_kyouka
 dynamic/degree/degree_favor_kyouka_2
 dynamic/degree/degree_favor_lady_android
@@ -61010,6 +61019,7 @@ dynamic/degree/degree_favor_mummy_boy_2
 dynamic/degree/degree_favor_mystery_agent
 dynamic/degree/degree_favor_mystery_agent_2
 dynamic/degree/degree_favor_nagato_yuki
+dynamic/degree/degree_favor_nagato_yuki_2
 dynamic/degree/degree_favor_naginata_girl
 dynamic/degree/degree_favor_naginata_girl_2
 dynamic/degree/degree_favor_navy_officer
@@ -61053,6 +61063,7 @@ dynamic/degree/degree_favor_palpebra_knight_lady_2
 dynamic/degree/degree_favor_palpebra_knight_lady_hw22
 dynamic/degree/degree_favor_paralysis_hedgehog
 dynamic/degree/degree_favor_pbc_operator
+dynamic/degree/degree_favor_pbc_operator_2
 dynamic/degree/degree_favor_pecorine
 dynamic/degree/degree_favor_pecorine_2
 dynamic/degree/degree_favor_pilgrim_monk
@@ -61209,6 +61220,7 @@ dynamic/degree/degree_favor_steel_lacrosse_2
 dynamic/degree/degree_favor_stella_2anv
 dynamic/degree/degree_favor_stella_2anv_2
 dynamic/degree/degree_favor_still_obstinator
+dynamic/degree/degree_favor_still_obstinator_2
 dynamic/degree/degree_favor_student_gunsmith
 dynamic/degree/degree_favor_student_gunsmith_2
 dynamic/degree/degree_favor_student_president
@@ -61224,6 +61236,7 @@ dynamic/degree/degree_favor_summoner_little_2anv_2
 dynamic/degree/degree_favor_super_robot
 dynamic/degree/degree_favor_super_robot_2
 dynamic/degree/degree_favor_suzumiya_haruhi
+dynamic/degree/degree_favor_suzumiya_haruhi_2
 dynamic/degree/degree_favor_swallow_knight
 dynamic/degree/degree_favor_swallow_knight_2
 dynamic/degree/degree_favor_swallow_knight_3anv
@@ -61870,6 +61883,7 @@ dynamic/feature_announcement/revival_wt21_character_pickup_01
 dynamic/feature_announcement/revival_xm20_character_pickup_01
 dynamic/feature_announcement/revival_xm20_character_pickup_02
 dynamic/feature_announcement/revival_xm21_character_pickup_01
+dynamic/feature_announcement/revival_xm21_character_pickup_02
 dynamic/feature_announcement/revival_zcollabo_character_pickup_01
 dynamic/feature_announcement/smr22_campaign_gacha
 dynamic/feature_announcement/smr22_campaign_gacha2
@@ -62219,6 +62233,7 @@ dynamic/gacha_list_banner/revival_wt21_character_pickup_01
 dynamic/gacha_list_banner/revival_xm20_character_pickup_01
 dynamic/gacha_list_banner/revival_xm20_character_pickup_02
 dynamic/gacha_list_banner/revival_xm21_character_pickup_01
+dynamic/gacha_list_banner/revival_xm21_character_pickup_02
 dynamic/gacha_list_banner/revival_zcollabo_character_pickup_01
 dynamic/gacha_list_banner/star_heroes_1
 dynamic/gacha_list_banner/star_heroes_2
@@ -62615,6 +62630,7 @@ dynamic/home_banner/gacha/revival_wt21_character_pickup_01
 dynamic/home_banner/gacha/revival_xm20_character_pickup_01
 dynamic/home_banner/gacha/revival_xm20_character_pickup_02
 dynamic/home_banner/gacha/revival_xm21_character_pickup_01
+dynamic/home_banner/gacha/revival_xm21_character_pickup_02
 dynamic/home_banner/gacha/revival_zcollabo_character_pickup_01
 dynamic/home_banner/gacha/star_heroes_1
 dynamic/home_banner/gacha/star_heroes_2
@@ -63980,6 +63996,7 @@ gacha/feature_movie/revival_wt21_character_pickup_01/top/feature
 gacha/feature_movie/revival_xm20_character_pickup_01/top/feature
 gacha/feature_movie/revival_xm20_character_pickup_02/top/feature
 gacha/feature_movie/revival_xm21_character_pickup_01/top/feature
+gacha/feature_movie/revival_xm21_character_pickup_02/top/feature
 gacha/feature_movie/revival_zcollabo_character_pickup_01/top/feature
 gacha/feature_movie/unison_pickup_1/alice/feature
 gacha/feature_movie/unison_pickup_1/bishop_girl/feature
@@ -72542,6 +72559,7 @@ sound_effect/battle_common/se_fever_time_yakumono_shine
 sound_effect/battle_common/se_flipper
 sound_effect/battle_common/se_flipper_start
 sound_effect/battle_common/se_gameover
+sound_effect/battle_common/se_hard_multi_start
 sound_effect/battle_common/se_joining_assist_character
 sound_effect/battle_common/se_pause_close
 sound_effect/battle_common/se_pause_open
@@ -72700,6 +72718,7 @@ sound_effect/element/se_resistance_quick
 sound_effect/element/se_resistance_slow
 sound_effect/element/se_shooting_star
 sound_effect/element/se_spin_charge
+sound_effect/element/se_spout
 sound_effect/element/se_tornado
 sound_effect/element/se_wind_smooth
 sound_effect/fire/se_big_cannon_shot
@@ -73309,6 +73328,7 @@ sound_effect/system/se_talk_advance
 sound_effect/system/se_uncap_01
 sound_effect/system/se_uncap_02
 sound_effect/system/se_uncap_03
+sound_effect/system/se_unlock_list_banner
 sound_effect/thunder/se_charge_with_electricity
 sound_effect/thunder/se_electric_attack
 sound_effect/thunder/se_electric_beam
@@ -73339,6 +73359,8 @@ sound_effect/thunder/se_thunder_sonic_slash_volume1
 sound_effect/thunder/se_thunder_stamp
 sound_effect/thunder/se_thunder_wide_area_electricity
 sound_effect/thunder/se_thunderbolt_single
+sound_effect/time_attack/se_ranking_cutin_appear
+sound_effect/time_attack/se_ranking_cutin_disappear
 sound_effect/time_attack/se_ranking_cutin_praise
 sound_effect/time_attack/se_ranking_cutin_txt_flash
 sound_effect/time_attack/se_ranking_item_arrange

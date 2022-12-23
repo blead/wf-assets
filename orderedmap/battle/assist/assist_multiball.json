@@ -252,7 +252,7 @@
   "lightbullet_wiz_vt21": [
     [
       "lightbullet_wiz_vt21",
-      "battle\\action\\skill\\action\\rare5\\lightbullet_wiz_vt21$lightbullet_wiz_vt21_2",
+      "battle/action/skill/action/rare5/lightbullet_wiz_vt21$lightbullet_wiz_vt21_2",
       "スウィート・ショコライト＋",
       "100",
       "1",
@@ -277,7 +277,7 @@
   "whitedog_beast_vt21": [
     [
       "whitedog_beast_vt21",
-      "battle\\action\\skill\\action\\rare4\\whitedog_beast_vt21$whitedog_beast_vt21_2",
+      "battle/action/skill/action/rare4/whitedog_beast_vt21$whitedog_beast_vt21_2",
       "パダーロキ・ディ・ドルージ＋",
       "100",
       "0",

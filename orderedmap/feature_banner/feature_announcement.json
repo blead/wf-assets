@@ -3694,7 +3694,7 @@
       "3000",
       "dynamic/feature_announcement/equipment_white_pickup_2",
       "2022-11-28 12:00:00",
-      "2022-12-30 11:59:59",
+      "2022-12-31 11:59:59",
       "false"
     ]
   ],
@@ -3767,6 +3767,15 @@
       "dynamic/feature_announcement/anv3_campaign_gacha2",
       "2022-12-15 12:00:00",
       "2022-12-23 04:59:59",
+      "false"
+    ]
+  ],
+  "201726": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_xm21_character_pickup_02",
+      "2022-12-23 12:00:00",
+      "2022-12-31 11:59:59",
       "false"
     ]
   ],

@@ -1030,8 +1030,8 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_sea/sea_arena/gate/sea_arena_gate",
-      "battle/field_object/world_sea/sea_arena/transit_pod/sea_arena_transit_pod",
+      "(None)",
+      "(None)",
       "battle/field_object/world_advent/summer22_area/fever_gauge/summer22_area_fever_gauge"
     ]
   ],
@@ -1553,20 +1553,6 @@
       "battle/field_object/world_sand/sand_coreroom_giant/fever_gauge/sand_coreroom_giant_fever_gauge"
     ]
   ],
-  "desert_bonds_01": [
-    [
-      "battle/field/world_sand/sand_giant_inside_ev/background",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "battle/field_object/world_fake_princess/garden/gate/fake_princess_garden_gate",
-      "battle/field_object/world_fake_princess/garden/transit_pod/fake_princess_garden_transit_pod",
-      "battle/field_object/world_fake_princess/garden/fever_gauge/fake_princess_garden_fever_gauge"
-    ]
-  ],
   "sand_sand04": [
     [
       "battle/field/world_sand/sand_sand04/background/background",
@@ -1731,7 +1717,7 @@
       "(None)",
       "(None)",
       "battle/field_object/world_9/boss_field9/gate/boss_field9_gate",
-      "battle/field_object/world_9/boss_field9/transit_pod/boss_field9_transit_pod",
+      "(None)",
       "battle/field_object/world_9/boss_field9/fever_gauge/boss_field9_fever_gauge"
     ]
   ],
@@ -1744,7 +1730,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_hell/hell_deep_swamp/gate/hell_deep_swamp_gate",
+      "(None)",
       "battle/field_object/world_hell/hell_deep_swamp/transit_pod/hell_deep_swamp_transit_pod",
       "battle/field_object/world_hell/hell_deep_swamp/fever_gauge/hell_deep_swamp_fever_gauge"
     ]
@@ -2053,7 +2039,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_fake_princess/fake_princess_town_broken_expert/transit_pod/fake_princess_town_broken_expert_transit_pod",
+      "(None)",
       "battle/field_object/world_fake_princess/fake_princess_town_broken_expert/fever_gauge/fake_princess_town_broken_expert_fever_gauge"
     ]
   ],
@@ -2067,7 +2053,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_sea/drifting_island_laboratory_heathen_gods_room_expert/transit_pod/drifting_island_laboratory_heathen_gods_room_expert_transit_pod",
+      "(None)",
       "battle/field_object/world_sea/drifting_island_laboratory_heathen_gods_room_expert/fever_gauge/drifting_island_laboratory_heathen_gods_room_expert_fever_gauge"
     ]
   ],
@@ -2081,7 +2067,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_cyber_punk/gyokuto_private_police_empty_expert/transit_pod/gyokuto_private_police_empty_expert_transit_pod",
+      "(None)",
       "battle/field_object/world_cyber_punk/gyokuto_private_police_empty_expert/fever_gauge/gyokuto_private_police_empty_expert_fever_gauge"
     ]
   ],
@@ -2109,7 +2095,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_sand/sand_coreroom_giant_expert/transit_pod/sand_coreroom_giant_expert_transit_pod",
+      "(None)",
       "battle/field_object/world_sand/sand_coreroom_giant_expert/fever_gauge/sand_coreroom_giant_expert_fever_gauge"
     ]
   ],
@@ -2165,7 +2151,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_advent/valentine_area_expert/transit_pod/valentine_area_expert_transit_pod",
+      "(None)",
       "battle/field_object/world_advent/valentine_area_expert/fever_gauge/valentine_area_expert_fever_gauge"
     ]
   ],
@@ -2374,7 +2360,7 @@
       "(None)",
       "(None)",
       "(None)",
-      "battle/field_object/world_advent/2nd_anv_little_dream_world/gate/2nd_anv_little_dream_world_gate",
+      "(None)",
       "battle/field_object/world_advent/2nd_anv_little_dream_world/transit_pod/2nd_anv_little_dream_world_transit_pod",
       "battle/field_object/world_advent/2nd_anv_little_dream_world/fever_gauge/2nd_anv_little_dream_world_fever_gauge"
     ]

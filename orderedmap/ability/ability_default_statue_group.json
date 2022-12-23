@@ -7754,6 +7754,39 @@
         "(None)",
         "(None)"
       ]
+    ],
+    "AdditionalUnisonHp": [
+      [
+        "hp_skill",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "AdditionalUnisonAttack": [
+      [
+        "attack_common",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "ConditionPowerFlipComboCountDown": [
+      [
+        "power_flip",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
     ]
   },
   "During": {

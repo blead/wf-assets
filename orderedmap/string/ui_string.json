@@ -154,6 +154,11 @@
       "粛清者討伐戦はメインクエスト\n11 章 10 - 3をクリアすることで\n解放されます"
     ]
   ],
+  "system_lock_hard_multi_red": [
+    [
+      "共同決戦は下記を満たすことで解放されます。\n・プレイヤーランクが::need_player_rank::以上\n・極時の試練「時と火の試練(朱兜熊)」をクリア\n・降臨討伐「紅機兵ハインライト 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -197,6 +202,11 @@
   "short_system_lock_expert_single_side_story": [
     [
       "プレイヤーランク90以上かつ「大海の遺産」の全バトルをクリア"
+    ]
+  ],
+  "short_system_lock_hard_multi_red": [
+    [
+      "プレイヤーランク::need_player_rank::以上かつ極時の試練「時と火の試練(朱兜熊)」をクリア"
     ]
   ],
   "ability_board_button_label": [
@@ -327,6 +337,16 @@
   "party_group_edit_copy_dialog_thumbnail_tap_caution": [
     [
       "※詳細確認で別の画面に移動した場合、コピーはキャンセルされます"
+    ]
+  ],
+  "party_group_edit_copy_dialog_cannot_copy_party_restricted": [
+    [
+      "コピー元パーティに使用できないキャラが含まれているためコピーできません"
+    ]
+  ],
+  "party_group_edit_copy_dialog_cannot_swap_party_restricted": [
+    [
+      "パーティの入れ替え機能は制限されています"
     ]
   ],
   "party_group_edit_carnival_event_invalid_party_select_message": [
@@ -972,6 +992,16 @@
   "character_list_setting_dialog_keyword_search_description": [
     [
       "※キーワードの対象を選択して最低::number::文字以上入力してください"
+    ]
+  ],
+  "character_list_setting_dialog_cannot_selectable_because_element_restricted": [
+    [
+      "このクエストでは属性が制限されているため選択できません"
+    ]
+  ],
+  "character_list_cannot_reset_filter_because_restricted": [
+    [
+      "編成可能なキャラは全て表示されています"
     ]
   ],
   "party_ribbon_combo": [
@@ -2499,6 +2529,11 @@
       "::if !withoutTarget::::target::の::end::パワーフリップダメージ ::percent_up_down::"
     ]
   ],
+  "ability_description_condition_content_power_flip_count_down": [
+    [
+      "::if !withoutTarget::::target::に::end::コンボ軽減効果[PFLv3必要コンボ数 ::count::]"
+    ]
+  ],
   "ability_description_condition_content_speedup": [
     [
       "::if !withoutTarget::::target::に::end::スピードアップ効果 ::percent_up_down::"
@@ -3084,6 +3119,16 @@
       "::if !withoutTarget::::target::の::end::HP ::percent_up_down::"
     ]
   ],
+  "ability_description_instant_content_additional_unison_hp": [
+    [
+      "::if !withoutTarget::::target::の::end::HPにユニゾンキャラのHPをさらに ::percent_up_down:: 加える"
+    ]
+  ],
+  "ability_description_instant_content_additional_unison_attack": [
+    [
+      "::if !withoutTarget::::target::の::end::攻撃力にユニゾンキャラの攻撃力をさらに ::percent_up_down:: 加える"
+    ]
+  ],
   "ability_description_instant_content_ratio_heal": [
     [
       "::if !withoutTarget::::target::を::end::最大HPの ::percent:: 回復"
@@ -3266,12 +3311,12 @@
   ],
   "ability_description_power_flip_limit_once": [
     [
-      "パワーフリップが終了するまで"
+      "パワーフリップするまで"
     ]
   ],
   "ability_description_power_flip_limit_n_times": [
     [
-      "::count:: 回パワーフリップが終了するまで"
+      "::count:: 回パワーフリップするまで"
     ]
   ],
   "ability_description_variety_element": [
@@ -3542,6 +3587,16 @@
   "ability_description_condition_target_bad_skill_damage_resistance": [
     [
       "スキルダメージ耐性ダウン効果"
+    ]
+  ],
+  "ability_description_condition_target_good_power_flip_count_down": [
+    [
+      "コンボ軽減効果"
+    ]
+  ],
+  "ability_description_condition_target_bad_power_flip_count_down": [
+    [
+      "必要コンボ増加効果"
     ]
   ],
   "ability_description_condition_target_unique": [
@@ -5667,6 +5722,11 @@
   "quest_detail_reward": [
     [
       "報酬一覧"
+    ]
+  ],
+  "quest_detail_featured_reward": [
+    [
+      "目玉報酬"
     ]
   ],
   "quest_detail_no_reward_message": [
@@ -9199,6 +9259,11 @@
       "キャラが編成されていません"
     ]
   ],
+  "room_character_edit_cannot_select_party_confirm_message": [
+    [
+      "現在選択されている編成では出発できません。\n直前に選択した挑戦可能な編成に戻しますか？"
+    ]
+  ],
   "party_name": [
     [
       "パーティ "
@@ -9939,6 +10004,11 @@
       "パーティをすべて::tags::で編成する"
     ]
   ],
+  "quest_startable_condition_party_element": [
+    [
+      "パーティをすべて::element::属性で編成する"
+    ]
+  ],
   "quest_startable_condition_bullet_symbol": [
     [
       "- "
@@ -10006,7 +10076,7 @@
   ],
   "party_select_startable_condition_unsatsified": [
     [
-      "以下の条件を満たしていないため、クエストを開始することができません"
+      "以下の条件を満たしていないため、クエストを開始することができません\n"
     ]
   ],
   "wave_dash": [
@@ -11074,6 +11144,11 @@
       "イベント『::eventName::』の『::questName::』をホストでクリア"
     ]
   ],
+  "quest_unselectable_reason_message_hard_multi_event_quest_clear": [
+    [
+      "共同決戦『::eventName::』の『::questName::』をクリア"
+    ]
+  ],
   "quest_unselectable_reason_message_single_tower_dungeon_event_quest_clear": [
     [
       "幽玄域『::questName::』をクリア"
@@ -11739,6 +11814,16 @@
       "他の難易度に挑戦中です"
     ]
   ],
+  "hard_multi_event_challenge_mission": [
+    [
+      "チャレンジミッション"
+    ]
+  ],
+  "hard_multi_event_play_caution": [
+    [
+      "このクエストは<font color=\"#ea354c\">::element::属性キャラのみの\nパーティ</font>で挑戦できます。\nクエストに挑戦するパーティを選択してください。"
+    ]
+  ],
   "header_stamina_separator": [
     [
       "/"
@@ -11772,6 +11857,36 @@
   "attention_not_received": [
     [
       "ボスバトルの救援依頼が届いていません"
+    ]
+  ],
+  "attention_hard_multi_confirm_dialog_title": [
+    [
+      "共同決戦"
+    ]
+  ],
+  "attention_hard_multi_confirm_dialog_description": [
+    [
+      "共同決戦のルームです。入りますか？"
+    ]
+  ],
+  "attention_hard_multi_confirm_dialog_dont_ask_again": [
+    [
+      "今後確認しない"
+    ]
+  ],
+  "attention_hard_multi_confirm_dialog_accept": [
+    [
+      "覚悟はできている"
+    ]
+  ],
+  "featured_reward_recovery_cycle_daily_message": [
+    [
+      "毎日5:00 追加"
+    ]
+  ],
+  "featured_reward_remaining_point_message": [
+    [
+      "目玉報酬: あと::point::個"
     ]
   ],
   "room_share_dialog_title": [
@@ -13394,6 +13509,16 @@
       "挑戦回数あと <font size='+18px'>::current::</font> 回"
     ]
   ],
+  "party_select_create_room_button": [
+    [
+      "この編成でルームを作る"
+    ]
+  ],
+  "party_select_enter_room_button": [
+    [
+      "この編成でルームに入る"
+    ]
+  ],
   "party_select_remaining_challenge_point_title": [
     [
       "今日の残り回数"
@@ -13812,6 +13937,31 @@
   "recent_other_player_party_maintenance": [
     [
       "ただいまメンテナンス中です"
+    ]
+  ],
+  "multi_battle_result_favorite_party_button_label": [
+    [
+      "お気に入り登録"
+    ]
+  ],
+  "favorite_party_list_empty_label": [
+    [
+      "お気に入りの登録はありません"
+    ]
+  ],
+  "favorite_party_list_title": [
+    [
+      "お気に入り"
+    ]
+  ],
+  "favorite_party_list_description": [
+    [
+      "お気に入りは<font size='32px' color='#FF9F1C'><b>最大１０件</b></font>まで、\nそれ以降は古い登録順から上書き"
+    ]
+  ],
+  "multi_battle_result_favorite_party_button_disable_label": [
+    [
+      "お気に入り登録済み"
     ]
   ],
   "help_label_event_advent_u_collabo": [

@@ -7916,6 +7916,110 @@
       "dynamic/degree/degree_favor_delusion_girl_2"
     ]
   ],
+  "1111069": [
+    [
+      "degree_favor_suzumiya_haruhi_2",
+      "17001",
+      "世界を大いに盛り上げる力",
+      "せかいをおおいにもりあげるちから",
+      "獲得条件：【傍若無人勇者】涼宮ハルヒのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_suzumiya_haruhi_2"
+    ]
+  ],
+  "1121057": [
+    [
+      "degree_favor_nagato_yuki_2",
+      "46001",
+      "万能の情報操作",
+      "ばんのうのじょうほうそうさ",
+      "獲得条件：【寡黙なる宇宙人】長門有希のマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nagato_yuki_2"
+    ]
+  ],
+  "1151057": [
+    [
+      "degree_favor_asahina_mikuru_2",
+      "136001",
+      "部室限定のエンジェル",
+      "ぶしつげんていのえんじぇる",
+      "獲得条件：【ＳＯＳ団のマスコット】朝比奈みくるのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asahina_mikuru_2"
+    ]
+  ],
+  "1261053": [
+    [
+      "degree_favor_koizumi_ituki_2",
+      "367001",
+      "イエスマンの美しき旋律",
+      "いえすまんのうつくしきせんりつ",
+      "獲得条件：【微笑みの吟遊詩人】古泉一樹のマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_koizumi_ituki_2"
+    ]
+  ],
+  "1213007": [
+    [
+      "degree_favor_kyon_2",
+      "227001",
+      "魅惑？のジェネラルパーソン",
+      "みわくのじぇねらるぱーそん",
+      "獲得条件：【ＳＯＳ団一般人代表】キョンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kyon_2"
+    ]
+  ],
+  "1121111": [
+    [
+      "degree_favor_justice_lady_2",
+      "52001",
+      "ＨＥＲＯ：ＲＥＢＵＩＬＤ",
+      "ひーろーりびるど",
+      "獲得条件：【願いの執行者】ジャスティのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_justice_lady_2"
+    ]
+  ],
+  "1151093": [
+    [
+      "degree_favor_still_obstinator_2",
+      "138001",
+      "人よ、善くあれ",
+      "ひとよよくあれ",
+      "獲得条件：【邪知暴虐の神様気取り】スティネルのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_still_obstinator_2"
+    ]
+  ],
+  "1251071": [
+    [
+      "degree_favor_pbc_operator_2",
+      "339001",
+      "マイナー・オペレーター",
+      "まいなーおぺれーたー",
+      "獲得条件：【ルミナス・シアン】クラルテのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pbc_operator_2"
+    ]
+  ],
   "1111111": [
     [
       "degree_favor_halberd_princess_2halfanv_2",

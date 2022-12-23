@@ -2349,6 +2349,16 @@
       "12"
     ]
   ],
+  "bgm/common/worldflipper_battle_fanfare_hard_multi": [
+    [
+      "0.35",
+      "120",
+      "0.0638322",
+      "20.523832",
+      "(None)",
+      "6"
+    ]
+  ],
   "bgm/event/advent_event/advent_event_z_collabo/battle/z_collabo_event_battle": [
     [
       "0.38",
