@@ -741,6 +741,28 @@
       "dynamic/advent_event_tutorial/advent_k_collab_event/tutorial_01"
     ]
   ],
+  "hard_multi_steam_robot_fire": [
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_03"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_04"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_05"
+    ]
+  ],
   "haniwa_carnival_01": [
     [
       "0",
@@ -1057,6 +1079,16 @@
     [
       "0",
       "dynamic/equipment_enhancement/epuration_weapon_howto_01"
+    ]
+  ],
+  "equipment_enhancement_steam_robot_weapon_how_to_play": [
+    [
+      "0",
+      "dynamic/equipment_enhancement/steam_robot_weapon_howto_01"
+    ],
+    [
+      "0",
+      "dynamic/equipment_enhancement/steam_robot_weapon_howto_02"
     ]
   ],
   "desert_bonds_01_how_to_play": [
@@ -1521,6 +1553,20 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_event_spirit_beast_dark/tutorial_02"
+    ]
+  ],
+  "advent_steam_robot_fire": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_fire/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_fire/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_fire/tutorial_03"
     ]
   ],
   "abyss_beast": [

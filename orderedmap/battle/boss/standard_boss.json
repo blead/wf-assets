@@ -287,6 +287,66 @@
       ]
     ]
   },
+  "steampunk_fire_multi": {
+    "20": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_multi4"
+      ]
+    ]
+  },
+  "steampunk_fire_single": {
+    "20": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_single1"
+      ]
+    ],
+    "50": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_single2"
+      ]
+    ],
+    "70": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_single3"
+      ]
+    ],
+    "80": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_single4"
+      ]
+    ]
+  },
+  "steampunk_fire_hard_multi": {
+    "100": [
+      [
+        "紅機兵ハインライト",
+        "battle/enemy/boss/steampunk_fire_hard_multi"
+      ]
+    ]
+  },
   "spirit_beast_wind": {
     "25": [
       [

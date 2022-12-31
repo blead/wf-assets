@@ -3849,6 +3849,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/general_toyakiren_ny23/general_toyakiren_ny23": [
+    [
+      "0.35",
+      "130",
+      "0.07052154",
+      "11.107506",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/heavenly_four/heavenly_four": [
+    [
+      "0.35",
+      "140",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_yuki_ny23/psychic_yuki_ny23": [
+    [
+      "0.35",
+      "72",
+      "0.05655329",
+      "13.349546",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/compliment_oiran_xm22/compliment_oiran_xm22": [
     [
       "0.35",
@@ -8695,6 +8725,26 @@
       "200",
       "0.060566895",
       "110.009544",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_fire/battle/advent_steam_robot_fire_boss": [
+    [
+      "0.35",
+      "165",
+      "0.05181406",
+      "65.467804",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_top": [
+    [
+      "0.35",
+      "155",
+      "0.062267575",
+      "7.7592516",
       "(None)",
       "12"
     ]

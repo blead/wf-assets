@@ -151,6 +151,14 @@
       "12"
     ]
   ],
+  "sound_effect/blow/se_air_blast2": [
+    [
+      "0.18",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/blow/se_arm_swing": [
     [
       "0.35",

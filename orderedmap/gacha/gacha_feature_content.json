@@ -5241,6 +5241,99 @@
       ]
     ]
   },
+  "152": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121147",
+        "0",
+        "121147",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/psychic_yuki_ny23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121147",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131128",
+        "0",
+        "131128",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/general_toyakiren_ny23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131128",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141141",
+        "0",
+        "141141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/heavenly_four/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141141",
+        ""
+      ]
+    ]
+  },
   "149": {
     "1": [
       [
@@ -11241,6 +11334,21 @@
       ]
     ]
   },
+  "5032": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_water_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "5027": {
     "1": [
       [
@@ -12361,6 +12469,99 @@
         "",
         "(None)",
         "",
+        ""
+      ]
+    ]
+  },
+  "151": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/blue_element_character_pickup_03",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_holy_mother",
+        "121051",
+        "0",
+        "121051",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_41/holy_mother/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121051",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121070",
+        "0",
+        "121070",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_49/psychic_yuki/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121070",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121105",
+        "0",
+        "121105",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_58/ice_dragon/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121105",
         ""
       ]
     ]

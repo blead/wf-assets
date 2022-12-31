@@ -325,6 +325,159 @@
       ]
     ]
   },
+  "steampunk_fire_funnel_attack_left_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_attack_left_single": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_attack_right_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_multi4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_attack_right_single": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_single4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_core_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_multi4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_core_single": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_single1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_single4"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_attack_left_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_attack_right_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_attack_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_fire_funnel_core_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_fire_funnel_core_hard_multi"
+      ]
+    ]
+  },
   "spirit_beast_wind_funnel1": {
     "25": [
       [

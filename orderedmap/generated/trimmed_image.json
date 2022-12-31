@@ -26623,6 +26623,166 @@
       "690"
     ]
   ],
+  "character/general_toyakiren_ny23/ui/full_shot_1440_1920_0": [
+    [
+      "245",
+      "229",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/skill_cutin_0": [
+    [
+      "141",
+      "74",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/full_shot_1440_1920_1": [
+    [
+      "105",
+      "29",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/base_0": [
+    [
+      "0",
+      "87",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/doya": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/joy": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/normal": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/normal_b": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/sad": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/serious": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/shame": [
+    [
+      "219",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/smile": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/smile_b": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/smile_c": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/surprise": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/surprise_b": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/sweat": [
+    [
+      "330",
+      "327",
+      "570",
+      "690"
+    ]
+  ],
+  "character/general_toyakiren_ny23/ui/story/think": [
+    [
+      "196",
+      "202",
+      "570",
+      "690"
+    ]
+  ],
   "character/gentle_barten/ui/full_shot_1440_1920_0": [
     [
       "264",
@@ -28959,6 +29119,198 @@
       "690"
     ]
   ],
+  "character/heavenly_four/ui/full_shot_1440_1920_0": [
+    [
+      "179",
+      "106",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/heavenly_four/ui/skill_cutin_0": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/heavenly_four/ui/full_shot_1440_1920_1": [
+    [
+      "144",
+      "162",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/heavenly_four/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/heavenly_four/ui/story/anger": [
+    [
+      "203",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/base_1": [
+    [
+      "0",
+      "22",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/doya": [
+    [
+      "203",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/normal": [
+    [
+      "203",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/normal_b": [
+    [
+      "203",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/pain": [
+    [
+      "203",
+      "267",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/ridicule": [
+    [
+      "203",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/sad": [
+    [
+      "204",
+      "260",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/serious": [
+    [
+      "203",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/serious_b": [
+    [
+      "203",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/shame": [
+    [
+      "212",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/smile": [
+    [
+      "203",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/smile_b": [
+    [
+      "203",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/smile_c": [
+    [
+      "205",
+      "260",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/smile_d": [
+    [
+      "201",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/surprise": [
+    [
+      "203",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/sweat": [
+    [
+      "354",
+      "258",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/think": [
+    [
+      "204",
+      "260",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_four/ui/story/unknown": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
   "character/heavenly_one/ui/full_shot_1440_1920_0": [
     [
       "296",
@@ -29139,6 +29491,70 @@
     [
       "0",
       "9",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/anger": [
+    [
+      "239",
+      "345",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/base": [
+    [
+      "0",
+      "119",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/normal": [
+    [
+      "240",
+      "339",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/normal_b": [
+    [
+      "240",
+      "339",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/sad": [
+    [
+      "238",
+      "348",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/shame": [
+    [
+      "211",
+      "372",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/sweat": [
+    [
+      "218",
+      "349",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_rabbit/ui/story/think": [
+    [
+      "239",
+      "347",
       "570",
       "690"
     ]
@@ -54723,6 +55139,190 @@
     [
       "212",
       "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/full_shot_1440_1920_0": [
+    [
+      "305",
+      "268",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/skill_cutin_0": [
+    [
+      "351",
+      "123",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/full_shot_1440_1920_1": [
+    [
+      "86",
+      "174",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/skill_cutin_1": [
+    [
+      "45",
+      "3",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/anger": [
+    [
+      "203",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/base_0": [
+    [
+      "33",
+      "132",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/base_1": [
+    [
+      "0",
+      "63",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/consent": [
+    [
+      "203",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/effect": [
+    [
+      "28",
+      "261",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/joy": [
+    [
+      "206",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/joy_b": [
+    [
+      "203",
+      "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/joy_c": [
+    [
+      "203",
+      "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/normal": [
+    [
+      "202",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/normal_b": [
+    [
+      "203",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/sad": [
+    [
+      "203",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/serious": [
+    [
+      "203",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/shame": [
+    [
+      "204",
+      "280",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/shame_b": [
+    [
+      "212",
+      "288",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/smile": [
+    [
+      "203",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/surprise": [
+    [
+      "203",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/surprise_b": [
+    [
+      "202",
+      "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/sweat": [
+    [
+      "232",
+      "325",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yuki_ny23/ui/story/think": [
+    [
+      "207",
+      "249",
       "570",
       "690"
     ]

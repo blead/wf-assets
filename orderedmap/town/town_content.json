@@ -306,5 +306,27 @@
       "10",
       "bgm/common/worldflipper_town_quest_christmas"
     ]
+  ],
+  "15": [
+    [
+      "ny2023",
+      "1",
+      "2023-01-01 12:00:00",
+      "2023-01-04 11:59:59",
+      "town/background/ny2020/town_newyear2020_background",
+      "town/background/ny2020/town_newyear2020_background_blur",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "bgm/common/worldflipper_town_quest_new_year"
+    ]
   ]
 }

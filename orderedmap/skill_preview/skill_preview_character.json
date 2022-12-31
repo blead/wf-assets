@@ -545,19 +545,6 @@
       ""
     ]
   ],
-  "261001": [
-    [
-      "906",
-      "false",
-      "false",
-      "906",
-      "false",
-      "false",
-      "(None)",
-      "(None)",
-      ""
-    ]
-  ],
   "261003": [
     [
       "906",
@@ -2521,6 +2508,19 @@
       ""
     ]
   ],
+  "261001": [
+    [
+      "304",
+      "false",
+      "false",
+      "304",
+      "false",
+      "false",
+      "character/devil_princess/battle/character_detail_skill_preview",
+      "450",
+      "0"
+    ]
+  ],
   "151105": [
     [
       "257",
@@ -2725,6 +2725,45 @@
       "false",
       "false",
       "character/kazuma/battle/character_detail_skill_preview",
+      "0",
+      "0"
+    ]
+  ],
+  "141141": [
+    [
+      "301",
+      "false",
+      "false",
+      "301",
+      "false",
+      "false",
+      "character/heavenly_four/battle/character_detail_skill_preview",
+      "200",
+      "0"
+    ]
+  ],
+  "121147": [
+    [
+      "302",
+      "false",
+      "false",
+      "302",
+      "false",
+      "false",
+      "character/psychic_yuki_ny23/battle/character_detail_skill_preview",
+      "0",
+      "0"
+    ]
+  ],
+  "131128": [
+    [
+      "303",
+      "false",
+      "false",
+      "303",
+      "false",
+      "false",
+      "character/general_toyakiren_ny23/battle/character_detail_skill_preview",
       "0",
       "0"
     ]

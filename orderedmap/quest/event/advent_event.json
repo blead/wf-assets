@@ -929,6 +929,36 @@
       "2022-11-23 04:59:59"
     ]
   ],
+  "200014": [
+    [
+      "advent_steam_robot_fire",
+      "(None)",
+      "紅嫉の機兵",
+      "",
+      "quest/event/banner/advent_event/advent_event_steam_robot_fire",
+      "quest/event/bossbattle_banner/advent_event/advent_event_steam_robot_fire",
+      "0",
+      "quest/event/background/advent_event/advent_event_steam_robot_fire",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "28",
+      "bgm/event/advent_steam_robot/advent_steam_robot_top",
+      "event",
+      "49332",
+      "49333",
+      "49334",
+      "(None)",
+      "true",
+      "advent_steam_robot_fire",
+      "true",
+      "2022-12-31 12:00:00",
+      "2023-01-13 20:59:59",
+      "2023-01-20 04:59:59"
+    ]
+  ],
   "100007": [
     [
       "advent_u_collabo_event",

@@ -8269,6 +8269,186 @@
       ""
     ]
   ],
+  "psychic_yuki_ny23": [
+    [
+      "見嶋ユキ",
+      "0x2f60b2",
+      "character/psychic_yuki/voice/",
+      "normal,anger,consent,effect,joy,joy_b,joy_c,normal_b,sad,serious,shame,shame_b,smile,surprise,surprise_b,sweat,think,evolve",
+      "character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_0,character/psychic_yuki_ny23/ui/story/base_1",
+      "character/psychic_yuki_ny23/ui/story/normal,character/psychic_yuki_ny23/ui/story/anger,character/psychic_yuki_ny23/ui/story/consent,character/psychic_yuki_ny23/ui/story/effect,character/psychic_yuki_ny23/ui/story/joy,character/psychic_yuki_ny23/ui/story/joy_b,character/psychic_yuki_ny23/ui/story/joy_c,character/psychic_yuki_ny23/ui/story/normal_b,character/psychic_yuki_ny23/ui/story/sad,character/psychic_yuki_ny23/ui/story/serious,character/psychic_yuki_ny23/ui/story/shame,character/psychic_yuki_ny23/ui/story/shame_b,character/psychic_yuki_ny23/ui/story/smile,character/psychic_yuki_ny23/ui/story/surprise,character/psychic_yuki_ny23/ui/story/surprise_b,character/psychic_yuki_ny23/ui/story/sweat,character/psychic_yuki_ny23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_raven_hair_student_unknown": [
+    [
+      "？？？",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_raven_hair_student": [
+    [
+      "黒髪の女子学生",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_raven_hair_student_name": [
+    [
+      "春咲サチカ",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "heavenly_four": [
+    [
+      "シルクハーレ",
+      "0x539722",
+      "character/heavenly_four/voice/",
+      "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_1",
+      "character/heavenly_four/ui/story/normal,character/heavenly_four/ui/story/anger,character/heavenly_four/ui/story/doya,character/heavenly_four/ui/story/normal_b,character/heavenly_four/ui/story/pain,character/heavenly_four/ui/story/ridicule,character/heavenly_four/ui/story/sad,character/heavenly_four/ui/story/serious,character/heavenly_four/ui/story/serious_b,character/heavenly_four/ui/story/shame,character/heavenly_four/ui/story/smile,character/heavenly_four/ui/story/smile_b,character/heavenly_four/ui/story/smile_c,character/heavenly_four/ui/story/smile_d,character/heavenly_four/ui/story/surprise,character/heavenly_four/ui/story/sweat,character/heavenly_four/ui/story/think,(None)"
+    ]
+  ],
+  "heavenly_four_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/heavenly_four/voice/",
+      "normal",
+      "character/heavenly_four/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "heavenly_rabbit": [
+    [
+      "ラビラビ",
+      "0x539722",
+      "character/heavenly_rabbit/voice/",
+      "normal,anger,normal_b,sad,shame,sweat,think",
+      "character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base,character/heavenly_rabbit/ui/story/base",
+      "character/heavenly_rabbit/ui/story/normal,character/heavenly_rabbit/ui/story/anger,character/heavenly_rabbit/ui/story/normal_b,character/heavenly_rabbit/ui/story/sad,character/heavenly_rabbit/ui/story/shame,character/heavenly_rabbit/ui/story/sweat,character/heavenly_rabbit/ui/story/think"
+    ]
+  ],
+  "heavenly_four_fox": [
+    [
+      "シルクハーレ（きつね役）",
+      "0x539722",
+      "character/heavenly_four/voice/",
+      "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_1",
+      "character/heavenly_four/ui/story/normal,character/heavenly_four/ui/story/anger,character/heavenly_four/ui/story/doya,character/heavenly_four/ui/story/normal_b,character/heavenly_four/ui/story/pain,character/heavenly_four/ui/story/ridicule,character/heavenly_four/ui/story/sad,character/heavenly_four/ui/story/serious,character/heavenly_four/ui/story/serious_b,character/heavenly_four/ui/story/shame,character/heavenly_four/ui/story/smile,character/heavenly_four/ui/story/smile_b,character/heavenly_four/ui/story/smile_c,character/heavenly_four/ui/story/smile_d,character/heavenly_four/ui/story/surprise,character/heavenly_four/ui/story/sweat,character/heavenly_four/ui/story/think,(None)"
+    ]
+  ],
+  "heavenly_four_bear": [
+    [
+      "シルクハーレ（くま役）",
+      "0x539722",
+      "character/heavenly_four/voice/",
+      "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_1",
+      "character/heavenly_four/ui/story/normal,character/heavenly_four/ui/story/anger,character/heavenly_four/ui/story/doya,character/heavenly_four/ui/story/normal_b,character/heavenly_four/ui/story/pain,character/heavenly_four/ui/story/ridicule,character/heavenly_four/ui/story/sad,character/heavenly_four/ui/story/serious,character/heavenly_four/ui/story/serious_b,character/heavenly_four/ui/story/shame,character/heavenly_four/ui/story/smile,character/heavenly_four/ui/story/smile_b,character/heavenly_four/ui/story/smile_c,character/heavenly_four/ui/story/smile_d,character/heavenly_four/ui/story/surprise,character/heavenly_four/ui/story/sweat,character/heavenly_four/ui/story/think,(None)"
+    ]
+  ],
+  "heavenly_four_snake": [
+    [
+      "シルクハーレ（へび役）",
+      "0x539722",
+      "character/heavenly_four/voice/",
+      "normal,anger,doya,normal_b,pain,ridicule,sad,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_0,character/heavenly_four/ui/story/base_1",
+      "character/heavenly_four/ui/story/normal,character/heavenly_four/ui/story/anger,character/heavenly_four/ui/story/doya,character/heavenly_four/ui/story/normal_b,character/heavenly_four/ui/story/pain,character/heavenly_four/ui/story/ridicule,character/heavenly_four/ui/story/sad,character/heavenly_four/ui/story/serious,character/heavenly_four/ui/story/serious_b,character/heavenly_four/ui/story/shame,character/heavenly_four/ui/story/smile,character/heavenly_four/ui/story/smile_b,character/heavenly_four/ui/story/smile_c,character/heavenly_four/ui/story/smile_d,character/heavenly_four/ui/story/surprise,character/heavenly_four/ui/story/sweat,character/heavenly_four/ui/story/think,(None)"
+    ]
+  ],
+  "general_toyakiren_ny23": [
+    [
+      "ツインク",
+      "0xb29614",
+      "character/general_toyakiren/voice/",
+      "normal,doya,joy,normal_b,sad,serious,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_0,character/general_toyakiren_ny23/ui/story/base_1",
+      "character/general_toyakiren_ny23/ui/story/normal,character/general_toyakiren_ny23/ui/story/doya,character/general_toyakiren_ny23/ui/story/joy,character/general_toyakiren_ny23/ui/story/normal_b,character/general_toyakiren_ny23/ui/story/sad,character/general_toyakiren_ny23/ui/story/serious,character/general_toyakiren_ny23/ui/story/shame,character/general_toyakiren_ny23/ui/story/smile,character/general_toyakiren_ny23/ui/story/smile_b,character/general_toyakiren_ny23/ui/story/smile_c,character/general_toyakiren_ny23/ui/story/surprise,character/general_toyakiren_ny23/ui/story/surprise_b,character/general_toyakiren_ny23/ui/story/sweat,character/general_toyakiren_ny23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_shibuya_younger_unknown": [
+    [
+      "？？？",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_hammal": [
+    [
+      "荷運び人",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_japan_girl": [
+    [
+      "ワの国の少女",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_cheerful_student": [
+    [
+      "明るい女子高生",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_loose_student": [
+    [
+      "ゆるい女子高生",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_cheerful_student_name": [
+    [
+      "ココちゃん",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_loose_student_name": [
+    [
+      "モカちゃん",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "herbalist_xm22": [
     [
       "ハートリーフ",

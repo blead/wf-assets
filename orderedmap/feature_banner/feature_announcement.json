@@ -3779,6 +3779,78 @@
       "false"
     ]
   ],
+  "202751": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_water_pickup_2",
+      "2022-12-31 12:00:00",
+      "2023-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "202233": [
+    [
+      "6700",
+      "dynamic/feature_announcement/newyear23_campaign_mission",
+      "2022-12-31 12:00:00",
+      "2023-01-16 20:59:59",
+      "false"
+    ]
+  ],
+  "3081": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_221231",
+      "2022-12-31 12:00:00",
+      "2023-01-16 20:59:59",
+      "false"
+    ]
+  ],
+  "201474": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_78",
+      "2022-12-31 12:00:00",
+      "2023-01-06 11:59:59",
+      "false"
+    ]
+  ],
+  "203432": [
+    [
+      "2001",
+      "dynamic/feature_announcement/advent_event_steam_robot_fire",
+      "2022-12-31 12:00:00",
+      "2023-01-13 20:59:59",
+      "false"
+    ]
+  ],
+  "204017": [
+    [
+      "2000",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_fire",
+      "2022-12-31 12:00:00",
+      "2023-01-13 20:59:59",
+      "false"
+    ]
+  ],
+  "201466": [
+    [
+      "3001",
+      "dynamic/feature_announcement/blue_element_character_pickup_03",
+      "2022-12-31 12:00:00",
+      "2023-01-06 11:59:59",
+      "false"
+    ]
+  ],
+  "204536": [
+    [
+      "5005",
+      "dynamic/feature_announcement/fukubukuro2023",
+      "2022-12-31 12:00:00",
+      "2023-01-31 23:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

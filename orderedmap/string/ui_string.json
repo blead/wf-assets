@@ -156,7 +156,7 @@
   ],
   "system_lock_hard_multi_red": [
     [
-      "共同決戦は下記を満たすことで解放されます。\n・プレイヤーランクが::need_player_rank::以上\n・極時の試練「時と火の試練(朱兜熊)」をクリア\n・降臨討伐「紅機兵ハインライト 超級」をクリア"
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「紅嫉の機兵」の「紅機兵ハインライト 超級」をクリア"
     ]
   ],
   "short_system_lock_boss_battle": [
@@ -206,7 +206,7 @@
   ],
   "short_system_lock_hard_multi_red": [
     [
-      "プレイヤーランク::need_player_rank::以上かつ極時の試練「時と火の試練(朱兜熊)」をクリア"
+      "以下の条件をクリア"
     ]
   ],
   "ability_board_button_label": [
@@ -5149,6 +5149,11 @@
       "粛清装備強化"
     ]
   ],
+  "help_label_equipment_enhancement_steam_robot_weapon": [
+    [
+      "機兵装備強化"
+    ]
+  ],
   "help_label_encyclopedia": [
     [
       "星見の図鑑"
@@ -5249,6 +5254,11 @@
       "降臨討伐 闇喚の精霊獣"
     ]
   ],
+  "help_label_event_advent_steam_robot_fire": [
+    [
+      "降臨討伐 紅嫉の機兵"
+    ]
+  ],
   "help_label_event_advent_zcollab": [
     [
       "降臨討伐 暴走ロメロを止めろ"
@@ -5307,6 +5317,11 @@
   "help_label_event_boss_epuration_event_01": [
     [
       "粛清者討伐戦"
+    ]
+  ],
+  "help_label_event_hard_multi_fire": [
+    [
+      "共同決戦 紅嫉の機兵"
     ]
   ],
   "help_label_event_challenge": [
@@ -11821,7 +11836,7 @@
   ],
   "hard_multi_event_play_caution": [
     [
-      "このクエストは<font color=\"#ea354c\">::element::属性キャラのみの\nパーティ</font>で挑戦できます。\nクエストに挑戦するパーティを選択してください。"
+      "このクエストは<font color=\"#ea354c\">::element::属性キャラのみの\nパーティ</font>で挑戦できます\nクエストに挑戦するパーティを選択してください"
     ]
   ],
   "header_stamina_separator": [
@@ -11866,7 +11881,7 @@
   ],
   "attention_hard_multi_confirm_dialog_description": [
     [
-      "共同決戦のルームです。入りますか？"
+      "共同決戦のルームです\n入りますか？"
     ]
   ],
   "attention_hard_multi_confirm_dialog_dont_ask_again": [
@@ -11876,7 +11891,7 @@
   ],
   "attention_hard_multi_confirm_dialog_accept": [
     [
-      "覚悟はできている"
+      "OK"
     ]
   ],
   "featured_reward_recovery_cycle_daily_message": [

@@ -1,4 +1,18 @@
 {
+  "3": [
+    [
+      "steam_robot_weapon",
+      "3",
+      "(None)",
+      "機兵装備の強化",
+      "dynamic/equipment_enhancement/steam_robot_weapon_banner",
+      "dynamic/equipment_enhancement/steam_robot_weapon_header",
+      "equipment_enhancement_steam_robot_weapon_how_to_play",
+      "Equipment_Enhancement_Steam_Robot_Weapon",
+      "2022-12-30 12:00:00",
+      "(None)"
+    ]
+  ],
   "2": [
     [
       "epuration_weapon",

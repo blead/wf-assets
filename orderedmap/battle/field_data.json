@@ -2274,6 +2274,13 @@
       "valentine21_01"
     ]
   ],
+  "skill_preview_devil_princess": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_devil_princess",
+      "skill_preview_common"
+    ]
+  ],
   "advent_u_collabo_1": [
     [
       "advent_u_collabo",
@@ -3912,6 +3919,41 @@
       "summer22_helicopter_expert"
     ]
   ],
+  "steampunk_fire_1": [
+    [
+      "steampunk_fire_area",
+      "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
+      "steampunk_fire_1"
+    ]
+  ],
+  "steampunk_fire_2": [
+    [
+      "steampunk_fire_area",
+      "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
+      "steampunk_fire_2"
+    ]
+  ],
+  "steampunk_fire_3": [
+    [
+      "steampunk_fire_area",
+      "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
+      "steampunk_fire_3"
+    ]
+  ],
+  "steampunk_fire_4": [
+    [
+      "steampunk_fire_area",
+      "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
+      "steampunk_fire_4"
+    ]
+  ],
+  "steampunk_fire_hard_multi": [
+    [
+      "steampunk_fire_area",
+      "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
+      "steampunk_fire_hard_multi"
+    ]
+  ],
   "solo_time_attack_red1": [
     [
       "tree_forest",
@@ -5527,6 +5569,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_heavenly_four": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_heavenly_four",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_yuki_ny23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_yuki_ny23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_general_toyakiren_ny23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_general_toyakiren_ny23",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_tiger_treasure_hunter_xm22": [

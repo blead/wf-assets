@@ -624,6 +624,31 @@
       "skill_preview_dress_gunner"
     ]
   ],
+  "304": [
+    [
+      "アルム",
+      "quest/thumbnail/common/story",
+      "(None)",
+      "2000-01-01 00:00:00",
+      "(None)",
+      "0",
+      "5",
+      "false",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "80",
+      "4",
+      "1",
+      "skill_preview_devil_princess"
+    ]
+  ],
   "257": [
     [
       "スペシャルウィーク",
@@ -3572,6 +3597,81 @@
       "4",
       "1",
       "skill_preview_kazuma"
+    ]
+  ],
+  "301": [
+    [
+      "シルクハーレ",
+      "quest/thumbnail/common/story",
+      "(None)",
+      "2000-01-01 00:00:00",
+      "(None)",
+      "0",
+      "3",
+      "false",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "80",
+      "4",
+      "1",
+      "skill_preview_heavenly_four"
+    ]
+  ],
+  "302": [
+    [
+      "見嶋ユキ（正月）",
+      "quest/thumbnail/common/story",
+      "(None)",
+      "2000-01-01 00:00:00",
+      "(None)",
+      "0",
+      "1",
+      "false",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "80",
+      "4",
+      "1",
+      "skill_preview_psychic_yuki_ny23"
+    ]
+  ],
+  "303": [
+    [
+      "ツインク（正月）",
+      "quest/thumbnail/common/story",
+      "(None)",
+      "2000-01-01 00:00:00",
+      "(None)",
+      "0",
+      "2",
+      "false",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "80",
+      "4",
+      "1",
+      "skill_preview_general_toyakiren_ny23"
     ]
   ],
   "298": [

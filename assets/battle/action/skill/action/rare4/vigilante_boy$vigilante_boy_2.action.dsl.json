@@ -18,53 +18,62 @@
       [
         "Command",
         [
-          "CreateCondition",
-          -17,
+          "FindAllSubjects",
+          0,
+          97,
+          null,
+          null,
+          null,
+          null,
+          null,
           [
+            "DoNothing"
+          ],
+          [
+            "Block",
             [
-              "ACDirectDamage",
               [
-                {
-                  "max": 720,
-                  "min": 720
-                }
-              ],
-              [
-                {
-                  "max": 0.75,
-                  "min": 0.65
-                }
-              ],
-              [
-                {
-                  "max": 1,
-                  "min": 1
-                }
+                "Command",
+                [
+                  "CreateCondition",
+                  0,
+                  [
+                    [
+                      "ACPiercing",
+                      [
+                        {
+                          "max": 600,
+                          "min": 540
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  2,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
               ]
             ]
-          ],
-          [
-            {
-              "max": 1,
-              "min": 1
-            }
-          ],
-          [
-            "GenericConditionHitEffect"
-          ],
-          true,
-          false,
-          "",
-          null,
-          false,
-          3,
-          [
-            {
-              "max": 1,
-              "min": 1
-            }
-          ],
-          false
+          ]
         ]
       ],
       [
@@ -88,7 +97,7 @@
                     "CreateImaginaryTarget",
                     -1000000
                   ],
-                  0,
+                  1,
                   [
                     "Block",
                     [
@@ -99,7 +108,7 @@
                           -18,
                           [
                             "GH",
-                            0
+                            1
                           ],
                           0,
                           1,
@@ -210,13 +219,13 @@
                   [
                     "None"
                   ],
-                  1,
+                  2,
                   [
                     "Block",
                     null
                   ],
-                  2,
                   3,
+                  4,
                   [
                     "Block",
                     [
@@ -224,7 +233,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          3,
+                          4,
                           255,
                           null,
                           null,
@@ -369,13 +378,13 @@
                   [
                     "None"
                   ],
-                  4,
+                  5,
                   [
                     "Block",
                     null
                   ],
-                  5,
                   6,
+                  7,
                   [
                     "Block",
                     [
@@ -383,7 +392,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          6,
+                          7,
                           255,
                           null,
                           null,
@@ -528,13 +537,13 @@
                   [
                     "None"
                   ],
-                  7,
+                  8,
                   [
                     "Block",
                     null
                   ],
-                  8,
                   9,
+                  10,
                   [
                     "Block",
                     [
@@ -542,7 +551,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          9,
+                          10,
                           255,
                           null,
                           null,
@@ -687,13 +696,13 @@
                   [
                     "None"
                   ],
-                  10,
+                  11,
                   [
                     "Block",
                     null
                   ],
-                  11,
                   12,
+                  13,
                   [
                     "Block",
                     [
@@ -701,7 +710,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          12,
+                          13,
                           255,
                           null,
                           null,
@@ -846,13 +855,13 @@
                   [
                     "None"
                   ],
-                  13,
+                  14,
                   [
                     "Block",
                     null
                   ],
-                  14,
                   15,
+                  16,
                   [
                     "Block",
                     [
@@ -860,7 +869,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          15,
+                          16,
                           255,
                           null,
                           null,
@@ -1005,13 +1014,13 @@
                   [
                     "None"
                   ],
-                  16,
+                  17,
                   [
                     "Block",
                     null
                   ],
-                  17,
                   18,
+                  19,
                   [
                     "Block",
                     [
@@ -1019,7 +1028,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          18,
+                          19,
                           255,
                           null,
                           null,
@@ -1164,13 +1173,13 @@
                   [
                     "None"
                   ],
-                  19,
+                  20,
                   [
                     "Block",
                     null
                   ],
-                  20,
                   21,
+                  22,
                   [
                     "Block",
                     [
@@ -1178,7 +1187,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          21,
+                          22,
                           255,
                           null,
                           null,
@@ -1323,13 +1332,13 @@
                   [
                     "None"
                   ],
-                  22,
+                  23,
                   [
                     "Block",
                     null
                   ],
-                  23,
                   24,
+                  25,
                   [
                     "Block",
                     [
@@ -1337,7 +1346,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          24,
+                          25,
                           255,
                           null,
                           null,
@@ -1482,13 +1491,13 @@
                   [
                     "None"
                   ],
-                  25,
+                  26,
                   [
                     "Block",
                     null
                   ],
-                  26,
                   27,
+                  28,
                   [
                     "Block",
                     [
@@ -1496,7 +1505,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          27,
+                          28,
                           255,
                           null,
                           null,
@@ -1641,13 +1650,13 @@
                   [
                     "None"
                   ],
-                  28,
+                  29,
                   [
                     "Block",
                     null
                   ],
-                  29,
                   30,
+                  31,
                   [
                     "Block",
                     [
@@ -1655,7 +1664,7 @@
                         "Command",
                         [
                           "CreateNormalAttack",
-                          30,
+                          31,
                           255,
                           null,
                           null,
@@ -1749,7 +1758,7 @@
                     "Single"
                   ],
                   25,
-                  31,
+                  32,
                   [
                     "Block",
                     [
@@ -1769,7 +1778,7 @@
                             "SpecifyEffectDirectly",
                             "battle/effect/skill_unique/vigilante_boy/vigilante_boy_cross_slash"
                           ],
-                          31,
+                          32,
                           [
                             "ForesideOfCharacter"
                           ],
@@ -1798,7 +1807,7 @@
                             "SpecifyEffectDirectly",
                             "battle/effect/skill_unique/vigilante_boy/vigilante_boy_cross"
                           ],
-                          31,
+                          32,
                           [
                             "ForesideOfCharacter"
                           ],
@@ -1827,7 +1836,7 @@
                             "SpecifyEffectDirectly",
                             "battle/effect/skill_unique/vigilante_boy/vigilante_boy_cross"
                           ],
-                          31,
+                          32,
                           [
                             "ForesideOfCharacter"
                           ],
@@ -1852,7 +1861,7 @@
                         [
                           "CreateHitArea",
                           "*",
-                          31,
+                          32,
                           [
                             "AB"
                           ],
@@ -1909,7 +1918,7 @@
                           [
                             "None"
                           ],
-                          32,
+                          33,
                           [
                             "Block",
                             [
@@ -1917,7 +1926,7 @@
                                 "Command",
                                 [
                                   "MoveHitArea",
-                                  32,
+                                  33,
                                   [
                                     "CD"
                                   ],
@@ -1930,8 +1939,8 @@
                               ]
                             ]
                           ],
-                          33,
                           34,
+                          35,
                           [
                             "Block",
                             [
@@ -1939,7 +1948,7 @@
                                 "Command",
                                 [
                                   "CreateNormalAttack",
-                                  34,
+                                  35,
                                   255,
                                   null,
                                   null,

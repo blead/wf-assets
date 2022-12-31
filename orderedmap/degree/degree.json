@@ -11192,6 +11192,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141141": [
+    [
+      "degree_favor_heavenly_four",
+      "114000",
+      "一人サーカスの女王",
+      "ひとりさーかすのじょおう",
+      "獲得条件：【一人サーカスの女王】シルクハーレをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_four"
+    ]
+  ],
+  "121147": [
+    [
+      "degree_favor_psychic_yuki_ny23",
+      "47010",
+      "春想花",
+      "しゅんそうか",
+      "獲得条件：【春想花】見嶋ユキをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yuki_ny23"
+    ]
+  ],
+  "131128": [
+    [
+      "degree_favor_general_toyakiren_ny23",
+      "75010",
+      "新春気鋭の豪腕課長",
+      "しんしゅんきえいのごうわんかちょう",
+      "獲得条件：【新春気鋭の豪腕課長】ツインクをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_general_toyakiren_ny23"
+    ]
+  ],
   "111141": [
     [
       "degree_favor_tiger_treasure_hunter_xm22",
@@ -14674,6 +14713,58 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_advent_event_theatrio_clear_3"
+    ]
+  ],
+  "62300": [
+    [
+      "degree_advent_event_steam_robot_fire_clear_1",
+      "646470",
+      "紅嫉の打倒者",
+      "こうしつのだとうしゃ",
+      "獲得条件：降臨討伐 紅嫉の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_fire_clear_1"
+    ]
+  ],
+  "62310": [
+    [
+      "degree_advent_event_steam_robot_fire_clear_2",
+      "646471",
+      "紅嫉の征服者",
+      "こうしつのせいふくしゃ",
+      "獲得条件：降臨討伐 紅嫉の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_fire_clear_2"
+    ]
+  ],
+  "62320": [
+    [
+      "degree_advent_event_steam_robot_fire_clear_3",
+      "646472",
+      "紅嫉の討滅者",
+      "こうしつのとうめつしゃ",
+      "獲得条件：降臨討伐 紅嫉の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_fire_clear_3"
+    ]
+  ],
+  "62330": [
+    [
+      "degree_steam_robot_fire_challenge_clear_1_1",
+      "539000",
+      "紅嫉の試練：決",
+      "こうしつのしれんけつ",
+      "獲得条件：共同決戦 紅嫉の機兵で紅機兵ハインライトの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_fire_challenge_clear_1_1"
     ]
   ],
   "62030": [

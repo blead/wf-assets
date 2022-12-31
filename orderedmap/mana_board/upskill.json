@@ -655,22 +655,6 @@
       "(None)"
     ]
   ],
-  "261001": [
-    [
-      "multiball_up",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "multiball_up",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)"
-    ]
-  ],
   "261003": [
     [
       "common_attack_up",
@@ -4735,22 +4719,6 @@
       "(None)"
     ]
   ],
-  "211013": [
-    [
-      "(None)",
-      "(None)",
-      "common_attack_up",
-      "condition_directdamage_up",
-      "(None)",
-      "(None)",
-      "common_attack_up",
-      "condition_directdamage_up",
-      "(None)",
-      "(None)",
-      "(None)",
-      "(None)"
-    ]
-  ],
   "121008": [
     [
       "condition_attack_up",
@@ -5066,22 +5034,6 @@
       "condition_attack_up",
       "skill_damage_up",
       "condition_debuff_resistance_up",
-      "(None)",
-      "(None)",
-      "(None)"
-    ]
-  ],
-  "151011": [
-    [
-      "common_attack_up",
-      "condition_regeneration_up",
-      "resistance_allelement",
-      "(None)",
-      "(None)",
-      "(None)",
-      "common_attack_up",
-      "condition_regeneration_up",
-      "resistance_allelement",
       "(None)",
       "(None)",
       "(None)"

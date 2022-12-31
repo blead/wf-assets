@@ -1556,6 +1556,15 @@
       "(None)"
     ]
   ],
+  "advent_steam_robot_fire_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/advent_steam_robot/advent_steam_robot_fire/battle/advent_steam_robot_fire_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "event_valentine_battle_boss": [
     [
       "2",

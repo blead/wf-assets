@@ -69,8 +69,8 @@
               "ACToleranceOfElement",
               [
                 {
-                  "max": 960,
-                  "min": 960
+                  "max": 1800,
+                  "min": 1800
                 }
               ],
               2,

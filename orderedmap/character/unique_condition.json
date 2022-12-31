@@ -21,7 +21,7 @@
       "帯電",
       "battle/common/unique_condition/unique_girl_and_mecha",
       "99999999",
-      "3",
+      "6",
       "(None)",
       "(None)",
       "false",
@@ -157,6 +157,22 @@
       "0",
       "0",
       "false"
+    ]
+  ],
+  "12": [
+    [
+      "unique_heavenly_four",
+      "ＣＲＴ１３",
+      "battle/common/unique_condition/unique_heavenly_four",
+      "99999999",
+      "6",
+      "(None)",
+      "(None)",
+      "false",
+      "true",
+      "0",
+      "0",
+      "true"
     ]
   ],
   "9": [

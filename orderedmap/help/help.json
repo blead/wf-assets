@@ -216,7 +216,7 @@
       "0",
       "",
       "2022-11-28 12:00:00",
-      "2023-01-05 23:59:59"
+      "2023-01-16 20:59:59"
     ]
   ],
   "help_reward_campaign": [
@@ -259,8 +259,8 @@
       "1",
       "1",
       "rich_text/help_reward_campaign_gw22",
-      "2022-10-31 12:00:00",
-      "2022-11-15 20:59:59"
+      "2022-12-31 12:00:00",
+      "2023-01-16 20:59:59"
     ]
   ],
   "help_ushi_campaign": [
@@ -813,6 +813,17 @@
       "2022-07-21 04:59:59"
     ]
   ],
+  "event_hard_multi_fire": [
+    [
+      "help_label_event_hard_multi_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_hard_multi_steam_robot_fire",
+      "2022-12-31 12:00:00",
+      "2023-01-20 04:59:59"
+    ]
+  ],
   "Event_haniwa_carnival": [
     [
       "help_label_event_haniwa_carnival",
@@ -986,6 +997,17 @@
       "1",
       "rich_text/help_equipment_enhancement_epuration_weapon",
       "2022-11-28 12:00:00",
+      "(None)"
+    ]
+  ],
+  "Equipment_Enhancement_Steam_Robot_Weapon": [
+    [
+      "help_label_equipment_enhancement_steam_robot_weapon",
+      "Equipment_Enhancement_List",
+      "1",
+      "1",
+      "rich_text/help_equipment_enhancement_steam_robot_weapon",
+      "2022-12-30 12:00:00",
       "(None)"
     ]
   ],
@@ -1625,6 +1647,17 @@
       "rich_text/help_event_advent_spirit_beast_light2",
       "2022-11-07 12:00:00",
       "2022-11-23 04:59:59"
+    ]
+  ],
+  "event_advent_steam_robot_fire": [
+    [
+      "help_label_event_advent_steam_robot_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_steam_robot_fire",
+      "2022-12-31 12:00:00",
+      "2023-01-20 04:59:59"
     ]
   ],
   "event_story_valen20": [

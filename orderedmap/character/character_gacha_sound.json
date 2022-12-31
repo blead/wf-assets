@@ -2461,6 +2461,70 @@
       ]
     ]
   },
+  "141141": {
+    "5": [
+      [
+        "sound_effect/situation/se_impress_black_injection"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/situation/se_live_house_cheer"
+      ],
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ]
+    ],
+    "149": [
+      [
+        "sound_effect/blow/se_critical_blow"
+      ]
+    ],
+    "173": [
+      [
+        "sound_effect/situation/se_spotlight_v02"
+      ]
+    ]
+  },
+  "131128": {
+    "5": [
+      [
+        "sound_effect/sf/se_sf_warp"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/thunder/se_thunder_stamp"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
+  "121147": {
+    "5": [
+      [
+        "sound_effect/water/se_short_snowstorm"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/water/se_water_strike"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/water/se_water_short_splash"
+      ]
+    ]
+  },
   "151141": {
     "5": [
       [

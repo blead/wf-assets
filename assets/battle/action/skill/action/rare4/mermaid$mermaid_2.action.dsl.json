@@ -328,12 +328,27 @@
       [
         "Command",
         [
-          "AddFeverPoint",
+          "ConditionalsFeverMode",
           [
-            {
-              "max": 40,
-              "min": 30
-            }
+            "Block",
+            null
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "AddFeverPoint",
+                  [
+                    {
+                      "max": 60,
+                      "min": 50
+                    }
+                  ]
+                ]
+              ]
+            ]
           ]
         ]
       ]
