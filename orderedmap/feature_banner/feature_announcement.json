@@ -3851,6 +3851,33 @@
       "false"
     ]
   ],
+  "201461": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_ny23",
+      "2023-01-06 12:00:00",
+      "2023-01-16 20:59:59",
+      "false"
+    ]
+  ],
+  "203819": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_013",
+      "2023-01-06 12:00:00",
+      "2023-01-16 20:59:59",
+      "false"
+    ]
+  ],
+  "202316": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_21ny_character_pickup_01",
+      "2023-01-06 12:00:00",
+      "2023-01-16 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

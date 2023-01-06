@@ -3608,6 +3608,99 @@
       ]
     ]
   },
+  "153": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_21ny_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_heavenly_two",
+        "131026",
+        "0",
+        "131026",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/heavenly_two/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131026",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_timid_kunoichi_ny21",
+        "141027",
+        "0",
+        "141027",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141027",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_urban_soldier_ny21",
+        "221022",
+        "0",
+        "221022",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/urban_soldier_ny21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221022",
+        ""
+      ]
+    ]
+  },
   "58": {
     "1": [
       [

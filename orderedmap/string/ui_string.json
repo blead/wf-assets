@@ -6,7 +6,7 @@
   ],
   "common_star_crumb_description": [
     [
-      "有償星導石でガチャを遊んだ際にもらえるアイテム。交換ショップでキャラやアイテムと取引出来る"
+      "有償星導石でガチャを遊んだ際にもらえるアイテム\n交換ショップでキャラやアイテムと取引出来る"
     ]
   ],
   "common_boost_point": [
@@ -136,7 +136,7 @@
   ],
   "system_lock_solo_time_attack": [
     [
-      "極時の試練は\n以下のクエストをクリアすることで解放されます。\n::need_cleared_quest::"
+      "極時の試練は\n以下のクエストをクリアすることで解放されます\n::need_cleared_quest::"
     ]
   ],
   "system_lock_character_election": [
@@ -4136,7 +4136,7 @@
   ],
   "mana_board_learn_window_ability_power_up_description": [
     [
-      "アビリティ::slot::を1段階強化します。"
+      "アビリティ::slot::を1段階強化します"
     ]
   ],
   "mana_board_learn_window_ability_power_up_description_before_none": [
@@ -5601,12 +5601,12 @@
   ],
   "multibattle_room_confirm_allow_heal_from_other_players_on": [
     [
-      "協力バトル中、\n他プレイヤーからの回復を\n受けるようになります。\nよろしいですか？"
+      "協力バトル中、\n他プレイヤーからの回復を\n受けるようになります\nよろしいですか？"
     ]
   ],
   "multibattle_room_confirm_allow_heal_from_other_players_off": [
     [
-      "協力バトル中、\n他プレイヤーからの回復を\n受けなくなります。\nよろしいですか？"
+      "協力バトル中、\n他プレイヤーからの回復を\n受けなくなります\nよろしいですか？"
     ]
   ],
   "multibattle_room_auto_disbanded": [
@@ -6281,12 +6281,12 @@
   ],
   "encyclopedia_unlock_keyword_message": [
     [
-      "::item_name::を使用してキーワード\n::keyword_label::\nをアンロックしますか？\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます。"
+      "::item_name::を使用してキーワード\n::keyword_label::\nをアンロックしますか？\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます"
     ]
   ],
   "encyclopedia_unlock_keyword_shortage_message": [
     [
-      "::keyword_label::\nのキーワードをアンロックするための\n::item_name::が不足しています。\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます"
+      "::keyword_label::\nのキーワードをアンロックするための\n::item_name::が不足しています\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます"
     ]
   ],
   "encyclopedia_condition_message": [
@@ -6376,7 +6376,7 @@
   ],
   "encyclopedia_help": [
     [
-      "この星見の図鑑では\nワールドフリッパーの世界を紐解く\nキーワードがゲームの進行と共に\n開示されていきます。\n\nメインストーリーやイベントストーリー、\nキャラごとのエピソードを進め\nキーワードを集めてみましょう！\n\nアイテム「ログキー」を使用する事で、\nまだ開示されていないキーワードを\nアンロックする事も可能です。"
+      "この星見の図鑑では\nワールドフリッパーの世界を紐解く\nキーワードがゲームの進行と共に\n開示されていきます\n\nメインストーリーやイベントストーリー、\nキャラごとのエピソードを進め\nキーワードを集めてみましょう！\n\nアイテム「ログキー」を使用する事で、\nまだ開示されていないキーワードを\nアンロックする事も可能です"
     ]
   ],
   "encyclopedia_character_list_setting_dialog_filter_search_placeholder": [
@@ -6481,7 +6481,7 @@
   ],
   "character_election_vote_dialog_message_voted": [
     [
-      "投票ありがとうございました。\n結果発表をお楽しみに！"
+      "投票ありがとうございました\n結果発表をお楽しみに！"
     ]
   ],
   "item_group_consume": [
@@ -6986,7 +6986,7 @@
   ],
   "mail_list_scene_footer_notice": [
     [
-      "一括受取はページごとに100件です。\n受取期限を経過したメールは受取時に削除されます"
+      "一括受取はページごとに100件です\n受取期限を経過したメールは受取時に削除されます"
     ]
   ],
   "mail_list_scene_footer_receive_count": [
@@ -7881,7 +7881,7 @@
   ],
   "multi_special_exchange_campaign_exchange_character_confirm_dialog_header": [
     [
-      "以下内容で交換します。よろしいですか？"
+      "以下内容で交換します\nよろしいですか？"
     ]
   ],
   "multi_special_exchange_campaign_exchange_character_confirm_dialog_item": [
@@ -8851,7 +8851,7 @@
   ],
   "quest_warning_spoiler_main": [
     [
-      "未読ストーリーの情報を含むため、以下の条件を達成した状態で開始すると、よりお楽しみいただけます。"
+      "未読ストーリーの情報を含むため、以下の条件を達成した状態で開始すると、よりお楽しみいただけます"
     ]
   ],
   "quest_warning_spoiler_question": [
@@ -9276,7 +9276,7 @@
   ],
   "room_character_edit_cannot_select_party_confirm_message": [
     [
-      "現在選択されている編成では出発できません。\n直前に選択した挑戦可能な編成に戻しますか？"
+      "現在選択されている編成では出発できません\n直前に選択した挑戦可能な編成に戻しますか？"
     ]
   ],
   "party_name": [
@@ -10421,7 +10421,7 @@
   ],
   "equipment_list_bulk_upgrade_notice": [
     [
-      "消費できるスタックが 0 になるか覚醒上限に達するまで\n自動的に覚醒されます。また、星鉄鋼は使用されません"
+      "消費できるスタックが 0 になるか覚醒上限に達するまで自動的に覚醒されます\nまた、星鉄鋼は使用されません"
     ]
   ],
   "equipment_list_bulk_sell_description": [
@@ -10571,7 +10571,7 @@
   ],
   "equipment_list_bulk_sell_alert": [
     [
-      "覚醒上限に達してない装備アイテムを\n選択しようとしています。\n分解しますか？"
+      "覚醒上限に達してない装備アイテムを\n選択しようとしています\n分解しますか？"
     ]
   ],
   "equipment_list_sold_complete_message": [
@@ -11756,7 +11756,7 @@
   ],
   "rush_event_folder_select_dialog_message": [
     [
-      "::name::\nに挑戦します。\n<font color=\"#ea354c\">挑戦中はクリアするかギブアップしないとラッシュバトルの別の難易度には挑戦できません</font>"
+      "::name::\nに挑戦します\n<font color=\"#ea354c\">挑戦中はクリアするかギブアップしないとラッシュバトルの別の難易度には挑戦できません</font>"
     ]
   ],
   "rush_event_quest_select_giveup_dialog_message": [
@@ -13456,12 +13456,12 @@
   ],
   "active_ability_dialog_inactive_reason_main_character": [
     [
-      "::characters::は「::trigger::」を満たしていないため発動しません。"
+      "::characters::は「::trigger::」を満たしていないため発動しません"
     ]
   ],
   "active_ability_dialog_inactive_reason_party": [
     [
-      "「::trigger::」を満たしていないため発動しません。"
+      "「::trigger::」を満たしていないため発動しません"
     ]
   ],
   "help_label_tower_dungeon": [
@@ -13471,7 +13471,7 @@
   ],
   "active_ability_dialog_inactive_no_abilities": [
     [
-      "未発動のアビリティはありません。"
+      "未発動のアビリティはありません"
     ]
   ],
   "party_select_main_character_not_set": [
@@ -13491,7 +13491,7 @@
   ],
   "mana_board_change_board_disabled_not_released_message": [
     [
-      "以下の条件を満たしていないため、マナボード ::board:: 枚目は解放されていません。"
+      "以下の条件を満たしていないため、マナボード ::board:: 枚目は解放されていません"
     ]
   ],
   "mana_board_change_board_disabled_not_released_reason_level": [
@@ -13566,7 +13566,7 @@
   ],
   "party_select_notify_single_auto_play_stop_game_over_no_cost": [
     [
-      "連戦機能が停止しました。\nリタイアした為、\n<font color='#ea354c'>アイテム・RP・経験値・マナ</font>\nは手に入りません"
+      "連戦機能が停止しました\nリタイアした為、\n<font color='#ea354c'>アイテム・RP・経験値・マナ</font>\nは手に入りません"
     ]
   ],
   "party_select_notify_single_auto_play_stop_game_over_separator": [
@@ -13841,7 +13841,7 @@
   ],
   "solo_time_attack_play_caution": [
     [
-      "このクエストは<font color='#ea354c'>難易度が高いコンテンツ</font>です。\n敗北やリタイアになると\n挑戦回数は消費されます。"
+      "このクエストは<font color='#ea354c'>難易度が高いコンテンツ</font>です\n敗北やリタイアになると\n挑戦回数は消費されます"
     ]
   ],
   "solo_time_attack_reward_dialog_title": [
@@ -13896,7 +13896,7 @@
   ],
   "user_data_erase_request_message": [
     [
-      "アカウント削除を行うと、データ連携やアカウント連携をしていてもゲームデータの復旧ができず、他の端末からも遊べなくなります。所持している星導石がある場合、すべて失効します。\n\nそれでも申請する場合、次の文章を入力してください。\n\n<font color=\"#ea354c\">::text::</font>"
+      "アカウント削除を行うと、データ連携やアカウント連携をしていてもゲームデータの復旧ができず、他の端末からも遊べなくなります\n所持している星導石がある場合、すべて失効します\n\nそれでも申請する場合、次の文章を入力してください\n\n<font color=\"#ea354c\">::text::</font>"
     ]
   ],
   "user_data_erase_request_text": [
@@ -13921,7 +13921,7 @@
   ],
   "user_data_erase_request_confirm_message": [
     [
-      "アカウント削除を行うと、データ連携やアカウント連携をしていてもゲームデータの復旧ができなくなります。\n\n本当によろしいですか？\n\n※申請を行っても、申請後180日以内にログインすることで申請を取り消すことができます"
+      "アカウント削除を行うと、データ連携やアカウント連携をしていてもゲームデータの復旧ができなくなります\n\n本当によろしいですか？\n\n※申請を行っても、申請後180日以内にログインすることで申請を取り消すことができます"
     ]
   ],
   "user_data_erase_request_confirm_button": [

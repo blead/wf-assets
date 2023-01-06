@@ -247,10 +247,10 @@
       "22",
       "1",
       "1022001",
-      "2021-09-10 20:59:59",
+      "2023-01-24 04:59:59",
       "quest/boss_battle/banner/boss_battle_22_empress_01",
       "quest/boss_battle/background/boss_battle_empress_01",
-      "11,12,13",
+      "11,12,13,10000013",
       "true"
     ]
   ],
@@ -400,10 +400,10 @@
       "31",
       "1",
       "1031001",
-      "2022-03-31 20:59:59",
+      "2023-01-24 04:59:59",
       "quest/boss_battle/banner/boss_battle_31_empress_01",
       "quest/boss_battle/background/boss_battle_empress_02",
-      "14,15,17",
+      "14,15,17,10000013",
       "true"
     ]
   ],
@@ -444,17 +444,17 @@
   "33": [
     [
       "empress_03",
-      "999",
+      "998",
       "3",
       "2",
       "1",
       "34",
       "1",
       "1034001",
-      "2022-12-04 04:59:59",
+      "2023-01-24 04:59:59",
       "quest/boss_battle/banner/boss_battle_34_empress_01",
       "quest/boss_battle/background/boss_battle_empress_03",
-      "10000004,10000011",
+      "10000004,10000011,10000013",
       "true"
     ]
   ]

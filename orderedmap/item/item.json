@@ -7074,6 +7074,56 @@
       "true"
     ]
   ],
+  "80114": [
+    [
+      "collect_item_event_drop_01_015",
+      "揺らぎの雫",
+      "item/materials/event/target_item_drop_event/target_item_drop_event_yuragi_no_shizuku",
+      "item_icon/materials/event/target_item_drop_event/sizuku_icon",
+      "揺らぎの狭間に繋がってしまった際にこぼれる雫の形をした結晶。\nイベントアイテム交換で使える",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "0",
+      "4",
+      "999999",
+      "2023-01-06 12:00:00",
+      "2023-01-24 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
+  "80214": [
+    [
+      "collect_item_event_drop_02_015",
+      "揺らぎの結晶",
+      "item/materials/event/target_item_drop_event/yuragi_no_kesshou",
+      "item_icon/materials/event/target_item_drop_event/kesshou_icon",
+      "揺らぎの狭間に繋がってしまった際にこぼれる揺らぎの雫が集まった大きな結晶。\nイベントアイテム交換で使える",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "0",
+      "5",
+      "999999",
+      "2023-01-06 12:00:00",
+      "2023-01-24 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "80113": [
     [
       "collect_item_event_drop_01_014",
