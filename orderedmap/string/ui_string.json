@@ -1619,6 +1619,11 @@
       "[累積効果 / 最大累積 ::count:: 回]"
     ]
   ],
+  "ability_description_each": [
+    [
+      "ごと"
+    ]
+  ],
   "ability_description_n_times": [
     [
       "::count::&nbsp;回"
@@ -1979,6 +1984,11 @@
       "パーティに::constraint::を ::count:: 体::if once::::if is_max::::else::以上::end::編成した::else::編成する::end::"
     ]
   ],
+  "ability_description_instant_trigger_kind_member_element_unified": [
+    [
+      "::element_full::共鳴"
+    ]
+  ],
   "ability_description_instant_trigger_kind_variety": [
     [
       "パーティに編成されるキャラの::varietyKind::が ::count:: 種類::if once::::if is_max::::else::以上::end::の::else::増える::end::"
@@ -2226,22 +2236,22 @@
   ],
   "ability_description_during_trigger_kind_hp_decrease": [
     [
-      "::if !omittable::::triggerPuller::の::end::残りHP::sum::が少ないほど、"
+      "::if !omittable::::triggerPuller::::each::の::end::背水状態に応じて、"
     ]
   ],
   "ability_description_during_trigger_kind_hp_decrease_detail": [
     [
-      "【残りHP::start_percent::から::percent::減るごとに::content::】"
+      "【HP ::start_percent:: ～ ::limit_percent:: で発動】"
     ]
   ],
   "ability_description_during_trigger_kind_hp_increase": [
     [
-      "::if !omittable::::triggerPuller::の::end::残りHP::sum::が多いほど、"
+      "::if !omittable::::triggerPuller::::each::の::end::渾身状態に応じて、"
     ]
   ],
   "ability_description_during_trigger_kind_hp_increase_detail": [
     [
-      "【残りHP::start_percent::から::percent::増えるごとに::content::】"
+      "【HP ::start_percent:: ～ ::limit_percent:: で発動】"
     ]
   ],
   "ability_description_during_trigger_kind_accumulation_condition_high": [
@@ -2316,22 +2326,22 @@
   ],
   "ability_description_during_trigger_kind_sum_of_party_hp_decrease": [
     [
-      "パーティキャラ全員のHP合計が少ないほど、"
+      "パーティキャラ全員の背水状態に応じて、"
     ]
   ],
   "ability_description_during_trigger_kind_sum_of_party_hp_decrease_detail": [
     [
-      "【パーティキャラ全員のHP合計が最大値の::start_percent::から::percent::減るごとに::content::】"
+      "【HP ::start_percent:: ～ ::limit_percent:: で発動】"
     ]
   ],
   "ability_description_during_trigger_kind_sum_of_party_hp_increase": [
     [
-      "パーティキャラ全員のHP合計が多いほど、"
+      "パーティキャラ全員の渾身状態に応じて、"
     ]
   ],
   "ability_description_during_trigger_kind_sum_of_party_hp_increase_detail": [
     [
-      "【パーティキャラ全員のHP合計が最大値の::start_percent::から::percent::増えるごとに::content::】"
+      "【HP ::start_percent:: ～ ::limit_percent:: で発動】"
     ]
   ],
   "ability_description_during_trigger_kind_count_attack_up": [
@@ -3147,6 +3157,11 @@
   "ability_description_instant_content_ratio_damage_max_hp": [
     [
       "::if !withoutTarget::::target::に::end::最大HPの ::percent:: のダメージ"
+    ]
+  ],
+  "ability_description_instant_content_ratio_damage_max_hp_if_hp_high": [
+    [
+      "HP ::percent2:: 以上の ::if !withoutTarget::::target::に::end::最大HPの ::percent1:: のダメージ"
     ]
   ],
   "ability_description_instant_content_fixed_damage": [
@@ -7144,6 +7159,11 @@
       "「::base_equipment::」を強化するには、::base_equipment::を入手し、覚醒Lvを::require_level::以上にする必要があります"
     ]
   ],
+  "shop_not_have_equipment_for_enhancement_not_need_level": [
+    [
+      "「::base_equipment::」を強化するには、::base_equipment::を入手する必要があります"
+    ]
+  ],
   "shop_shortage_equipment_level": [
     [
       "「::name::」を強化Lv::enhancement_level::に強化するには、覚醒Lvが::require_level::以上である必要があります"
@@ -9897,6 +9917,11 @@
   "party_copy_confirm_not_enough_dialog_message": [
     [
       "上記の編成項目が不足しています\n\n不足している編成項目を自動で編成するか\n編成可能な部分のみ編成するか\n選択してください"
+    ]
+  ],
+  "party_copy_alternative_party_dialog_message_error": [
+    [
+      "すべてのキャラが出撃済みのため自動編成をすることができません"
     ]
   ],
   "chapter_select_main_progress_rate": [

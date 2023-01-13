@@ -7787,6 +7787,17 @@
         "(None)",
         "(None)"
       ]
+    ],
+    "RatioDamageMaxHpIfHpHigh": [
+      [
+        "special",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
     ]
   },
   "During": {
