@@ -2461,6 +2461,52 @@
       ]
     ]
   },
+  "161165": {
+    "5": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/slash/se_fury_cutter"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/weapon/se_swing_ver2"
+      ]
+    ]
+  },
+  "131134": {
+    "17": [
+      [
+        "sound_effect/thunder/se_thunder_wide_area_electricity"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/thunder/se_lightning_needle_rip"
+      ]
+    ]
+  },
+  "211062": {
+    "5": [
+      [
+        "sound_effect/situation/se_jump_movement"
+      ]
+    ],
+    "47": [
+      [
+        "sound_effect/fire/se_fire_spread"
+      ]
+    ],
+    "89": [
+      [
+        "sound_effect/fire/se_flare_up"
+      ]
+    ]
+  },
   "141141": {
     "5": [
       [

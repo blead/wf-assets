@@ -5334,6 +5334,99 @@
       ]
     ]
   },
+  "154": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131134",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/octcyborg_lady/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161165",
+        "0",
+        "161165",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/evilloli_master/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161165",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "211062",
+        "0",
+        "211062",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/jiangshi_girl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "211062",
+        ""
+      ]
+    ]
+  },
   "152": {
     "1": [
       [
@@ -12772,6 +12865,21 @@
       [
         "1",
         "dynamic/gacha_banner/black_jammer_healer_chara_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "155": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/black_element_pickup_03",
         "",
         "",
         "",

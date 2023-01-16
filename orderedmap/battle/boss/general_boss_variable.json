@@ -7170,6 +7170,50 @@
       ]
     }
   },
+  "halloween_jack_rush": {
+    "100": {
+      "mode2_neutral1": [
+        [
+          "120"
+        ]
+      ],
+      "mode2_neutral2": [
+        [
+          "450"
+        ]
+      ],
+      "move": [
+        [
+          "3"
+        ]
+      ],
+      "shot2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "shot2_2_charge": [
+        [
+          "840"
+        ]
+      ],
+      "funnel2_charge": [
+        [
+          "60"
+        ]
+      ],
+      "funnel3_charge": [
+        [
+          "60"
+        ]
+      ],
+      "skill2_charge1": [
+        [
+          "900"
+        ]
+      ]
+    }
+  },
   "halloween_jack": {
     "100": {
       "mode1_neutral1": [
@@ -8774,6 +8818,72 @@
       "skill_charge2_2": [
         [
           "300"
+        ]
+      ]
+    }
+  },
+  "ghost_fox_rush": {
+    "79": {
+      "neutral_funnel": [
+        [
+          "90"
+        ]
+      ],
+      "neutral_jump": [
+        [
+          "90"
+        ]
+      ],
+      "neutral_skill": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "490"
+        ]
+      ],
+      "skill_charge2_1": [
+        [
+          "600"
+        ]
+      ],
+      "skill_charge2_2": [
+        [
+          "600"
+        ]
+      ]
+    },
+    "100": {
+      "neutral_funnel": [
+        [
+          "80"
+        ]
+      ],
+      "neutral_jump": [
+        [
+          "80"
+        ]
+      ],
+      "neutral_skill": [
+        [
+          "100"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "490"
+        ]
+      ],
+      "skill_charge2_1": [
+        [
+          "600"
+        ]
+      ],
+      "skill_charge2_2": [
+        [
+          "600"
         ]
       ]
     }

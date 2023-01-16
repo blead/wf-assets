@@ -175,6 +175,22 @@
       "true"
     ]
   ],
+  "13": [
+    [
+      "unique_devil_leader",
+      "カース",
+      "battle/common/unique_condition/unique_devil_leader",
+      "99999999",
+      "1",
+      "(None)",
+      "(None)",
+      "false",
+      "true",
+      "1",
+      "0",
+      "false"
+    ]
+  ],
   "9": [
     [
       "unique_megumin",

@@ -4122,6 +4122,27 @@
       "skill_preview_common"
     ]
   ],
+  "rush_05_ghost_fox": [
+    [
+      "japan_shrine",
+      "battle/terrain/event_quest/combat_event/ghost_fox_rush",
+      "rush_05_ghost_fox"
+    ]
+  ],
+  "rush_05_halloween_jack": [
+    [
+      "advent_hw20_area",
+      "battle/terrain/event_quest/combat_event/advent_hw20_rush",
+      "rush_05_halloween_jack"
+    ]
+  ],
+  "rush_05_discarded_dragon_light": [
+    [
+      "light_dragon_area",
+      "battle/terrain/event_quest/combat_event/discarded_dragon_light_rush",
+      "rush_05_discarded_dragon_light"
+    ]
+  ],
   "rush_04_treant1": [
     [
       "tree_worldtree",
@@ -5569,6 +5590,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_octcyborg_lady": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_octcyborg_lady",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_evilloli_master": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_evilloli_master",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_jiangshi_girl": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_jiangshi_girl",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_heavenly_four": [

@@ -2044,6 +2044,54 @@
       ]
     }
   },
+  "halloween_jack_bomb_attack_funnel_rush": {
+    "100": {
+      "neutral": [
+        [
+          "90"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "charge1": [
+        [
+          "60"
+        ]
+      ],
+      "charge2": [
+        [
+          "150"
+        ]
+      ]
+    }
+  },
+  "halloween_jack_bomb_attack_funnel_ex_rush": {
+    "100": {
+      "neutral": [
+        [
+          "90"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "charge1": [
+        [
+          "450"
+        ]
+      ],
+      "charge2": [
+        [
+          "210"
+        ]
+      ]
+    }
+  },
   "halloween_jack_bomb_attack_funnel": {
     "100": {
       "neutral": [
@@ -2441,6 +2489,78 @@
       "charge3": [
         [
           "150"
+        ]
+      ]
+    }
+  },
+  "avator_ghost_fox_avator_rush": {
+    "79": {
+      "charge": [
+        [
+          "600"
+        ]
+      ]
+    },
+    "100": {
+      "charge": [
+        [
+          "600"
+        ]
+      ]
+    }
+  },
+  "funnel_ghost_fox_right_rush": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "attack": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
+  "funnel_ghost_fox_left_rush": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "attack": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
+  "funnel_ghost_fox_top_rush": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "attack": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
+  "funnel_ghost_fox_bottom_rush": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "attack": [
+        [
+          "120"
         ]
       ]
     }

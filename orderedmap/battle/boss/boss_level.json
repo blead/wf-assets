@@ -3365,6 +3365,57 @@
       "500"
     ]
   ],
+  "ghost_fox_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "476",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
+  "halloween_jack_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "14062",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "3.8",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
+  "ghost_fox_rush_illusion": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "476",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
   "treant_rush1": [
     [
       "0",

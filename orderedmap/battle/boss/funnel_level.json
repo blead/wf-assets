@@ -4266,6 +4266,125 @@
       "1"
     ]
   ],
+  "halloween_jack_bomb_attack_funnel_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "30",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "38",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "halloween_jack_bomb_attack_funnel_ex_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "560",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "38",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "avator_ghost_fox_avator_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "39",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "funnel_ghost_fox_right_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "157",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "funnel_ghost_fox_left_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "157",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "funnel_ghost_fox_bottom_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "157",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "funnel_ghost_fox_top_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "157",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_treant_rush": [
     [
       "0",

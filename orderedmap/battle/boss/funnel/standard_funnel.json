@@ -1096,6 +1096,76 @@
       ]
     ]
   },
+  "discarded_dragon_light_rush_funnel_wall": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_wall"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_right": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_right"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_upper_right": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_upper_right"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_lower_right": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_lower_right"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_left": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_left"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_upper_left": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_upper_left"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_lower_left": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_lower_left"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_middle": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_middle"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_upper_middle": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_upper_middle"
+      ]
+    ]
+  },
+  "discarded_dragon_light_rush_funnel_attack_lower_middle": {
+    "100": [
+      [
+        "battle/enemy/boss/discarded_dragon_light_rush_funnel_attack_lower_middle"
+      ]
+    ]
+  },
   "discarded_dragon_light_funnel_wall": {
     "100": [
       [

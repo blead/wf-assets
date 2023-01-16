@@ -1615,6 +1615,66 @@
         }
       }
     },
+    "ghost_fox_rush_illusion": {
+      "ghost_fox_rush_illusion": {
+        "1": {
+          "ghost_fox_rush": {
+            "ghost_fox_rush": [
+              [
+                "1",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "",
+                "2",
+                "",
+                "0",
+                "10",
+                "true",
+                "true",
+                "false",
+                "0",
+                "dead_start",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "1",
+                "1",
+                "0",
+                "",
+                "1",
+                "0",
+                "",
+                "2",
+                "",
+                "0",
+                "10",
+                "true",
+                "true",
+                "false",
+                "0",
+                "dead_start",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
     "smr21_big_boss_rush": {
       "smr21_big_boss_rush": {
         "2": {

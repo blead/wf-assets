@@ -3878,6 +3878,33 @@
       "false"
     ]
   ],
+  "189060": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_combat_diver_04",
+      "2023-01-16 12:00:00",
+      "2023-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "203650": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_79",
+      "2023-01-16 12:00:00",
+      "2023-01-25 11:59:59",
+      "false"
+    ]
+  ],
+  "203658": [
+    [
+      "3001",
+      "dynamic/feature_announcement/black_element_pickup_03",
+      "2023-01-16 12:00:00",
+      "2023-01-25 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

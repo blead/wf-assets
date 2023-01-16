@@ -23871,6 +23871,166 @@
       "690"
     ]
   ],
+  "character/evilloli_master/ui/full_shot_1440_1920_0": [
+    [
+      "331",
+      "193",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/evilloli_master/ui/skill_cutin_0": [
+    [
+      "391",
+      "79",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/evilloli_master/ui/full_shot_1440_1920_1": [
+    [
+      "136",
+      "155",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/evilloli_master/ui/skill_cutin_1": [
+    [
+      "20",
+      "8",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/evilloli_master/ui/story/anger": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/base_0": [
+    [
+      "0",
+      "81",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/base_1": [
+    [
+      "0",
+      "49",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/discontent": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/normal": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/normal_b": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/provoke": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/provoke_b": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/sad": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/shame": [
+    [
+      "219",
+      "299",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/smile": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/smile_b": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/surprise": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/sweat": [
+    [
+      "349",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/think": [
+    [
+      "202",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
+  "character/evilloli_master/ui/story/unknown": [
+    [
+      "0",
+      "81",
+      "570",
+      "690"
+    ]
+  ],
   "character/exorcist_oldman/ui/full_shot_1440_1920_0": [
     [
       "618",
@@ -33563,6 +33723,166 @@
     [
       "0",
       "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/full_shot_1440_1920_0": [
+    [
+      "439",
+      "284",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/jiangshi_girl/ui/skill_cutin_0": [
+    [
+      "363",
+      "113",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/jiangshi_girl/ui/full_shot_1440_1920_1": [
+    [
+      "311",
+      "286",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/jiangshi_girl/ui/skill_cutin_1": [
+    [
+      "124",
+      "39",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/anger": [
+    [
+      "214",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/base_0": [
+    [
+      "0",
+      "134",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/base_1": [
+    [
+      "0",
+      "66",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/normal": [
+    [
+      "214",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/normal_b": [
+    [
+      "214",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/sad": [
+    [
+      "214",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/serious": [
+    [
+      "214",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/shame": [
+    [
+      "213",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/shout": [
+    [
+      "217",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/smile": [
+    [
+      "219",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/smile_b": [
+    [
+      "214",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/smile_c": [
+    [
+      "214",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/surprise": [
+    [
+      "213",
+      "234",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/surprise_b": [
+    [
+      "214",
+      "228",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/sweat": [
+    [
+      "235",
+      "330",
+      "570",
+      "690"
+    ]
+  ],
+  "character/jiangshi_girl/ui/story/think": [
+    [
+      "218",
+      "238",
       "570",
       "690"
     ]
@@ -47803,6 +48123,158 @@
     [
       "170",
       "194",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/full_shot_1440_1920_0": [
+    [
+      "216",
+      "221",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/octcyborg_lady/ui/skill_cutin_0": [
+    [
+      "126",
+      "93",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/octcyborg_lady/ui/full_shot_1440_1920_1": [
+    [
+      "138",
+      "32",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/octcyborg_lady/ui/skill_cutin_1": [
+    [
+      "141",
+      "2",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/anger": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/base_0": [
+    [
+      "0",
+      "100",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/base_1": [
+    [
+      "0",
+      "31",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/discontent": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/joy": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/joy_b": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/lovely": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/normal": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/normal_b": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/sad": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/shame": [
+    [
+      "276",
+      "284",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/surprise": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/sweat": [
+    [
+      "357",
+      "273",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/think": [
+    [
+      "225",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/octcyborg_lady/ui/story/whisper": [
+    [
+      "225",
+      "175",
       "570",
       "690"
     ]

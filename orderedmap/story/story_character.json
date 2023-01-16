@@ -8269,6 +8269,216 @@
       ""
     ]
   ],
+  "jiangshi_girl": [
+    [
+      "チェンシー",
+      "0xa32535",
+      "character/jiangshi_girl/voice/",
+      "normal,anger,normal_b,sad,serious,shame,shout,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_1",
+      "character/jiangshi_girl/ui/story/normal,character/jiangshi_girl/ui/story/anger,character/jiangshi_girl/ui/story/normal_b,character/jiangshi_girl/ui/story/sad,character/jiangshi_girl/ui/story/serious,character/jiangshi_girl/ui/story/shame,character/jiangshi_girl/ui/story/shout,character/jiangshi_girl/ui/story/smile,character/jiangshi_girl/ui/story/smile_b,character/jiangshi_girl/ui/story/smile_c,character/jiangshi_girl/ui/story/surprise,character/jiangshi_girl/ui/story/surprise_b,character/jiangshi_girl/ui/story/sweat,character/jiangshi_girl/ui/story/think,(None)"
+    ]
+  ],
+  "jiangshi_girl_noname": [
+    [
+      "怖がっている少女",
+      "0xa32535",
+      "character/jiangshi_girl/voice/",
+      "normal,anger,normal_b,sad,serious,shame,shout,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_0,character/jiangshi_girl/ui/story/base_1",
+      "character/jiangshi_girl/ui/story/normal,character/jiangshi_girl/ui/story/anger,character/jiangshi_girl/ui/story/normal_b,character/jiangshi_girl/ui/story/sad,character/jiangshi_girl/ui/story/serious,character/jiangshi_girl/ui/story/shame,character/jiangshi_girl/ui/story/shout,character/jiangshi_girl/ui/story/smile,character/jiangshi_girl/ui/story/smile_b,character/jiangshi_girl/ui/story/smile_c,character/jiangshi_girl/ui/story/surprise,character/jiangshi_girl/ui/story/surprise_b,character/jiangshi_girl/ui/story/sweat,character/jiangshi_girl/ui/story/think,(None)"
+    ]
+  ],
+  "mob_jiangshi_girl_client": [
+    [
+      "チェンシーの依頼人",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_float_representative": [
+    [
+      "フロートの代表者",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_jiangshi_thieves_seem": [
+    [
+      "キョンシー",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_jiangshi_thieves_fishy": [
+    [
+      "キョンシー？",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_jiangshi_thieves": [
+    [
+      "キョンシー窃盗団",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "evilloli_master": [
+    [
+      "タナキエラ",
+      "0x3f2843",
+      "character/evilloli_master/voice/",
+      "normal,anger,discontent,normal_b,provoke,provoke_b,sad,shame,smile,smile_b,surprise,sweat,think,evolve",
+      "character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_0,character/evilloli_master/ui/story/base_1",
+      "character/evilloli_master/ui/story/normal,character/evilloli_master/ui/story/anger,character/evilloli_master/ui/story/discontent,character/evilloli_master/ui/story/normal_b,character/evilloli_master/ui/story/provoke,character/evilloli_master/ui/story/provoke_b,character/evilloli_master/ui/story/sad,character/evilloli_master/ui/story/shame,character/evilloli_master/ui/story/smile,character/evilloli_master/ui/story/smile_b,character/evilloli_master/ui/story/surprise,character/evilloli_master/ui/story/sweat,character/evilloli_master/ui/story/think,(None)"
+    ]
+  ],
+  "evilloli_master_unknown": [
+    [
+      "？？？",
+      "0x3f2843",
+      "character/evilloli_master/voice/",
+      "normal",
+      "character/evilloli_master/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "evilloli_master_noname": [
+    [
+      "女性の声",
+      "0x3f2843",
+      "character/evilloli_master/voice/",
+      "normal",
+      "character/evilloli_master/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_most_scoundrel": [
+    [
+      "情状酌量の余地のない悪党",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_unsure_mens_leader": [
+    [
+      "怪しい男達の首領",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_unsure_mens": [
+    [
+      "怪しい男達",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_unsure_pervert": [
+    [
+      "怪しい変質者",
+      "0x32587d",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_main_martial_artist": [
+    [
+      "パルペブラの武術家",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_former_girlfriend": [
+    [
+      "元彼女",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "octcyborg_lady": [
+    [
+      "カシヴァルス",
+      "0xb29614",
+      "character/octcyborg_lady/voice/",
+      "normal,anger,discontent,joy,joy_b,lovely,normal_b,sad,shame,surprise,sweat,think,whisper,evolve",
+      "character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_0,character/octcyborg_lady/ui/story/base_1",
+      "character/octcyborg_lady/ui/story/normal,character/octcyborg_lady/ui/story/anger,character/octcyborg_lady/ui/story/discontent,character/octcyborg_lady/ui/story/joy,character/octcyborg_lady/ui/story/joy_b,character/octcyborg_lady/ui/story/lovely,character/octcyborg_lady/ui/story/normal_b,character/octcyborg_lady/ui/story/sad,character/octcyborg_lady/ui/story/shame,character/octcyborg_lady/ui/story/surprise,character/octcyborg_lady/ui/story/sweat,character/octcyborg_lady/ui/story/think,character/octcyborg_lady/ui/story/whisper,(None)"
+    ]
+  ],
+  "mob_defaulter": [
+    [
+      "デフォルター",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_defaulter_unknown": [
+    [
+      "？？？",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_former_defaulter": [
+    [
+      "元デフォルター",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "samurai_robot_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/samurai_robot/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
   "psychic_yuki_ny23": [
     [
       "見嶋ユキ",

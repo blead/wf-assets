@@ -11192,6 +11192,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "131134": [
+    [
+      "degree_favor_octcyborg_lady",
+      "85000",
+      "檻を解き放つ者",
+      "おりをときはなつもの",
+      "獲得条件：【檻を解き放つ者】カシヴァルスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_octcyborg_lady"
+    ]
+  ],
+  "161165": [
+    [
+      "degree_favor_evilloli_master",
+      "175000",
+      "混沌の師",
+      "こんとんのし",
+      "獲得条件：【混沌の師】タナキエラをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_evilloli_master"
+    ]
+  ],
+  "211062": [
+    [
+      "degree_favor_jiangshi_girl",
+      "220000",
+      "臆病な幽鬼退治屋",
+      "おくびょうなゆうきたいじや",
+      "獲得条件：【臆病な幽鬼退治屋】チェンシーをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_jiangshi_girl"
+    ]
+  ],
   "141141": [
     [
       "degree_favor_heavenly_four",
@@ -14115,6 +14154,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_crown_beasts_challenge_clear_1_1"
+    ]
+  ],
+  "64012": [
+    [
+      "degree_combat_diver_05_01",
+      "550012",
+      "E-Ｒｅｖ．１",
+      "でぃーりびじょんわん",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング ６０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_01"
+    ]
+  ],
+  "64013": [
+    [
+      "degree_combat_diver_05_02",
+      "550013",
+      "E-Ｒｅｖ．２",
+      "でぃーりびじょんつー",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング ３０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_02"
+    ]
+  ],
+  "64014": [
+    [
+      "degree_combat_diver_05_03",
+      "550014",
+      "E-Ｒｅｖ．３",
+      "でぃーりびじょんすりー",
+      "獲得条件：「コンバットダイバー」 エンドレスバトル ランキング １０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_combat_diver_05_03"
     ]
   ],
   "64009": [
