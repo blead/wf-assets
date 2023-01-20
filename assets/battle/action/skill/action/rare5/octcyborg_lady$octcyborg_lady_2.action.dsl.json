@@ -201,10 +201,8 @@
         [
           "FindAllSubjects",
           3,
-          34,
-          [
-            3
-          ],
+          97,
+          null,
           null,
           null,
           null,
@@ -218,74 +216,53 @@
               [
                 "Command",
                 [
-                  "FindAllSubjects",
-                  4,
-                  97,
-                  null,
-                  null,
-                  null,
-                  null,
-                  null,
+                  "CreateCondition",
+                  3,
                   [
-                    "DoNothing"
-                  ],
-                  [
-                    "Block",
                     [
+                      "ACPowerFlipDamage",
                       [
-                        "Command",
-                        [
-                          "CreateCondition",
-                          4,
-                          [
-                            [
-                              "ACPowerFlipDamage",
-                              [
-                                {
-                                  "max": 1200,
-                                  "min": 1200
-                                }
-                              ],
-                              [
-                                {
-                                  "max": 1.5,
-                                  "min": 1.25
-                                }
-                              ],
-                              [
-                                {
-                                  "max": 1,
-                                  "min": 1
-                                }
-                              ]
-                            ]
-                          ],
-                          [
-                            {
-                              "max": 1,
-                              "min": 1
-                            }
-                          ],
-                          [
-                            "GenericConditionHitEffect"
-                          ],
-                          true,
-                          false,
-                          "",
-                          null,
-                          false,
-                          2,
-                          [
-                            {
-                              "max": 1,
-                              "min": 1
-                            }
-                          ],
-                          false
-                        ]
+                        {
+                          "max": 1200,
+                          "min": 1200
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1.5,
+                          "min": 1.25
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
                       ]
                     ]
-                  ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  2,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
                 ]
               ]
             ]
@@ -296,7 +273,7 @@
         "Command",
         [
           "FindAllSubjects",
-          5,
+          4,
           113,
           [
             3
@@ -315,7 +292,7 @@
                 "Command",
                 [
                   "DeleteCondition",
-                  5,
+                  4,
                   [
                     "DCAll",
                     3
@@ -336,7 +313,7 @@
         "Command",
         [
           "FindAllSubjects",
-          6,
+          5,
           145,
           [
             3
@@ -355,7 +332,7 @@
                 "Command",
                 [
                   "DeleteCondition",
-                  6,
+                  5,
                   [
                     "DCAll",
                     3
