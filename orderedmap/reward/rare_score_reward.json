@@ -25087,6 +25087,186 @@
       ]
     ]
   },
+  "11000210": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_1",
+        "1",
+        "4050030",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000211": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_2",
+        "1",
+        "5030036",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000212": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_3",
+        "1",
+        "5070033",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000213": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_4",
+        "0",
+        "40318",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000214": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_5",
+        "0",
+        "40319",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000215": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_6",
+        "0",
+        "40319",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000216": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_7",
+        "0",
+        "40320",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000217": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_8",
+        "0",
+        "40320",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000221": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_9",
+        "0",
+        "40319",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_water3_rare_9",
+        "0",
+        "40319",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_water3_rare_9",
+        "0",
+        "40320",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_water3_rare_9",
+        "0",
+        "40320",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000222": {
+    "1": [
+      [
+        "advent_spirit_beast_water3_rare_10",
+        "0",
+        "40319",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_water3_rare_10",
+        "0",
+        "40319",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_water3_rare_10",
+        "0",
+        "40320",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_water3_rare_10",
+        "0",
+        "40320",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000054": {
     "1": [
       [

@@ -11231,6 +11231,84 @@
       "true"
     ]
   ],
+  "40318": [
+    [
+      "boss_coin_advent_spirit_beast_water3_1",
+      "水鬼スラムゴンの銀貨",
+      "item/materials/boss_coin/spirit_beast_water_1",
+      "item_icon/materials/boss_coin/boss_coin_1",
+      "水鬼スラムゴンの彫りが入った銀貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "3",
+      "3",
+      "9999",
+      "2023-01-25 12:00:00",
+      "2023-02-08 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40319": [
+    [
+      "boss_coin_advent_spirit_beast_water3_2",
+      "水鬼スラムゴンの金貨",
+      "item/materials/boss_coin/spirit_beast_water_2",
+      "item_icon/materials/boss_coin/boss_coin_2",
+      "水鬼スラムゴンの彫りが入った金貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2023-01-25 12:00:00",
+      "2023-02-08 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40320": [
+    [
+      "boss_coin_advent_spirit_beast_water3_3",
+      "水鬼スラムゴンの紫貨",
+      "item/materials/boss_coin/spirit_beast_water_3",
+      "item_icon/materials/boss_coin/boss_coin_3",
+      "水鬼スラムゴンの彫りが入った紫貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2023-01-25 12:00:00",
+      "2023-02-08 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
   "40302": [
     [
       "boss_coin_advent_spirit_beast_water2_1",

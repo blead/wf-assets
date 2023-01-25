@@ -959,6 +959,36 @@
       "2023-01-20 04:59:59"
     ]
   ],
+  "200012": [
+    [
+      "advent_spirit_beast_water3",
+      "(None)",
+      "水狂の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_water",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_water",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_water",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "16",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "40318",
+      "40319",
+      "40320",
+      "(None)",
+      "true",
+      "advent_spirit_beast_water",
+      "true",
+      "2023-01-25 12:00:00",
+      "2023-01-31 20:59:59",
+      "2023-02-08 04:59:59"
+    ]
+  ],
   "100007": [
     [
       "advent_u_collabo_event",

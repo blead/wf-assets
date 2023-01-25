@@ -137,6 +137,125 @@
       ]
     ]
   },
+  "156": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/yellow_element_character_pickup_05/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131086",
+        "0",
+        "131086",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_52/white_tiger_2anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131086",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131110",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_69/nihilist_mechgirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_horn_leader",
+        "131068",
+        "0",
+        "131068",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_46/horn_leader/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131068",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_cyber_battergirl",
+        "131062",
+        "0",
+        "131062",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_46/cyber_battergirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131062",
+        ""
+      ]
+    ]
+  },
   "119": {
     "1": [
       [

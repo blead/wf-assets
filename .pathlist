@@ -63010,6 +63010,7 @@ dynamic/feature_announcement/yellow_element_character_pickup_01
 dynamic/feature_announcement/yellow_element_character_pickup_02
 dynamic/feature_announcement/yellow_element_character_pickup_03
 dynamic/feature_announcement/yellow_element_character_pickup_04
+dynamic/feature_announcement/yellow_element_character_pickup_05
 dynamic/feature_guide_dialog/2_anniversary_special_set
 dynamic/feature_guide_dialog/2ndhalf_anniversary_special_set
 dynamic/feature_guide_dialog/3rd_anniversary_special_set
@@ -63314,6 +63315,7 @@ dynamic/gacha_list_banner/yellow_element_character_pickup_01
 dynamic/gacha_list_banner/yellow_element_character_pickup_02
 dynamic/gacha_list_banner/yellow_element_character_pickup_03
 dynamic/gacha_list_banner/yellow_element_character_pickup_04
+dynamic/gacha_list_banner/yellow_element_character_pickup_05
 dynamic/gacha_share/2_5anv_gacha_share
 dynamic/gacha_share/3anv_gacha_share
 dynamic/hard_multi_tutorial/hard_multi_steam_robot_fire/tutorial_01
@@ -63725,6 +63727,7 @@ dynamic/home_banner/gacha/yellow_element_character_pickup_01
 dynamic/home_banner/gacha/yellow_element_character_pickup_02
 dynamic/home_banner/gacha/yellow_element_character_pickup_03
 dynamic/home_banner/gacha/yellow_element_character_pickup_04
+dynamic/home_banner/gacha/yellow_element_character_pickup_05
 dynamic/home_banner/payment/1half_anniversary_special_set
 dynamic/home_banner/payment/fukubukuro_2020
 dynamic/home_banner/payment/fukubukuro_2021
@@ -65090,6 +65093,7 @@ gacha/feature_movie/xmas19/docking_beast_xm19/feature
 gacha/feature_movie/xmas19/fox_oracle_xm19/feature
 gacha/feature_movie/xmas19/samurai_xm19/feature
 gacha/feature_movie/xmas19/top/feature
+gacha/feature_movie/yellow_element_character_pickup_05/top/feature
 gacha/gacha
 gacha/gacha_campaign
 gacha/gacha_feature_content
@@ -72003,6 +72007,7 @@ quest/thumbnail/advent_event/spirit_beast_water/1
 quest/thumbnail/advent_event/spirit_beast_water/2
 quest/thumbnail/advent_event/spirit_beast_water/3
 quest/thumbnail/advent_event/spirit_beast_water/4
+quest/thumbnail/advent_event/spirit_beast_water/5
 quest/thumbnail/advent_event/steam_robot_fire/1
 quest/thumbnail/advent_event/steam_robot_fire/2
 quest/thumbnail/advent_event/steam_robot_fire/3
@@ -72992,6 +72997,7 @@ rich_text/help_event_advent_spirit_beast_thunder2
 rich_text/help_event_advent_spirit_beast_thunder3
 rich_text/help_event_advent_spirit_beast_water
 rich_text/help_event_advent_spirit_beast_water2
+rich_text/help_event_advent_spirit_beast_water3
 rich_text/help_event_advent_steam_robot_fire
 rich_text/help_event_advent_thunder
 rich_text/help_event_advent_thunder2

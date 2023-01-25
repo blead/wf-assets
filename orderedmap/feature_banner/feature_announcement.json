@@ -3905,6 +3905,24 @@
       "false"
     ]
   ],
+  "203521": [
+    [
+      "3001",
+      "dynamic/feature_announcement/yellow_element_character_pickup_05",
+      "2023-01-25 12:00:00",
+      "2023-01-31 11:59:59",
+      "false"
+    ]
+  ],
+  "200553": [
+    [
+      "1800",
+      "dynamic/feature_announcement/advent_event_spirit_beast_water2",
+      "2023-01-25 12:00:00",
+      "2023-01-31 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
