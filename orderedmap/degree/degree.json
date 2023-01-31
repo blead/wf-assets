@@ -11192,6 +11192,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "151147": [
+    [
+      "degree_favor_stella_ballot23",
+      "349010",
+      "星見の街の",
+      "ほしみのまちの",
+      "獲得条件：【星見の街の】ステラをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_ballot23"
+    ]
+  ],
+  "111147": [
+    [
+      "degree_favor_still_obstinator_ballot23",
+      "138010",
+      "アイ・ブレス・ユー",
+      "あいぶれすゆー",
+      "獲得条件：【アイ・ブレス・ユー】スティネルをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_still_obstinator_ballot23"
+    ]
+  ],
+  "151153": [
+    [
+      "degree_favor_light_ballot23",
+      "143000",
+      "最後の勇者",
+      "さいごのゆうしゃ",
+      "獲得条件：【最後の勇者】ライトをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_ballot23"
+    ]
+  ],
   "131134": [
     [
       "degree_favor_octcyborg_lady",

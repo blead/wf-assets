@@ -3829,6 +3829,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/light_ballot23/light_ballot23": [
+    [
+      "0.35",
+      "170",
+      "0.07594104",
+      "2.8589342",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/stella_ballot23/stella_ballot23": [
+    [
+      "0.35",
+      "120",
+      "0.07648526",
+      "64.03648",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/still_obstinator_ballot23/still_obstinator_ballot23": [
+    [
+      "0.35",
+      "148",
+      "0.056371883",
+      "12.989365",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/combat_soldier/combat_soldier": [
     [
       "0.32",

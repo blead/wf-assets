@@ -8069,6 +8069,266 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "still_obstinator_ballot23": [
+    [
+      "スティネル",
+      "0xa32535",
+      "character/still_obstinator/voice/",
+      "normal,anger,anger_b,incite,normal_b,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,tear,think,evolve",
+      "character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_0,character/still_obstinator_ballot23/ui/story/base_1",
+      "character/still_obstinator_ballot23/ui/story/normal,character/still_obstinator_ballot23/ui/story/anger,character/still_obstinator_ballot23/ui/story/anger_b,character/still_obstinator_ballot23/ui/story/incite,character/still_obstinator_ballot23/ui/story/normal_b,character/still_obstinator_ballot23/ui/story/sad,character/still_obstinator_ballot23/ui/story/serious,character/still_obstinator_ballot23/ui/story/serious_b,character/still_obstinator_ballot23/ui/story/shame,character/still_obstinator_ballot23/ui/story/smile,character/still_obstinator_ballot23/ui/story/smile_b,character/still_obstinator_ballot23/ui/story/surprise,character/still_obstinator_ballot23/ui/story/surprise_b,character/still_obstinator_ballot23/ui/story/sweat,character/still_obstinator_ballot23/ui/story/tear,character/still_obstinator_ballot23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_elderly_merchant": [
+    [
+      "老齢の商人",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_youth_merchant": [
+    [
+      "商人の青年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_bad_hoodlum": [
+    [
+      "質の悪いゴロツキ",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_timid_merchant": [
+    [
+      "気弱そうな商人",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "lonely_schoolgirl_voice": [
+    [
+      "少女の声",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "light_ballot23": [
+    [
+      "ライト",
+      "0xff9f1c",
+      "character/light/voice/",
+      "normal,anger,confused,joy,normal_b,sad,sad_b,serious,shame,smile,smile_b,smile_c,smile_d,surprise,surprise_b,sweat,evolve",
+      "character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_0,character/light_ballot23/ui/story/base_1",
+      "character/light_ballot23/ui/story/normal,character/light_ballot23/ui/story/anger,character/light_ballot23/ui/story/confused,character/light_ballot23/ui/story/joy,character/light_ballot23/ui/story/normal_b,character/light_ballot23/ui/story/sad,character/light_ballot23/ui/story/sad_b,character/light_ballot23/ui/story/serious,character/light_ballot23/ui/story/shame,character/light_ballot23/ui/story/smile,character/light_ballot23/ui/story/smile_b,character/light_ballot23/ui/story/smile_c,character/light_ballot23/ui/story/smile_d,character/light_ballot23/ui/story/surprise,character/light_ballot23/ui/story/surprise_b,character/light_ballot23/ui/story/sweat,(None)"
+    ]
+  ],
+  "mob_kindly_noblewoman": [
+    [
+      "優し気な貴婦人",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_giant_merchant": [
+    [
+      "巨漢の商人",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_giant_merchant_name": [
+    [
+      "グレイブ",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_giant_merchant_grandson": [
+    [
+      "ハスタ",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_sentry_duty_man": [
+    [
+      "見張りの男",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_abduction_man": [
+    [
+      "誘拐犯の男",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "dimension_witch_voice": [
+    [
+      "ベルセティアの声",
+      "0x3f2843",
+      "character/dimension_witch/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "onmyoji_boy_voice": [
+    [
+      "スイゼンの声",
+      "0x2f60b2",
+      "character/onmyoji_boy/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "light_young": [
+    [
+      "ライト",
+      "0xff9f1c",
+      "character/light/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "flame_witch_young": [
+    [
+      "シャクティ",
+      "0xa32535",
+      "character/tutorial_witch/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "stella_ballot23": [
+    [
+      "ステラ",
+      "0xff556e",
+      "character/stella/voice/",
+      "normal,confused,discontent,doya,joy,normal_b,normal_c,sad,sad_b,serious,shame,smile_c,surprise,surprise_b,sweat,evolve",
+      "character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_0,character/stella_ballot23/ui/story/base_1",
+      "character/stella_ballot23/ui/story/normal,character/stella_ballot23/ui/story/confused,character/stella_ballot23/ui/story/discontent,character/stella_ballot23/ui/story/doya,character/stella_ballot23/ui/story/joy,character/stella_ballot23/ui/story/normal_b,character/stella_ballot23/ui/story/normal_c,character/stella_ballot23/ui/story/sad,character/stella_ballot23/ui/story/sad_b,character/stella_ballot23/ui/story/serious,character/stella_ballot23/ui/story/shame,character/stella_ballot23/ui/story/smile_c,character/stella_ballot23/ui/story/surprise,character/stella_ballot23/ui/story/surprise_b,character/stella_ballot23/ui/story/sweat,(None)"
+    ]
+  ],
+  "stella_ballot23_unknown": [
+    [
+      "ステラ",
+      "0xff556e",
+      "character/stella/voice/",
+      "normal",
+      "character/stella_ballot23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_many_cry": [
+    [
+      "大勢の声",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_watchover_stella_unknown": [
+    [
+      "？？？",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_rascal_christian": [
+    [
+      "ゴウ・ロッキー",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_watchover_stella": [
+    [
+      "ステラちゃんを見守り隊",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_demanded_stella": [
+    [
+      "問われ隊の者",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_blond_hair_woman": [
+    [
+      "金髪の女性",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "light_boy": [
+    [
+      "ライト",
+      "0xff9f1c",
+      "character/light/voice/",
+      "normal,anger_c,anxiety,serious,anger_base_b,anger_b_base_b,anger_d_base_b",
+      "character/light_boy/ui/story/base,character/light_boy/ui/story/base,character/light_boy/ui/story/base,character/light_boy/ui/story/base,character/light_boy/ui/story/base_b,character/light_boy/ui/story/base_b,character/light_boy/ui/story/base_b",
+      "character/light_boy/ui/story/normal,character/light_boy/ui/story/anger_c,character/light_boy/ui/story/anxiety,character/light_boy/ui/story/serious,character/light_boy/ui/story/anger,character/light_boy/ui/story/anger_b,character/light_boy/ui/story/anger_d"
+    ]
+  ],
   "combat_soldier": [
     [
       "バレッタ",

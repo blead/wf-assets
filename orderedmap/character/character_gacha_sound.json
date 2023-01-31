@@ -2249,6 +2249,57 @@
       ]
     ]
   },
+  "151147": {
+    "5": [
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/light/se_light_barrier"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/light/se_light_bright_shooting_star"
+      ]
+    ]
+  },
+  "151153": {
+    "17": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect/light/se_light_shine"
+      ]
+    ]
+  },
+  "111147": {
+    "5": [
+      [
+        "sound_effect/fire/se_burn_out"
+      ]
+    ],
+    "47": [
+      [
+        "sound_effect/light/se_light_rising_shine"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/light/se_light_flash_short"
+      ]
+    ],
+    "149": [
+      [
+        "sound_effect/situation/se_fall_damage"
+      ]
+    ]
+  },
   "221008": {
     "45": [
       [

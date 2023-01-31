@@ -3923,6 +3923,51 @@
       "false"
     ]
   ],
+  "3082": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_230131",
+      "2023-01-31 12:00:00",
+      "2023-02-14 20:59:59",
+      "false"
+    ]
+  ],
+  "204271": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_white_pickup_2",
+      "2023-01-31 12:00:00",
+      "2023-02-28 11:59:59",
+      "false"
+    ]
+  ],
+  "204474": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_80",
+      "2023-01-31 12:00:00",
+      "2023-02-07 11:59:59",
+      "false"
+    ]
+  ],
+  "203867": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_light2",
+      "2023-01-31 12:00:00",
+      "2023-02-14 20:59:59",
+      "false"
+    ]
+  ],
+  "204936": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_05",
+      "2023-01-31 12:00:00",
+      "2023-02-14 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

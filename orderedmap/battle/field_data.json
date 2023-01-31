@@ -5592,6 +5592,27 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_stella_ballot23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_stella_ballot23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_still_obstinator_ballot23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_still_obstinator_ballot23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_light_ballot23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_light_ballot23",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_octcyborg_lady": [
     [
       "common_skill_preview",

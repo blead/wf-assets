@@ -5453,6 +5453,99 @@
       ]
     ]
   },
+  "157": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_80/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151147",
+        "0",
+        "151147",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_80/stella_ballot23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151147",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151153",
+        "0",
+        "151153",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_80/light_ballot23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151153",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111147",
+        "0",
+        "111147",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_80/still_obstinator_ballot23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111147",
+        ""
+      ]
+    ]
+  },
   "154": {
     "1": [
       [
@@ -11599,6 +11692,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_wind_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5033": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_white_pickup_2",
         "",
         "",
         "",

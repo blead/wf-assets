@@ -1139,6 +1139,36 @@
       "2023-01-07 04:59:59"
     ]
   ],
+  "200020": [
+    [
+      "advent_spirit_beast_light3",
+      "(None)",
+      "巫光の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_light",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_light",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_light",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "21",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49335",
+      "49336",
+      "49337",
+      "(None)",
+      "true",
+      "advent_spirit_beast_light",
+      "true",
+      "2023-01-31 12:00:00",
+      "2023-02-14 20:59:59",
+      "2023-02-22 04:59:59"
+    ]
+  ],
   "200005": [
     [
       "advent_spirit_beast_fire2",
