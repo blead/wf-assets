@@ -65541,6 +65541,7 @@ half_pedestal/inactive
 help/help
 history/practice_battle
 history/receive
+history/score_attack_event_battle
 home/a
 home/a_a_ano
 home/a_aaa_naochan
@@ -69385,6 +69386,7 @@ layout/your_time_record
 layout/your_time_record_small
 link/link_scene
 lounge/create
+lounge/create_lounge_failure
 lounge/get_list
 lounge/prepare
 lounge/restore
@@ -69418,6 +69420,7 @@ mission/regular_mission_reward
 mission/update_mission_progress
 multi_battle_quest/abort
 multi_battle_quest/create_room
+multi_battle_quest/create_room_failure
 multi_battle_quest/disband_room
 multi_battle_quest/finish
 multi_battle_quest/get_rooms

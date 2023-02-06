@@ -142,5 +142,13 @@
       "short_system_lock_hard_multi_red",
       "1"
     ]
+  ],
+  "score_attack": [
+    [
+      "condition_score_attack_unlock",
+      "system_lock_score_attack",
+      "short_system_lock_score_attack",
+      "0"
+    ]
   ]
 }

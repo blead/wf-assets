@@ -159,6 +159,11 @@
       "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「紅嫉の機兵」の「紅機兵ハインライト 超級」をクリア"
     ]
   ],
+  "system_lock_score_attack": [
+    [
+      "無限演武は\nプレイヤーランクが::need_player_rank::以上になることで\n解放されます"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -207,6 +212,11 @@
   "short_system_lock_hard_multi_red": [
     [
       "以下の条件をクリア"
+    ]
+  ],
+  "short_system_lock_score_attack": [
+    [
+      "プレイヤーランク::need_player_rank::以上"
     ]
   ],
   "ability_board_button_label": [
@@ -884,6 +894,11 @@
       "キーワード"
     ]
   ],
+  "character_list_setting_dialog_filter_group_reinforceable": [
+    [
+      "強化可能"
+    ]
+  ],
   "character_list_setting_dialog_filter_group_rarity": [
     [
       "レア度"
@@ -907,6 +922,21 @@
   "character_list_setting_dialog_filter_group_race": [
     [
       "種族"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_level": [
+    [
+      "Lv強化"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_overlimit": [
+    [
+      "オーバーリミット"
+    ]
+  ],
+  "character_list_setting_dialog_filter_reinforceable_manaboard": [
+    [
+      "マナボード強化"
     ]
   ],
   "character_list_setting_dialog_order_by_rarity": [
@@ -5787,6 +5817,11 @@
   "quest_detail_score_label": [
     [
       "SCORE"
+    ]
+  ],
+  "quest_detail_time_label": [
+    [
+      "TIME"
     ]
   ],
   "quest_detail_ss_rank_label": [
@@ -11214,6 +11249,11 @@
       "タイムアタックイベント『::questName::』をクリア"
     ]
   ],
+  "quest_unselectable_reason_message_score_attack_event_quest_clear": [
+    [
+      "無限演武『::questName::』をクリア"
+    ]
+  ],
   "quest_sub_progress_host_clear": [
     [
       "協力バトルをホストでクリア"
@@ -11467,6 +11507,86 @@
   "score_event_title": [
     [
       "イベント結果"
+    ]
+  ],
+  "score_event_best_label": [
+    [
+      "BEST"
+    ]
+  ],
+  "score_event_score_label": [
+    [
+      "SCORE"
+    ]
+  ],
+  "score_event_time_label": [
+    [
+      "TIME"
+    ]
+  ],
+  "score_attack_event_update_high_score_dialog_title": [
+    [
+      "::name::：ハイスコア更新"
+    ]
+  ],
+  "score_attack_event_get_reward_list_dialog_title": [
+    [
+      "獲得報酬"
+    ]
+  ],
+  "score_attack_event_quest_select_next_event_date": [
+    [
+      "イベント更新まであと<font color='#ffcc1c'>::time::</font>::unit::"
+    ]
+  ],
+  "score_attack_event_remaining_time_label": [
+    [
+      "更新まで::time::"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_days_or_more": [
+    [
+      "日以上"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_days": [
+    [
+      "日"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_hours": [
+    [
+      "時間"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_minutes": [
+    [
+      "分"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_day": [
+    [
+      "日"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_hour": [
+    [
+      "時間"
+    ]
+  ],
+  "score_attack_event_remaining_time_unit_minute": [
+    [
+      "分"
+    ]
+  ],
+  "score_attack_event_history_no_data": [
+    [
+      "バトル履歴がありません"
+    ]
+  ],
+  "score_attack_event_play_caution": [
+    [
+      "このクエストは<font color=\"#ea354c\">::element::属性キャラのみの\nパーティ</font>で挑戦できます。\nクエストに挑戦するパーティを選択してください。"
     ]
   ],
   "carnival_event_record_total": [
@@ -13694,27 +13814,27 @@
       "バトル履歴がありません"
     ]
   ],
-  "practice_history_total_damage": [
+  "battle_history_total_damage": [
     [
       "総合ダメージ"
     ]
   ],
-  "practice_history_elapsed_time": [
+  "battle_history_elapsed_time": [
     [
       "経過時間"
     ]
   ],
-  "practice_history_score": [
+  "battle_history_score": [
     [
       "スコア"
     ]
   ],
-  "practice_history_date": [
+  "battle_history_date": [
     [
       "%m/%d %H:%M"
     ]
   ],
-  "practice_history_member_damage": [
+  "battle_history_member_damage": [
     [
       "与えたダメージ"
     ]
@@ -13892,6 +14012,21 @@
   "solo_time_attack_remaining_number": [
     [
       "挑戦回数あと ::current:: 回"
+    ]
+  ],
+  "score_attack_border_reward_dialog_title": [
+    [
+      "ボーダー報酬"
+    ]
+  ],
+  "score_attack_list_score_border": [
+    [
+      "報酬達成スコア ::score::"
+    ]
+  ],
+  "score_attack_zone_objective": [
+    [
+      "<font color=\"#FFCD1B\">最高スコア</font>を叩き出せ！"
     ]
   ],
   "equipment_enhancement_top_title": [
