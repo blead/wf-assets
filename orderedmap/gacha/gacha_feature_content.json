@@ -565,6 +565,73 @@
       ]
     ]
   },
+  "158": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/white_element_character_pickup_02/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lightbullet_wiz_vt21",
+        "151027",
+        "0",
+        "151027",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_vt21_character_pickup_01/lightbullet_wiz_vt21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151027",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_whitedog_beast_vt21",
+        "251041",
+        "0",
+        "251041",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_vt21_character_pickup_01/whitedog_beast_vt21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "251041",
+        ""
+      ]
+    ]
+  },
   "79": {
     "1": [
       [

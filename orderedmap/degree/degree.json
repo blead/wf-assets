@@ -7916,6 +7916,123 @@
       "dynamic/degree/degree_favor_delusion_girl_2"
     ]
   ],
+  "1161105": [
+    [
+      "degree_favor_estateguild_leader_2",
+      "169001",
+      "声を、聴いて",
+      "こえをきいて",
+      "獲得条件：【遺品屋ギルド長】ヒルデガードのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_estateguild_leader_2"
+    ]
+  ],
+  "1111105": [
+    [
+      "degree_favor_anger_investigator_2",
+      "20001",
+      "……怖い、怖いですねぇ！",
+      "こわいこわいですねぇ",
+      "獲得条件：【血霞の凶狼】ウェイフーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_anger_investigator_2"
+    ]
+  ],
+  "1231081": [
+    [
+      "degree_favor_scissor_ratgirl_2",
+      "280001",
+      "たぎるデザイナーの遺伝子",
+      "たぎるでざいなーのいでんし",
+      "獲得条件：【未完のフラッパー】リンカリーナのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_scissor_ratgirl_2"
+    ]
+  ],
+  "1151099": [
+    [
+      "degree_favor_airship_captain_2",
+      "139001",
+      "オーサム・マイ・コード",
+      "おーさむまいこーど",
+      "獲得条件：【最高の更新者】クインヴィッドのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_airship_captain_2"
+    ]
+  ],
+  "1161111": [
+    [
+      "degree_favor_mirror_witch_2",
+      "170001",
+      "イン・ザ・ミラー",
+      "いんざみらー",
+      "獲得条件：【鏡の魔女】ルイリーズのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mirror_witch_2"
+    ]
+  ],
+  "1231087": [
+    [
+      "degree_favor_long_hair_swordsman_2",
+      "281001",
+      "カインド・イミテート",
+      "かいんどいみてーと",
+      "獲得条件：【優しき美青年】オーネストのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_long_hair_swordsman_2"
+    ]
+  ],
+  "1131098": [
+    [
+      "degree_favor_spider_ninja_2",
+      "82001",
+      "天網の糸",
+      "てんもうのいと",
+      "獲得条件：【紫電の月蜘蛛】マユヅキのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_spider_ninja_2"
+    ]
+  ],
+  "1141105": [
+    [
+      "degree_favor_waste_armor_2",
+      "109001",
+      "ミレイア最強の騎士",
+      "みれいあさいきょうのきし",
+      "獲得条件：【自由騎士ガール】エルマールのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_waste_armor_2"
+    ]
+  ],
+  "1221060": [
+    [
+      "degree_favor_innocent_glaiver_2",
+      "244001",
+      "無敵のマリンパワー",
+      "むてきのまりんぱわー",
+      "獲得条件：【海のウサギ姫】ファロロのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_innocent_glaiver_2"
+    ]
+  ],
   "1111069": [
     [
       "degree_favor_suzumiya_haruhi_2",

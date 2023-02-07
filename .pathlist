@@ -61982,6 +61982,7 @@ dynamic/degree/degree_fakeprincess01_re01_challenge_clear_2_1
 dynamic/degree/degree_favor_advanced_soldier
 dynamic/degree/degree_favor_advanced_soldier_2
 dynamic/degree/degree_favor_airship_captain
+dynamic/degree/degree_favor_airship_captain_2
 dynamic/degree/degree_favor_alchemist
 dynamic/degree/degree_favor_alchemist_2
 dynamic/degree/degree_favor_alice
@@ -61993,6 +61994,7 @@ dynamic/degree/degree_favor_alk_1anv
 dynamic/degree/degree_favor_alk_1anv_2
 dynamic/degree/degree_favor_alk_2
 dynamic/degree/degree_favor_anger_investigator
+dynamic/degree/degree_favor_anger_investigator_2
 dynamic/degree/degree_favor_aqua
 dynamic/degree/degree_favor_arabic_swordman
 dynamic/degree/degree_favor_arabic_swordman_2
@@ -62208,6 +62210,7 @@ dynamic/degree/degree_favor_elf_soldier_2
 dynamic/degree/degree_favor_emilia
 dynamic/degree/degree_favor_emilia_2
 dynamic/degree/degree_favor_estateguild_leader
+dynamic/degree/degree_favor_estateguild_leader_2
 dynamic/degree/degree_favor_evilloli_master
 dynamic/degree/degree_favor_exorcist_oldman
 dynamic/degree/degree_favor_exorcist_oldman_2
@@ -62342,6 +62345,7 @@ dynamic/degree/degree_favor_informant_2
 dynamic/degree/degree_favor_informant_2anv
 dynamic/degree/degree_favor_informant_2anv_2
 dynamic/degree/degree_favor_innocent_glaiver
+dynamic/degree/degree_favor_innocent_glaiver_2
 dynamic/degree/degree_favor_jiangshi_girl
 dynamic/degree/degree_favor_junior_soldier
 dynamic/degree/degree_favor_junior_soldier_2
@@ -62412,6 +62416,7 @@ dynamic/degree/degree_favor_little_vampire
 dynamic/degree/degree_favor_little_wizard
 dynamic/degree/degree_favor_little_wizard_2
 dynamic/degree/degree_favor_long_hair_swordsman
+dynamic/degree/degree_favor_long_hair_swordsman_2
 dynamic/degree/degree_favor_luca_playable
 dynamic/degree/degree_favor_luna
 dynamic/degree/degree_favor_luna_2
@@ -62450,6 +62455,7 @@ dynamic/degree/degree_favor_minamoto_sakura_2
 dynamic/degree/degree_favor_minotaur_girl
 dynamic/degree/degree_favor_minotaur_girl_2
 dynamic/degree/degree_favor_mirror_witch
+dynamic/degree/degree_favor_mirror_witch_2
 dynamic/degree/degree_favor_misogi
 dynamic/degree/degree_favor_misogi_2
 dynamic/degree/degree_favor_mizuno_ai
@@ -62612,6 +62618,7 @@ dynamic/degree/degree_favor_sanctuary_guard_hw21
 dynamic/degree/degree_favor_sanctuary_guard_hw21_2
 dynamic/degree/degree_favor_sand_bandit
 dynamic/degree/degree_favor_scissor_ratgirl
+dynamic/degree/degree_favor_scissor_ratgirl_2
 dynamic/degree/degree_favor_scout_girl
 dynamic/degree/degree_favor_scout_girl_2
 dynamic/degree/degree_favor_sea_violent
@@ -62659,6 +62666,7 @@ dynamic/degree/degree_favor_spearman
 dynamic/degree/degree_favor_spearman_2
 dynamic/degree/degree_favor_special_week
 dynamic/degree/degree_favor_spider_ninja
+dynamic/degree/degree_favor_spider_ninja_2
 dynamic/degree/degree_favor_spirit_fire
 dynamic/degree/degree_favor_spry_sailor
 dynamic/degree/degree_favor_spry_sailor_2
@@ -62759,6 +62767,7 @@ dynamic/degree/degree_favor_warlock_2
 dynamic/degree/degree_favor_warlock_2halfanv
 dynamic/degree/degree_favor_warlock_2halfanv_2
 dynamic/degree/degree_favor_waste_armor
+dynamic/degree/degree_favor_waste_armor_2
 dynamic/degree/degree_favor_waterdragon_kunfu
 dynamic/degree/degree_favor_waterdragon_kunfu_2
 dynamic/degree/degree_favor_waterdragon_kunfu_proud
@@ -63397,6 +63406,7 @@ dynamic/feature_announcement/tower_dungeon
 dynamic/feature_announcement/treasure_cave_quest
 dynamic/feature_announcement/ushi_campaign
 dynamic/feature_announcement/white_element_character_pickup_01
+dynamic/feature_announcement/white_element_character_pickup_02
 dynamic/feature_announcement/white_element_pickup_02
 dynamic/feature_announcement/white_ranged_special_chara_pickup_01
 dynamic/feature_announcement/world_story_event_2halfanv
@@ -63425,6 +63435,7 @@ dynamic/feature_announcement/world_story_event_summer_2021
 dynamic/feature_announcement/world_story_event_summer_2021_re01
 dynamic/feature_announcement/world_story_event_summer_2021_sequel
 dynamic/feature_announcement/world_story_event_summer_2022
+dynamic/feature_announcement/world_story_event_vt22_re01
 dynamic/feature_announcement/world_story_event_yokai_emaki_01
 dynamic/feature_announcement/world_story_event_yokai_emaki_01_re01
 dynamic/feature_announcement/world_story_event_yokai_emaki_01_sequel
@@ -63731,6 +63742,7 @@ dynamic/gacha_list_banner/thunder_element_pickup_03
 dynamic/gacha_list_banner/thunder_element_pickup_04
 dynamic/gacha_list_banner/unison_pickup_1
 dynamic/gacha_list_banner/white_element_character_pickup_01
+dynamic/gacha_list_banner/white_element_character_pickup_02
 dynamic/gacha_list_banner/white_element_pickup_01
 dynamic/gacha_list_banner/white_element_pickup_02
 dynamic/gacha_list_banner/white_ranged_special_chara_pickup_01
@@ -64144,6 +64156,7 @@ dynamic/home_banner/gacha/thunder_element_pickup_03
 dynamic/home_banner/gacha/thunder_element_pickup_04
 dynamic/home_banner/gacha/unison_pickup_home_banner_1
 dynamic/home_banner/gacha/white_element_character_pickup_01
+dynamic/home_banner/gacha/white_element_character_pickup_02
 dynamic/home_banner/gacha/white_element_pickup_01
 dynamic/home_banner/gacha/white_element_pickup_02
 dynamic/home_banner/gacha/white_ranged_special_chara_pickup_01
@@ -65513,6 +65526,7 @@ gacha/feature_movie/unison_pickup_1/alice/feature
 gacha/feature_movie/unison_pickup_1/bishop_girl/feature
 gacha/feature_movie/unison_pickup_1/cute_fafnir/feature
 gacha/feature_movie/unison_pickup_1/top/feature
+gacha/feature_movie/white_element_character_pickup_02/top/feature
 gacha/feature_movie/woman_character_pickup_01/clarisse/feature
 gacha/feature_movie/woman_character_pickup_01/lady_summoner/feature
 gacha/feature_movie/woman_character_pickup_01/ruin_girl/feature
@@ -72113,6 +72127,7 @@ quest/event/logo/world_story_event/summer_2022/summer_2022_logo_2
 quest/event/logo/world_story_event/vt20/valentine_logo
 quest/event/logo/world_story_event/vt20/valentine_logo_shop
 quest/event/logo/world_story_event/vt22/vt22_logo
+quest/event/logo/world_story_event/vt22/vt22_logo_2
 quest/event/logo/world_story_event/yokai_emaki_01/yokai_emaki_01_logo
 quest/event/logo/world_story_event/yokai_emaki_01/yokai_emaki_01_logo_2
 quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon
@@ -73514,6 +73529,7 @@ rich_text/help_event_world_story_event_summer_2021
 rich_text/help_event_world_story_event_summer_2021_re01
 rich_text/help_event_world_story_event_summer_2022
 rich_text/help_event_world_story_event_vt22
+rich_text/help_event_world_story_event_vt22_re01
 rich_text/help_event_world_story_event_yokai_emaki_01
 rich_text/help_event_world_story_event_yokai_emaki_01_re01
 rich_text/help_fixed_party

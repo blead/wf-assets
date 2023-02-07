@@ -171,6 +171,24 @@
       "dynamic/world_story_event_tutorial/yokai_emaki_01/tutorial_expert_single"
     ]
   ],
+  "vt22_re01": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/tutorial_token_gacha"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_multi"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_expert_single"
+    ]
+  ],
   "vt22_how_to_play": [
     [
       "0",
