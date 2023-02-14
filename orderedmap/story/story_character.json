@@ -8069,6 +8069,276 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "sleep_puppy_vt23": [
+    [
+      "フィーニ",
+      "0x2f60b2",
+      "character/sleep_puppy/voice/",
+      "normal,confused,joy,normal_b,sad,sad_b,serious,serious_b,shame,smile,surprise,sweat,tear,think,evolve",
+      "character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_0,character/sleep_puppy_vt23/ui/story/base_1",
+      "character/sleep_puppy_vt23/ui/story/normal,character/sleep_puppy_vt23/ui/story/confused,character/sleep_puppy_vt23/ui/story/joy,character/sleep_puppy_vt23/ui/story/normal_b,character/sleep_puppy_vt23/ui/story/sad,character/sleep_puppy_vt23/ui/story/sad_b,character/sleep_puppy_vt23/ui/story/serious,character/sleep_puppy_vt23/ui/story/serious_b,character/sleep_puppy_vt23/ui/story/shame,character/sleep_puppy_vt23/ui/story/smile,character/sleep_puppy_vt23/ui/story/surprise,character/sleep_puppy_vt23/ui/story/sweat,character/sleep_puppy_vt23/ui/story/tear,character/sleep_puppy_vt23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_worriy_girl": [
+    [
+      "悩める少女",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_date_enter_woman": [
+    [
+      "デートを控えた女性",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_apt_nervous_woman": [
+    [
+      "緊張しがちな女性",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_worried_girl": [
+    [
+      "悩んでいた少女",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_look_gentle_woman": [
+    [
+      "大人しそうな女性",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_loving_faces_woman": [
+    [
+      "面食いの女性",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_lowbrows_woman": [
+    [
+      "ミーハーな女性",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_worriy_boy": [
+    [
+      "悩める少年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_notnook_adventurer": [
+    [
+      "クマのない冒険者",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "sleep_puppy_dad": [
+    [
+      "フィーニの父",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_fallin_love_girl": [
+    [
+      "恋する少女",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "heavenly_two_vt23": [
+    [
+      "ビューシィ",
+      "0x539722",
+      "character/heavenly_two/voice/",
+      "normal,anger,consent,doya,joy,normal_b,sad,sad_b,serious,shame,shame_b,sing,smile,surprised,sweat,think,normal_base_0_b,anger_base_0_b,consent_base_0_b,doya_base_0_b,joy_base_0_b,normal_b_base_0_b,sad_base_0_b,sad_b_base_0_b,serious_base_0_b,shame_base_0_b,shame_b_base_0_b,sing_base_0_b,smile_base_0_b,surprised_base_0_b,sweat_base_0_b,think_base_0_b,anger_glass_base_0_b,consent_glass_base_0_b,doya_glass_base_0_b,joy_glass_base_0_b,normal_b_glass_base_0_b,normal_glass_base_0_b,sad_b_glass_base_0_b,sad_glass_base_0_b,serious_glass_base_0_b,sing_glass_base_0_b,smile_glass_base_0_b,surprised_glass_base_0_b,think_glass_base_0_b,evolve",
+      "character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_0_b,character/heavenly_two_vt23/ui/story/base_1",
+      "character/heavenly_two_vt23/ui/story/normal,character/heavenly_two_vt23/ui/story/anger,character/heavenly_two_vt23/ui/story/consent,character/heavenly_two_vt23/ui/story/doya,character/heavenly_two_vt23/ui/story/joy,character/heavenly_two_vt23/ui/story/normal_b,character/heavenly_two_vt23/ui/story/sad,character/heavenly_two_vt23/ui/story/sad_b,character/heavenly_two_vt23/ui/story/serious,character/heavenly_two_vt23/ui/story/shame,character/heavenly_two_vt23/ui/story/shame_b,character/heavenly_two_vt23/ui/story/sing,character/heavenly_two_vt23/ui/story/smile,character/heavenly_two_vt23/ui/story/surprised,character/heavenly_two_vt23/ui/story/sweat,character/heavenly_two_vt23/ui/story/think,character/heavenly_two_vt23/ui/story/normal,character/heavenly_two_vt23/ui/story/anger,character/heavenly_two_vt23/ui/story/consent,character/heavenly_two_vt23/ui/story/doya,character/heavenly_two_vt23/ui/story/joy,character/heavenly_two_vt23/ui/story/normal_b,character/heavenly_two_vt23/ui/story/sad,character/heavenly_two_vt23/ui/story/sad_b,character/heavenly_two_vt23/ui/story/serious,character/heavenly_two_vt23/ui/story/shame,character/heavenly_two_vt23/ui/story/shame_b,character/heavenly_two_vt23/ui/story/sing,character/heavenly_two_vt23/ui/story/smile,character/heavenly_two_vt23/ui/story/surprised,character/heavenly_two_vt23/ui/story/sweat,character/heavenly_two_vt23/ui/story/think,character/heavenly_two_vt23/ui/story/anger_glass,character/heavenly_two_vt23/ui/story/consent_glass,character/heavenly_two_vt23/ui/story/doya_glass,character/heavenly_two_vt23/ui/story/joy_glass,character/heavenly_two_vt23/ui/story/normal_b_glass,character/heavenly_two_vt23/ui/story/normal_glass,character/heavenly_two_vt23/ui/story/sad_b_glass,character/heavenly_two_vt23/ui/story/sad_glass,character/heavenly_two_vt23/ui/story/serious_glass,character/heavenly_two_vt23/ui/story/sing_glass,character/heavenly_two_vt23/ui/story/smile_glass,character/heavenly_two_vt23/ui/story/surprised_glass,character/heavenly_two_vt23/ui/story/think_glass,(None)"
+    ]
+  ],
+  "heavenly_cattle_vt23": [
+    [
+      "カカウ",
+      "0x539722",
+      "character/heavenly_cattle/voice/",
+      "normal,joy,normal_b,normal_c,sad",
+      "character/heavenly_cattle_vt23/ui/story/base,character/heavenly_cattle_vt23/ui/story/base,character/heavenly_cattle_vt23/ui/story/base,character/heavenly_cattle_vt23/ui/story/base,character/heavenly_cattle_vt23/ui/story/base",
+      "character/heavenly_cattle_vt23/ui/story/normal,character/heavenly_cattle_vt23/ui/story/joy,character/heavenly_cattle_vt23/ui/story/normal_b,character/heavenly_cattle_vt23/ui/story/normal_c,character/heavenly_cattle_vt23/ui/story/sad"
+    ]
+  ],
+  "mob_downtown_woman": [
+    [
+      "街の女性",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_downtown_man": [
+    [
+      "街の男性",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_photograph_staff": [
+    [
+      "スタッフ",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_heavenly_two_fun": [
+    [
+      "ビューシィのファン",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_camouflage_traders": [
+    [
+      "偽装業者",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_sheep_girl_fathshop": [
+    [
+      "カドル",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_stand_voice": [
+    [
+      "屋台",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_camouflage_traders_boss": [
+    [
+      "偽装業者のボス",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "dark_psygirl_vt23": [
+    [
+      "ディーネ",
+      "0xb29614",
+      "character/dark_psygirl/voice/",
+      "normal,anger,anger_b,consent,honest,joy,normal_b,panic,sad,sad_b,serious,serious_b,shame,surprise,surprise_b,sweat,think,evolve",
+      "character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_0,character/dark_psygirl_vt23/ui/story/base_1",
+      "character/dark_psygirl_vt23/ui/story/normal,character/dark_psygirl_vt23/ui/story/anger,character/dark_psygirl_vt23/ui/story/anger_b,character/dark_psygirl_vt23/ui/story/consent,character/dark_psygirl_vt23/ui/story/honest,character/dark_psygirl_vt23/ui/story/joy,character/dark_psygirl_vt23/ui/story/normal_b,character/dark_psygirl_vt23/ui/story/panic,character/dark_psygirl_vt23/ui/story/sad,character/dark_psygirl_vt23/ui/story/sad_b,character/dark_psygirl_vt23/ui/story/serious,character/dark_psygirl_vt23/ui/story/serious_b,character/dark_psygirl_vt23/ui/story/shame,character/dark_psygirl_vt23/ui/story/surprise,character/dark_psygirl_vt23/ui/story/surprise_b,character/dark_psygirl_vt23/ui/story/sweat,character/dark_psygirl_vt23/ui/story/think,(None)"
+    ]
+  ],
+  "dark_psygirl_vt23_unknown": [
+    [
+      "ディーネ",
+      "0xb29614",
+      "character/dark_psygirl/voice/",
+      "normal",
+      "character/dark_psygirl_vt23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_liquor_store_master": [
+    [
+      "酒屋の若旦那",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_adventurer_bro": [
+    [
+      "冒険者の兄ちゃん",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_learner_patissier": [
+    [
+      "見習いパティシエ",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "still_obstinator_ballot23": [
     [
       "スティネル",

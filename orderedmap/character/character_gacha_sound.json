@@ -2249,6 +2249,60 @@
       ]
     ]
   },
+  "141147": {
+    "5": [
+      [
+        "sound_effect/light/se_light_large_explosion"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/blow/se_blow_attack_b"
+      ]
+    ]
+  },
+  "131140": {
+    "5": [
+      [
+        "sound_effect/thunder/se_lightning_needle_rip"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/thunder/se_thunder_stamp"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/light/se_light_flash_short"
+      ]
+    ]
+  },
+  "221078": {
+    "5": [
+      [
+        "sound_effect/light/se_cute_star"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/situation/se_bump"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/situation/se_pop_bomb"
+      ],
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ]
+  },
   "151147": {
     "5": [
       [

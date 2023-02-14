@@ -25691,6 +25691,186 @@
       ]
     ]
   },
+  "11000310": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_1",
+        "1",
+        "4080024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000311": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_2",
+        "1",
+        "5020032",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000312": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_3",
+        "1",
+        "5040025",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000313": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_4",
+        "0",
+        "49338",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000314": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_5",
+        "0",
+        "49339",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000315": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_6",
+        "0",
+        "49339",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000316": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_7",
+        "0",
+        "49340",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000317": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_8",
+        "0",
+        "49340",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000318": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_9",
+        "0",
+        "49339",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_thunder4_rare_9",
+        "0",
+        "49339",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_thunder4_rare_9",
+        "0",
+        "49340",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_thunder4_rare_9",
+        "0",
+        "49340",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000319": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder4_rare_10",
+        "0",
+        "49339",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_thunder4_rare_10",
+        "0",
+        "49339",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_thunder4_rare_10",
+        "0",
+        "49340",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_thunder4_rare_10",
+        "0",
+        "49340",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000135": {
     "1": [
       [

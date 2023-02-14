@@ -11309,6 +11309,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141147": [
+    [
+      "degree_favor_heavenly_two_vt23",
+      "73010",
+      "オフショットグラビア",
+      "おふしょっとぐらびあ",
+      "獲得条件：【オフショットグラビア】ビューシィをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_two_vt23"
+    ]
+  ],
+  "131140": [
+    [
+      "degree_favor_dark_psygirl_vt23",
+      "160020",
+      "反転セシ白ノ少女",
+      "はんてんせししろのしょじょ",
+      "獲得条件：【反転セシ白ノ少女】ディーネをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dark_psygirl_vt23"
+    ]
+  ],
+  "221078": [
+    [
+      "degree_favor_sleep_puppy_vt23",
+      "337010",
+      "恋の夢見せ姫",
+      "こいのゆめみせひめ",
+      "獲得条件：【恋の夢見せ姫】フィーニをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sleep_puppy_vt23"
+    ]
+  ],
   "151147": [
     [
       "degree_favor_stella_ballot23",

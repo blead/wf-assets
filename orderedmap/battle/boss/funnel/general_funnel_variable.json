@@ -649,6 +649,24 @@
       ]
     }
   },
+  "shark_blue_score_event": {
+    "100": {
+      "skill_shot_charge": [
+        [
+          "720"
+        ]
+      ]
+    }
+  },
+  "shark_brown_score_event": {
+    "100": {
+      "skill_shot_charge": [
+        [
+          "720"
+        ]
+      ]
+    }
+  },
   "funnel_security_armour_single": {
     "100": {
       "neutral": [

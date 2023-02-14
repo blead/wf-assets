@@ -579,6 +579,42 @@
       "dynamic/world_story_event_tutorial/anv2/tutorial_plot_03"
     ]
   ],
+  "score_attack_event_how_to_play": [
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to1"
+    ],
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to2"
+    ],
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to3"
+    ],
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to4"
+    ],
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to5"
+    ],
+    [
+      "0",
+      "dynamic/score_attack_event_tutorial/score_attack_event_how_to6"
+    ]
+  ],
+  "score_attack_weapon_enhancement_how_to_play": [
+    [
+      "0",
+      "dynamic/equipment_enhancement/score_attack_weapon_howto1"
+    ],
+    [
+      "0",
+      "dynamic/equipment_enhancement/score_attack_weapon_howto2"
+    ]
+  ],
   "combat_diver_01": [
     [
       "0",

@@ -3369,6 +3369,46 @@
       "12"
     ]
   ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_01": [
+    [
+      "0.35",
+      "145",
+      "0.05952381",
+      "79.46751",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_02": [
+    [
+      "0.35",
+      "138",
+      "0.05537415",
+      "90.448364",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_battle_03": [
+    [
+      "0.35",
+      "140",
+      "0.06995465",
+      "72.02993",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/score_attack_event/score_attack_event_01_top": [
+    [
+      "0.35",
+      "100",
+      "0.051179137",
+      "38.45118",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/advent_event/advent_event_s_collabo/battle/s_collabo_event_battle": [
     [
       "0.31",
@@ -3825,6 +3865,26 @@
       "170",
       "0.0739229",
       "24.604921",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/dark_psygirl_vt23/dark_psygirl_vt23": [
+    [
+      "0.35",
+      "124",
+      "0.072426304",
+      "66.80642",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/heavenly_two_vt23/heavenly_two_vt23": [
+    [
+      "0.35",
+      "140",
+      "0.076326534",
+      "6.8933105",
       "(None)",
       "12"
     ]

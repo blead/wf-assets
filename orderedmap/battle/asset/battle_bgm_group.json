@@ -683,6 +683,33 @@
       "(None)"
     ]
   ],
+  "score_attack_event_boss_01": [
+    [
+      "2",
+      "",
+      "bgm/event/score_attack_event/score_attack_event_01_battle_01",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "score_attack_event_boss_02": [
+    [
+      "2",
+      "",
+      "bgm/event/score_attack_event/score_attack_event_01_battle_02",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "score_attack_event_boss_03": [
+    [
+      "2",
+      "",
+      "bgm/event/score_attack_event/score_attack_event_01_battle_03",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "advent_scollab_event_boss": [
     [
       "2",

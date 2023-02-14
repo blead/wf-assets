@@ -4198,6 +4198,40 @@
       "1"
     ]
   ],
+  "shark_blue_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "162",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "40",
+      "1",
+      "atk_multi",
+      "tp_normal",
+      "999999"
+    ]
+  ],
+  "shark_brown_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "82",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "23",
+      "1",
+      "atk_multi",
+      "tp_normal",
+      "999999"
+    ]
+  ],
   "funnel_bomb_rush": [
     [
       "0",

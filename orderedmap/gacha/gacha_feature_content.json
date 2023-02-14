@@ -5520,6 +5520,99 @@
       ]
     ]
   },
+  "159": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_81/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141147",
+        "0",
+        "141147",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_81/heavenly_two_vt23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141147",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131140",
+        "0",
+        "131140",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_81/dark_psygirl_vt23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131140",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "221078",
+        "0",
+        "221078",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_81/sleep_puppy_vt23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221078",
+        ""
+      ]
+    ]
+  },
   "157": {
     "1": [
       [
@@ -11735,6 +11828,125 @@
         "",
         "0",
         "231081",
+        ""
+      ]
+    ]
+  },
+  "160": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/green_element_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_brown_fighter_dst21",
+        "141039",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_35/brown_fighter_dst21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141093",
+        "0",
+        "141093",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_58/marching_conductor/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141093",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141087",
+        "0",
+        "141087",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_56/mimi/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141087",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_beast_shaman",
+        "141045",
+        "0",
+        "141045",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_36/beast_shaman/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141045",
         ""
       ]
     ]

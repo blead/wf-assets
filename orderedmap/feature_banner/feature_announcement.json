@@ -3986,6 +3986,51 @@
       "false"
     ]
   ],
+  "205006": [
+    [
+      "3001",
+      "dynamic/feature_announcement/green_element_character_pickup_03",
+      "2023-02-14 12:00:00",
+      "2023-02-21 11:59:59",
+      "false"
+    ]
+  ],
+  "205409": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_81",
+      "2023-02-14 12:00:00",
+      "2023-02-21 11:59:59",
+      "false"
+    ]
+  ],
+  "204896": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_thunder",
+      "2023-02-14 12:00:00",
+      "2023-02-28 20:59:59",
+      "false"
+    ]
+  ],
+  "204658": [
+    [
+      "300",
+      "dynamic/feature_announcement/notice_score_attack",
+      "2023-02-14 12:00:00",
+      "2023-02-28 11:59:59",
+      "false"
+    ]
+  ],
+  "204659": [
+    [
+      "295",
+      "dynamic/feature_announcement/notice_score_attack_weapon",
+      "2023-02-14 12:00:00",
+      "2023-02-28 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

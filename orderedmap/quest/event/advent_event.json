@@ -1139,6 +1139,36 @@
       "2023-01-07 04:59:59"
     ]
   ],
+  "200025": [
+    [
+      "advent_spirit_beast_thunder4",
+      "(None)",
+      "魁雷の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_thunder",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_thunder",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_thunder",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "14",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49338",
+      "49339",
+      "49340",
+      "(None)",
+      "true",
+      "advent_spirit_beast_thunder",
+      "true",
+      "2023-02-14 12:00:00",
+      "2023-02-28 20:59:59",
+      "2023-03-08 04:59:59"
+    ]
+  ],
   "200020": [
     [
       "advent_spirit_beast_light3",

@@ -16247,6 +16247,198 @@
       "690"
     ]
   ],
+  "character/dark_psygirl_vt23/ui/full_shot_1440_1920_0": [
+    [
+      "394",
+      "182",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/skill_cutin_0": [
+    [
+      "240",
+      "1",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/full_shot_1440_1920_1": [
+    [
+      "131",
+      "156",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/skill_cutin_1": [
+    [
+      "152",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/anger": [
+    [
+      "195",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/anger_b": [
+    [
+      "207",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/base_0": [
+    [
+      "0",
+      "62",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/consent": [
+    [
+      "195",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/honest": [
+    [
+      "208",
+      "234",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/joy": [
+    [
+      "209",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/normal": [
+    [
+      "196",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/normal_b": [
+    [
+      "193",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/panic": [
+    [
+      "196",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/sad": [
+    [
+      "195",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/sad_b": [
+    [
+      "196",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/serious": [
+    [
+      "212",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/serious_b": [
+    [
+      "212",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/shame": [
+    [
+      "224",
+      "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/surprise": [
+    [
+      "196",
+      "234",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/surprise_b": [
+    [
+      "196",
+      "230",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/sweat": [
+    [
+      "250",
+      "355",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/think": [
+    [
+      "207",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dark_psygirl_vt23/ui/story/unknown": [
+    [
+      "0",
+      "62",
+      "570",
+      "690"
+    ]
+  ],
   "character/darkdragon_mecha/ui/story/anger": [
     [
       "212",
@@ -29279,6 +29471,54 @@
       "690"
     ]
   ],
+  "character/heavenly_cattle_vt23/ui/story/base": [
+    [
+      "150",
+      "58",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_cattle_vt23/ui/story/joy": [
+    [
+      "116",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_cattle_vt23/ui/story/normal": [
+    [
+      "116",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_cattle_vt23/ui/story/normal_b": [
+    [
+      "116",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_cattle_vt23/ui/story/normal_c": [
+    [
+      "116",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_cattle_vt23/ui/story/sad": [
+    [
+      "116",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
   "character/heavenly_four/ui/full_shot_1440_1920_0": [
     [
       "179",
@@ -30115,6 +30355,294 @@
     [
       "224",
       "228",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/full_shot_1440_1920_0": [
+    [
+      "460",
+      "285",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/skill_cutin_0": [
+    [
+      "0",
+      "74",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/full_shot_1440_1920_1": [
+    [
+      "286",
+      "277",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/skill_cutin_1": [
+    [
+      "70",
+      "91",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/anger": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/anger_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/base_0": [
+    [
+      "0",
+      "86",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/base_0_b": [
+    [
+      "0",
+      "86",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/base_1": [
+    [
+      "0",
+      "73",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/consent": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/consent_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/doya": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/doya_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/joy": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/joy_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/normal": [
+    [
+      "205",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/normal_b": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/normal_b_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/normal_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sad": [
+    [
+      "206",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sad_b": [
+    [
+      "205",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sad_b_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sad_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/serious": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/serious_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/shame": [
+    [
+      "211",
+      "272",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/shame_b": [
+    [
+      "211",
+      "272",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sing": [
+    [
+      "206",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sing_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/smile": [
+    [
+      "205",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/smile_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/surprised": [
+    [
+      "205",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/surprised_glass": [
+    [
+      "174",
+      "179",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/sweat": [
+    [
+      "244",
+      "341",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/think": [
+    [
+      "212",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/heavenly_two_vt23/ui/story/think_glass": [
+    [
+      "174",
+      "179",
       "570",
       "690"
     ]
@@ -64875,6 +65403,166 @@
     [
       "212",
       "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/full_shot_1440_1920_0": [
+    [
+      "411",
+      "400",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/skill_cutin_0": [
+    [
+      "179",
+      "60",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/full_shot_1440_1920_1": [
+    [
+      "385",
+      "89",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/skill_cutin_1": [
+    [
+      "111",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/base_0": [
+    [
+      "0",
+      "145",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/confused": [
+    [
+      "220",
+      "305",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/joy": [
+    [
+      "220",
+      "296",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/normal": [
+    [
+      "220",
+      "296",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/normal_b": [
+    [
+      "220",
+      "296",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/sad": [
+    [
+      "220",
+      "302",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/sad_b": [
+    [
+      "220",
+      "302",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/serious": [
+    [
+      "220",
+      "305",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/serious_b": [
+    [
+      "220",
+      "305",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/shame": [
+    [
+      "232",
+      "347",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/smile": [
+    [
+      "220",
+      "302",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/surprise": [
+    [
+      "220",
+      "286",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/sweat": [
+    [
+      "343",
+      "326",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/tear": [
+    [
+      "224",
+      "357",
+      "570",
+      "690"
+    ]
+  ],
+  "character/sleep_puppy_vt23/ui/story/think": [
+    [
+      "220",
+      "302",
       "570",
       "690"
     ]

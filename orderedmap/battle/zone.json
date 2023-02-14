@@ -14656,6 +14656,53 @@
       ]
     ]
   },
+  "score_event_shark": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "shark_score_event",
+        "1",
+        "shark_score_event",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_end/weekly_dungeon/outhole/weekly_dungeon_zone2",
+        "battle/field_object/world_end/weekly_dungeon/yakumono/dash_panel",
+        "battle/field_object/world_end/weekly_dungeon/rotation_panel/weekly_dungeon_rotation_panel",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "rush_05_ghost_fox": {
     "0": [
       [

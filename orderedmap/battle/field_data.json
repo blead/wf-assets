@@ -4122,6 +4122,13 @@
       "skill_preview_common"
     ]
   ],
+  "score_event_shark": [
+    [
+      "boss_battle_shark_area",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_shark",
+      "score_event_shark"
+    ]
+  ],
   "rush_05_ghost_fox": [
     [
       "japan_shrine",
@@ -5590,6 +5597,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_heavenly_two_vt23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_heavenly_two_vt23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_dark_psygirl_vt23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_dark_psygirl_vt23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_sleep_puppy_vt23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_sleep_puppy_vt23",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_stella_ballot23": [
