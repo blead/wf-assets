@@ -12,6 +12,8 @@ $1/sprite_sheet
 /active_mission/active_mission
 /active_mission/active_mission_event
 /active_mission/active_mission_reward
+/active_mission/real_incentive_mission_ingame_reward
+/active_mission/real_incentive_mission_real_reward
 /analytics/adjust_event
 /analytics/adjust_event_bundled
 /asset/bgm_asset
@@ -190,6 +192,7 @@ $1/sprite_sheet
 /character_election/character_election
 /character_election/character_election_exclude
 /character_election/character_election_order
+/character_ui/character_special_ui
 /config/access_count_mode
 /config/config
 /config/config_iosbundled
@@ -240,6 +243,7 @@ $1/sprite_sheet
 /item/equipment_craft_point_exchange
 /item/equipment_dissolve_rate
 /item/equipment_status
+/item/gacha_ticket_type
 /item/item
 /link/link_scene
 /mail/reason
@@ -308,6 +312,7 @@ $1/sprite_sheet
 /quest/event/daily_week_event
 /quest/event/daily_week_event_quest
 /quest/event/daily_week_event_quest_odds
+/quest/event/event_aggregation_time
 /quest/event/event_list
 /quest/event/event_shop_select_item_campaign
 /quest/event/event_shop_select_item_campaign_lineup
@@ -315,6 +320,8 @@ $1/sprite_sheet
 /quest/event/expert_single_event_campaign
 /quest/event/expert_single_event_quest
 /quest/event/expert_single_event_quest_folder
+/quest/event/hard_multi_event
+/quest/event/hard_multi_event_quest
 /quest/event/raid_event
 /quest/event/raid_event_config
 /quest/event/raid_event_overall_reward
@@ -332,6 +339,11 @@ $1/sprite_sheet
 /quest/event/rush_event_quest_folder
 /quest/event/rush_event_ranking_aggregation_schedule
 /quest/event/rush_event_ranking_reward
+/quest/event/score_attack_border_reward
+/quest/event/score_attack_event
+/quest/event/score_attack_event_quest
+/quest/event/score_attack_event_quest_damage_check
+/quest/event/score_attack_event_quest_field_effect
 /quest/event/side_story_config
 /quest/event/side_story_event_list
 /quest/event/solo_time_attack_clear_time_reward
@@ -362,6 +374,8 @@ $1/sprite_sheet
 /reward/event/collect_item_event
 /reward/event/collect_item_event_quest_relation
 /reward/event/collect_item_event_reward_relation
+/reward/periodic_reward
+/reward/periodic_reward_point
 /reward/phase_quest_reward
 /reward/rare_score_reward
 /reward/reward_element_map
@@ -382,6 +396,7 @@ $1/sprite_sheet
 /shop/event_item_shop
 /shop/general_shop
 /shop/mana_shop
+/shop/shop_cost_item_schedule
 /shop/special_pack_shop
 /shop/special_pack_shop_recommend
 /shop/star_crumb_exchange
@@ -397,6 +412,18 @@ $1/sprite_sheet
 /skill/switched_action_skill
 /skill_preview/skill_preview_character
 /skill_preview/skill_preview_quest
+/stance_detail/ability_soul_stance_detail
+/stance_detail/character_stance_detail
+/stance_detail/equipment_stance_detail
+/stance_detail/stance_detail_ability_soul_tier
+/stance_detail/stance_detail_best_status
+/stance_detail/stance_detail_character_feature
+/stance_detail/stance_detail_character_roll
+/stance_detail/stance_detail_concept
+/stance_detail/stance_detail_equipment_best_status
+/stance_detail/stance_detail_equipment_limitation
+/stance_detail/stance_detail_equipment_roll
+/stance_detail/stance_detail_equipment_tier
 /story/screen_color_effect_preset
 /story/story_character
 /story/story_character_iosbundled
@@ -12802,6 +12829,7 @@ battle/funnel/zegura_boss_smr20_funnel/zegura_boss_smr20_funnel1
 battle/funnel/zegura_boss_smr20_funnel/zegura_boss_smr20_funnel1_shadow
 battle/funnel/zegura_boss_smr20_funnel/zegura_boss_smr20_funnel2
 battle/funnel/zegura_boss_smr20_funnel/zegura_boss_smr20_funnel2_shadow
+battle/images/hard_multi/hard_multi_steam_robot_fire
 battle/item/executable_instant_item
 battle/item/executable_instant_item_atk_curve
 battle/item/executable_instant_item_level
@@ -62153,6 +62181,7 @@ dynamic/active_mission/background/contents_guide
 dynamic/active_mission/background/stepup_mission
 dynamic/active_mission/banner/contents_guide
 dynamic/active_mission/banner/stepup_mission
+dynamic/active_mission/congratulations
 dynamic/active_mission/dialog_img/contents_guide_navi01
 dynamic/active_mission/home_banner/real_incentive_mission_lottery
 dynamic/active_mission/home_banner/real_incentive_mission_playable
@@ -72127,6 +72156,7 @@ quest/event/animation_background/haniwa_carnival/haniwa_carnival_04/top/backgrou
 quest/event/animation_background/haniwa_carnival/haniwa_carnival_05/top/background
 quest/event/animation_background/haniwa_carnival/haniwa_carnival_06/top/background
 quest/event/animation_background/haniwa_carnival/haniwa_carnival_07/top/background
+quest/event/animation_background/hard_multi/hard_multi_steam_robot_fire/background
 quest/event/animation_background/raid_event/raid_event_01/background
 quest/event/animation_background/raid_event/raid_event_02/background
 quest/event/animation_background/ranking_event/green01/green01_background
@@ -72137,6 +72167,7 @@ quest/event/animation_background/ranking_event/yellow01/yellow01_background
 quest/event/animation_background/rush_event/combat_diver_lobby_background
 quest/event/animation_background/rush_event/combat_diver_stadium_endless_background
 quest/event/animation_background/rush_event/combat_diver_stadium_rush_background
+quest/event/animation_background/score_attack_event/score_attack_background
 quest/event/animation_background/solo_time_attack_event/solo_time_attack_background
 quest/event/animation_background/world_story_event/2halfanv/background
 quest/event/animation_background/world_story_event/anv2/anv_story_02_background
@@ -72376,6 +72407,7 @@ quest/event/banner/haniwa_carnival/haniwa_carnival_04
 quest/event/banner/haniwa_carnival/haniwa_carnival_05
 quest/event/banner/haniwa_carnival/haniwa_carnival_06
 quest/event/banner/haniwa_carnival/haniwa_carnival_07
+quest/event/banner/hard_multi/hard_multi_event_steam_robot_fire
 quest/event/banner/raid_event/raid_event_banner_01_001
 quest/event/banner/raid_event/raid_event_banner_01_002
 quest/event/banner/raid_event/raid_event_banner_01_003
@@ -72391,6 +72423,8 @@ quest/event/banner/raid_event/raid_event_banner_04_003
 quest/event/banner/rush_event/combat_diver_01_banner_001
 quest/event/banner/rush_event/combat_diver_01_banner_002
 quest/event/banner/rush_event/combat_diver_01_banner_003
+quest/event/banner/score_attack_event/score_attack_banner_01
+quest/event/banner/score_attack_event/score_attack_header_01
 quest/event/banner/side_story_event/side_story_event
 quest/event/banner/solo_time_attack_event/solo_time_attack
 quest/event/banner/story_event/anv1_countdown_event_002_banner
@@ -72494,6 +72528,7 @@ quest/event/bossbattle_banner/advent_event/advent_event_u_collabo_banner
 quest/event/bossbattle_banner/advent_event/advent_event_xm20
 quest/event/bossbattle_banner/advent_event/advent_event_xm21
 quest/event/bossbattle_banner/advent_event/boss_epuration_event_01
+quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_fire
 quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_01
 quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_02
 quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_03
@@ -72569,12 +72604,16 @@ quest/event/logo/expert_single_side_story/bpss_logo_fake_princess_01_big_boss
 quest/event/logo/expert_single_side_story/expert_single_side_story_logo_folder
 quest/event/logo/expert_single_side_story/expert_single_side_story_logo_top
 quest/event/logo/haniwa_carnival/haniwa_logo
+quest/event/logo/hard_multi/steam_robot_fire/steam_robot_fire_logo
+quest/event/logo/hard_multi/steam_robot_fire/unlock_logo
 quest/event/logo/ranking_event/green01/logo1
 quest/event/logo/ranking_event/light01/logo1
 quest/event/logo/ranking_event/red01/logo1
 quest/event/logo/ranking_event/water01/logo1
 quest/event/logo/ranking_event/yellow01/logo1
 quest/event/logo/rush_event/combat_diver_logo
+quest/event/logo/score_attack_event/score_attack_logo
+quest/event/logo/score_attack_event/score_attack_quest_result_logo
 quest/event/logo/solo_time_attack/solo_time_attack_logo
 quest/event/logo/solo_time_attack/solo_time_attack_quest_result_logo
 quest/event/logo/world_story_event/2halfanv/2halfanv_logo
@@ -73018,6 +73057,7 @@ quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_03
 quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01
 quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_02
 quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_03
+quest/thumbnail/hard_multi/hard_multi_steam_robot_fire/1
 quest/thumbnail/multi_battle/multi1_10_1
 quest/thumbnail/multi_battle/multi1_10_2
 quest/thumbnail/multi_battle/multi1_10_3
