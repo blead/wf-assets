@@ -2819,6 +2819,200 @@
       ]
     ]
   },
+  "10000014": {
+    "1": [
+      [
+        "1",
+        "23",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_dorsal_brothers",
+        "(None)",
+        "",
+        "1",
+        "2023-02-21 12:00:00",
+        "2023-02-22 04:59:59"
+      ]
+    ],
+    "2": [
+      [
+        "1",
+        "24",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_grizzly",
+        "(None)",
+        "",
+        "1",
+        "2023-02-21 12:00:00",
+        "2023-02-22 04:59:59"
+      ]
+    ],
+    "3": [
+      [
+        "1",
+        "9",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_kraken",
+        "(None)",
+        "",
+        "1",
+        "2023-02-22 05:00:00",
+        "2023-02-23 04:59:59"
+      ]
+    ],
+    "4": [
+      [
+        "1",
+        "5",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_gurdian_totem",
+        "(None)",
+        "",
+        "1",
+        "2023-02-22 05:00:00",
+        "2023-02-23 04:59:59"
+      ]
+    ],
+    "5": [
+      [
+        "1",
+        "10",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_hermit_crab",
+        "(None)",
+        "",
+        "1",
+        "2023-02-23 05:00:00",
+        "2023-02-24 04:59:59"
+      ]
+    ],
+    "6": [
+      [
+        "1",
+        "6",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_guardian_golem",
+        "(None)",
+        "",
+        "1",
+        "2023-02-23 05:00:00",
+        "2023-02-24 04:59:59"
+      ]
+    ],
+    "7": [
+      [
+        "1",
+        "23",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_dorsal_brothers",
+        "(None)",
+        "",
+        "1",
+        "2023-02-24 05:00:00",
+        "2023-02-25 04:59:59"
+      ]
+    ],
+    "8": [
+      [
+        "1",
+        "20",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_orochi",
+        "(None)",
+        "",
+        "1",
+        "2023-02-24 05:00:00",
+        "2023-02-25 04:59:59"
+      ]
+    ],
+    "9": [
+      [
+        "1",
+        "23",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_dorsal_brothers",
+        "(None)",
+        "",
+        "1",
+        "2023-02-25 05:00:00",
+        "2023-02-26 04:59:59"
+      ]
+    ],
+    "10": [
+      [
+        "1",
+        "24",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_grizzly",
+        "(None)",
+        "",
+        "1",
+        "2023-02-25 05:00:00",
+        "2023-02-26 04:59:59"
+      ]
+    ],
+    "11": [
+      [
+        "1",
+        "9",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_kraken",
+        "(None)",
+        "",
+        "1",
+        "2023-02-26 05:00:00",
+        "2023-02-27 04:59:59"
+      ]
+    ],
+    "12": [
+      [
+        "1",
+        "5",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_gurdian_totem",
+        "(None)",
+        "",
+        "1",
+        "2023-02-26 05:00:00",
+        "2023-02-27 04:59:59"
+      ]
+    ],
+    "13": [
+      [
+        "1",
+        "10",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_hermit_crab",
+        "(None)",
+        "",
+        "1",
+        "2023-02-27 05:00:00",
+        "2023-02-28 04:59:59"
+      ]
+    ],
+    "14": [
+      [
+        "1",
+        "6",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_guardian_golem",
+        "(None)",
+        "",
+        "1",
+        "2023-02-27 05:00:00",
+        "2023-02-28 04:59:59"
+      ]
+    ],
+    "15": [
+      [
+        "1",
+        "24",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_grizzly",
+        "(None)",
+        "",
+        "1",
+        "2023-02-28 05:00:00",
+        "2023-02-28 20:59:59"
+      ]
+    ],
+    "16": [
+      [
+        "1",
+        "20",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_orochi",
+        "(None)",
+        "",
+        "1",
+        "2023-02-28 05:00:00",
+        "2023-02-28 20:59:59"
+      ]
+    ]
+  },
   "10000013": {
     "1": [
       [

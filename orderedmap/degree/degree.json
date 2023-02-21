@@ -7916,6 +7916,32 @@
       "dynamic/degree/degree_favor_delusion_girl_2"
     ]
   ],
+  "1253007": [
+    [
+      "degree_favor_psycho_reaper_smr21_2",
+      "239011",
+      "秘薬の研究者（毛）",
+      "ひやくのけんきゅうしゃけ",
+      "獲得条件：【夏の精霊錬金薬師】ソーヴィのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_smr21_2"
+    ]
+  ],
+  "1141117": [
+    [
+      "degree_favor_psychic_shouta_smr22_2",
+      "168011",
+      "サマー・デビュー",
+      "さまーでびゅー",
+      "獲得条件：【彼らのヒーロー】伊野里ショウタのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_shouta_smr22_2"
+    ]
+  ],
   "1161105": [
     [
       "degree_favor_estateguild_leader_2",

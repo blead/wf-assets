@@ -4031,6 +4031,24 @@
       "false"
     ]
   ],
+  "204998": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event",
+      "2023-02-21 12:00:00",
+      "2023-02-28 20:59:59",
+      "false"
+    ]
+  ],
+  "205211": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_20smr21smr22smr_character_pickup_01",
+      "2023-02-21 12:00:00",
+      "2023-02-28 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
