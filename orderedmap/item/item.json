@@ -649,6 +649,32 @@
       "true"
     ]
   ],
+  "249": [
+    [
+      "limited_stamina_potion_46_00",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2023-04-07 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "248": [
     [
       "limited_stamina_potion_45_00",
@@ -3036,7 +3062,7 @@
       "2",
       "9999",
       "2015-12-31 23:59:59",
-      "2021-02-29 11:59:59",
+      "2021-02-28 11:59:59",
       "20",
       "false"
     ]
@@ -3062,7 +3088,7 @@
       "3",
       "9999",
       "2015-12-31 23:59:59",
-      "2021-02-29 11:59:59",
+      "2021-02-28 11:59:59",
       "30",
       "false"
     ]
@@ -10059,6 +10085,84 @@
       "2021-10-27 04:59:59",
       "(None)",
       "true"
+    ]
+  ],
+  "40321": [
+    [
+      "boss_coin_boss_epuration_event_02_1",
+      "粛清の光輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "粛清者との戦闘跡地から見つかった、歪んだ光輪。ドラゴンの素材と似た性質を持っている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40322": [
+    [
+      "boss_coin_boss_epuration_event_02_2",
+      "粛清の天輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "要注意粛清者の残留粒子が固まった光輪。学者達が対策を練る為に集めている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40323": [
+    [
+      "boss_epuration_point_02",
+      "粛清の心核",
+      "item/materials/event/boss_epuration_event/boss_epuration_point",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
+      "粛清者を倒した場所で稀に発見される結晶。特殊な波長を発しており、要注意個体の粛清者をおびき出す事ができる",
+      "19",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "0",
+      "5",
+      "99",
+      "2023-03-07 12:00:00",
+      "2023-03-21 20:59:59",
+      "(None)",
+      "false"
     ]
   ],
   "40311": [

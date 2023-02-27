@@ -1165,6 +1165,17 @@
       "2021-03-09 11:59:59"
     ]
   ],
+  "event_boss_epuration_event_02": [
+    [
+      "help_label_event_boss_epuration_event_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_epuration_event_01",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59"
+    ]
+  ],
   "event_boss_epuration_event_01": [
     [
       "help_label_event_boss_epuration_event_01",

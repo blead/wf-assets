@@ -529,6 +529,11 @@
       "注意事項"
     ]
   ],
+  "gacha_ratio_dialog_no_gacha": [
+    [
+      "開催中のガチャが見つかりませんでした"
+    ]
+  ],
   "gacha_once_per_day_description": [
     [
       "毎日::resetHour::時にリセット!"
@@ -11119,16 +11124,6 @@
       "フォロワーの参加を許可しますか？"
     ]
   ],
-  "story_skip_outline": [
-    [
-      "あらすじ"
-    ]
-  ],
-  "story_skip_notice": [
-    [
-      "<font color='#00a090'>【先に進む】</font>を押すと、ストーリーをSKIPします"
-    ]
-  ],
   "quest_result_get_first_reward": [
     [
       "初回報酬を獲得しました！"
@@ -14137,6 +14132,26 @@
   "multi_battle_result_favorite_party_button_disable_label": [
     [
       "お気に入り登録済み"
+    ]
+  ],
+  "gacha_ratio_dialog_html_template": [
+    [
+      "<!DOCTYPE html/><html>\n<head>\n  <meta charset=\"utf-8\"/>\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\"/>\n</head>\n<body class=\"body\" style_id=\"1\">::body_text::</body>\n</html>"
+    ]
+  ],
+  "gacha_ratio_dialog_odds_group_template": [
+    [
+      "<div class=\"container\">\n<h2>::gacha_title::(::odds_group_title::)</h2>\n::rarity_list::\n</div>"
+    ]
+  ],
+  "gacha_ratio_dialog_rarity_template": [
+    [
+      "<p>::rarity_name::(レアリティ提供割合::rarity_odds::%)</p>\n<p>\n::prize_list::\n</p>"
+    ]
+  ],
+  "gacha_ratio_dialog_prize_template": [
+    [
+      "・::prize_name::　(::prize_odds::%)<br/>"
     ]
   ],
   "help_label_event_advent_u_collabo": [

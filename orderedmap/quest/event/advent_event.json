@@ -1049,6 +1049,36 @@
       "2022-07-21 04:59:59"
     ]
   ],
+  "200021": [
+    [
+      "boss_epuration_event_02",
+      "(None)",
+      "粛清者討伐戦",
+      "",
+      "quest/event/banner/advent_event/boss_epuration_event_01",
+      "quest/event/bossbattle_banner/advent_event/boss_epuration_event_01",
+      "1",
+      "quest/event/animation_background/advent_event/boss_epuration_event_background",
+      "quest/event/logo/advent_event/boss_epuration_event",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon_event_lock",
+      "3",
+      "(None)",
+      "27",
+      "bgm/event/boss_epuration_event/system/boss_epuration_event_top",
+      "boss_epuration",
+      "40321",
+      "40322",
+      "(None)",
+      "(None)",
+      "true",
+      "boss_epuration_event_01",
+      "true",
+      "2023-03-07 12:00:00",
+      "2023-03-21 20:59:59",
+      "2023-03-29 04:59:59"
+    ]
+  ],
   "200013": [
     [
       "boss_epuration_event_01",
