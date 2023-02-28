@@ -11335,6 +11335,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "111153": [
+    [
+      "degree_favor_flame_blessgirl",
+      "24000",
+      "炎の新米冒険者",
+      "ほのおしんまいぼうけんしゃ",
+      "獲得条件：【炎の新米冒険者】ルネッタをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_flame_blessgirl"
+    ]
+  ],
+  "141153": [
+    [
+      "degree_favor_psychic_gal",
+      "115000",
+      "自由の能力者",
+      "じゆうののうりょくしゃ",
+      "獲得条件：【自由の能力者】朝戸ヤヱをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_gal"
+    ]
+  ],
+  "161171": [
+    [
+      "degree_favor_impostor_priest",
+      "176000",
+      "闇夜の似非神官",
+      "やみよのえせしんかん",
+      "獲得条件：【闇夜の似非神官】イオレスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_impostor_priest"
+    ]
+  ],
   "141147": [
     [
       "degree_favor_heavenly_two_vt23",
@@ -15012,6 +15051,58 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_advent_event_theatrio_clear_3"
+    ]
+  ],
+  "62340": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_1",
+      "646475",
+      "翠愁の打倒者",
+      "すいしゅうのだとうしゃ",
+      "獲得条件：降臨討伐 翠愁の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_1"
+    ]
+  ],
+  "62350": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_2",
+      "646476",
+      "翠愁の征服者",
+      "すいしゅうのせいふくしゃ",
+      "獲得条件：降臨討伐 翠愁の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_2"
+    ]
+  ],
+  "62360": [
+    [
+      "degree_advent_event_steam_robot_wind_clear_3",
+      "646477",
+      "翠愁の討滅者",
+      "すいしゅうのとうめつしゃ",
+      "獲得条件：降臨討伐 翠愁の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_wind_clear_3"
+    ]
+  ],
+  "62370": [
+    [
+      "degree_steam_robot_wind_challenge_clear_1",
+      "539100",
+      "翠愁の試練：決",
+      "すいしゅうのしれんけつ",
+      "獲得条件：共同決戦 翠愁の機兵で翠機兵クラーグの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_wind_challenge_clear_1"
     ]
   ],
   "62300": [

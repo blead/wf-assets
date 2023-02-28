@@ -857,6 +857,17 @@
       "2023-01-20 04:59:59"
     ]
   ],
+  "event_hard_multi_wind": [
+    [
+      "help_label_event_hard_multi_wind",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_hard_multi_steam_robot_wind",
+      "2023-02-28 12:00:00",
+      "2023-03-22 04:59:59"
+    ]
+  ],
   "Event_haniwa_carnival": [
     [
       "help_label_event_haniwa_carnival",
@@ -1768,6 +1779,17 @@
       "rich_text/help_event_advent_spirit_beast_water3",
       "2023-01-25 12:00:00",
       "2023-02-08 04:59:59"
+    ]
+  ],
+  "event_advent_steam_robot_wind": [
+    [
+      "help_label_event_advent_steam_robot_wind",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_steam_robot_wind",
+      "2023-02-28 12:00:00",
+      "2023-03-22 04:59:59"
     ]
   ],
   "event_story_valen20": [

@@ -5133,6 +5133,125 @@
       ]
     ]
   },
+  "163": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/red_element_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111129",
+        "0",
+        "111129",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_70/lion_swordman_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111129",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_tsundere_bountyhunter",
+        "111057",
+        "0",
+        "111057",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_40/tsundere_bountyhunter/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111057",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_zeta",
+        "111051",
+        "0",
+        "111051",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_37/zeta/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111051",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_magic_sword_girl",
+        "211012",
+        "0",
+        "211012",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_18/magic_sword_girl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "211012",
+        ""
+      ]
+    ]
+  },
   "91": {
     "1": [
       [
@@ -5635,6 +5754,99 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "162": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_82/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111153",
+        "0",
+        "111153",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_82/flame_blessgirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111153",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141153",
+        "0",
+        "141153",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_82/psychic_gal/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141153",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161171",
+        "0",
+        "161171",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_82/impostor_priest/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161171",
         ""
       ]
     ]
@@ -12135,6 +12347,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_white_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5034": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_water_pickup_2",
         "",
         "",
         "",

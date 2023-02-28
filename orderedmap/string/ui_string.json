@@ -164,6 +164,11 @@
       "無限演武は\nプレイヤーランクが::need_player_rank::以上になることで\n解放されます"
     ]
   ],
+  "system_lock_hard_multi_green": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「翠愁の機兵」の「翠機兵クラーグ 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -5309,6 +5314,11 @@
       "降臨討伐 紅嫉の機兵"
     ]
   ],
+  "help_label_event_advent_steam_robot_wind": [
+    [
+      "降臨討伐 翠愁の機兵"
+    ]
+  ],
   "help_label_event_advent_zcollab": [
     [
       "降臨討伐 暴走ロメロを止めろ"
@@ -5372,6 +5382,11 @@
   "help_label_event_hard_multi_fire": [
     [
       "共同決戦 紅嫉の機兵"
+    ]
+  ],
+  "help_label_event_hard_multi_wind": [
+    [
+      "共同決戦 翠愁の機兵"
     ]
   ],
   "help_label_event_challenge": [

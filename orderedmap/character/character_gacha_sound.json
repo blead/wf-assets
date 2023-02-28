@@ -2249,6 +2249,62 @@
       ]
     ]
   },
+  "111153": {
+    "5": [
+      [
+        "sound_effect/fire/se_single_explosion"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/fire/se_fire_spread"
+      ]
+    ]
+  },
+  "141153": {
+    "5": [
+      [
+        "sound_effect/situation/se_impress_unlockkey"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/element/se_power_flip_special_lv2_set"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/wind/se_single_tornado"
+      ]
+    ]
+  },
+  "161171": {
+    "17": [
+      [
+        "sound_effect/dark/se_dark_hit_shadow"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/weapon/se_swing_ver2"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/weapon/se_swing_ver2"
+      ]
+    ],
+    "131": [
+      [
+        "sound_effect/element/se_power_flip_special_lv3_set"
+      ]
+    ],
+    "173": [
+      [
+        "sound_effect/dark/se_soul_shot"
+      ]
+    ]
+  },
   "141147": {
     "5": [
       [

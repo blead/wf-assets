@@ -989,6 +989,36 @@
       "2023-02-08 04:59:59"
     ]
   ],
+  "200017": [
+    [
+      "advent_steam_robot_wind",
+      "(None)",
+      "翠愁の機兵",
+      "",
+      "quest/event/banner/advent_event/advent_event_steam_robot_wind",
+      "quest/event/bossbattle_banner/advent_event/advent_event_steam_robot_wind",
+      "0",
+      "quest/event/background/advent_event/advent_event_steam_robot_wind",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "30",
+      "bgm/event/advent_steam_robot/advent_steam_robot_top",
+      "event",
+      "49341",
+      "49342",
+      "49343",
+      "(None)",
+      "true",
+      "advent_steam_robot_wind",
+      "true",
+      "2023-02-28 12:00:00",
+      "2023-03-14 20:59:59",
+      "2023-03-22 04:59:59"
+    ]
+  ],
   "100007": [
     [
       "advent_u_collabo_event",

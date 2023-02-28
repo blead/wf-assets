@@ -1035,6 +1035,20 @@
       "battle/field_object/world_advent/summer22_area/fever_gauge/summer22_area_fever_gauge"
     ]
   ],
+  "steampunk_wind_area": [
+    [
+      "battle/field/world_advent/steampunk_wind_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
   "steampunk_fire_area": [
     [
       "battle/field/world_advent/steampunk_fire_area/background/background",

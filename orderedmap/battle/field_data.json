@@ -3919,6 +3919,20 @@
       "summer22_helicopter_expert"
     ]
   ],
+  "steampunk_wind": [
+    [
+      "steampunk_wind_area",
+      "battle/terrain/event_quest/advent_event/steampunk_wind/steampunk_wind",
+      "steampunk_wind"
+    ]
+  ],
+  "steampunk_wind_hard": [
+    [
+      "steampunk_wind_area",
+      "battle/terrain/event_quest/advent_event/steampunk_wind/steampunk_wind",
+      "steampunk_wind_hard"
+    ]
+  ],
   "steampunk_fire_1": [
     [
       "steampunk_fire_area",
@@ -4127,6 +4141,20 @@
       "boss_battle_shark_area",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_shark",
       "score_event_shark"
+    ]
+  ],
+  "multi_normal_1_16_1_score_event": [
+    [
+      "mecha_old_town",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_security_armour",
+      "multi_normal_1_16_1_score_event"
+    ]
+  ],
+  "tower_dungeon_area_10_5_3_score_event": [
+    [
+      "mecha_area02",
+      "battle/terrain/event_quest/tower_dungeon/area_10_05/tower_dungeon_area_10_5_3",
+      "tower_dungeon_area_10_5_3_score_event"
     ]
   ],
   "rush_05_ghost_fox": [
@@ -5597,6 +5625,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_flame_blessgirl": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_flame_blessgirl",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_gal": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_gal",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_impostor_priest": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_impostor_priest",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_heavenly_two_vt23": [

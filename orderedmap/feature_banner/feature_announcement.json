@@ -4058,6 +4058,51 @@
       "false"
     ]
   ],
+  "205907": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_water_pickup_2",
+      "2023-02-28 12:00:00",
+      "2023-03-31 11:59:59",
+      "false"
+    ]
+  ],
+  "204657": [
+    [
+      "2000",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_wind",
+      "2023-02-28 12:00:00",
+      "2023-03-14 20:59:59",
+      "false"
+    ]
+  ],
+  "202699": [
+    [
+      "2001",
+      "dynamic/feature_announcement/advent_event_steam_robot_wind",
+      "2023-02-28 12:00:00",
+      "2023-03-14 20:59:59",
+      "false"
+    ]
+  ],
+  "206041": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_82",
+      "2023-02-28 12:00:00",
+      "2023-03-07 11:59:59",
+      "false"
+    ]
+  ],
+  "206050": [
+    [
+      "3001",
+      "dynamic/feature_announcement/red_element_character_pickup_03",
+      "2023-02-28 12:00:00",
+      "2023-03-07 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

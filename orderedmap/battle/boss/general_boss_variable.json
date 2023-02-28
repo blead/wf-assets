@@ -2432,6 +2432,35 @@
       ]
     }
   },
+  "security_armour_multi_score_event": {
+    "100": {
+      "move_shot_fire": [
+        [
+          "7"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "45"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge1_2": [
+        [
+          "300"
+        ]
+      ],
+      "target_set1": [
+        [
+          "10"
+        ]
+      ]
+    }
+  },
   "security_armour_single": {
     "49": {
       "move_shot_fire": [
@@ -14175,6 +14204,40 @@
       "funnel_charge": [
         [
           "30"
+        ]
+      ]
+    }
+  },
+  "administrator_light_single_score_event": {
+    "100": {
+      "gatling_wait": [
+        [
+          "240"
+        ]
+      ],
+      "laser_wait": [
+        [
+          "80"
+        ]
+      ],
+      "guard_funnel_wait": [
+        [
+          "80"
+        ]
+      ],
+      "skill_charge1_1": [
+        [
+          "210"
+        ]
+      ],
+      "skill_charge1_2": [
+        [
+          "360"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "60"
         ]
       ]
     }

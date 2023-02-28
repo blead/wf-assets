@@ -3869,6 +3869,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/flame_blessgirl/flame_blessgirl": [
+    [
+      "0.35",
+      "158",
+      "0.07716554",
+      "24.341156",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/impostor_priest/impostor_priest": [
+    [
+      "0.35",
+      "120",
+      "0.063424036",
+      "64.02342",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_gal/psychic_gal": [
+    [
+      "0.35",
+      "132",
+      "0.057664398",
+      "30.850658",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/dark_psygirl_vt23/dark_psygirl_vt23": [
     [
       "0.35",
@@ -8835,6 +8865,16 @@
       "200",
       "0.060566895",
       "110.009544",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_wind/battle/advent_steam_robot_wind_boss": [
+    [
+      "0.35",
+      "150",
+      "0.06995465",
+      "56.829956",
       "(None)",
       "12"
     ]

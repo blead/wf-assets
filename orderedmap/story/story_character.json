@@ -8069,6 +8069,316 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "impostor_priest": [
+    [
+      "イオレス",
+      "0x3f2843",
+      "character/impostor_priest/voice/",
+      "normal,amazed,confused,deceive,normal_b,objection,serious,shame,smile,surprise,sweat,think,evolve",
+      "character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_1",
+      "character/impostor_priest/ui/story/normal,character/impostor_priest/ui/story/amazed,character/impostor_priest/ui/story/confused,character/impostor_priest/ui/story/deceive,character/impostor_priest/ui/story/normal_b,character/impostor_priest/ui/story/objection,character/impostor_priest/ui/story/serious,character/impostor_priest/ui/story/shame,character/impostor_priest/ui/story/smile,character/impostor_priest/ui/story/surprise,character/impostor_priest/ui/story/sweat,character/impostor_priest/ui/story/think,(None)"
+    ]
+  ],
+  "impostor_priest_noname": [
+    [
+      "神官らしき男性",
+      "0x3f2843",
+      "character/impostor_priest/voice/",
+      "normal,amazed,confused,deceive,normal_b,objection,serious,shame,smile,surprise,sweat,think,evolve",
+      "character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_0,character/impostor_priest/ui/story/base_1",
+      "character/impostor_priest/ui/story/normal,character/impostor_priest/ui/story/amazed,character/impostor_priest/ui/story/confused,character/impostor_priest/ui/story/deceive,character/impostor_priest/ui/story/normal_b,character/impostor_priest/ui/story/objection,character/impostor_priest/ui/story/serious,character/impostor_priest/ui/story/shame,character/impostor_priest/ui/story/smile,character/impostor_priest/ui/story/surprise,character/impostor_priest/ui/story/sweat,character/impostor_priest/ui/story/think,(None)"
+    ]
+  ],
+  "mob_blackrobe_man": [
+    [
+      "黒いローブの男",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_blackrobe_man_unknown": [
+    [
+      "？？？",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_panic_man": [
+    [
+      "慌てた男",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_panic_man_unknown": [
+    [
+      "？？？",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_same_organized_man": [
+    [
+      "同じ組織だった男",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_same_organized_man_unknown": [
+    [
+      "？？？",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_gal": [
+    [
+      "朝戸ヤヱ",
+      "0x539722",
+      "character/psychic_gal/voice/",
+      "normal,anger,anger_b,cry,normal_b,normal_c,sad,serious,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_1",
+      "character/psychic_gal/ui/story/normal,character/psychic_gal/ui/story/anger,character/psychic_gal/ui/story/anger_b,character/psychic_gal/ui/story/cry,character/psychic_gal/ui/story/normal_b,character/psychic_gal/ui/story/normal_c,character/psychic_gal/ui/story/sad,character/psychic_gal/ui/story/serious,character/psychic_gal/ui/story/shame,character/psychic_gal/ui/story/smile,character/psychic_gal/ui/story/smile_b,character/psychic_gal/ui/story/surprise,character/psychic_gal/ui/story/surprise_b,character/psychic_gal/ui/story/sweat,character/psychic_gal/ui/story/think,(None)"
+    ]
+  ],
+  "psychic_gal_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/psychic_gal/voice/",
+      "normal",
+      "character/psychic_gal/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "psychic_gal_noname": [
+    [
+      "空を飛んできた女子生徒",
+      "0x539722",
+      "character/psychic_gal/voice/",
+      "normal,anger,anger_b,cry,normal_b,normal_c,sad,serious,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_0,character/psychic_gal/ui/story/base_1",
+      "character/psychic_gal/ui/story/normal,character/psychic_gal/ui/story/anger,character/psychic_gal/ui/story/anger_b,character/psychic_gal/ui/story/cry,character/psychic_gal/ui/story/normal_b,character/psychic_gal/ui/story/normal_c,character/psychic_gal/ui/story/sad,character/psychic_gal/ui/story/serious,character/psychic_gal/ui/story/shame,character/psychic_gal/ui/story/smile,character/psychic_gal/ui/story/smile_b,character/psychic_gal/ui/story/surprise,character/psychic_gal/ui/story/surprise_b,character/psychic_gal/ui/story/sweat,character/psychic_gal/ui/story/think,(None)"
+    ]
+  ],
+  "mob_brunette_gal": [
+    [
+      "黒髪のギャル",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_blonde_gal": [
+    [
+      "金髪のギャル",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_gal_dream": [
+    [
+      "朝戸ヤヱ？",
+      "0x539722",
+      "character/psychic_gal/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_smuggler": [
+    [
+      "密輸人",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_friend_fellow": [
+    [
+      "ハルト",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "flame_blessgirl": [
+    [
+      "ルネッタ",
+      "0xa32535",
+      "character/flame_blessgirl/voice/",
+      "normal,anger,anger_b,normal_b,panic,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_1",
+      "character/flame_blessgirl/ui/story/normal,character/flame_blessgirl/ui/story/anger,character/flame_blessgirl/ui/story/anger_b,character/flame_blessgirl/ui/story/normal_b,character/flame_blessgirl/ui/story/panic,character/flame_blessgirl/ui/story/sad,character/flame_blessgirl/ui/story/serious,character/flame_blessgirl/ui/story/serious_b,character/flame_blessgirl/ui/story/shame,character/flame_blessgirl/ui/story/smile,character/flame_blessgirl/ui/story/smile_b,character/flame_blessgirl/ui/story/surprise,character/flame_blessgirl/ui/story/surprise_b,character/flame_blessgirl/ui/story/sweat,character/flame_blessgirl/ui/story/think,(None)"
+    ]
+  ],
+  "flame_blessgirl_noname": [
+    [
+      "朱色の髪の少女",
+      "0xa32535",
+      "character/flame_blessgirl/voice/",
+      "normal,anger,anger_b,normal_b,panic,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_0,character/flame_blessgirl/ui/story/base_1",
+      "character/flame_blessgirl/ui/story/normal,character/flame_blessgirl/ui/story/anger,character/flame_blessgirl/ui/story/anger_b,character/flame_blessgirl/ui/story/normal_b,character/flame_blessgirl/ui/story/panic,character/flame_blessgirl/ui/story/sad,character/flame_blessgirl/ui/story/serious,character/flame_blessgirl/ui/story/serious_b,character/flame_blessgirl/ui/story/shame,character/flame_blessgirl/ui/story/smile,character/flame_blessgirl/ui/story/smile_b,character/flame_blessgirl/ui/story/surprise,character/flame_blessgirl/ui/story/surprise_b,character/flame_blessgirl/ui/story/sweat,character/flame_blessgirl/ui/story/think,(None)"
+    ]
+  ],
+  "mob_adventurer_man": [
+    [
+      "冒険者の男性",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_branch_store_man": [
+    [
+      "出店のおじさん",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_middlerank_adventurer": [
+    [
+      "中堅の冒険者",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_injured_adventurer": [
+    [
+      "怪我をした冒険者",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "old_woman": [
+    [
+      "おばあさん",
+      "0x32587d",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_younger_voice": [
+    [
+      "若い男性の声",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_cool_adventurer": [
+    [
+      "クールな冒険者",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_expert_adventurer": [
+    [
+      "熟練の冒険者",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shrewdness_adventurer": [
+    [
+      "強かな冒険者",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_tough_adventurer": [
+    [
+      "逞しい冒険者",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_bullish_adventurer": [
+    [
+      "強気な冒険者",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_friendly_adventurer": [
+    [
+      "気さくな冒険者",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_serious_adventurer": [
+    [
+      "真面目な冒険者",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "sleep_puppy_vt23": [
     [
       "フィーニ",

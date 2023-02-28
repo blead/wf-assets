@@ -150,5 +150,13 @@
       "short_system_lock_score_attack",
       "0"
     ]
+  ],
+  "hard_multi_green": [
+    [
+      "condition_hard_multi_green",
+      "system_lock_hard_multi_green",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
   ]
 }

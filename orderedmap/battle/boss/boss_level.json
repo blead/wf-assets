@@ -3195,6 +3195,40 @@
       "300"
     ]
   ],
+  "administrator_light_single_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "100",
+      "1",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "10",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "20"
+    ]
+  ],
+  "security_armour_multi_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "130",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "45"
+    ]
+  ],
   "spirit_beast_water_rush_1": [
     [
       "0",

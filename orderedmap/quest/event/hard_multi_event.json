@@ -28,5 +28,35 @@
       "2023-01-13 20:59:59",
       "2023-01-20 04:59:59"
     ]
+  ],
+  "2": [
+    [
+      "hard_multi_steam_robot_wind",
+      "(None)",
+      "共同決戦【翠愁の機兵】",
+      "",
+      "quest/event/banner/hard_multi/hard_multi_event_steam_robot_wind",
+      "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_wind",
+      "quest/event/animation_background/hard_multi/hard_multi_steam_robot_wind/background",
+      "quest/event/logo/hard_multi/steam_robot_wind/steam_robot_wind_logo",
+      "3",
+      "quest/event/logo/hard_multi/steam_robot_wind/unlock_logo",
+      "(None)",
+      "31",
+      "bgm/event/advent_steam_robot/advent_steam_robot_top",
+      "hard_multi_green",
+      "2",
+      "hard_multi_wind_01",
+      "49300",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "hard_multi_steam_robot_wind",
+      "event_hard_multi_wind",
+      "2023-02-28 12:00:00",
+      "2023-03-14 20:59:59",
+      "2023-03-22 04:59:59"
+    ]
   ]
 }

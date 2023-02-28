@@ -287,6 +287,40 @@
       ]
     ]
   },
+  "steampunk_wind_multi": {
+    "20": [
+      [
+        "翠機兵クラーグ",
+        "battle/enemy/boss/steampunk_wind_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "翠機兵クラーグ",
+        "battle/enemy/boss/steampunk_wind_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "翠機兵クラーグ",
+        "battle/enemy/boss/steampunk_wind_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "翠機兵クラーグ",
+        "battle/enemy/boss/steampunk_wind_multi4"
+      ]
+    ]
+  },
+  "steampunk_wind_hard_multi": {
+    "100": [
+      [
+        "翠機兵クラーグ",
+        "battle/enemy/boss/steampunk_wind_hard_multi"
+      ]
+    ]
+  },
   "steampunk_fire_multi": {
     "20": [
       [

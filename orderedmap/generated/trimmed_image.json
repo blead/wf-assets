@@ -24799,6 +24799,174 @@
       "690"
     ]
   ],
+  "character/flame_blessgirl/ui/full_shot_1440_1920_0": [
+    [
+      "334",
+      "139",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/flame_blessgirl/ui/skill_cutin_0": [
+    [
+      "296",
+      "66",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/flame_blessgirl/ui/full_shot_1440_1920_1": [
+    [
+      "177",
+      "187",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/flame_blessgirl/ui/skill_cutin_1": [
+    [
+      "0",
+      "66",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/anger": [
+    [
+      "201",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/anger_b": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/base_0": [
+    [
+      "0",
+      "65",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/base_1": [
+    [
+      "0",
+      "71",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/normal": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/normal_b": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/panic": [
+    [
+      "200",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/sad": [
+    [
+      "200",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/serious": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/serious_b": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/shame": [
+    [
+      "221",
+      "315",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/smile": [
+    [
+      "204",
+      "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/smile_b": [
+    [
+      "200",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/surprise": [
+    [
+      "203",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/surprise_b": [
+    [
+      "203",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/sweat": [
+    [
+      "234",
+      "332",
+      "570",
+      "690"
+    ]
+  ],
+  "character/flame_blessgirl/ui/story/think": [
+    [
+      "212",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
   "character/flame_witch/ui/full_shot_1440_1920_0": [
     [
       "0",
@@ -33819,6 +33987,150 @@
     [
       "212",
       "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/full_shot_1440_1920_0": [
+    [
+      "259",
+      "226",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/impostor_priest/ui/skill_cutin_0": [
+    [
+      "359",
+      "97",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/impostor_priest/ui/full_shot_1440_1920_1": [
+    [
+      "163",
+      "237",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/impostor_priest/ui/skill_cutin_1": [
+    [
+      "165",
+      "42",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/impostor_priest/ui/story/amazed": [
+    [
+      "189",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/base_0": [
+    [
+      "0",
+      "96",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/base_1": [
+    [
+      "0",
+      "133",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/confused": [
+    [
+      "189",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/deceive": [
+    [
+      "189",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/normal": [
+    [
+      "188",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/normal_b": [
+    [
+      "188",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/objection": [
+    [
+      "189",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/serious": [
+    [
+      "189",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/shame": [
+    [
+      "196",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/smile": [
+    [
+      "188",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/surprise": [
+    [
+      "189",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/sweat": [
+    [
+      "320",
+      "310",
+      "570",
+      "690"
+    ]
+  ],
+  "character/impostor_priest/ui/story/think": [
+    [
+      "188",
+      "238",
       "570",
       "690"
     ]
@@ -53603,6 +53915,182 @@
     [
       "205",
       "207",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/full_shot_1440_1920_0": [
+    [
+      "239",
+      "258",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_gal/ui/skill_cutin_0": [
+    [
+      "334",
+      "129",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_gal/ui/full_shot_1440_1920_1": [
+    [
+      "121",
+      "216",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_gal/ui/skill_cutin_1": [
+    [
+      "142",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_gal/ui/story/anger": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/anger_b": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/base_0": [
+    [
+      "0",
+      "135",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/cry": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/normal": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/normal_b": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/normal_c": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/sad": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/serious": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/shame": [
+    [
+      "202",
+      "268",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/smile": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/smile_b": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/surprise": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/surprise_b": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/sweat": [
+    [
+      "238",
+      "326",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/think": [
+    [
+      "177",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_gal/ui/story/unknown": [
+    [
+      "0",
+      "135",
       "570",
       "690"
     ]
