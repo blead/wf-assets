@@ -64259,6 +64259,7 @@ dynamic/feature_announcement/revival_20ny_character_pickup_01
 dynamic/feature_announcement/revival_20smr21smr22smr_character_pickup_01
 dynamic/feature_announcement/revival_21ny_character_pickup_01
 dynamic/feature_announcement/revival_2anv_character_pickup_01
+dynamic/feature_announcement/revival_2anv_character_pickup_02
 dynamic/feature_announcement/revival_2halfanv_character_pickup_01
 dynamic/feature_announcement/revival_crown_beasts_character_pickup_01
 dynamic/feature_announcement/revival_desert_bonds_character_pickup_01
@@ -64626,6 +64627,7 @@ dynamic/gacha_list_banner/revival_20ny_character_pickup_01
 dynamic/gacha_list_banner/revival_20smr21smr22smr_character_pickup_01
 dynamic/gacha_list_banner/revival_21ny_character_pickup_01
 dynamic/gacha_list_banner/revival_2anv_character_pickup_01
+dynamic/gacha_list_banner/revival_2anv_character_pickup_02
 dynamic/gacha_list_banner/revival_2halfanv_character_pickup_01
 dynamic/gacha_list_banner/revival_crown_beasts_character_pickup_01
 dynamic/gacha_list_banner/revival_desert_bonds_character_pickup_01
@@ -65052,6 +65054,7 @@ dynamic/home_banner/gacha/revival_20ny_character_pickup_01
 dynamic/home_banner/gacha/revival_20smr21smr22smr_character_pickup_01
 dynamic/home_banner/gacha/revival_21ny_character_pickup_01
 dynamic/home_banner/gacha/revival_2anv_character_pickup_01
+dynamic/home_banner/gacha/revival_2anv_character_pickup_02
 dynamic/home_banner/gacha/revival_2halfanv_character_pickup_01
 dynamic/home_banner/gacha/revival_crown_beasts_character_pickup_01
 dynamic/home_banner/gacha/revival_desert_bonds_character_pickup_01
@@ -66447,6 +66450,7 @@ gacha/feature_movie/revival_20ny_character_pickup_01/top/feature
 gacha/feature_movie/revival_20smr21smr22smr_character_pickup_01/top/feature
 gacha/feature_movie/revival_21ny_character_pickup_01/top/feature
 gacha/feature_movie/revival_2anv_character_pickup_01/top/feature
+gacha/feature_movie/revival_2anv_character_pickup_02/top/feature
 gacha/feature_movie/revival_2halfanv_character_pickup_01/top/feature
 gacha/feature_movie/revival_crown_beasts_character_pickup_01/top/feature
 gacha/feature_movie/revival_desert_bonds_character_pickup_01/top/feature
@@ -69868,6 +69872,7 @@ item/materials/event/u_collabo_event/u_collabo_exchange_item_02
 item/materials/event/vt22/box_token_vt22
 item/materials/event/whiteday_21/white_day_2021
 item/materials/event/whiteday_22/white_day_2022
+item/materials/event/whiteday_23/white_day_2023
 item/materials/event/yokai_emaki_01/box_token_yokai_emaki_01
 item/sell
 item/spends/encyclopedia/item_encyclopedia_logkey
@@ -73475,6 +73480,7 @@ quest/thumbnail/advent_event/spirit_beast_fire/1
 quest/thumbnail/advent_event/spirit_beast_fire/2
 quest/thumbnail/advent_event/spirit_beast_fire/3
 quest/thumbnail/advent_event/spirit_beast_fire/4
+quest/thumbnail/advent_event/spirit_beast_fire/5
 quest/thumbnail/advent_event/spirit_beast_light/1
 quest/thumbnail/advent_event/spirit_beast_light/2
 quest/thumbnail/advent_event/spirit_beast_light/3
@@ -74482,6 +74488,7 @@ rich_text/help_event_advent_spirit_beast_dark
 rich_text/help_event_advent_spirit_beast_dark2
 rich_text/help_event_advent_spirit_beast_fire
 rich_text/help_event_advent_spirit_beast_fire2
+rich_text/help_event_advent_spirit_beast_fire3
 rich_text/help_event_advent_spirit_beast_light
 rich_text/help_event_advent_spirit_beast_light2
 rich_text/help_event_advent_spirit_beast_light3

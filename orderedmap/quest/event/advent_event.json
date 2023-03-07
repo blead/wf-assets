@@ -1259,6 +1259,36 @@
       "2023-02-22 04:59:59"
     ]
   ],
+  "200019": [
+    [
+      "advent_spirit_beast_fire3",
+      "(None)",
+      "炎嗟の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_fire",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_fire",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "20",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "40324",
+      "40325",
+      "40326",
+      "(None)",
+      "true",
+      "advent_spirit_beast_fire",
+      "true",
+      "2023-03-07 12:00:00",
+      "2023-03-21 20:59:59",
+      "2023-03-29 04:59:59"
+    ]
+  ],
   "200005": [
     [
       "advent_spirit_beast_fire2",

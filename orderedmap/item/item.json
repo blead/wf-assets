@@ -2053,6 +2053,32 @@
       "false"
     ]
   ],
+  "50107": [
+    [
+      "whiteday_23_stamina_present_01",
+      "シロクマさんクッキー",
+      "item/materials/event/whiteday_23/white_day_2023",
+      "(None)",
+      "シロクマを模したクッキー。愛らしい外見と優しい味わいが人気の看板商品",
+      "2",
+      "100",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "50",
+      "4",
+      "9999",
+      "2015-12-31 23:59:59",
+      "(None)",
+      "(None)",
+      "false"
+    ]
+  ],
   "50106": [
     [
       "whiteday_22_stamina_present_01",
@@ -11981,6 +12007,84 @@
       "9999",
       "2022-11-07 12:00:00",
       "2022-11-23 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40324": [
+    [
+      "boss_coin_advent_spirit_beast_fire3_1",
+      "火魔オルタネアの銀貨",
+      "item/materials/boss_coin/spirit_beast_fire_1",
+      "item_icon/materials/boss_coin/boss_coin_1",
+      "火魔オルタネアの彫りが入った銀貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "3",
+      "3",
+      "9999",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40325": [
+    [
+      "boss_coin_advent_spirit_beast_fire3_2",
+      "火魔オルタネアの金貨",
+      "item/materials/boss_coin/spirit_beast_fire_2",
+      "item_icon/materials/boss_coin/boss_coin_2",
+      "火魔オルタネアの彫りが入った金貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "40326": [
+    [
+      "boss_coin_advent_spirit_beast_fire3_3",
+      "火魔オルタネアの紫貨",
+      "item/materials/boss_coin/spirit_beast_fire_3",
+      "item_icon/materials/boss_coin/boss_coin_3",
+      "火魔オルタネアの彫りが入った紫貨。好事家が集めているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2023-03-07 12:00:00",
+      "2023-03-29 04:59:59",
       "(None)",
       "true"
     ]
