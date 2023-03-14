@@ -835,6 +835,17 @@
       "2022-03-12 20:59:59"
     ]
   ],
+  "event_kc_summer_2021": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_summer_2021",
+      "2023-03-14 12:00:00",
+      "2023-04-07 04:59:59"
+    ]
+  ],
   "Event_Advent_k_collabo": [
     [
       "help_label_event_advent_k_collabo",

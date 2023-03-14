@@ -2249,6 +2249,52 @@
       ]
     ]
   },
+  "141159": {
+    "5": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/dark/se_sink_force_incidence"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/slash/se_heavy_aura_critical"
+      ]
+    ]
+  },
+  "131146": {
+    "5": [
+      [
+        "sound_effect/thunder/se_lightning_needle_discharge"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/thunder/se_thunder_wide_area_electricity"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/thunder/se_electric_attack"
+      ]
+    ]
+  },
+  "231099": {
+    "23": [
+      [
+        "sound_effect/thunder/se_lightning_needle_rip"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/thunder/se_lightning_with_tinnitus"
+      ]
+    ]
+  },
   "111153": {
     "5": [
       [

@@ -8069,6 +8069,256 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "hero_mechanic": [
+    [
+      "インヴェトラ",
+      "0xb29614",
+      "character/hero_mechanic/voice/",
+      "normal,anger,discontent,flinch,joy,normal_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,evolve",
+      "character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_1",
+      "character/hero_mechanic/ui/story/normal,character/hero_mechanic/ui/story/anger,character/hero_mechanic/ui/story/discontent,character/hero_mechanic/ui/story/flinch,character/hero_mechanic/ui/story/joy,character/hero_mechanic/ui/story/normal_b,character/hero_mechanic/ui/story/shame,character/hero_mechanic/ui/story/smile,character/hero_mechanic/ui/story/smile_b,character/hero_mechanic/ui/story/smile_c,character/hero_mechanic/ui/story/surprise,character/hero_mechanic/ui/story/surprise_b,character/hero_mechanic/ui/story/sweat,(None)"
+    ]
+  ],
+  "hero_mechanic_noname": [
+    [
+      "研究者風の青年",
+      "0xb29614",
+      "character/hero_mechanic/voice/",
+      "normal,anger,discontent,flinch,joy,normal_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,evolve",
+      "character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_0,character/hero_mechanic/ui/story/base_1",
+      "character/hero_mechanic/ui/story/normal,character/hero_mechanic/ui/story/anger,character/hero_mechanic/ui/story/discontent,character/hero_mechanic/ui/story/flinch,character/hero_mechanic/ui/story/joy,character/hero_mechanic/ui/story/normal_b,character/hero_mechanic/ui/story/shame,character/hero_mechanic/ui/story/smile,character/hero_mechanic/ui/story/smile_b,character/hero_mechanic/ui/story/smile_c,character/hero_mechanic/ui/story/surprise,character/hero_mechanic/ui/story/surprise_b,character/hero_mechanic/ui/story/sweat,(None)"
+    ]
+  ],
+  "mob_pbc_bursar": [
+    [
+      "ＰＢＣの経理部長",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "pbc_operator_operating": [
+    [
+      "オペレーター",
+      "0xabb283",
+      "character/pbc_operator/voice/",
+      "normal,normal_b,sad,serious,serious_b,shame,smile,smile_b,smile_c,surprise_b,sweat,think,think_b,evolve",
+      "character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_0,character/pbc_operator/ui/story/base_1",
+      "character/pbc_operator/ui/story/normal,character/pbc_operator/ui/story/normal_b,character/pbc_operator/ui/story/sad,character/pbc_operator/ui/story/serious,character/pbc_operator/ui/story/serious_b,character/pbc_operator/ui/story/shame,character/pbc_operator/ui/story/smile,character/pbc_operator/ui/story/smile_b,character/pbc_operator/ui/story/smile_c,character/pbc_operator/ui/story/surprise_b,character/pbc_operator/ui/story/sweat,character/pbc_operator/ui/story/think,character/pbc_operator/ui/story/think_b,(None)"
+    ]
+  ],
+  "mob_runaway_motorbike": [
+    [
+      "暴走バイカー",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "hero_mechanic_bro": [
+    [
+      "ルヴェトラ",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_ironist_judge": [
+    [
+      "皮肉屋な審査員",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_nasty_judge": [
+    [
+      "嫌味な審査員",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_haughty_judge": [
+    [
+      "尊大な審査員",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_young_engineer": [
+    [
+      "若いエンジニア",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_gadget_fanatic": [
+    [
+      "ガジェットオタク",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "black_wolf_knight_wt23": [
+    [
+      "ロルフ",
+      "0x539722",
+      "character/black_wolf_knight/voice/",
+      "normal,angry,call,normal_b,sad,sad_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_0,character/black_wolf_knight_wt23/ui/story/base_1",
+      "character/black_wolf_knight_wt23/ui/story/normal,character/black_wolf_knight_wt23/ui/story/angry,character/black_wolf_knight_wt23/ui/story/call,character/black_wolf_knight_wt23/ui/story/normal_b,character/black_wolf_knight_wt23/ui/story/sad,character/black_wolf_knight_wt23/ui/story/sad_b,character/black_wolf_knight_wt23/ui/story/shame,character/black_wolf_knight_wt23/ui/story/smile,character/black_wolf_knight_wt23/ui/story/smile_b,character/black_wolf_knight_wt23/ui/story/smile_c,character/black_wolf_knight_wt23/ui/story/smile_d,character/black_wolf_knight_wt23/ui/story/surprise,character/black_wolf_knight_wt23/ui/story/sweat,character/black_wolf_knight_wt23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_dog_staffofficer": [
+    [
+      "参謀",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_sharplook_dog_soldier": [
+    [
+      "目つきの鋭い犬兵",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_sharplook_dog_soldier_name": [
+    [
+      "パウル",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_vigorous_boy": [
+    [
+      "威勢のいい少年",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_backdoor_boy": [
+    [
+      "裏口を守る少年",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "blade_dancer_wt23": [
+    [
+      "リーブラム",
+      "0xb29614",
+      "character/blade_dancer/voice/",
+      "normal,anxiety,joy,normal_b,pride,sad,serious,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think,evolve",
+      "character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_0,character/blade_dancer_wt23/ui/story/base_1",
+      "character/blade_dancer_wt23/ui/story/normal,character/blade_dancer_wt23/ui/story/anxiety,character/blade_dancer_wt23/ui/story/joy,character/blade_dancer_wt23/ui/story/normal_b,character/blade_dancer_wt23/ui/story/pride,character/blade_dancer_wt23/ui/story/sad,character/blade_dancer_wt23/ui/story/serious,character/blade_dancer_wt23/ui/story/shame,character/blade_dancer_wt23/ui/story/smile,character/blade_dancer_wt23/ui/story/smile_b,character/blade_dancer_wt23/ui/story/smile_c,character/blade_dancer_wt23/ui/story/surprise,character/blade_dancer_wt23/ui/story/surprise_b,character/blade_dancer_wt23/ui/story/sweat,character/blade_dancer_wt23/ui/story/tear,character/blade_dancer_wt23/ui/story/think,(None)"
+    ]
+  ],
+  "blade_dancer_wt23_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/blade_dancer/voice/",
+      "normal",
+      "character/blade_dancer_wt23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_graceful_ladyship": [
+    [
+      "優美な令嬢",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_graceful_ladyship_name": [
+    [
+      "グレース",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_bottle_shop": [
+    [
+      "パルペブラの酒屋",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_pastry_merchant_far": [
+    [
+      "ファーランドの菓子業者",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_pastry_merchant_pal": [
+    [
+      "パルペブラの菓子業者",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "blade_dancer_oldbro": [
+    [
+      "ジグラート",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "impostor_priest": [
     [
       "イオレス",

@@ -1247,6 +1247,22 @@
       "1"
     ]
   ],
+  "11500000": [
+    [
+      "kc_1_awaking_crystal_piece_5",
+      "0",
+      "11003",
+      "1"
+    ]
+  ],
+  "11500001": [
+    [
+      "kc_1_equipment_enhancement_material_none_r5",
+      "0",
+      "14040",
+      "1"
+    ]
+  ],
   "100501": [
     [
       "character_k_collabo_op_clear",

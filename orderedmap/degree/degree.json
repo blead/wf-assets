@@ -11335,6 +11335,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141159": [
+    [
+      "degree_favor_black_wolf_knight_wt23",
+      "7010",
+      "黒狼の自由騎士",
+      "こくろうのじゆうきし",
+      "獲得条件：【黒狼の自由騎士】ロルフをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_black_wolf_knight_wt23"
+    ]
+  ],
+  "131146": [
+    [
+      "degree_favor_blade_dancer_wt23",
+      "126010",
+      "尊大紳士な交渉者",
+      "そんだいしんしなこうしょうしゃ",
+      "獲得条件：【尊大紳士な交渉者】リーブラムをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blade_dancer_wt23"
+    ]
+  ],
+  "231099": [
+    [
+      "degree_favor_hero_mechanic",
+      "282100",
+      "ヒーロー・メカニック",
+      "ひーろーめかにっく",
+      "獲得条件：【ヒーロー・メカニック】インヴェトラをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_hero_mechanic"
+    ]
+  ],
   "111153": [
     [
       "degree_favor_flame_blessgirl",

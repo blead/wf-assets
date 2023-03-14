@@ -9823,6 +9823,166 @@
       "690"
     ]
   ],
+  "character/black_wolf_knight_wt23/ui/full_shot_1440_1920_0": [
+    [
+      "196",
+      "228",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/skill_cutin_0": [
+    [
+      "0",
+      "72",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/full_shot_1440_1920_1": [
+    [
+      "182",
+      "218",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/skill_cutin_1": [
+    [
+      "191",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/angry": [
+    [
+      "43",
+      "97",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/base_0": [
+    [
+      "0",
+      "133",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/call": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/normal": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/normal_b": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/sad": [
+    [
+      "104",
+      "62",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/sad_b": [
+    [
+      "104",
+      "62",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/shame": [
+    [
+      "181",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/smile": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/smile_b": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/smile_c": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/smile_d": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/surprise": [
+    [
+      "144",
+      "49",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/sweat": [
+    [
+      "201",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/black_wolf_knight_wt23/ui/story/think": [
+    [
+      "147",
+      "48",
+      "570",
+      "690"
+    ]
+  ],
   "character/blackflower_wiz/ui/full_shot_1440_1920_0": [
     [
       "311",
@@ -10459,6 +10619,190 @@
     [
       "184",
       "215",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/full_shot_1440_1920_0": [
+    [
+      "330",
+      "174",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/skill_cutin_0": [
+    [
+      "415",
+      "26",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/full_shot_1440_1920_1": [
+    [
+      "12",
+      "130",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/skill_cutin_1": [
+    [
+      "3",
+      "7",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/anxiety": [
+    [
+      "188",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/base_0": [
+    [
+      "0",
+      "14",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/joy": [
+    [
+      "188",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/normal": [
+    [
+      "188",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/normal_b": [
+    [
+      "188",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/pride": [
+    [
+      "188",
+      "230",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/sad": [
+    [
+      "188",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/serious": [
+    [
+      "188",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/shame": [
+    [
+      "186",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/smile": [
+    [
+      "189",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/smile_b": [
+    [
+      "188",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/smile_c": [
+    [
+      "188",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/surprise": [
+    [
+      "187",
+      "112",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/surprise_b": [
+    [
+      "187",
+      "112",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/sweat": [
+    [
+      "306",
+      "286",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/tear": [
+    [
+      "303",
+      "267",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/think": [
+    [
+      "192",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blade_dancer_wt23/ui/story/unknown": [
+    [
+      "0",
+      "14",
       "570",
       "690"
     ]
@@ -31539,6 +31883,158 @@
     [
       "212",
       "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/full_shot_1440_1920_0": [
+    [
+      "582",
+      "252",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/hero_mechanic/ui/skill_cutin_0": [
+    [
+      "232",
+      "58",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/hero_mechanic/ui/full_shot_1440_1920_1": [
+    [
+      "312",
+      "102",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/hero_mechanic/ui/skill_cutin_1": [
+    [
+      "0",
+      "4",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/anger": [
+    [
+      "271",
+      "330",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/base_0": [
+    [
+      "0",
+      "54",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/base_1": [
+    [
+      "0",
+      "8",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/discontent": [
+    [
+      "275",
+      "334",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/flinch": [
+    [
+      "265",
+      "328",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/joy": [
+    [
+      "261",
+      "327",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/normal": [
+    [
+      "270",
+      "339",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/normal_b": [
+    [
+      "276",
+      "336",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/shame": [
+    [
+      "173",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/smile": [
+    [
+      "267",
+      "334",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/smile_b": [
+    [
+      "254",
+      "320",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/smile_c": [
+    [
+      "266",
+      "333",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/surprise": [
+    [
+      "260",
+      "325",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/surprise_b": [
+    [
+      "279",
+      "334",
+      "570",
+      "690"
+    ]
+  ],
+  "character/hero_mechanic/ui/story/sweat": [
+    [
+      "239",
+      "321",
       "570",
       "690"
     ]

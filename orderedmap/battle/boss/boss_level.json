@@ -3195,6 +3195,40 @@
       "300"
     ]
   ],
+  "treant_multi_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "135",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "30",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "36"
+    ]
+  ],
+  "discarded_dragon_wind_tower_score_event": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "630",
+      "0.23",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "24",
+      "0.9",
+      "atk_multi",
+      "tp_normal",
+      "120"
+    ]
+  ],
   "administrator_light_single_score_event": [
     [
       "0",

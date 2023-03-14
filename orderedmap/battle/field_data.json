@@ -4143,6 +4143,20 @@
       "score_event_shark"
     ]
   ],
+  "multi_normal_1_2_1_score_event": [
+    [
+      "tree_worldtree",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_treant_1",
+      "multi_normal_1_2_1_score_event"
+    ]
+  ],
+  "tower_dungeon_area_10_12_3_score_event": [
+    [
+      "wind_dragon_area",
+      "battle/terrain/event_quest/tower_dungeon/area_10_12/tower_dungeon_area_10_12_3",
+      "tower_dungeon_area_10_12_3_score_event"
+    ]
+  ],
   "multi_normal_1_16_1_score_event": [
     [
       "mecha_old_town",
@@ -5625,6 +5639,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_black_wolf_knight_wt23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_black_wolf_knight_wt23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_blade_dancer_wt23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_blade_dancer_wt23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_hero_mechanic": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_hero_mechanic",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_flame_blessgirl": [

@@ -1387,6 +1387,60 @@
       ]
     }
   },
+  "treant_multi_score_event": {
+    "100": {
+      "neutral1": [
+        [
+          "210"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "neutral3": [
+        [
+          "210"
+        ]
+      ],
+      "neutral4": [
+        [
+          "180"
+        ]
+      ],
+      "neutral5": [
+        [
+          "210"
+        ]
+      ],
+      "neutral6": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "200"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
   "treant_rush1": {
     "49": {
       "neutral1": [
@@ -10672,6 +10726,40 @@
       "skill_charge1": [
         [
           "280"
+        ]
+      ]
+    }
+  },
+  "discarded_dragon_wind_tower_score_event": {
+    "100": {
+      "neutral_trial_funnel_after": [
+        [
+          "180"
+        ]
+      ],
+      "track_target_shot_charge": [
+        [
+          "90"
+        ]
+      ],
+      "track_target_shot_attack_loop": [
+        [
+          "70"
+        ]
+      ],
+      "all_slash_charge": [
+        [
+          "60"
+        ]
+      ],
+      "target_shot_charge": [
+        [
+          "120"
+        ]
+      ],
+      "both_side_target_shot_charge": [
+        [
+          "180"
         ]
       ]
     }
