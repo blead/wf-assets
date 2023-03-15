@@ -1112,7 +1112,7 @@
   "200021": [
     [
       "boss_epuration_event_02",
-      "(None)",
+      "200013",
       "粛清者討伐戦",
       "",
       "quest/event/banner/advent_event/boss_epuration_event_01",
