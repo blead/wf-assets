@@ -7084,6 +7084,110 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1141111": [
+    [
+      "degree_favor_silence_suzuka_2",
+      "110001",
+      "サイレントイノセンス",
+      "さいれんといのせんす",
+      "獲得条件：【静かなる疾走者】サイレンススズカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_silence_suzuka_2"
+    ]
+  ],
+  "1151105": [
+    [
+      "degree_favor_special_week_2",
+      "140001",
+      "スペシャルドリーマー",
+      "すぺしゃるどりーまー",
+      "獲得条件：【駆ける純真どさん娘】スペシャルウィークのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_special_week_2"
+    ]
+  ],
+  "1113001": [
+    [
+      "degree_favor_gold_ship_2",
+      "30001",
+      "レッドストライフ",
+      "れっどすとらいふ",
+      "獲得条件：【奔放黄金破天荒娘】ゴールドシップのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_gold_ship_2"
+    ]
+  ],
+  "1131110": [
+    [
+      "degree_favor_nihilist_mechgirl_2",
+      "83001",
+      "踏み出す勇気",
+      "ふみだすゆうき",
+      "獲得条件：【アイドル★ヒーロー】ラピュティナのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nihilist_mechgirl_2"
+    ]
+  ],
+  "1221072": [
+    [
+      "degree_favor_sand_bandit_2",
+      "245001",
+      "砂塵に沈む夕日",
+      "さじんにしずむゆうひ",
+      "獲得条件：【盗賊狩りの盗賊】ファラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_sand_bandit_2"
+    ]
+  ],
+  "1161129": [
+    [
+      "degree_favor_psychic_yamikawa_2",
+      "171001",
+      "清く正しく狂おしく",
+      "きよくただしくくるおしく",
+      "獲得条件：【思念体の能力者】操里ユカリコのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_2"
+    ]
+  ],
+  "1241063": [
+    [
+      "degree_favor_ekaki_girl_2",
+      "307001",
+      "私は絵描き！",
+      "わたしはえかき",
+      "獲得条件：【駆け出し陰陽絵師】リョウキのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ekaki_girl_2"
+    ]
+  ],
+  "1221066": [
+    [
+      "degree_favor_nurse_pirate_smr22_2",
+      "219011",
+      "サマースマイル・フレンズ",
+      "さまーすまいるふれんず",
+      "獲得条件：【真夏の満開笑顔】ピシカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nurse_pirate_smr22_2"
+    ]
+  ],
   "1223001": [
     [
       "degree_favor_pirates_girl_smr20_2",

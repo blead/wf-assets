@@ -4148,6 +4148,24 @@
       "false"
     ]
   ],
+  "206862": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_multi_pickup_event_2",
+      "2023-03-22 12:00:00",
+      "2023-03-31 20:59:59",
+      "false"
+    ]
+  ],
+  "206950": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_20smr21smr22smr_character_pickup_02",
+      "2023-03-22 12:00:00",
+      "2023-03-31 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
