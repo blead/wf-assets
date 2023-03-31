@@ -51711,6 +51711,350 @@
       "690"
     ]
   ],
+  "character/pbc_ceo_buddy/ui/story/anger": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/base": [
+    [
+      "32",
+      "97",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/discontent": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/normal": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/normal_b": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/provoke": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/sad": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/sad_b": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/serious": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/serious_b": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/shame": [
+    [
+      "182",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/smile": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/smile_b": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/smile_c": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/smile_d": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/sweat": [
+    [
+      "309",
+      "291",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/think": [
+    [
+      "148",
+      "150",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_buddy/ui/story/unknown": [
+    [
+      "32",
+      "97",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/full_shot_1440_1920_0": [
+    [
+      "304",
+      "208",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/skill_cutin_0": [
+    [
+      "293",
+      "74",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/full_shot_1440_1920_1": [
+    [
+      "187",
+      "158",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/skill_cutin_1": [
+    [
+      "105",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/anger": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/anger_b": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/base_0": [
+    [
+      "0",
+      "51",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/base_0_b": [
+    [
+      "0",
+      "32",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/consent": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/consent_b": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/consent_c": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/discontent": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/normal": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/normal_b": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/sad": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/sad_b": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/serious": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/shame": [
+    [
+      "203",
+      "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/smile": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/smile_b": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/smile_c": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/surprise": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/sweat": [
+    [
+      "307",
+      "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/pbc_ceo_playable/ui/story/think": [
+    [
+      "163",
+      "139",
+      "570",
+      "690"
+    ]
+  ],
   "character/pbc_operator/ui/full_shot_1440_1920_0": [
     [
       "357",
@@ -61587,6 +61931,174 @@
     [
       "163",
       "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/full_shot_1440_1920_0": [
+    [
+      "199",
+      "97",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/skill_cutin_0": [
+    [
+      "110",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/full_shot_1440_1920_1": [
+    [
+      "207",
+      "239",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/skill_cutin_1": [
+    [
+      "174",
+      "115",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/anger": [
+    [
+      "157",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/base_0": [
+    [
+      "0",
+      "8",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/base_1": [
+    [
+      "0",
+      "143",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/discontent": [
+    [
+      "160",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/normal": [
+    [
+      "158",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/normal_b": [
+    [
+      "158",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/sad": [
+    [
+      "160",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/serious": [
+    [
+      "160",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/shame": [
+    [
+      "218",
+      "276",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/smile": [
+    [
+      "158",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/smile_b": [
+    [
+      "158",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/smile_c": [
+    [
+      "160",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/surprise": [
+    [
+      "157",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/surprise_b": [
+    [
+      "157",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/surprise_c": [
+    [
+      "157",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/sweat": [
+    [
+      "324",
+      "304",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_lady_meteor23/ui/story/think": [
+    [
+      "168",
+      "231",
       "570",
       "690"
     ]
@@ -82299,6 +82811,182 @@
     [
       "181",
       "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/full_shot_1440_1920_0": [
+    [
+      "79",
+      "131",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/skill_cutin_0": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/full_shot_1440_1920_1": [
+    [
+      "101",
+      "108",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/anger": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/base_0": [
+    [
+      "0",
+      "88",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/consent": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/doya": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/joy": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/normal": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/sad": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/sad_b": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/serious": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/serious_b": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/shame": [
+    [
+      "219",
+      "283",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/smile": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/surprise": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/surprise_b": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/sweat": [
+    [
+      "237",
+      "331",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/think": [
+    [
+      "181",
+      "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_oracle_meteor23/ui/story/unknown": [
+    [
+      "0",
+      "88",
       "570",
       "690"
     ]

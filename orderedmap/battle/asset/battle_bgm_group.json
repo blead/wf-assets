@@ -1601,6 +1601,15 @@
       "(None)"
     ]
   ],
+  "advent_steam_robot_water_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/advent_steam_robot/advent_steam_robot_water/battle/advent_steam_robot_water_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "event_valentine_battle_boss": [
     [
       "2",

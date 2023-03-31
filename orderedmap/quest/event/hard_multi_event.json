@@ -58,5 +58,35 @@
       "2023-03-14 20:59:59",
       "2023-03-22 04:59:59"
     ]
+  ],
+  "3": [
+    [
+      "hard_multi_steam_robot_water",
+      "(None)",
+      "共同決戦【蒼歎の機兵】",
+      "",
+      "quest/event/banner/hard_multi/hard_multi_event_steam_robot_water",
+      "quest/event/bossbattle_banner/hard_multi/hard_multi_event_steam_robot_water",
+      "quest/event/animation_background/hard_multi/hard_multi_steam_robot_water/background",
+      "quest/event/logo/hard_multi/steam_robot_water/steam_robot_water_logo",
+      "3",
+      "quest/event/logo/hard_multi/steam_robot_water/unlock_logo",
+      "(None)",
+      "34",
+      "bgm/event/advent_steam_robot/advent_steam_robot_top",
+      "hard_multi_blue",
+      "3",
+      "hard_multi_water_01",
+      "49300",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "hard_multi_steam_robot_water",
+      "event_hard_multi_water",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
+      "2023-04-22 04:59:59"
+    ]
   ]
 }

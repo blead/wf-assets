@@ -6022,6 +6022,99 @@
       ]
     ]
   },
+  "167": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141165",
+        "0",
+        "141165",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/wind_oracle_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141165",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131152",
+        "0",
+        "131152",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/pbc_ceo_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131152",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121153",
+        "0",
+        "121153",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_84/ruin_lady_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121153",
+        ""
+      ]
+    ]
+  },
   "165": {
     "1": [
       [
@@ -12644,6 +12737,21 @@
       [
         "1",
         "dynamic/gacha_banner/fukubukuro_gacha_ny2021",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5035": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_yellow_pickup_1",
         "",
         "",
         "",

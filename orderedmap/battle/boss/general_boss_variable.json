@@ -13402,6 +13402,25 @@
       ]
     }
   },
+  "arch_evil_thunder_single_score_event": {
+    "100": {
+      "charge1": [
+        [
+          "450"
+        ]
+      ],
+      "neutral5": [
+        [
+          "15"
+        ]
+      ],
+      "normal_shot_charge": [
+        [
+          "30"
+        ]
+      ]
+    }
+  },
   "arch_evil_single": {
     "49": {
       "charge1": [

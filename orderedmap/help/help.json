@@ -215,8 +215,8 @@
       "1",
       "0",
       "",
-      "2023-01-31 12:00:00",
-      "2023-02-14 20:59:59"
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59"
     ]
   ],
   "help_reward_campaign": [
@@ -248,8 +248,8 @@
       "1",
       "1",
       "rich_text/help_reward_campaign_spring22",
-      "2023-01-31 12:00:00",
-      "2023-02-14 20:59:59"
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59"
     ]
   ],
   "help_reward_campaign_gw22": [
@@ -877,6 +877,17 @@
       "rich_text/help_event_hard_multi_steam_robot_wind",
       "2023-02-28 12:00:00",
       "2023-03-22 04:59:59"
+    ]
+  ],
+  "event_hard_multi_water": [
+    [
+      "help_label_event_hard_multi_water",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_hard_multi_steam_robot_water",
+      "2023-03-31 12:00:00",
+      "2023-04-22 04:59:59"
     ]
   ],
   "Event_haniwa_carnival": [
@@ -1823,6 +1834,17 @@
       "rich_text/help_event_advent_steam_robot_wind",
       "2023-02-28 12:00:00",
       "2023-03-22 04:59:59"
+    ]
+  ],
+  "event_advent_steam_robot_water": [
+    [
+      "help_label_event_advent_steam_robot_water",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_steam_robot_water",
+      "2023-03-31 12:00:00",
+      "2023-04-22 04:59:59"
     ]
   ],
   "event_story_valen20": [

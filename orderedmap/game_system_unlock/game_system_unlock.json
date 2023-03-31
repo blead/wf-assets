@@ -158,5 +158,13 @@
       "short_system_lock_hard_multi_red",
       "1"
     ]
+  ],
+  "hard_multi_blue": [
+    [
+      "condition_hard_multi_blue",
+      "system_lock_hard_multi_blue",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
   ]
 }

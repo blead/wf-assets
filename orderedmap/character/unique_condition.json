@@ -191,6 +191,22 @@
       "false"
     ]
   ],
+  "14": [
+    [
+      "unique_pbc_ceo_playable",
+      "パラダイムブレイク",
+      "battle/common/unique_condition/unique_pbc_ceo_playable",
+      "2400",
+      "5",
+      "(None)",
+      "(None)",
+      "false",
+      "false",
+      "0",
+      "0",
+      "true"
+    ]
+  ],
   "9": [
     [
       "unique_megumin",

@@ -11439,6 +11439,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "121153": [
+    [
+      "degree_favor_ruin_lady_meteor23",
+      "253010",
+      "黄金の曙光",
+      "おうごんのしょこう",
+      "獲得条件：【黄金の曙光】ソティエスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_lady_meteor23"
+    ]
+  ],
+  "131152": [
+    [
+      "degree_favor_pbc_ceo_playable",
+      "86000",
+      "キング・プレデター",
+      "きんぐぷれでたー",
+      "獲得条件：【キング・プレデター】キング・ジョンソンをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pbc_ceo_playable"
+    ]
+  ],
+  "141165": [
+    [
+      "degree_favor_wind_oracle_meteor23",
+      "92020",
+      "紡がれた未来の風",
+      "つむがれたみらいのかぜ",
+      "獲得条件：【紡がれた未来の風】フィリアをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_oracle_meteor23"
+    ]
+  ],
   "141159": [
     [
       "degree_favor_black_wolf_knight_wt23",
@@ -15246,6 +15285,58 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_steam_robot_wind_challenge_clear_1"
+    ]
+  ],
+  "62380": [
+    [
+      "degree_advent_event_steam_robot_water_clear_1",
+      "646480",
+      "蒼歎の打倒者",
+      "そうたんのだとうしゃ",
+      "獲得条件：降臨討伐 蒼歎の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_1"
+    ]
+  ],
+  "62390": [
+    [
+      "degree_advent_event_steam_robot_water_clear_2",
+      "646481",
+      "蒼歎の征服者",
+      "そうたんのせいふくしゃ",
+      "獲得条件：降臨討伐 蒼歎の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_2"
+    ]
+  ],
+  "62400": [
+    [
+      "degree_advent_event_steam_robot_water_clear_3",
+      "646482",
+      "蒼歎の討滅者",
+      "そうたんのとうめつしゃ",
+      "獲得条件：降臨討伐 蒼歎の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_water_clear_3"
+    ]
+  ],
+  "62410": [
+    [
+      "degree_steam_robot_water_challenge_clear_1",
+      "539200",
+      "蒼歎の試練：決",
+      "そうたんのしれんけつ",
+      "獲得条件：共同決戦 蒼歎の機兵で蒼機兵ヴェルヌスの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_water_challenge_clear_1"
     ]
   ],
   "62300": [

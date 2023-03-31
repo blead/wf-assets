@@ -383,6 +383,108 @@
       ]
     ]
   },
+  "steampunk_water_funnel_heart_core_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_multi4"
+      ]
+    ]
+  },
+  "steampunk_water_funnel_heart_core_single": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_single1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_single4"
+      ]
+    ]
+  },
+  "steampunk_water_funnel_core_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_multi4"
+      ]
+    ]
+  },
+  "steampunk_water_funnel_core_single": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_single1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_single4"
+      ]
+    ]
+  },
+  "steampunk_water_funnel_heart_core_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_heart_core_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_water_funnel_core_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_water_funnel_core_hard_multi"
+      ]
+    ]
+  },
   "steampunk_fire_funnel_attack_left_multi": {
     "20": [
       [

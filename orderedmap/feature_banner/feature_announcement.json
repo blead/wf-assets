@@ -4166,6 +4166,60 @@
       "false"
     ]
   ],
+  "206327": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_yellow_pickup_1",
+      "2023-03-31 12:00:00",
+      "2023-04-28 11:59:59",
+      "false"
+    ]
+  ],
+  "3083": [
+    [
+      "2000",
+      "dynamic/feature_announcement/spring23_campaign_mission",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
+  "208235": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_84",
+      "2023-03-31 12:00:00",
+      "2023-04-07 11:59:59",
+      "false"
+    ]
+  ],
+  "3084": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_Spring2023_Gacha",
+      "2023-03-31 12:00:00",
+      "2023-04-03 04:59:59",
+      "false"
+    ]
+  ],
+  "201591": [
+    [
+      "2001",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_water",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
+  "206133": [
+    [
+      "2002",
+      "dynamic/feature_announcement/advent_event_steam_robot_water",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4217,6 +4271,15 @@
       "dynamic/feature_announcement/k_collabo_special_set",
       "2022-06-30 12:00:00",
       "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000000": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
       "false"
     ]
   ],

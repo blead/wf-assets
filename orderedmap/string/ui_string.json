@@ -169,6 +169,11 @@
       "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「翠愁の機兵」の「翠機兵クラーグ 超級」をクリア"
     ]
   ],
+  "system_lock_hard_multi_blue": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「蒼歎の機兵」の「蒼機兵ヴェルヌス 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -1659,6 +1664,16 @@
       "[累積効果 / 最大累積 ::count:: 回]"
     ]
   ],
+  "ability_description_multiply_trigger_accumulation": [
+    [
+      "【::trigger::追加で累積数 +::count::】"
+    ]
+  ],
+  "ability_description_multiply_trigger": [
+    [
+      "【::trigger::追加で効果量 ::strength:: [最大合計 ::max_strength::&nbsp;]】"
+    ]
+  ],
   "ability_description_each": [
     [
       "ごと"
@@ -2454,6 +2469,16 @@
       "レベル ::count:: "
     ]
   ],
+  "ability_description_condition_content_number": [
+    [
+      "を ::number:: 個付与"
+    ]
+  ],
+  "ability_description_condition_content_initial_accumulation": [
+    [
+      "を ::number:: 個累積"
+    ]
+  ],
   "ability_description_condition_content_summary": [
     [
       "::second:: 秒間::if !withoutTarget::::target::に::end::::condition::"
@@ -2621,7 +2646,7 @@
   ],
   "ability_description_condition_content_combo_boost": [
     [
-      "::if !withoutTarget::::target::に::end::コンボブースト効果[コンボ + ::count::]"
+      "::if !withoutTarget::::target::に::end::コンボブースト効果[コンボ ::count::]"
     ]
   ],
   "ability_description_condition_content_combo_restriction": [
@@ -5319,6 +5344,11 @@
       "降臨討伐 翠愁の機兵"
     ]
   ],
+  "help_label_event_advent_steam_robot_water": [
+    [
+      "降臨討伐 蒼歎の機兵"
+    ]
+  ],
   "help_label_event_advent_zcollab": [
     [
       "降臨討伐 暴走ロメロを止めろ"
@@ -5392,6 +5422,11 @@
   "help_label_event_hard_multi_wind": [
     [
       "共同決戦 翠愁の機兵"
+    ]
+  ],
+  "help_label_event_hard_multi_water": [
+    [
+      "共同決戦 蒼歎の機兵"
     ]
   ],
   "help_label_event_challenge": [
@@ -10979,6 +11014,11 @@
       "『::name::』\n\nこの名前でよろしいですか？\n※あとで名前は変更できます"
     ]
   ],
+  "can_not_sell_because_ability_soul_is_not_enough": [
+    [
+      "4つ以上所持すると売却できます"
+    ]
+  ],
   "can_not_sell_because_mana_is_upper_limit": [
     [
       "マナを最大まで所持しているため\nアイテムを売却できません"
@@ -12934,9 +12974,19 @@
       "スタックの上限数を超えたため\n::name::は星の粒に変換されました\n星の粒 × ::count::"
     ]
   ],
-  "overflow_dissolve_equipment": [
+  "overflow_equipment_convert_star_grain": [
     [
-      "スタックの上限数を超えたため\n::name:: ::x_count:: が\n自動で分解されました"
+      "スタックの上限数を超えたため\n::name::は星の粒に変換されました\n星の粒 × ::count::"
+    ]
+  ],
+  "overflow_equipment_convert_craft_points": [
+    [
+      "スタックの上限数を超えたため\n::name::は鍛冶玉に変換されました\n鍛冶玉 × ::count::"
+    ]
+  ],
+  "overflow_equipment_convert_ability_soul": [
+    [
+      "スタックの上限数を超えたため\n::name::はアビリティソウルに変換されました\nアビリティソウル × ::count::"
     ]
   ],
   "overflow_item_free_mana": [

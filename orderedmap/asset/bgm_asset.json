@@ -3869,6 +3869,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/pbc_ceo_playable/pbc_ceo_playable": [
+    [
+      "0.35",
+      "124",
+      "0.07643991",
+      "0.07643991",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/ruin_lady_meteor23/ruin_lady_meteor23": [
+    [
+      "0.35",
+      "130",
+      "0.076848075",
+      "4.651837",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wind_oracle_meteor23/wind_oracle_meteor23": [
+    [
+      "0.35",
+      "158",
+      "0.07514739",
+      "39.529137",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/black_wolf_knight_wt23/black_wolf_knight_wt23": [
     [
       "0.35",
@@ -8895,6 +8925,16 @@
       "150",
       "0.06995465",
       "56.829956",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_water/battle/advent_steam_robot_water_boss": [
+    [
+      "0.35",
+      "170",
+      "0.060839",
+      "72.37283",
       "(None)",
       "12"
     ]

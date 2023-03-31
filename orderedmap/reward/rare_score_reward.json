@@ -17553,6 +17553,28 @@
       ]
     ]
   },
+  "6000003": {
+    "1": [
+      [
+        "hard_multi_steam_robot_water_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_water_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
   "6000001": {
     "1": [
       [
@@ -25557,6 +25579,186 @@
         "49343",
         "10",
         "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000348": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_1",
+        "1",
+        "5090047",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000349": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_2",
+        "0",
+        "49344",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000350": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_3",
+        "0",
+        "49345",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000351": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_4",
+        "0",
+        "49345",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000352": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_5",
+        "0",
+        "49346",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000353": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_6",
+        "0",
+        "49346",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000354": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_7",
+        "0",
+        "49345",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_water_rare_7",
+        "0",
+        "49345",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_water_rare_7",
+        "0",
+        "49346",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_water_rare_7",
+        "0",
+        "49346",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000355": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_8",
+        "0",
+        "49345",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_water_rare_8",
+        "0",
+        "49345",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_water_rare_8",
+        "0",
+        "49346",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_water_rare_8",
+        "0",
+        "49346",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000356": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_9",
+        "0",
+        "49344",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000357": {
+    "1": [
+      [
+        "advent_steam_robot_water_rare_10",
+        "0",
+        "49345",
+        "30",
+        "1",
         "true"
       ]
     ]

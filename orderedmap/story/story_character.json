@@ -8069,6 +8069,206 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "ruin_lady_meteor23": [
+    [
+      "ソティエス",
+      "0x2f60b2",
+      "character/ruin_lady/voice/",
+      "normal,anger,discontent,normal_b,sad,serious,shame,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,sweat,think,evolve",
+      "character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_0,character/ruin_lady_meteor23/ui/story/base_1",
+      "character/ruin_lady_meteor23/ui/story/normal,character/ruin_lady_meteor23/ui/story/anger,character/ruin_lady_meteor23/ui/story/discontent,character/ruin_lady_meteor23/ui/story/normal_b,character/ruin_lady_meteor23/ui/story/sad,character/ruin_lady_meteor23/ui/story/serious,character/ruin_lady_meteor23/ui/story/shame,character/ruin_lady_meteor23/ui/story/smile,character/ruin_lady_meteor23/ui/story/smile_b,character/ruin_lady_meteor23/ui/story/smile_c,character/ruin_lady_meteor23/ui/story/surprise,character/ruin_lady_meteor23/ui/story/surprise_b,character/ruin_lady_meteor23/ui/story/surprise_c,character/ruin_lady_meteor23/ui/story/sweat,character/ruin_lady_meteor23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_margrave": [
+    [
+      "辺境伯",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "wind_oracle_meteor23": [
+    [
+      "フィリア",
+      "0x539722",
+      "character/wind_oracle/voice/",
+      "normal,anger,consent,doya,joy,sad,sad_b,serious,serious_b,shame,smile,surprise,surprise_b,sweat,think,evolve",
+      "character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_0,character/wind_oracle_meteor23/ui/story/base_1",
+      "character/wind_oracle_meteor23/ui/story/normal,character/wind_oracle_meteor23/ui/story/anger,character/wind_oracle_meteor23/ui/story/consent,character/wind_oracle_meteor23/ui/story/doya,character/wind_oracle_meteor23/ui/story/joy,character/wind_oracle_meteor23/ui/story/sad,character/wind_oracle_meteor23/ui/story/sad_b,character/wind_oracle_meteor23/ui/story/serious,character/wind_oracle_meteor23/ui/story/serious_b,character/wind_oracle_meteor23/ui/story/shame,character/wind_oracle_meteor23/ui/story/smile,character/wind_oracle_meteor23/ui/story/surprise,character/wind_oracle_meteor23/ui/story/surprise_b,character/wind_oracle_meteor23/ui/story/sweat,character/wind_oracle_meteor23/ui/story/think,(None)"
+    ]
+  ],
+  "wind_oracle_meteor23_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/wind_oracle/voice/",
+      "normal",
+      "character/wind_oracle_meteor23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "ice_witch_2anv_voice": [
+    [
+      "偉大な氷魔法使い？の声",
+      "0x2f60b2",
+      "character/ice_witch/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_girl": [
+    [
+      "渋谷の女の子",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_advance_course_menstudent": [
+    [
+      "高等科の男子生徒",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_advance_course_womenstudent": [
+    [
+      "高等科の女子生徒",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_students_and_kids": [
+    [
+      "生徒・子供達",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shudder_student": [
+    [
+      "慄く生徒",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_magic_academy_students": [
+    [
+      "魔法学院の生徒達",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_serious_femalestudent": [
+    [
+      "真面目な女子生徒",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_serious_femalestudent_unknown": [
+    [
+      "？？？",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_eager_malestudent": [
+    [
+      "熱心な男子生徒",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_palpebla_inhabitant": [
+    [
+      "パルペブラの住人",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "pbc_ceo_playable": [
+    [
+      "キング・ジョンソン",
+      "0xb29614",
+      "character/pbc_ceo/voice/",
+      "normal,anger,anger_b,consent,consent_b,consent_c,discontent,normal_b,sad,sad_b,serious,shame,smile,smile_b,smile_c,surprise,sweat,think,normal_base_0_b,anger_base_0_b,anger_b_base_0_b,consent_base_0_b,consent_b_base_0_b,consent_c_base_0_b,discontent_base_0_b,normal_b_base_0_b,sad_base_0_b,sad_b_base_0_b,serious_base_0_b,shame_base_0_b,smile_base_0_b,smile_b_base_0_b,smile_c_base_0_b,surprise_base_0_b,sweat_base_0_b,think_base_0_b,evolve",
+      "character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_0_b,character/pbc_ceo_playable/ui/story/base_1",
+      "character/pbc_ceo_playable/ui/story/normal,character/pbc_ceo_playable/ui/story/anger,character/pbc_ceo_playable/ui/story/anger_b,character/pbc_ceo_playable/ui/story/consent,character/pbc_ceo_playable/ui/story/consent_b,character/pbc_ceo_playable/ui/story/consent_c,character/pbc_ceo_playable/ui/story/discontent,character/pbc_ceo_playable/ui/story/normal_b,character/pbc_ceo_playable/ui/story/sad,character/pbc_ceo_playable/ui/story/sad_b,character/pbc_ceo_playable/ui/story/serious,character/pbc_ceo_playable/ui/story/shame,character/pbc_ceo_playable/ui/story/smile,character/pbc_ceo_playable/ui/story/smile_b,character/pbc_ceo_playable/ui/story/smile_c,character/pbc_ceo_playable/ui/story/surprise,character/pbc_ceo_playable/ui/story/sweat,character/pbc_ceo_playable/ui/story/think,character/pbc_ceo_playable/ui/story/normal,character/pbc_ceo_playable/ui/story/anger,character/pbc_ceo_playable/ui/story/anger_b,character/pbc_ceo_playable/ui/story/consent,character/pbc_ceo_playable/ui/story/consent_b,character/pbc_ceo_playable/ui/story/consent_c,character/pbc_ceo_playable/ui/story/discontent,character/pbc_ceo_playable/ui/story/normal_b,character/pbc_ceo_playable/ui/story/sad,character/pbc_ceo_playable/ui/story/sad_b,character/pbc_ceo_playable/ui/story/serious,character/pbc_ceo_playable/ui/story/shame,character/pbc_ceo_playable/ui/story/smile,character/pbc_ceo_playable/ui/story/smile_b,character/pbc_ceo_playable/ui/story/smile_c,character/pbc_ceo_playable/ui/story/surprise,character/pbc_ceo_playable/ui/story/sweat,character/pbc_ceo_playable/ui/story/think,(None)"
+    ]
+  ],
+  "pbc_ceo_buddy": [
+    [
+      "ビトレイン",
+      "0x8cc2c9",
+      "character/pbc_ceo_buddy/voice/",
+      "normal,anger,discontent,normal_b,provoke,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,sweat,think",
+      "character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base,character/pbc_ceo_buddy/ui/story/base",
+      "character/pbc_ceo_buddy/ui/story/normal,character/pbc_ceo_buddy/ui/story/anger,character/pbc_ceo_buddy/ui/story/discontent,character/pbc_ceo_buddy/ui/story/normal_b,character/pbc_ceo_buddy/ui/story/provoke,character/pbc_ceo_buddy/ui/story/sad,character/pbc_ceo_buddy/ui/story/sad_b,character/pbc_ceo_buddy/ui/story/serious,character/pbc_ceo_buddy/ui/story/serious_b,character/pbc_ceo_buddy/ui/story/shame,character/pbc_ceo_buddy/ui/story/smile,character/pbc_ceo_buddy/ui/story/smile_b,character/pbc_ceo_buddy/ui/story/smile_c,character/pbc_ceo_buddy/ui/story/smile_d,character/pbc_ceo_buddy/ui/story/sweat,character/pbc_ceo_buddy/ui/story/think"
+    ]
+  ],
+  "pbc_ceo_buddy_unknown": [
+    [
+      "？？？",
+      "0x8cc2c9",
+      "character/pbc_ceo_buddy/voice/",
+      "normal",
+      "character/pbc_ceo_buddy/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_shooter": [
+    [
+      "シューター",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_squad_member": [
+    [
+      "スクワッド隊員",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "hero_mechanic": [
     [
       "インヴェトラ",

@@ -845,6 +845,28 @@
       "dynamic/hard_multi_tutorial/hard_multi_steam_robot_wind/tutorial_05"
     ]
   ],
+  "hard_multi_steam_robot_water": [
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_water/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_water/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_water/tutorial_03"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_water/tutorial_04"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_water/tutorial_05"
+    ]
+  ],
   "haniwa_carnival_01": [
     [
       "0",
@@ -1673,6 +1695,20 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_event_steam_robot_wind/tutorial_03"
+    ]
+  ],
+  "advent_steam_robot_water": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_water/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_water/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_water/tutorial_03"
     ]
   ],
   "abyss_beast": [

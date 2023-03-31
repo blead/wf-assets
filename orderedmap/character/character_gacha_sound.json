@@ -2249,6 +2249,67 @@
       ]
     ]
   },
+  "131152": {
+    "5": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/sf/se_multiball_appear"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/sf/se_admin_laser_bit_shot"
+      ]
+    ],
+    "155": [
+      [
+        "sound_effect/sf/se_power_flip_ranged_lv1"
+      ]
+    ]
+  },
+  "141165": {
+    "5": [
+      [
+        "sound_effect/wind/se_impact_wind"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/wind/se_swirling_wind_stick"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/wind/se_single_tornado"
+      ]
+    ]
+  },
+  "121153": {
+    "5": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/water/se_water_stamp_heavy"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/water/se_short_snowstorm"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/element/se_energy_inhalation"
+      ]
+    ]
+  },
   "141159": {
     "5": [
       [

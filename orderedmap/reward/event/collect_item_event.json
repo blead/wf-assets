@@ -767,6 +767,38 @@
       "(None)"
     ]
   ],
+  "10021": [
+    [
+      "spring23_campaign_mission",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/spring23_mission_event_background",
+      "quest/event/banner/collect_item_event/spring22_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2023-03-31 12:00:00",
+      "2023-04-14 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "10014": [
     [
       "spring22_campaign_mission",

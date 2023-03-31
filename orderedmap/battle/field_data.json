@@ -3933,6 +3933,20 @@
       "steampunk_wind_hard"
     ]
   ],
+  "steampunk_water": [
+    [
+      "steampunk_water_area",
+      "battle/terrain/event_quest/advent_event/steampunk_water/steampunk_water",
+      "steampunk_water"
+    ]
+  ],
+  "steampunk_water_hard": [
+    [
+      "steampunk_water_area",
+      "battle/terrain/event_quest/advent_event/steampunk_water/steampunk_water",
+      "steampunk_water_hard"
+    ]
+  ],
   "steampunk_fire_1": [
     [
       "steampunk_fire_area",
@@ -4141,6 +4155,13 @@
       "boss_battle_shark_area",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_shark",
       "score_event_shark"
+    ]
+  ],
+  "arch_evil_thunder_single_score_event": [
+    [
+      "sea_ruins",
+      "battle/terrain/event_quest/challenge_dungeon_event/chapter_boss/arch_evil_single",
+      "arch_evil_thunder_single_score_event"
     ]
   ],
   "multi_normal_1_2_1_score_event": [
@@ -5639,6 +5660,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_ruin_lady_meteor23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_ruin_lady_meteor23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_pbc_ceo_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_pbc_ceo_playable",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_wind_oracle_meteor23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_wind_oracle_meteor23",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_black_wolf_knight_wt23": [

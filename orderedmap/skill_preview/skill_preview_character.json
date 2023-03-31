@@ -2729,6 +2729,45 @@
       "0"
     ]
   ],
+  "121153": [
+    [
+      "320",
+      "false",
+      "false",
+      "320",
+      "false",
+      "false",
+      "character/ruin_lady_meteor23/battle/character_detail_skill_preview",
+      "-200",
+      "0"
+    ]
+  ],
+  "131152": [
+    [
+      "321",
+      "false",
+      "false",
+      "321",
+      "false",
+      "false",
+      "character/pbc_ceo_playable/battle/character_detail_skill_preview",
+      "0",
+      "0"
+    ]
+  ],
+  "141165": [
+    [
+      "322",
+      "false",
+      "false",
+      "322",
+      "false",
+      "false",
+      "character/wind_oracle_meteor23/battle/character_detail_skill_preview",
+      "200",
+      "0"
+    ]
+  ],
   "141159": [
     [
       "317",

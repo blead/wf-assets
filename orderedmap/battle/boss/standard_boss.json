@@ -321,6 +321,66 @@
       ]
     ]
   },
+  "steampunk_water_multi": {
+    "20": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_multi4"
+      ]
+    ]
+  },
+  "steampunk_water_single": {
+    "20": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_single1"
+      ]
+    ],
+    "50": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_single2"
+      ]
+    ],
+    "70": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_single3"
+      ]
+    ],
+    "80": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_single4"
+      ]
+    ]
+  },
+  "steampunk_water_hard_multi": {
+    "100": [
+      [
+        "蒼機兵ヴェルヌス",
+        "battle/enemy/boss/steampunk_water_hard_multi"
+      ]
+    ]
+  },
   "steampunk_fire_multi": {
     "20": [
       [
