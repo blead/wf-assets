@@ -11614,7 +11614,9 @@
           ],
           "e": 16,
           "f": null,
-          "g": null,
+          "g": [
+            "崩壊"
+          ],
           "h": [
             {
               "a": [
@@ -13867,7 +13869,10 @@
             "steampunk_water_funnel_core_single"
           ],
           "b": [
-            "T1"
+            "T2",
+            [
+              "バフ指令2"
+            ]
           ],
           "c": [
             "T2",
@@ -13900,7 +13905,10 @@
             "steampunk_water_funnel_core_single"
           ],
           "b": [
-            "T1"
+            "T2",
+            [
+              "連携"
+            ]
           ],
           "c": [
             "T2",
