@@ -25,6 +25,32 @@
       ]
     ]
   },
+  "100000": {
+    "1": [
+      [
+        "1",
+        "奔雷必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "奔雷強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "奔雷直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ]
+  },
   "9": {
     "1": [
       [

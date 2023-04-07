@@ -4220,6 +4220,24 @@
       "false"
     ]
   ],
+  "208487": [
+    [
+      "3000",
+      "dynamic/feature_announcement/thunder_element_character_pickup_03",
+      "2023-04-07 12:00:00",
+      "2023-04-14 11:59:59",
+      "false"
+    ]
+  ],
+  "208220": [
+    [
+      "3001",
+      "dynamic/feature_announcement/green_element_character_pickup_01",
+      "2023-04-07 12:00:00",
+      "2023-04-14 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4271,6 +4289,15 @@
       "dynamic/feature_announcement/k_collabo_special_set",
       "2022-06-30 12:00:00",
       "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000009": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_06",
+      "2023-04-07 12:00:00",
+      "2023-04-21 20:59:59",
       "false"
     ]
   ],

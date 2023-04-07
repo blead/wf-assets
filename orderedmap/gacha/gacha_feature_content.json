@@ -714,6 +714,125 @@
       ]
     ]
   },
+  "168": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/thunder_element_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131074",
+        "0",
+        "131074",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_47/dog_slasher_proud/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131074",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131134",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_79/octcyborg_lady/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131134",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131110",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_69/nihilist_mechgirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131110",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_horn_leader",
+        "131068",
+        "0",
+        "131068",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_46/horn_leader/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131068",
+        ""
+      ]
+    ]
+  },
   "800008": {
     "1": [
       [
@@ -12728,6 +12847,21 @@
         "",
         "0",
         "141045",
+        ""
+      ]
+    ]
+  },
+  "169": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/green_element_character_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
         ""
       ]
     ]

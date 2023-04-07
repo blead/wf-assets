@@ -65037,6 +65037,7 @@ dynamic/feature_announcement/expert_single_event_02
 dynamic/feature_announcement/fukubukuro2021
 dynamic/feature_announcement/fukubukuro2022
 dynamic/feature_announcement/fukubukuro2023
+dynamic/feature_announcement/green_element_character_pickup_01
 dynamic/feature_announcement/green_element_character_pickup_03
 dynamic/feature_announcement/green_element_pickup_02
 dynamic/feature_announcement/gw22_campaign_gacha
@@ -65266,6 +65267,7 @@ dynamic/feature_announcement/star_heroes_9
 dynamic/feature_announcement/story_event_vt21
 dynamic/feature_announcement/summer22_campaign_mission
 dynamic/feature_announcement/summer_vacation_2020
+dynamic/feature_announcement/thunder_element_character_pickup_03
 dynamic/feature_announcement/thunder_element_pickup_02
 dynamic/feature_announcement/thunder_element_pickup_03
 dynamic/feature_announcement/thunder_element_pickup_04
@@ -65397,6 +65399,7 @@ dynamic/gacha_banner/equipment_wind_pickup_2
 dynamic/gacha_banner/equipment_yellow_pickup_1
 dynamic/gacha_banner/fukubukuro_2020
 dynamic/gacha_banner/fukubukuro_gacha_ny2021
+dynamic/gacha_banner/green_element_character_pickup_01
 dynamic/gacha_banner/green_element_pickup_01
 dynamic/gacha_banner/green_element_pickup_02
 dynamic/gacha_banner/rarity_5_guaranteed_1
@@ -65479,6 +65482,7 @@ dynamic/gacha_list_banner/equipment_wind_pickup_2
 dynamic/gacha_list_banner/equipment_yellow_pickup_1
 dynamic/gacha_list_banner/fukubukuro_2020
 dynamic/gacha_list_banner/fukubukuro_gacha_ny2021
+dynamic/gacha_list_banner/green_element_character_pickup_01
 dynamic/gacha_list_banner/green_element_character_pickup_03
 dynamic/gacha_list_banner/green_element_pickup_01
 dynamic/gacha_list_banner/green_element_pickup_02
@@ -65619,6 +65623,7 @@ dynamic/gacha_list_banner/star_heroes_6
 dynamic/gacha_list_banner/star_heroes_7
 dynamic/gacha_list_banner/star_heroes_8
 dynamic/gacha_list_banner/star_heroes_9
+dynamic/gacha_list_banner/thunder_element_character_pickup_03
 dynamic/gacha_list_banner/thunder_element_pickup_01
 dynamic/gacha_list_banner/thunder_element_pickup_02
 dynamic/gacha_list_banner/thunder_element_pickup_03
@@ -65919,6 +65924,7 @@ dynamic/home_banner/gacha/equipment_wind_pickup_2
 dynamic/home_banner/gacha/equipment_yellow_pickup_1
 dynamic/home_banner/gacha/event_advent_spirit_beast_light
 dynamic/home_banner/gacha/gacha_new_character_pickup_01
+dynamic/home_banner/gacha/green_element_character_pickup_01
 dynamic/home_banner/gacha/green_element_character_pickup_03
 dynamic/home_banner/gacha/green_element_pickup_01
 dynamic/home_banner/gacha/green_element_pickup_02
@@ -66058,6 +66064,7 @@ dynamic/home_banner/gacha/star_heroes_6
 dynamic/home_banner/gacha/star_heroes_7
 dynamic/home_banner/gacha/star_heroes_8
 dynamic/home_banner/gacha/star_heroes_9
+dynamic/home_banner/gacha/thunder_element_character_pickup_03
 dynamic/home_banner/gacha/thunder_element_pickup_01
 dynamic/home_banner/gacha/thunder_element_pickup_02
 dynamic/home_banner/gacha/thunder_element_pickup_03
@@ -67457,6 +67464,7 @@ gacha/feature_movie/revival_xm20_character_pickup_02/top/feature
 gacha/feature_movie/revival_xm21_character_pickup_01/top/feature
 gacha/feature_movie/revival_xm21_character_pickup_02/top/feature
 gacha/feature_movie/revival_zcollabo_character_pickup_01/top/feature
+gacha/feature_movie/thunder_element_character_pickup_03/top/feature
 gacha/feature_movie/unison_pickup_1/alice/feature
 gacha/feature_movie/unison_pickup_1/bishop_girl/feature
 gacha/feature_movie/unison_pickup_1/cute_fafnir/feature
