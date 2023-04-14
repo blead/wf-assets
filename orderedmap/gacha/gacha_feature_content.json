@@ -4032,6 +4032,125 @@
       ]
     ]
   },
+  "171": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_21smr22smr_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_ruin_girl_smr21",
+        "151063",
+        "0",
+        "151063",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_45/ruin_girl_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151063",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151117",
+        "0",
+        "151117",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/samurai_robot_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151117",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_oracle_smr21",
+        "151051",
+        "0",
+        "151051",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/fox_oracle_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151051",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "251077",
+        "0",
+        "251077",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_67/twin_blader_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "251077",
+        ""
+      ]
+    ]
+  },
   "153": {
     "1": [
       [
@@ -6137,6 +6256,73 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "170": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151159",
+        "0",
+        "151159",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/golden_dragon_jr/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151159",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261089",
+        "0",
+        "261089",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_85/darkness_dragon/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261089",
         ""
       ]
     ]

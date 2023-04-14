@@ -846,6 +846,17 @@
       "2023-04-07 04:59:59"
     ]
   ],
+  "event_kc_anv1": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_anv1",
+      "2023-04-14 12:00:00",
+      "2023-05-05 04:59:59"
+    ]
+  ],
   "Event_Advent_k_collabo": [
     [
       "help_label_event_advent_k_collabo",
@@ -1438,6 +1449,17 @@
       "rich_text/help_event_advent_spirit_beast_thunder4",
       "2023-02-14 12:00:00",
       "2023-03-08 04:59:59"
+    ]
+  ],
+  "Help_advent_spirit_beast_light_20230414_20230428": [
+    [
+      "help_label_event_advent_spirit_beast_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_light_template",
+      "2023-04-14 12:00:00",
+      "2023-05-06 04:59:59"
     ]
   ],
   "event_advent_spirit_beast_light3": [

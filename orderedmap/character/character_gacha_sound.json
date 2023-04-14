@@ -2249,6 +2249,40 @@
       ]
     ]
   },
+  "151159": {
+    "5": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/light/se_power_flip_supporter_lv3_attack"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ]
+  },
+  "261089": {
+    "5": [
+      [
+        "sound_effect/monster/se_teleportation"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/dark/se_dark_hit_shadow"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/dark/se_soul_shot"
+      ]
+    ]
+  },
   "131152": {
     "5": [
       [

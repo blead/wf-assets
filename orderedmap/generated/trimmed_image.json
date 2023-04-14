@@ -2031,6 +2031,22 @@
       "690"
     ]
   ],
+  "character/alk_p_encyclopedia/ui/story/base": [
+    [
+      "34",
+      "47",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_p_encyclopedia/ui/story/normal": [
+    [
+      "186",
+      "226",
+      "570",
+      "690"
+    ]
+  ],
   "character/alk_serious/ui/full_shot_1440_1920_0": [
     [
       "542",
@@ -17079,6 +17095,254 @@
       "690"
     ]
   ],
+  "character/darkness_dragon/ui/full_shot_1440_1920_0": [
+    [
+      "317",
+      "95",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/darkness_dragon/ui/skill_cutin_0": [
+    [
+      "170",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/darkness_dragon/ui/full_shot_1440_1920_1": [
+    [
+      "431",
+      "112",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/darkness_dragon/ui/skill_cutin_1": [
+    [
+      "197",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/anger": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/anger_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/normal": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/normal_b": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/normal_b_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/normal_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/sad": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/sad_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/serious": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/serious_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/shame": [
+    [
+      "211",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile_b": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile_b_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile_c": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile_c_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/smile_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/surprise": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/surprise_b": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/surprise_b_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/surprise_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/sweat": [
+    [
+      "323",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/tear": [
+    [
+      "290",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/think": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
+  "character/darkness_dragon/ui/story/think_rev": [
+    [
+      "159",
+      "38",
+      "570",
+      "690"
+    ]
+  ],
   "character/deepsea_mage/ui/full_shot_1440_1920_0": [
     [
       "409",
@@ -28291,6 +28555,174 @@
     [
       "300",
       "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/full_shot_1440_1920_0": [
+    [
+      "254",
+      "228",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/skill_cutin_0": [
+    [
+      "0",
+      "25",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/full_shot_1440_1920_1": [
+    [
+      "185",
+      "56",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/skill_cutin_1": [
+    [
+      "255",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/angry": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/angry_b": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/angry_c": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/base_0": [
+    [
+      "0",
+      "40",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/jito": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/normal": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/normal_b": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/sad": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/shame": [
+    [
+      "194",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/smile": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/smile_b": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/surprise": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/surprise_b": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/surprise_c": [
+    [
+      "192",
+      "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/sweat": [
+    [
+      "212",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/golden_dragon_jr/ui/story/think": [
+    [
+      "192",
+      "212",
       "570",
       "690"
     ]

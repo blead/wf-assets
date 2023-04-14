@@ -5354,6 +5354,13 @@
       "middle_boss_dragon_smr20_raid4"
     ]
   ],
+  "middle_boss_dragon_anv1_kc": [
+    [
+      "middle_boss_dragon_anv1_kc",
+      "battle/terrain/event_quest/advent_event/advent_middle_boss_dragon_anv1_kc/advent_middle_boss_dragon_anv1_kc",
+      "middle_boss_dragon_anv1_kc"
+    ]
+  ],
   "mechanic_dragon_eater_story": [
     [
       "cyber_punk_vacant_land_battle",
@@ -5660,6 +5667,20 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_golden_dragon_jr": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_golden_dragon_jr",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_darkness_dragon": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_darkness_dragon",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_ruin_lady_meteor23": [

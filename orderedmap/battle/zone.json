@@ -23116,6 +23116,53 @@
       ]
     ]
   },
+  "middle_boss_dragon_anv1_kc": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "middle_boss_dragon_anv1_kc",
+        "1",
+        "middle_boss_dragon_anv1_kc",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_town/town_barren/outhole/zone2/town_barren_outhole_zone2",
+        "battle/field_object/world_town/town_barren/yakumono/dash_panel",
+        "battle/field_object/world_town/town_barren/rotation_panel/town_barren_rotation_panel",
+        "(None)",
+        "chapter1_mana_breakableblock",
+        "chapter1_mana_decoration"
+      ]
+    ]
+  },
   "anv2_mechanic_dragon_eater_story": {
     "0": [
       [

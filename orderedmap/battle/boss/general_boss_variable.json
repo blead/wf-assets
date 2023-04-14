@@ -5078,6 +5078,45 @@
       ]
     }
   },
+  "middle_boss_dragon_anv1_kc": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge": [
+        [
+          "60"
+        ]
+      ],
+      "target_charge": [
+        [
+          "240"
+        ]
+      ],
+      "shot6_loop": [
+        [
+          "240"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "360"
+        ]
+      ],
+      "skill2_shot": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
   "middle_boss_dragon_anv1_single": {
     "49": {
       "neutral": [

@@ -1109,6 +1109,36 @@
       "2023-04-07 04:59:59"
     ]
   ],
+  "200037": [
+    [
+      "kc_anv1",
+      "(None)",
+      "クグイとリョウキの特別訓練！",
+      "",
+      "quest/event/banner/advent_event/event_kc",
+      "quest/event/bossbattle_banner/advent_event/event_kc",
+      "0",
+      "quest/event/background/advent_event/kc",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "32",
+      "bgm/world_japan/story/japan_story_fuan",
+      "event",
+      "40330",
+      "40331",
+      "40332",
+      "(None)",
+      "false",
+      "kc_anv1",
+      "true",
+      "2023-04-14 12:00:00",
+      "2023-04-28 20:59:59",
+      "2023-05-05 04:59:59"
+    ]
+  ],
   "100008": [
     [
       "advent_k_collabo_event",
@@ -1287,6 +1317,36 @@
       "2023-02-14 12:00:00",
       "2023-02-28 20:59:59",
       "2023-03-08 04:59:59"
+    ]
+  ],
+  "200038": [
+    [
+      "advent_spirit_beast_light_20230414_20230428",
+      "(None)",
+      "巫光の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_light",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_light",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_light",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "21",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49347",
+      "49348",
+      "49349",
+      "(None)",
+      "true",
+      "advent_spirit_beast_light",
+      "true",
+      "2023-04-14 12:00:00",
+      "2023-04-28 20:59:59",
+      "2023-05-06 04:59:59"
     ]
   ],
   "200020": [

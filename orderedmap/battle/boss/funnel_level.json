@@ -4895,6 +4895,23 @@
       "1"
     ]
   ],
+  "funnel_middle_boss_dragon_anv1_kc": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "2.5",
+      "1.8",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "70",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_middle_boss_dragon_anv1": [
     [
       "0",

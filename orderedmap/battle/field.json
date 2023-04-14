@@ -1231,6 +1231,20 @@
       "battle/field_object/world_tree/tree_grass01/fever_gauge/tree_grass01_fever_gauge"
     ]
   ],
+  "middle_boss_dragon_anv1_kc": [
+    [
+      "battle/field/world_town/town_barren/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_town/town_barren/fever_gauge/town_barren_fever_gauge"
+    ]
+  ],
   "cyber_punk_vacant_land_battle": [
     [
       "battle/field/world_cyber_punk/cyber_punk_vacant_land_battle/background/background",

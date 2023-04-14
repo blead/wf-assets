@@ -11216,7 +11216,7 @@
   ],
   "quest_unselectable_reason_message_single_ranking_event_quest_clear": [
     [
-      "スコアアタックイベント『::questName::』をクリア"
+      "タイムアタックイベント『::questName::』をクリア"
     ]
   ],
   "quest_unselectable_reason_message_single_story_event_quest_clear": [
@@ -11256,7 +11256,7 @@
   ],
   "quest_unselectable_reason_message_multi_ranking_event_quest_clear": [
     [
-      "スコアアタックイベント『::questName::』をクリア"
+      "タイムアタックイベント『::questName::』をクリア"
     ]
   ],
   "quest_unselectable_reason_message_event_quest_clear": [

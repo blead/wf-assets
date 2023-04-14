@@ -7084,6 +7084,32 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1151117": [
+    [
+      "degree_favor_samurai_robot_smr22_2",
+      "76011",
+      "真夏の武士道、青海の忍道",
+      "まなつのぶしどうせいかいのしのびどう",
+      "獲得条件：【渚のニンジャザムライ】ザンテツのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_samurai_robot_smr22_2"
+    ]
+  ],
+  "1251077": [
+    [
+      "degree_favor_twin_blader_smr22_2",
+      "429011",
+      "ご注文はなんですか？",
+      "ごちゅうもんはなんですか",
+      "獲得条件：【渚の看板娘】ユナのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_twin_blader_smr22_2"
+    ]
+  ],
   "1141111": [
     [
       "degree_favor_silence_suzuka_2",
@@ -11437,6 +11463,32 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "151159": [
+    [
+      "degree_favor_golden_dragon_jr",
+      "144000",
+      "愛を継ぐ龍",
+      "あいをつぐりゅう",
+      "獲得条件：【愛を継ぐ龍】ラフマーノをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golden_dragon_jr"
+    ]
+  ],
+  "261089": [
+    [
+      "degree_favor_darkness_dragon",
+      "370000",
+      "想い繋ぐ冥龍",
+      "おもいつなぐめいりゅう",
+      "獲得条件：【想い繋ぐ冥龍】アルマデウスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_darkness_dragon"
     ]
   ],
   "121153": [

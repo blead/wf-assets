@@ -8069,6 +8069,106 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "golden_dragon_jr": [
+    [
+      "ラフマーノ",
+      "0xabb283",
+      "character/golden_dragon_jr/voice/",
+      "normal,angry,angry_b,angry_c,jito,normal_b,sad,shame,smile,smile_b,surprise,surprise_b,surprise_c,sweat,think,evolve",
+      "character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_0,character/golden_dragon_jr/ui/story/base_1",
+      "character/golden_dragon_jr/ui/story/normal,character/golden_dragon_jr/ui/story/angry,character/golden_dragon_jr/ui/story/angry_b,character/golden_dragon_jr/ui/story/angry_c,character/golden_dragon_jr/ui/story/jito,character/golden_dragon_jr/ui/story/normal_b,character/golden_dragon_jr/ui/story/sad,character/golden_dragon_jr/ui/story/shame,character/golden_dragon_jr/ui/story/smile,character/golden_dragon_jr/ui/story/smile_b,character/golden_dragon_jr/ui/story/surprise,character/golden_dragon_jr/ui/story/surprise_b,character/golden_dragon_jr/ui/story/surprise_c,character/golden_dragon_jr/ui/story/sweat,character/golden_dragon_jr/ui/story/think,(None)"
+    ]
+  ],
+  "mob_elf_youth": [
+    [
+      "エルフの青年",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_elf_youth_name": [
+    [
+      "ロスレンド",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shout_victory": [
+    [
+      "鬨の声",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "darkness_dragon": [
+    [
+      "アルマデウス",
+      "0x3f2843",
+      "character/darkdragon_mecha/voice/",
+      "normal,anger,anger_rev,normal_b,normal_b_rev,normal_rev,sad,sad_rev,serious,serious_rev,shame,smile,smile_b,smile_b_rev,smile_c,smile_c_rev,smile_rev,surprise,surprise_b,surprise_b_rev,surprise_rev,sweat,tear,think,think_rev,evolve",
+      "character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_0,character/darkness_dragon/ui/story/base_1",
+      "character/darkness_dragon/ui/story/normal,character/darkness_dragon/ui/story/anger,character/darkness_dragon/ui/story/anger_rev,character/darkness_dragon/ui/story/normal_b,character/darkness_dragon/ui/story/normal_b_rev,character/darkness_dragon/ui/story/normal_rev,character/darkness_dragon/ui/story/sad,character/darkness_dragon/ui/story/sad_rev,character/darkness_dragon/ui/story/serious,character/darkness_dragon/ui/story/serious_rev,character/darkness_dragon/ui/story/shame,character/darkness_dragon/ui/story/smile,character/darkness_dragon/ui/story/smile_b,character/darkness_dragon/ui/story/smile_b_rev,character/darkness_dragon/ui/story/smile_c,character/darkness_dragon/ui/story/smile_c_rev,character/darkness_dragon/ui/story/smile_rev,character/darkness_dragon/ui/story/surprise,character/darkness_dragon/ui/story/surprise_b,character/darkness_dragon/ui/story/surprise_b_rev,character/darkness_dragon/ui/story/surprise_rev,character/darkness_dragon/ui/story/sweat,character/darkness_dragon/ui/story/tear,character/darkness_dragon/ui/story/think,character/darkness_dragon/ui/story/think_rev,(None)"
+    ]
+  ],
+  "summoner_little_voice": [
+    [
+      "少女の声",
+      "0x3f2843",
+      "character/summoner_little/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_dark_color_dragon": [
+    [
+      "闇色の龍",
+      "0x32587d",
+      "character/darkdragon_mecha/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_quasi_adventure": [
+    [
+      "冒険者？",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "kapera_noview": [
+    [
+      "カペラ",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "alk_p_encyclopedia": [
+    [
+      "アルクP",
+      "0x5481e6",
+      "(None)",
+      "normal",
+      "character/alk_p_encyclopedia/ui/story/base",
+      "character/alk_p_encyclopedia/ui/story/normal"
+    ]
+  ],
   "ruin_lady_meteor23": [
     [
       "ソティエス",
@@ -11462,7 +11562,7 @@
   "mob_stain_adventurer": [
     [
       "傷を負った冒険者",
-      "0x7c8574",
+      "0x27925e",
       "(None)",
       "",
       "",
@@ -27853,7 +27953,7 @@
     [
       "？？？",
       "0xabb283",
-      "(None)",
+      "character/golden_dragon_jr/voice/",
       "",
       "",
       ""
@@ -27873,7 +27973,7 @@
     [
       "ラフマーノ",
       "0xabb283",
-      "(None)",
+      "character/golden_dragon_jr/voice/",
       "",
       "",
       ""

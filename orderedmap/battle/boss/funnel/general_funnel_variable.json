@@ -975,6 +975,20 @@
       ]
     }
   },
+  "funnel_middle_boss_dragon_anv1_kc": {
+    "100": {
+      "neutral": [
+        [
+          "180"
+        ]
+      ],
+      "charge": [
+        [
+          "180"
+        ]
+      ]
+    }
+  },
   "funnel_middle_boss_dragon_anv1": {
     "49": {
       "neutral": [
