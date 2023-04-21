@@ -4265,6 +4265,15 @@
       "false"
     ]
   ],
+  "209382": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_blue_element_character_pickup_01",
+      "2023-04-21 12:00:00",
+      "2023-04-28 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4334,6 +4343,15 @@
       "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
       "2023-03-31 12:00:00",
       "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000017": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event",
+      "2023-04-21 12:00:00",
+      "2023-04-28 20:59:59",
       "false"
     ]
   ],

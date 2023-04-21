@@ -4031,6 +4031,152 @@
       ]
     ]
   },
+  "10000016": {
+    "1": [
+      [
+        "1",
+        "17",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_administrator",
+        "(None)",
+        "",
+        "1",
+        "2023-04-21 12:00:00",
+        "2023-04-23 04:59:59"
+      ]
+    ],
+    "2": [
+      [
+        "1",
+        "14",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_white_tiger_ghost",
+        "(None)",
+        "",
+        "1",
+        "2023-04-21 12:00:00",
+        "2023-04-23 04:59:59"
+      ]
+    ],
+    "3": [
+      [
+        "1",
+        "33",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_evil_envy",
+        "(None)",
+        "",
+        "1",
+        "2023-04-21 12:00:00",
+        "2023-04-23 04:59:59"
+      ]
+    ],
+    "7": [
+      [
+        "1",
+        "16",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_security_armor",
+        "(None)",
+        "",
+        "1",
+        "2023-04-23 05:00:00",
+        "2023-04-25 04:59:59"
+      ]
+    ],
+    "8": [
+      [
+        "1",
+        "2",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_treant",
+        "(None)",
+        "",
+        "1",
+        "2023-04-23 05:00:00",
+        "2023-04-25 04:59:59"
+      ]
+    ],
+    "9": [
+      [
+        "1",
+        "12",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_arch_evil",
+        "(None)",
+        "",
+        "1",
+        "2023-04-23 05:00:00",
+        "2023-04-25 04:59:59"
+      ]
+    ],
+    "13": [
+      [
+        "1",
+        "17",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_administrator",
+        "(None)",
+        "",
+        "1",
+        "2023-04-25 05:00:00",
+        "2023-04-27 04:59:59"
+      ]
+    ],
+    "14": [
+      [
+        "1",
+        "24",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_grizzly",
+        "(None)",
+        "",
+        "1",
+        "2023-04-25 05:00:00",
+        "2023-04-27 04:59:59"
+      ]
+    ],
+    "15": [
+      [
+        "1",
+        "33",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_evil_envy",
+        "(None)",
+        "",
+        "1",
+        "2023-04-25 05:00:00",
+        "2023-04-27 04:59:59"
+      ]
+    ],
+    "22": [
+      [
+        "1",
+        "16",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_security_armor",
+        "(None)",
+        "",
+        "1",
+        "2023-04-27 05:00:00",
+        "2023-04-28 20:59:59"
+      ]
+    ],
+    "23": [
+      [
+        "1",
+        "6",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_guardian_golem",
+        "(None)",
+        "",
+        "1",
+        "2023-04-27 05:00:00",
+        "2023-04-28 20:59:59"
+      ]
+    ],
+    "24": [
+      [
+        "1",
+        "19",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_ghost_fox",
+        "(None)",
+        "",
+        "1",
+        "2023-04-27 05:00:00",
+        "2023-04-28 20:59:59"
+      ]
+    ]
+  },
   "10000015": {
     "1": [
       [

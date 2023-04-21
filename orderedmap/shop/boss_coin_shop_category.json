@@ -29,7 +29,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_2_treant",
       "quest/boss_battle/background/boss_battle_treant",
-      "9,11,15,10000010",
+      "10000016,9,11,15,10000010",
       "false"
     ]
   ],
@@ -80,7 +80,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_6_gurdian_golem",
       "quest/boss_battle/background/boss_battle_gurdian_golem",
-      "1,4,5,6,8,9,13,14,15,10000004,10000008,10000011,10000014,16",
+      "10000016,1,4,5,6,8,9,13,14,15,10000004,10000008,10000011,10000014,16",
       "false"
     ]
   ],
@@ -131,7 +131,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_12_arch_evil",
       "quest/boss_battle/background/boss_battle_arch_evil",
-      "1,3,5,6,7,8,13,14,15,17,10000004,10000010",
+      "10000016,1,3,5,6,7,8,13,14,15,17,10000004,10000010",
       "false"
     ]
   ],
@@ -165,7 +165,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_14_white_tiger_ghost",
       "quest/boss_battle/background/boss_battle_white_tiger_ghost",
-      "1,3,4,6,8,10,11,13,14,15,17,10000010",
+      "10000016,1,3,4,6,8,10,11,13,14,15,17,10000010",
       "false"
     ]
   ],
@@ -182,7 +182,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_16_security_armor",
       "quest/boss_battle/background/boss_battle_security_armor",
-      "2,12,14,15,17,10000004,10000010",
+      "10000016,2,12,14,15,17,10000004,10000010",
       "false"
     ]
   ],
@@ -199,7 +199,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_17_administrator",
       "quest/boss_battle/background/boss_battle_administrator",
-      "1,2,5,6,7,8,13,14,15,17,10000004,10000010",
+      "10000016,1,2,5,6,7,8,13,14,15,17,10000004,10000010",
       "false"
     ]
   ],
@@ -216,7 +216,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_19_ghost_fox",
       "quest/boss_battle/background/boss_battle_ghost_fox",
-      "7,12,14,15,17,10000010",
+      "10000016,7,12,14,15,17,10000010",
       "false"
     ]
   ],
@@ -335,7 +335,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_24_grizzly_fire",
       "quest/boss_battle/background/boss_battle_grizzly_fire",
-      "14,15,10000004,10000008,10000011,10000014,16",
+      "10000016,14,15,10000004,10000008,10000011,10000014,16",
       "false"
     ]
   ],
@@ -437,7 +437,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_33_evil_envy",
       "quest/boss_battle/background/boss_battle_evil_envy",
-      "17,10000004,10000010",
+      "10000016,17,10000004,10000010",
       "false"
     ]
   ],

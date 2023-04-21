@@ -3043,13 +3043,13 @@
     [
       "common_attack_up",
       "condition_slow",
-      "(None)",
+      "powerflip_damage_up",
       "(None)",
       "(None)",
       "(None)",
       "common_attack_up",
       "condition_slow",
-      "(None)",
+      "powerflip_damage_up",
       "(None)",
       "(None)",
       "(None)"
@@ -5731,13 +5731,13 @@
     [
       "common_attack_up",
       "condition_effect_red_up",
-      "(None)",
+      "skill_damage_up",
       "(None)",
       "(None)",
       "(None)",
       "common_attack_up",
       "condition_effect_red_up",
-      "(None)",
+      "skill_damage_up",
       "(None)",
       "(None)",
       "(None)"
