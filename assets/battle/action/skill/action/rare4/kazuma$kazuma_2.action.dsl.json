@@ -500,32 +500,6 @@
                       [
                         "Command",
                         [
-                          "CreateRatioHeal",
-                          7,
-                          2,
-                          [
-                            {
-                              "alv_max": 0.02,
-                              "alv_min": 0.01,
-                              "max": 0.08,
-                              "min": 0.06
-                            }
-                          ],
-                          null,
-                          [
-                            {
-                              "max": 0,
-                              "min": 0
-                            }
-                          ],
-                          [
-                            "GenericHealHitEffect"
-                          ]
-                        ]
-                      ],
-                      [
-                        "Command",
-                        [
                           "CreateCondition",
                           7,
                           [
@@ -573,6 +547,100 @@
                             }
                           ],
                           false
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  8,
+                  113,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateRatioHeal",
+                          8,
+                          2,
+                          [
+                            {
+                              "alv_max": 0.02,
+                              "alv_min": 0.01,
+                              "max": 0.08,
+                              "min": 0.06
+                            }
+                          ],
+                          null,
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          [
+                            "GenericHealHitEffect"
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  9,
+                  145,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateRatioHeal",
+                          9,
+                          2,
+                          [
+                            {
+                              "alv_max": 0.02,
+                              "alv_min": 0.01,
+                              "max": 0.08,
+                              "min": 0.06
+                            }
+                          ],
+                          null,
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          [
+                            "GenericHealHitEffect"
+                          ]
                         ]
                       ]
                     ]

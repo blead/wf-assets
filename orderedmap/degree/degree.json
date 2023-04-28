@@ -5342,6 +5342,175 @@
       "dynamic/degree/degree_favor_subaru"
     ]
   ],
+  "63052": [
+    [
+      "degree_raid_event_05_01",
+      "540052",
+      "弾襲天",
+      "だんしゅうてん",
+      "獲得条件：「レイドイベント 戦陣の宴」 地獄級ランキング ５００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_01"
+    ]
+  ],
+  "63053": [
+    [
+      "degree_raid_event_05_02",
+      "540053",
+      "弾襲星",
+      "だんしゅうせい",
+      "獲得条件：「レイドイベント 戦陣の宴」 地獄級ランキング １０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_02"
+    ]
+  ],
+  "63054": [
+    [
+      "degree_raid_event_05_03",
+      "540054",
+      "弾襲空",
+      "だんしゅうくう",
+      "獲得条件：「レイドイベント 戦陣の宴」 地獄級ランキング ２０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_03"
+    ]
+  ],
+  "63055": [
+    [
+      "degree_raid_event_05_04",
+      "540055",
+      "弾襲聖",
+      "だんしゅうしょう",
+      "獲得条件：「レイドイベント 戦陣の宴」 地獄級ランキング ３０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_04"
+    ]
+  ],
+  "63056": [
+    [
+      "degree_raid_event_05_05",
+      "540056",
+      "弾襲王",
+      "だんしゅうおう",
+      "獲得条件：「レイドイベント 戦陣の宴」 超級ランキング ２０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_05"
+    ]
+  ],
+  "63057": [
+    [
+      "degree_raid_event_05_06",
+      "540057",
+      "弾襲卿",
+      "だんしゅうきょう",
+      "獲得条件：「レイドイベント 戦陣の宴」 超級ランキング ４０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_06"
+    ]
+  ],
+  "63058": [
+    [
+      "degree_raid_event_05_07",
+      "540058",
+      "弾襲侯",
+      "だんしゅうこう",
+      "獲得条件：「レイドイベント 戦陣の宴」 超級ランキング ７０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_07"
+    ]
+  ],
+  "63059": [
+    [
+      "degree_raid_event_05_08",
+      "540059",
+      "弾襲豪",
+      "だんしゅうごう",
+      "獲得条件：「レイドイベント 戦陣の宴」 超級ランキング １００００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_08"
+    ]
+  ],
+  "63060": [
+    [
+      "degree_raid_event_05_09",
+      "540060",
+      "弾襲帥",
+      "だんしゅうすい",
+      "獲得条件：「レイドイベント 戦陣の宴」 上級ランキング ４０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_09"
+    ]
+  ],
+  "63061": [
+    [
+      "degree_raid_event_05_10",
+      "540061",
+      "弾襲将",
+      "だんしゅうしょう",
+      "獲得条件：「レイドイベント 戦陣の宴」 上級ランキング ８０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_10"
+    ]
+  ],
+  "63062": [
+    [
+      "degree_raid_event_05_11",
+      "540062",
+      "弾襲長",
+      "だんしゅうちょう",
+      "獲得条件：「レイドイベント 戦陣の宴」 上級ランキング １２０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_11"
+    ]
+  ],
+  "63063": [
+    [
+      "degree_raid_event_05_12",
+      "540063",
+      "弾襲兵",
+      "だんしゅうへい",
+      "獲得条件：「レイドイベント 戦陣の宴」 初級ランキング ５０００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_12"
+    ]
+  ],
+  "63064": [
+    [
+      "degree_raid_event_05_13",
+      "540064",
+      "弾襲士",
+      "だんしゅうし",
+      "獲得条件：「レイドイベント 戦陣の宴」 初級ランキング １００００位入賞",
+      "8",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_raid_event_05_13"
+    ]
+  ],
   "63039": [
     [
       "degree_raid_event_04_01",
@@ -7082,6 +7251,19 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
+    ]
+  ],
+  "1111123": [
+    [
+      "degree_favor_monster_cook_smr22_2",
+      "348011",
+      "エプロンの矜持",
+      "えぷろんのきょうじ",
+      "獲得条件：【夏の海魔料理人】パルフェのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_monster_cook_smr22_2"
     ]
   ],
   "1151117": [
@@ -11463,6 +11645,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "141171": [
+    [
+      "degree_favor_psychic_taichi",
+      "116000",
+      "その後を知る男",
+      "そのごをしるおとこ",
+      "獲得条件：【その後を知る男】夕日野タイチをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_taichi"
+    ]
+  ],
+  "131158": [
+    [
+      "degree_favor_psychic_katana",
+      "87000",
+      "裁刀の能力者",
+      "さいとうののうりょくしゃ",
+      "獲得条件：【裁刀の能力者】天羽ナギリをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_katana"
+    ]
+  ],
+  "111159": [
+    [
+      "degree_favor_catbaby_psychicer",
+      "25000",
+      "純情可憐なキトゥン",
+      "じゅんじょうかれんなきとぅん",
+      "獲得条件：【純情可憐なキトゥン】ペネローネをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_catbaby_psychicer"
     ]
   ],
   "151159": [

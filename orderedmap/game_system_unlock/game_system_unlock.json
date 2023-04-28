@@ -131,7 +131,7 @@
     [
       "condition_boss_epuration",
       "system_lock_boss_epuration",
-      "(None)",
+      "short_system_lock_boss_epuration",
       "0"
     ]
   ],

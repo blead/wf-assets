@@ -123,7 +123,7 @@
                 [
                   "FindAllSubjects",
                   0,
-                  33,
+                  113,
                   null,
                   null,
                   null,
@@ -140,6 +140,57 @@
                         [
                           "CreateRatioHeal",
                           0,
+                          2,
+                          [
+                            {
+                              "max": 0.1,
+                              "min": 0.08
+                            }
+                          ],
+                          [
+                            5
+                          ],
+                          [
+                            {
+                              "max": 0.5,
+                              "min": 0.5
+                            }
+                          ],
+                          [
+                            "SpecifyHealEffectDirectly",
+                            [
+                              "SpecifyEffectDirectly",
+                              "battle/effect/skill_unique/fox_oracle_xm19/fox_oracle_xm19_heal"
+                            ]
+                          ]
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  1,
+                  145,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateRatioHeal",
+                          1,
                           2,
                           [
                             {
@@ -207,7 +258,7 @@
         "Command",
         [
           "FindAllSubjects",
-          1,
+          2,
           113,
           [
             5
@@ -226,7 +277,7 @@
                 "Command",
                 [
                   "CreateCondition",
-                  1,
+                  2,
                   [
                     [
                       "ACAttackPoint",
@@ -282,7 +333,7 @@
         "Command",
         [
           "FindAllSubjects",
-          2,
+          3,
           145,
           [
             5
@@ -301,7 +352,7 @@
                 "Command",
                 [
                   "CreateCondition",
-                  2,
+                  3,
                   [
                     [
                       "ACAttackPoint",

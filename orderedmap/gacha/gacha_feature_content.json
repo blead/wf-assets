@@ -5728,6 +5728,99 @@
       ]
     ]
   },
+  "174": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/red_element_character_pickup_04/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bodysuit_trooper_smr21",
+        "111063",
+        "0",
+        "111063",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_42/bodysuit_trooper_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111063",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_tiger_treasure_hunter_smr20",
+        "111009",
+        "0",
+        "111009",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_15/tiger_treasure_hunter_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111009",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111123",
+        "0",
+        "111123",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_67/monster_cook_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111123",
+        ""
+      ]
+    ]
+  },
   "163": {
     "1": [
       [
@@ -6349,6 +6442,99 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "173": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141171",
+        "0",
+        "141171",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/psychic_taichi/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141171",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131158",
+        "0",
+        "131158",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/psychic_katana/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131158",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111159",
+        "0",
+        "111159",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_86/catbaby_psychicer/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111159",
         ""
       ]
     ]
@@ -13270,6 +13456,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_water_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5036": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_red_pickup_1",
         "",
         "",
         "",

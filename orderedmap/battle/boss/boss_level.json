@@ -6323,6 +6323,74 @@
       "125"
     ]
   ],
+  "alter_sheep_materia_raid1": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "5061",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21.5",
+      "1",
+      "atk_single",
+      "tp_normal",
+      "119"
+    ]
+  ],
+  "alter_sheep_materia_raid2": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "5061",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21.5",
+      "1",
+      "atk_single",
+      "tp_normal",
+      "280"
+    ]
+  ],
+  "alter_sheep_materia_raid3": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "5061",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21.5",
+      "1",
+      "atk_single",
+      "tp_normal",
+      "248"
+    ]
+  ],
+  "alter_sheep_materia_raid4": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "5061",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "21.5",
+      "1",
+      "atk_single",
+      "tp_normal",
+      "330"
+    ]
+  ],
   "runaway_romero": [
     [
       "0",

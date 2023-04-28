@@ -1055,6 +1055,38 @@
       "(None)"
     ]
   ],
+  "100000": [
+    [
+      "campaign_mission_gw_20230428_20230507",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/gw23_mission_event_background",
+      "quest/event/banner/collect_item_event/gw22_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2023-04-28 12:00:00",
+      "2023-05-07 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "13001": [
     [
       "b_collabo_campaign_mission",

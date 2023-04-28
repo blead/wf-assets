@@ -13973,6 +13973,23 @@
       "1"
     ]
   ],
+  "funnel_alter_sheep_materia_raid": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "625",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "113",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_runaway_romero_bone": [
     [
       "0",

@@ -4437,6 +4437,34 @@
       "multi_reine_rouge_4"
     ]
   ],
+  "raid_alter_sheep_materia1": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/raid_alter_sheep_materia/raid_alter_sheep_materia",
+      "raid_alter_sheep_materia1"
+    ]
+  ],
+  "raid_alter_sheep_materia2": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/raid_alter_sheep_materia/raid_alter_sheep_materia",
+      "raid_alter_sheep_materia2"
+    ]
+  ],
+  "raid_alter_sheep_materia3": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/raid_alter_sheep_materia/raid_alter_sheep_materia",
+      "raid_alter_sheep_materia3"
+    ]
+  ],
+  "raid_alter_sheep_materia4": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/raid_alter_sheep_materia/raid_alter_sheep_materia",
+      "raid_alter_sheep_materia4"
+    ]
+  ],
   "middle_boss_anv1_raid1": [
     [
       "light_guardian_raid",
@@ -5667,6 +5695,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_psychic_taichi": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_taichi",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_katana": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_katana",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_catbaby_psychicer": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_catbaby_psychicer",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_golden_dragon_jr": [

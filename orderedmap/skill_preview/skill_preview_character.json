@@ -2729,6 +2729,45 @@
       "0"
     ]
   ],
+  "141171": [
+    [
+      "325",
+      "false",
+      "false",
+      "325",
+      "false",
+      "false",
+      "character/psychic_taichi/battle/character_detail_skill_preview",
+      "0",
+      "0"
+    ]
+  ],
+  "131158": [
+    [
+      "326",
+      "false",
+      "false",
+      "326",
+      "false",
+      "false",
+      "character/psychic_katana/battle/character_detail_skill_preview",
+      "200",
+      "0"
+    ]
+  ],
+  "111159": [
+    [
+      "327",
+      "false",
+      "false",
+      "327",
+      "false",
+      "false",
+      "character/catbaby_psychicer/battle/character_detail_skill_preview",
+      "500",
+      "0"
+    ]
+  ],
   "151159": [
     [
       "323",

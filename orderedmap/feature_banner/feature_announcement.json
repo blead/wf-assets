@@ -4274,6 +4274,42 @@
       "false"
     ]
   ],
+  "209864": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_86",
+      "2023-04-28 12:00:00",
+      "2023-05-05 11:59:59",
+      "false"
+    ]
+  ],
+  "209771": [
+    [
+      "3002",
+      "dynamic/feature_announcement/red_element_character_pickup_04",
+      "2023-04-28 12:00:00",
+      "2023-05-05 11:59:59",
+      "false"
+    ]
+  ],
+  "211002": [
+    [
+      "3001",
+      "dynamic/feature_announcement/equipment_red_pickup_1",
+      "2023-04-28 12:00:00",
+      "2023-05-31 11:59:59",
+      "false"
+    ]
+  ],
+  "190585": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_raid_event_05",
+      "2023-04-28 12:00:00",
+      "2023-05-05 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4337,12 +4373,30 @@
       "false"
     ]
   ],
+  "10000019": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
+      "2023-04-28 12:00:00",
+      "2023-05-07 20:59:59",
+      "false"
+    ]
+  ],
   "10000000": [
     [
       "2000",
       "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
       "2023-03-31 12:00:00",
       "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000018": [
+    [
+      "2000",
+      "dynamic/feature_announcement/gw23_campaign_mission",
+      "2023-04-28 12:00:00",
+      "2023-05-07 20:59:59",
       "false"
     ]
   ],

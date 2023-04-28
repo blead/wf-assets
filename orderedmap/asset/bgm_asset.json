@@ -3869,6 +3869,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/catbaby_psychicer/catbaby_psychicer": [
+    [
+      "0.35",
+      "138",
+      "0.07136054",
+      "41.76934",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_katana/psychic_katana": [
+    [
+      "0.35",
+      "145",
+      "0.06106576",
+      "0.06106576",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_taichi/psychic_taichi": [
+    [
+      "0.35",
+      "102",
+      "0.059705216",
+      "2.3017006",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/golden_dragon_jr/golden_dragon_jr": [
     [
       "0.35",

@@ -12999,6 +12999,190 @@
       "690"
     ]
   ],
+  "character/catbaby_psychicer/ui/full_shot_1440_1920_0": [
+    [
+      "281",
+      "267",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/skill_cutin_0": [
+    [
+      "31",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/full_shot_1440_1920_1": [
+    [
+      "263",
+      "52",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/skill_cutin_1": [
+    [
+      "64",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/base_0": [
+    [
+      "0",
+      "149",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/discontent": [
+    [
+      "203",
+      "302",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/doya": [
+    [
+      "150",
+      "289",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/normal": [
+    [
+      "205",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/playful": [
+    [
+      "150",
+      "286",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/sad": [
+    [
+      "204",
+      "299",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/serious": [
+    [
+      "150",
+      "297",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/serious_b": [
+    [
+      "150",
+      "297",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/shame": [
+    [
+      "202",
+      "353",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/smile": [
+    [
+      "206",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/smile_b": [
+    [
+      "204",
+      "299",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/surprise": [
+    [
+      "150",
+      "287",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/surprise_b": [
+    [
+      "150",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/surprise_c": [
+    [
+      "150",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/sweat": [
+    [
+      "220",
+      "297",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/tear": [
+    [
+      "221",
+      "354",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/think": [
+    [
+      "208",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
+  "character/catbaby_psychicer/ui/story/unknown": [
+    [
+      "0",
+      "149",
+      "570",
+      "690"
+    ]
+  ],
   "character/chakram_shooter/ui/full_shot_1440_1920_0": [
     [
       "584",
@@ -55367,6 +55551,182 @@
       "690"
     ]
   ],
+  "character/psychic_katana/ui/full_shot_1440_1920_0": [
+    [
+      "312",
+      "228",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_katana/ui/skill_cutin_0": [
+    [
+      "395",
+      "77",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_katana/ui/full_shot_1440_1920_1": [
+    [
+      "311",
+      "226",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_katana/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_katana/ui/story/anger": [
+    [
+      "142",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/base_0": [
+    [
+      "0",
+      "77",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/discontent": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/normal": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/normal_b": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/sad": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/serious": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/serious_b": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/shame": [
+    [
+      "221",
+      "300",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/shy": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/smile": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/smile_b": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/smile_c": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/surprise": [
+    [
+      "207",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/sweat": [
+    [
+      "238",
+      "323",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/think": [
+    [
+      "212",
+      "210",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_katana/ui/story/unknown": [
+    [
+      "0",
+      "77",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_mikoto/ui/story/anger": [
     [
       "213",
@@ -56955,6 +57315,214 @@
     [
       "204",
       "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/full_shot_1440_1920_0": [
+    [
+      "310",
+      "245",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_taichi/ui/skill_cutin_0": [
+    [
+      "336",
+      "71",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_taichi/ui/full_shot_1440_1920_1": [
+    [
+      "214",
+      "201",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_taichi/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/anger": [
+    [
+      "174",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/base_0": [
+    [
+      "0",
+      "66",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/base_0_b": [
+    [
+      "114",
+      "97",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/normal": [
+    [
+      "175",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/normal_b": [
+    [
+      "175",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/pain": [
+    [
+      "176",
+      "217",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/sad": [
+    [
+      "176",
+      "217",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/serious": [
+    [
+      "181",
+      "207",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/serious_b": [
+    [
+      "178",
+      "207",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/shame": [
+    [
+      "194",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/smile": [
+    [
+      "175",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/smile_b": [
+    [
+      "175",
+      "211",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/smile_c": [
+    [
+      "176",
+      "214",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/surprise": [
+    [
+      "179",
+      "203",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/surprise_b": [
+    [
+      "175",
+      "207",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/sweat": [
+    [
+      "309",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/tear": [
+    [
+      "203",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/tear_b": [
+    [
+      "200",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/think": [
+    [
+      "174",
+      "207",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/unknown": [
+    [
+      "0",
+      "66",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_taichi/ui/story/wail": [
+    [
+      "176",
+      "216",
       "570",
       "690"
     ]

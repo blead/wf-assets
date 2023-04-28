@@ -2845,6 +2845,180 @@
       ]
     ]
   },
+  "psychic_taichi": {
+    "1": [
+      [
+        "鬼神ノ手・共鳴",
+        "前方を斬り払い、命中した敵に風ダメージ ／ 自身に攻撃力アップ ＋ スキルダメージアップ効果",
+        "dynamic/skill/atk_front",
+        "true",
+        "540",
+        "540",
+        "1",
+        "battle/action/skill/action/rare5/psychic_taichi$psychic_taichi_1",
+        "1",
+        "0",
+        "180",
+        "",
+        "0",
+        "-280",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "鬼神ノ手・共鳴＋",
+        "前方を斬り払い、命中した敵に風ダメージ ／ 自身に攻撃力アップ ＋ スキルダメージアップ効果",
+        "dynamic/skill/atk_front",
+        "true",
+        "540",
+        "490",
+        "1",
+        "battle/action/skill/action/rare5/psychic_taichi$psychic_taichi_2",
+        "1",
+        "0",
+        "180",
+        "",
+        "0",
+        "-280",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "psychic_katana": {
+    "1": [
+      [
+        "天雷一閃",
+        "前方を居合術で攻撃し、命中した敵に雷ダメージ ／ 発動時に自身のHPが50%以上の時、追加で自身にダメージ",
+        "dynamic/skill/atk_front",
+        "true",
+        "550",
+        "550",
+        "1",
+        "battle/action/skill/action/rare5/psychic_katana$psychic_katana_1",
+        "1",
+        "1",
+        "150",
+        "500",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "天雷一閃＋",
+        "前方を居合術で攻撃し、命中した敵に雷ダメージ ／ 発動時に自身のHPが50%以上の時、追加で自身にダメージ",
+        "dynamic/skill/atk_front",
+        "true",
+        "550",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/psychic_katana$psychic_katana_2",
+        "1",
+        "1",
+        "150",
+        "500",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "catbaby_psychicer": {
+    "1": [
+      [
+        "キトゥンキネシス",
+        "浮遊させた岩を周囲にまとい、しばらくの間近づいた敵に火ダメージ ／ リーダーが火属性の時、パーティに貫通 ＋ パワーフリップダメージアップ効果",
+        "dynamic/skill/atk_surround",
+        "true",
+        "570",
+        "570",
+        "1",
+        "battle/action/skill/action/rare5/catbaby_psychicer$catbaby_psychicer_1",
+        "1",
+        "0",
+        "150",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "キトゥンキネシス＋",
+        "浮遊させた岩を周囲にまとい、しばらくの間近づいた敵に火ダメージ ／ リーダーが火属性の時、パーティに貫通 ＋ パワーフリップダメージアップ効果",
+        "dynamic/skill/atk_surround",
+        "true",
+        "570",
+        "520",
+        "1",
+        "battle/action/skill/action/rare5/catbaby_psychicer$catbaby_psychicer_2",
+        "1",
+        "0",
+        "150",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "golden_dragon_jr": {
     "1": [
       [

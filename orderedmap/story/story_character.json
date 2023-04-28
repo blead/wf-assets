@@ -8069,6 +8069,196 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "catbaby_psychicer": [
+    [
+      "ペネローネ",
+      "0xa32535",
+      "character/catbaby_psychicer/voice/",
+      "normal,discontent,doya,playful,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,surprise_c,sweat,tear,think,evolve",
+      "character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_0,character/catbaby_psychicer/ui/story/base_1",
+      "character/catbaby_psychicer/ui/story/normal,character/catbaby_psychicer/ui/story/discontent,character/catbaby_psychicer/ui/story/doya,character/catbaby_psychicer/ui/story/playful,character/catbaby_psychicer/ui/story/sad,character/catbaby_psychicer/ui/story/serious,character/catbaby_psychicer/ui/story/serious_b,character/catbaby_psychicer/ui/story/shame,character/catbaby_psychicer/ui/story/smile,character/catbaby_psychicer/ui/story/smile_b,character/catbaby_psychicer/ui/story/surprise,character/catbaby_psychicer/ui/story/surprise_b,character/catbaby_psychicer/ui/story/surprise_c,character/catbaby_psychicer/ui/story/sweat,character/catbaby_psychicer/ui/story/tear,character/catbaby_psychicer/ui/story/think,(None)"
+    ]
+  ],
+  "catbaby_psychicer_unknown": [
+    [
+      "？？？",
+      "0xa32535",
+      "character/catbaby_psychicer/voice/",
+      "normal",
+      "character/catbaby_psychicer/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "catbaby_psychicer_fath": [
+    [
+      "ペネローネの父親",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "catbaby_psychicer_mom": [
+    [
+      "ペネローネの母親",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_dogtribe_boy_unknown": [
+    [
+      "？？？",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_dogtribe_boy": [
+    [
+      "犬族の少年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_dogtribe_boy_mom": [
+    [
+      "犬族の少年の母親",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_dogtribe_cityhead": [
+    [
+      "犬族の街の長",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_katana": [
+    [
+      "天羽ナギリ",
+      "0xb29614",
+      "character/psychic_katana/voice/",
+      "normal,anger,discontent,normal_b,sad,serious,serious_b,shame,shy,smile,smile_b,smile_c,surprise,sweat,think,evolve",
+      "character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_1",
+      "character/psychic_katana/ui/story/normal,character/psychic_katana/ui/story/anger,character/psychic_katana/ui/story/discontent,character/psychic_katana/ui/story/normal_b,character/psychic_katana/ui/story/sad,character/psychic_katana/ui/story/serious,character/psychic_katana/ui/story/serious_b,character/psychic_katana/ui/story/shame,character/psychic_katana/ui/story/shy,character/psychic_katana/ui/story/smile,character/psychic_katana/ui/story/smile_b,character/psychic_katana/ui/story/smile_c,character/psychic_katana/ui/story/surprise,character/psychic_katana/ui/story/sweat,character/psychic_katana/ui/story/think,(None)"
+    ]
+  ],
+  "psychic_katana_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/psychic_katana/voice/",
+      "normal",
+      "character/psychic_katana/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "psychic_katana_noname": [
+    [
+      "刀を携える少女",
+      "0xb29614",
+      "character/psychic_katana/voice/",
+      "normal,anger,discontent,normal_b,sad,serious,serious_b,shame,shy,smile,smile_b,smile_c,surprise,sweat,think,evolve",
+      "character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_0,character/psychic_katana/ui/story/base_1",
+      "character/psychic_katana/ui/story/normal,character/psychic_katana/ui/story/anger,character/psychic_katana/ui/story/discontent,character/psychic_katana/ui/story/normal_b,character/psychic_katana/ui/story/sad,character/psychic_katana/ui/story/serious,character/psychic_katana/ui/story/serious_b,character/psychic_katana/ui/story/shame,character/psychic_katana/ui/story/shy,character/psychic_katana/ui/story/smile,character/psychic_katana/ui/story/smile_b,character/psychic_katana/ui/story/smile_c,character/psychic_katana/ui/story/surprise,character/psychic_katana/ui/story/sweat,character/psychic_katana/ui/story/think,(None)"
+    ]
+  ],
+  "mob_shibuya_male": [
+    [
+      "渋谷の男性",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_taichi": [
+    [
+      "夕日野タイチ",
+      "0x539722",
+      "character/psychic_taichi/voice/",
+      "normal,anger,normal_b,pain,sad,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,tear_b,think,wail,normal_base_0_b,anger_base_0_b,normal_b_base_0_b,pain_base_0_b,sad_base_0_b,serious_base_0_b,serious_b_base_0_b,shame_base_0_b,smile_base_0_b,smile_b_base_0_b,smile_c_base_0_b,surprise_base_0_b,surprise_b_base_0_b,sweat_base_0_b,tear_base_0_b,tear_b_base_0_b,think_base_0_b,wail_base_0_b,evolve",
+      "character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_1",
+      "character/psychic_taichi/ui/story/normal,character/psychic_taichi/ui/story/anger,character/psychic_taichi/ui/story/normal_b,character/psychic_taichi/ui/story/pain,character/psychic_taichi/ui/story/sad,character/psychic_taichi/ui/story/serious,character/psychic_taichi/ui/story/serious_b,character/psychic_taichi/ui/story/shame,character/psychic_taichi/ui/story/smile,character/psychic_taichi/ui/story/smile_b,character/psychic_taichi/ui/story/smile_c,character/psychic_taichi/ui/story/surprise,character/psychic_taichi/ui/story/surprise_b,character/psychic_taichi/ui/story/sweat,character/psychic_taichi/ui/story/tear,character/psychic_taichi/ui/story/tear_b,character/psychic_taichi/ui/story/think,character/psychic_taichi/ui/story/wail,character/psychic_taichi/ui/story/normal,character/psychic_taichi/ui/story/anger,character/psychic_taichi/ui/story/normal_b,character/psychic_taichi/ui/story/pain,character/psychic_taichi/ui/story/sad,character/psychic_taichi/ui/story/serious,character/psychic_taichi/ui/story/serious_b,character/psychic_taichi/ui/story/shame,character/psychic_taichi/ui/story/smile,character/psychic_taichi/ui/story/smile_b,character/psychic_taichi/ui/story/smile_c,character/psychic_taichi/ui/story/surprise,character/psychic_taichi/ui/story/surprise_b,character/psychic_taichi/ui/story/sweat,character/psychic_taichi/ui/story/tear,character/psychic_taichi/ui/story/tear_b,character/psychic_taichi/ui/story/think,character/psychic_taichi/ui/story/wail,(None)"
+    ]
+  ],
+  "psychic_taichi_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/psychic_taichi/voice/",
+      "normal",
+      "character/psychic_taichi/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "psychic_taichi_noname": [
+    [
+      "茶髪の風来坊",
+      "0x539722",
+      "character/psychic_taichi/voice/",
+      "normal,anger,normal_b,pain,sad,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,tear_b,think,wail,normal_base_0_b,anger_base_0_b,normal_b_base_0_b,pain_base_0_b,sad_base_0_b,serious_base_0_b,serious_b_base_0_b,shame_base_0_b,smile_base_0_b,smile_b_base_0_b,smile_c_base_0_b,surprise_base_0_b,surprise_b_base_0_b,sweat_base_0_b,tear_base_0_b,tear_b_base_0_b,think_base_0_b,wail_base_0_b,evolve",
+      "character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_0_b,character/psychic_taichi/ui/story/base_1",
+      "character/psychic_taichi/ui/story/normal,character/psychic_taichi/ui/story/anger,character/psychic_taichi/ui/story/normal_b,character/psychic_taichi/ui/story/pain,character/psychic_taichi/ui/story/sad,character/psychic_taichi/ui/story/serious,character/psychic_taichi/ui/story/serious_b,character/psychic_taichi/ui/story/shame,character/psychic_taichi/ui/story/smile,character/psychic_taichi/ui/story/smile_b,character/psychic_taichi/ui/story/smile_c,character/psychic_taichi/ui/story/surprise,character/psychic_taichi/ui/story/surprise_b,character/psychic_taichi/ui/story/sweat,character/psychic_taichi/ui/story/tear,character/psychic_taichi/ui/story/tear_b,character/psychic_taichi/ui/story/think,character/psychic_taichi/ui/story/wail,character/psychic_taichi/ui/story/normal,character/psychic_taichi/ui/story/anger,character/psychic_taichi/ui/story/normal_b,character/psychic_taichi/ui/story/pain,character/psychic_taichi/ui/story/sad,character/psychic_taichi/ui/story/serious,character/psychic_taichi/ui/story/serious_b,character/psychic_taichi/ui/story/shame,character/psychic_taichi/ui/story/smile,character/psychic_taichi/ui/story/smile_b,character/psychic_taichi/ui/story/smile_c,character/psychic_taichi/ui/story/surprise,character/psychic_taichi/ui/story/surprise_b,character/psychic_taichi/ui/story/sweat,character/psychic_taichi/ui/story/tear,character/psychic_taichi/ui/story/tear_b,character/psychic_taichi/ui/story/think,character/psychic_taichi/ui/story/wail,(None)"
+    ]
+  ],
+  "mob_mobster": [
+    [
+      "やくざ者",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_downtown_girl_voice": [
+    [
+      "少女の声",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_downtown_girl_name": [
+    [
+      "おせい",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_taichi_young": [
+    [
+      "若き頃のタイチ",
+      "0x539722",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "golden_dragon_jr": [
     [
       "ラフマーノ",

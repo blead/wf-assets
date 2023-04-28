@@ -184,6 +184,11 @@
       "メインクエスト 1 章 8 - 4 をクリア"
     ]
   ],
+  "short_system_lock_boss_epuration": [
+    [
+      "メインクエスト 11 章 10 - 3 をクリア"
+    ]
+  ],
   "short_system_lock_event": [
     [
       "メインクエスト 1 章 8 - 4 をクリア"
@@ -4751,7 +4756,7 @@
   ],
   "conversion_to_exp_notice_about_character_lost": [
     [
-      "スタックが 0 の場合キャラ自身\nを経験値に変換できますが\nその場合 <font color='#EA354C'>キャラは帰還します</font>"
+      "スタックが0のキャラは経験値に変換することはできません"
     ]
   ],
   "conversion_to_exp_notice_about_character_rejoin": [
@@ -4779,21 +4784,6 @@
       "変換する"
     ]
   ],
-  "conversion_to_exp_notice_dialog_message": [
-    [
-      "スタックが 0 の状態で経験値変換を行うと\n<font color='#EA354C'>キャラは帰還してしまいます</font>\n\nキャラが再加入した場合でも\n<font color='#EA354C'>帰還時のステータスは引き継がれません</font>\n\nまた、<font color='#EA354C'>現在まで取得した経験値は変換されません</font>\n経験値変換を行いますか？\n\n※ガチャから登場するキャラは\n星の粒を入手できます"
-    ]
-  ],
-  "conversion_to_exp_confirm_dialog_message": [
-    [
-      "スタックが 0 の状態で経験値変換を行うと\n<font color='#EA354C'>キャラは帰還してしまいます</font>\n本当によろしいですか？"
-    ]
-  ],
-  "conversion_to_exp_confirm_dialog_checkbox": [
-    [
-      "経験値変換を行う"
-    ]
-  ],
   "conversion_to_exp_confirm_dialog_convert": [
     [
       "変換する"
@@ -4801,7 +4791,7 @@
   ],
   "conversion_to_exp_how_to_play": [
     [
-      "不要なスタックやキャラ自身を\n経験値に変換することができます\n\nキャラ自身を経験値に変換した場合\nそのキャラは帰還してしまいます\n\nキャラが再加入した場合でも\n帰還時のステータスは引き継がれません\n\n※ガチャから登場するキャラは\n星の粒を入手できます"
+      "不要なスタックを\n経験値に変換することができます\n\nスタックが0の場合、経験値に\n変換することはできません\n\n※ガチャから登場するキャラは\n星の粒を入手できます"
     ]
   ],
   "nocheck_dialog_message": [
@@ -4814,29 +4804,9 @@
       "キャラが保護されているため、経験値に変換できません"
     ]
   ],
-  "conversion_to_exp_impossible_reason_party_participant": [
-    [
-      "このキャラはパーティに編成されているため\n経験値に変換できません"
-    ]
-  ],
-  "conversion_to_exp_impossible_reason_party_participant_carnival_event": [
-    [
-      "このキャラはハニワカーニバル用パーティに\n編成されているため経験値に変換できません"
-    ]
-  ],
-  "conversion_to_exp_impossible_reason_party_participant_raid_event": [
-    [
-      "このキャラはレイドイベント用パーティに\n編成されているため経験値に変換できません"
-    ]
-  ],
-  "conversion_to_exp_impossible_reason_party_participant_rush_event": [
-    [
-      "このキャラはコンバットダイバー用パーティに\n編成されているため経験値に変換できません"
-    ]
-  ],
   "conversion_to_exp_impossible_reason_unconvertible_character": [
     [
-      "このキャラは経験値に変換できません"
+      "このキャラのスタックが0なので、経験値に変換できません"
     ]
   ],
   "expod_bulk_conversion_to_exp_dialog_title": [
@@ -4851,7 +4821,7 @@
   ],
   "expod_bulk_conversion_to_exp_dialog_notice": [
     [
-      "※キャラが帰還することはありません\n※オーバーリミット上限のキャラが対象です\n※ガチャから登場するキャラは星の粒を入手できます"
+      "※オーバーリミット上限のキャラが対象です\n※ガチャから登場するキャラは星の粒を入手できます"
     ]
   ],
   "expod_bulk_conversion_to_exp_dialog_check_message": [
