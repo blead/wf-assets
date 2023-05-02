@@ -649,6 +649,32 @@
       "true"
     ]
   ],
+  "257": [
+    [
+      "limited_stamina_potion_51_00",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2023-06-17 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "253": [
     [
       "limited_stamina_potion_49_00",
@@ -7563,6 +7589,84 @@
       "2022-07-07 04:59:59",
       "(None)",
       "true"
+    ]
+  ],
+  "80115": [
+    [
+      "treasure_hunt_01_20230505_20230519_drop_01",
+      "揺らぎの雫",
+      "item/materials/event/target_item_drop_event/target_item_drop_event_yuragi_no_shizuku",
+      "item_icon/materials/event/target_item_drop_event/sizuku_icon",
+      "揺らぎの狭間に繋がってしまった際にこぼれる雫の形をした結晶。\nイベントアイテム交換で使える",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "0",
+      "4",
+      "999999",
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
+  "80215": [
+    [
+      "treasure_hunt_01_20230505_20230519_drop_02",
+      "揺らぎの結晶",
+      "item/materials/event/target_item_drop_event/yuragi_no_kesshou",
+      "item_icon/materials/event/target_item_drop_event/kesshou_icon",
+      "揺らぎの狭間に繋がってしまった際にこぼれる揺らぎの雫が集まった大きな結晶。\nイベントアイテム交換で使える",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "0",
+      "5",
+      "999999",
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
+  "256": [
+    [
+      "limited_stamina_potion_20230519",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2023-05-05 12:00:00",
+      "2023-06-04 04:59:59",
+      "(None)",
+      "false"
     ]
   ],
   "80114": [
@@ -25761,6 +25865,32 @@
       "9999",
       "2015-12-31 23:59:59",
       "2021-05-29 04:59:59",
+      "(None)",
+      "true"
+    ]
+  ],
+  "30131": [
+    [
+      "box_token_2halfanv_re01",
+      "ライブ整理券",
+      "item/materials/event/2halfanv/box_token_2halfanv",
+      "item_icon/materials/event/2halfanv/box_token_2halfanv",
+      "マギア・フェスタで行われるライブの整理券。\n好事家たちがコレクション目的で集めているらしい。\nイベント：未来へ紡ぐ世界の歌\nトークンガチャ専用アイテム",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59",
       "(None)",
       "true"
     ]

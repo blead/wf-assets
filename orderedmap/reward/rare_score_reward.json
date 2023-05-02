@@ -32287,6 +32287,154 @@
       ]
     ]
   },
+  "11000523": {
+    "1": [
+      [
+        "reward_2halfanv_re01_equipment_boss1",
+        "1",
+        "5050036",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000524": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material3_2",
+        "0",
+        "50",
+        "1",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material3_2",
+        "0",
+        "50",
+        "2",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
+  "11000525": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material4",
+        "0",
+        "51",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000526": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material5",
+        "0",
+        "52",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000527": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_token",
+        "0",
+        "30131",
+        "400",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000528": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material1",
+        "0",
+        "4",
+        "5",
+        "0.7",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material1",
+        "0",
+        "4",
+        "6",
+        "0.3",
+        "true"
+      ]
+    ]
+  },
+  "11000529": {
+    "1": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material2",
+        "0",
+        "4",
+        "6",
+        "0.5",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material2",
+        "0",
+        "4",
+        "7",
+        "0.3",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "reward_2halfanv_re01_expert_boss1_material2",
+        "0",
+        "4",
+        "8",
+        "0.2",
+        "true"
+      ]
+    ]
+  },
+  "11000530": {
+    "1": [
+      [
+        "reward_2halfanv_re01_token50",
+        "0",
+        "30131",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000531": {
+    "1": [
+      [
+        "reward_2halfanv_re01_token80",
+        "0",
+        "30131",
+        "80",
+        "1",
+        "true"
+      ]
+    ]
+  },
   "10042301": {
     "1": [
       [

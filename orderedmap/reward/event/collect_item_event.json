@@ -639,6 +639,38 @@
       "(None)"
     ]
   ],
+  "100001": [
+    [
+      "treasure_hunt_01_20230505_20230519",
+      "トレジャーハントミッション",
+      "(None)",
+      "1",
+      "(None)",
+      "",
+      "80115",
+      "item_icon/materials/event/target_item_drop_event/sizuku_icon",
+      "80215",
+      "item_icon/materials/event/target_item_drop_event/kesshou_icon",
+      "(None)",
+      "(None)",
+      "quest/event/banner/collect_item_event/collect_item_event_003",
+      "(None)",
+      "(None)",
+      "quest/event/banner/collect_item_event/shop_banner",
+      "quest/event/banner/collect_item_event/collect_item_event_001_shop",
+      "collect_item_event_title_how_to_play",
+      "rich_text/help_event_treasure_hunt_quest",
+      "1",
+      "2023-05-05 12:00:00",
+      "2023-05-19 20:59:59",
+      "2023-05-27 04:59:59",
+      "0",
+      "1",
+      "4",
+      "2",
+      "1004002"
+    ]
+  ],
   "10017": [
     [
       "summer22_campaign_mission",

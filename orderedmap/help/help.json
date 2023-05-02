@@ -215,8 +215,8 @@
       "1",
       "0",
       "",
-      "2023-04-28 12:00:00",
-      "2023-05-07 20:59:59"
+      "2023-05-08 12:00:00",
+      "2023-06-16 20:59:59"
     ]
   ],
   "help_reward_campaign": [
@@ -294,6 +294,17 @@
       "rich_text/help_reward_100manyen_campaign",
       "2022-11-28 12:00:00",
       "2023-01-05 23:59:59"
+    ]
+  ],
+  "help_cheering_mainquest_campaign": [
+    [
+      "help_label_cheering_mainquest_campaign",
+      "Campaign",
+      "1",
+      "1",
+      "rich_text/help_cheering_mainquest_campaign",
+      "2023-05-08 12:00:00",
+      "2023-06-16 20:59:59"
     ]
   ],
   "Character": [
@@ -545,8 +556,8 @@
       "1",
       "1",
       "rich_text/help_event_treasure_hunt_quest",
-      "2023-01-06 12:00:00",
-      "2023-01-24 04:59:59"
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59"
     ]
   ],
   "treasure_cave_quest": [
@@ -1933,6 +1944,17 @@
       "rich_text/help_event_story_event_xm19",
       "2019-12-16 12:00:00",
       "2020-01-07 11:59:59"
+    ]
+  ],
+  "event_2halfanv_re01": [
+    [
+      "help_label_event_world_story_2halfanv",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_2halfanv_re01_temporary",
+      "2023-05-05 12:00:00",
+      "2023-05-27 04:59:59"
     ]
   ],
   "event_world_story_2halfanv": [

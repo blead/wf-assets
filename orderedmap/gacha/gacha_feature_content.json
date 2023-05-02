@@ -4839,6 +4839,99 @@
       ]
     ]
   },
+  "175": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_1anv_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_kunoichi_1anv",
+        "111015",
+        "0",
+        "111015",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/kunoichi_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111015",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_rec_android_1anv",
+        "131020",
+        "0",
+        "131020",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_23/rec_android_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131020",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_wind_oracle_1anv",
+        "151021",
+        "0",
+        "151021",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/wind_oracle_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151021",
+        ""
+      ]
+    ]
+  },
   "130": {
     "1": [
       [

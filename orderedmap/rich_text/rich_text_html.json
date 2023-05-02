@@ -108,6 +108,7 @@
   "rich_text/help_ushi_campaign": null,
   "rich_text/help_battle_support_campaign": null,
   "rich_text/help_reward_100manyen_campaign": null,
+  "rich_text/help_cheering_mainquest_campaign": null,
   "rich_text/help_event_boss_epuration_event_01": null,
   "rich_text/help_event_boss_battle_multi_pickup": null,
   "rich_text/bossbattle_multi_pickup_schedule4": null,
@@ -172,5 +173,6 @@
   "rich_text/bossbattle_multi_pickup_schedule3": null,
   "rich_text/special_exchange_campaign_how_to_play_character": null,
   "rich_text/help_event_treasure_hunter": null,
+  "rich_text/help_event_2halfanv_re01_temporary": null,
   "rich_text/help_event_world_story_event_2halfanv": null
 }

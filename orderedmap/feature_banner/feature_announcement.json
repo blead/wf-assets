@@ -4310,12 +4310,39 @@
       "false"
     ]
   ],
+  "208543": [
+    [
+      "1900",
+      "dynamic/feature_announcement/world_story_event_2halfanv_re01",
+      "2023-05-05 12:00:00",
+      "2023-05-19 20:59:59",
+      "false"
+    ]
+  ],
+  "209676": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_1anv_character_pickup_03",
+      "2023-05-05 12:00:00",
+      "2023-05-15 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
       "dynamic/feature_announcement/advent_u_collabo_event",
       "2022-06-15 12:00:00",
       "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "10000021": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_013",
+      "2023-05-05 12:00:00",
+      "2023-05-19 20:59:59",
       "false"
     ]
   ],
@@ -4370,6 +4397,15 @@
       "dynamic/feature_announcement/haniwa_carnival_06",
       "2023-04-07 12:00:00",
       "2023-04-21 20:59:59",
+      "false"
+    ]
+  ],
+  "10000022": [
+    [
+      "2000",
+      "dynamic/feature_announcement/cheering_mainquest_campaign_stamina_one_quarter",
+      "2023-05-08 12:00:00",
+      "2023-06-16 20:59:59",
       "false"
     ]
   ],
