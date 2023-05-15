@@ -18,22 +18,6 @@
       [
         "Command",
         [
-          "SpawnFunnel",
-          [
-            "StandardFunnel",
-            "high_epuration_boss_gimmick_funnel_3anv"
-          ],
-          4,
-          [
-            "FunnelGroup",
-            1
-          ],
-          null
-        ]
-      ],
-      [
-        "Command",
-        [
           "ConditionalsUnifyElement",
           1,
           6,

@@ -1379,6 +1379,36 @@
       "2023-02-22 04:59:59"
     ]
   ],
+  "200051": [
+    [
+      "advent_spirit_beast_fire_20230515_20230531",
+      "(None)",
+      "炎嗟の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_fire",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_fire",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "20",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49350",
+      "49351",
+      "49352",
+      "(None)",
+      "true",
+      "advent_spirit_beast_fire",
+      "true",
+      "2023-05-15 12:00:00",
+      "2023-05-31 20:59:59",
+      "2023-06-08 04:59:59"
+    ]
+  ],
   "200019": [
     [
       "advent_spirit_beast_fire3",
@@ -1497,6 +1527,36 @@
       "2022-10-14 12:00:00",
       "2022-10-28 20:59:59",
       "2022-11-05 04:59:59"
+    ]
+  ],
+  "200050": [
+    [
+      "advent_boss_epuration_20230515_20230531",
+      "200013",
+      "粛清者討伐戦",
+      "",
+      "quest/event/banner/advent_event/boss_epuration_event_01",
+      "quest/event/bossbattle_banner/advent_event/boss_epuration_event_01",
+      "1",
+      "quest/event/animation_background/advent_event/boss_epuration_event_background",
+      "quest/event/logo/advent_event/boss_epuration_event",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon_event_lock",
+      "3",
+      "(None)",
+      "27",
+      "bgm/event/boss_epuration_event/system/boss_epuration_event_top",
+      "boss_epuration",
+      "40333",
+      "40334",
+      "(None)",
+      "(None)",
+      "true",
+      "boss_epuration_event_01",
+      "true",
+      "2023-05-15 12:00:00",
+      "2023-05-31 20:59:59",
+      "2023-06-08 04:59:59"
     ]
   ]
 }

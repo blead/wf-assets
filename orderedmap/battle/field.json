@@ -1903,6 +1903,62 @@
       "battle/field_object/world_hell/hell_rift/fever_gauge/hell_rift_fever_gauge"
     ]
   ],
+  "main_12_1_2": [
+    [
+      "battle/field/world_12/star_palace_vicinity_battlebg/background/background",
+      "battle/field/world_12/star_palace_vicinity_battlebg/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/star_palace_vicinity_battlebg/fever_gauge/fever_gauge"
+    ]
+  ],
+  "star_palace_center": [
+    [
+      "battle/field/world_12/star_palace_center/background/background",
+      "(None)",
+      "battle/field/world_12/star_palace_center/added/added",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/star_palace_center/gate/gate",
+      "battle/field_object/world_12/star_palace_center/panel/transit_pod/transit_pod",
+      "battle/field_object/world_12/star_palace_center/fever_gauge/fever_gauge"
+    ]
+  ],
+  "main_12_3_5": [
+    [
+      "battle/field/world_12/space_with_pillars_collapsed/background/background",
+      "battle/field/world_12/space_with_pillars_collapsed/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/space_with_pillars_collapsed/fever_gauge/fever_gauge"
+    ]
+  ],
+  "boss_stage_012": [
+    [
+      "battle/field/world_12/boss_stage_012/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_12/boss_stage_012/fever_gauge/fever_gauge"
+    ]
+  ],
   "week_town_boulevard_night_ver1": [
     [
       "battle/field/world_11/week_town_boulevard_night_ver1/background/background",

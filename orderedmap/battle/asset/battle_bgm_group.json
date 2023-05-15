@@ -1196,6 +1196,33 @@
       "(None)"
     ]
   ],
+  "world_12_battle_normal": [
+    [
+      "2",
+      "",
+      "bgm/world_12/battle/world_12_battle_normal",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "world_12_battle_middle_boss": [
+    [
+      "2",
+      "",
+      "bgm/world_12/battle/world_12_battle_middle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "world_12_battle_boss": [
+    [
+      "2",
+      "",
+      "bgm/world_12/battle/world_12_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "world_11_battle_normal1": [
     [
       "1",

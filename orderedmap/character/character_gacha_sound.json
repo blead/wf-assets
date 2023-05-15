@@ -2249,6 +2249,23 @@
       ]
     ]
   },
+  "121159": {
+    "5": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/water/se_water_strike"
+      ]
+    ],
+    "131": [
+      [
+        "sound_effect/water/se_ice_blade_spin"
+      ]
+    ]
+  },
   "141171": {
     "5": [
       [

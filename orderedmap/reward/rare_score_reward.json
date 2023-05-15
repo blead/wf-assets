@@ -28127,6 +28127,186 @@
       ]
     ]
   },
+  "11000593": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_1",
+        "1",
+        "4070038",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000594": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_2",
+        "1",
+        "5030040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000595": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_3",
+        "1",
+        "5010060",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000596": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_4",
+        "0",
+        "49350",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000597": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_5",
+        "0",
+        "49351",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000598": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_6",
+        "0",
+        "49351",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000599": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_7",
+        "0",
+        "49352",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000600": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_8",
+        "0",
+        "49352",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000601": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_9",
+        "0",
+        "49351",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_9",
+        "0",
+        "49351",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_9",
+        "0",
+        "49352",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_9",
+        "0",
+        "49352",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000602": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_10",
+        "0",
+        "49351",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_10",
+        "0",
+        "49351",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_10",
+        "0",
+        "49352",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_20230515_20230531_rare_score_group_10",
+        "0",
+        "49352",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000328": {
     "1": [
       [
@@ -30325,6 +30505,208 @@
         "5100006",
         "1",
         "0.3",
+        "true"
+      ]
+    ]
+  },
+  "11000582": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_1",
+        "0",
+        "40334",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000583": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_2",
+        "0",
+        "40333",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000584": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_3",
+        "0",
+        "40333",
+        "2",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000585": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_4",
+        "0",
+        "40333",
+        "3",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000586": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_5",
+        "0",
+        "40333",
+        "4",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000587": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_6",
+        "0",
+        "40333",
+        "6",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000588": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_7",
+        "0",
+        "40333",
+        "7",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000589": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_8",
+        "0",
+        "40333",
+        "8",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000590": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_9",
+        "0",
+        "40333",
+        "3",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_9",
+        "0",
+        "40333",
+        "4",
+        "0.6",
+        "true"
+      ]
+    ]
+  },
+  "11000591": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_10",
+        "0",
+        "40333",
+        "5",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_10",
+        "0",
+        "40333",
+        "10",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_10",
+        "0",
+        "40333",
+        "15",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_10",
+        "0",
+        "40333",
+        "20",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000592": {
+    "1": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_11",
+        "0",
+        "40333",
+        "10",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_11",
+        "0",
+        "40333",
+        "20",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_11",
+        "0",
+        "40333",
+        "30",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_20230515_20230531_rare_score_group_11",
+        "0",
+        "40333",
+        "40",
+        "0.15",
         "true"
       ]
     ]

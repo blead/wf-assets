@@ -5915,6 +5915,23 @@
       "18"
     ]
   ],
+  "eye_dragon_boss_ch12": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "700",
+      "1",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "35",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "45"
+    ]
+  ],
   "epuration_boss_variant_ver_single": [
     [
       "0",

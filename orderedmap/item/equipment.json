@@ -4779,6 +4779,26 @@
       "1"
     ]
   ],
+  "100012": [
+    [
+      "main_chapter_orb_12",
+      "続く黄金",
+      "1",
+      "orb/main_chapter_orb/chapter12/fullsize",
+      "orb/main_chapter_orb/chapter12/thumbnail",
+      "新たなる道。新たなる黄金。それもいつかは\n消えゆくものだと、僕らはもう知っている。\nそれでもいい。共に歩んだ道を、これからも\n続く道を、僕らが見失う事はないのだから。",
+      "item/equipment/general/chapter_orb_12",
+      "さよならの時に手にした、黄金の光を放つ不思議な宝玉",
+      "1",
+      "true",
+      "100012",
+      "5",
+      "0",
+      "false",
+      "1",
+      "1"
+    ]
+  ],
   "100011": [
     [
       "main_chapter_orb_11",

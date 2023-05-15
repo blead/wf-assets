@@ -1506,6 +1506,17 @@
       "2023-02-22 04:59:59"
     ]
   ],
+  "Help_advent_spirit_beast_fire_20230515_20230531": [
+    [
+      "help_label_event_advent_spirit_beast_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_fire_template",
+      "2023-05-15 12:00:00",
+      "2023-06-08 04:59:59"
+    ]
+  ],
   "event_advent_spirit_beast_fire3": [
     [
       "help_label_event_advent_spirit_beast_fire",
@@ -1911,6 +1922,17 @@
       "rich_text/help_event_advent_steam_robot_water",
       "2023-03-31 12:00:00",
       "2023-04-22 04:59:59"
+    ]
+  ],
+  "Help_advent_boss_epuration_20230515_20230531": [
+    [
+      "help_label_event_boss_epuration_event_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_epuration_event_01",
+      "2023-05-15 12:00:00",
+      "2023-06-08 04:59:59"
     ]
   ],
   "event_story_valen20": [

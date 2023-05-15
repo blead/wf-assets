@@ -5697,6 +5697,13 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_vesta_caster": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_vesta_caster",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_psychic_taichi": [
     [
       "common_skill_preview",
@@ -7550,6 +7557,41 @@
       "hell_valley",
       "battle/terrain/main_quest/chapter_08/main_chapter_08_04_02",
       "main_8_4_2"
+    ]
+  ],
+  "main_12_1_2": [
+    [
+      "main_12_1_2",
+      "battle/terrain/main_quest/chapter_12/main_chapter_12_01_02",
+      "main_12_1_2"
+    ]
+  ],
+  "main_12_2_4": [
+    [
+      "star_palace_center",
+      "battle/terrain/main_quest/chapter_12/main_chapter_12_02_04",
+      "main_12_2_4"
+    ]
+  ],
+  "main_12_3_5": [
+    [
+      "main_12_3_5",
+      "battle/terrain/main_quest/chapter_12/main_chapter_12_03_05",
+      "main_12_3_5"
+    ]
+  ],
+  "main_12_3_6": [
+    [
+      "main_12_3_5",
+      "battle/terrain/main_quest/chapter_12/main_chapter_12_03_05",
+      "main_12_3_6"
+    ]
+  ],
+  "main_12_10_01": [
+    [
+      "boss_stage_012",
+      "battle/terrain/main_quest/chapter_12/main_chapter_12_10_01",
+      "main_12_10_01"
     ]
   ],
   "main_11_2_1": [

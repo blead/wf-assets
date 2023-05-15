@@ -7253,6 +7253,110 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1161123": [
+    [
+      "degree_favor_blackflower_wiz_smr22_2",
+      "167011",
+      "芽吹く夏空の花",
+      "めぶくなつぞらのはな",
+      "獲得条件：【咲き乱れる夏の魔女】プリムラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blackflower_wiz_smr22_2"
+    ]
+  ],
+  "1233013": [
+    [
+      "degree_favor_rural_ladyship_2",
+      "285001",
+      "サマーフォトグラフ",
+      "さまーふぉとぐらふ",
+      "獲得条件：【晴れ渡る夏の笑顔】エコーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_rural_ladyship_2"
+    ]
+  ],
+  "1151123": [
+    [
+      "degree_favor_holysword_girl_2",
+      "142001",
+      "イミテーションブレイバー",
+      "いみてーしょんぶれいばー",
+      "獲得条件：【聖導の剣士】イリノアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_holysword_girl_2"
+    ]
+  ],
+  "1131116": [
+    [
+      "degree_favor_little_vampire_2",
+      "84001",
+      "深淵なる夜の支配者？",
+      "しんえんなるよるのしはいしゃ",
+      "獲得条件：【独夜の吸血鬼】ルミラーカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_little_vampire_2"
+    ]
+  ],
+  "1231093": [
+    [
+      "degree_favor_marching_rival_2",
+      "282001",
+      "上に立つ者の素質",
+      "うえにたつもののししつ",
+      "獲得条件：【不撓不屈のお嬢様】エルメリッサのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_marching_rival_2"
+    ]
+  ],
+  "1111135": [
+    [
+      "degree_favor_golemclub_captain_2",
+      "23001",
+      "続く仲間を信じて",
+      "つづくなかまをしんじて",
+      "獲得条件：【ゴーレム部の部長】デイダリアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golemclub_captain_2"
+    ]
+  ],
+  "1141123": [
+    [
+      "degree_favor_ghost_nymph_2",
+      "111001",
+      "微笑みの鏡像",
+      "ほほえみのきょうぞう",
+      "獲得条件：【霊鏡の宿精】マノカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ghost_nymph_2"
+    ]
+  ],
+  "1121135": [
+    [
+      "degree_favor_pirates_of_fear_2",
+      "55001",
+      "古海賊の狂気",
+      "ふるかいぞくのきょうき",
+      "獲得条件：【暴鯨の海賊船長】ゼリミールのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pirates_of_fear_2"
+    ]
+  ],
   "1111123": [
     [
       "degree_favor_monster_cook_smr22_2",
@@ -11647,6 +11751,19 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "121159": [
+    [
+      "degree_favor_vesta_caster",
+      "57000",
+      "心角の冒険者",
+      "しんかくのぼうけんしゃ",
+      "獲得条件：【心角の冒険者】ニスエスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_vesta_caster"
+    ]
+  ],
   "141171": [
     [
       "degree_favor_psychic_taichi",
@@ -15090,6 +15207,19 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_all_episode_quest_clear_8"
+    ]
+  ],
+  "9110": [
+    [
+      "degree_all_episode_quest_clear_12",
+      "508011",
+      "続く黄金",
+      "つづくおうごん",
+      "獲得条件：12章「さよならの時」をMAINとEXでクリア",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_all_episode_quest_clear_12"
     ]
   ],
   "9100": [

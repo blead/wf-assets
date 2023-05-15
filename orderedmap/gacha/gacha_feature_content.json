@@ -4337,6 +4337,125 @@
       ]
     ]
   },
+  "177": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20smr21smr22smr_character_pickup_03/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161123",
+        "0",
+        "161123",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/blackflower_wiz_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161123",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_alice_smr20",
+        "161008",
+        "0",
+        "161008",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/alice_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161008",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_prince_zero_smr20",
+        "121008",
+        "0",
+        "121008",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_18/prince_zero_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121008",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_companion_smr21",
+        "221040",
+        "0",
+        "221040",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/fox_companion_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221040",
+        ""
+      ]
+    ]
+  },
   "166": {
     "1": [
       [
@@ -6535,6 +6654,47 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "176": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_87/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121159",
+        "0",
+        "121159",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_87/vesta_caster/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121159",
         ""
       ]
     ]

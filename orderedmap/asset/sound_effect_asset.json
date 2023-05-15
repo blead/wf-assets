@@ -4351,6 +4351,14 @@
       "12"
     ]
   ],
+  "sound_effect/unique/se_12boss_overall": [
+    [
+      "0.4",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/situation/se_car_drive": [
     [
       "0.35",
@@ -6368,6 +6376,222 @@
     ]
   ],
   "sound_effect/unique/se_bodysuit_trooper_hit": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/unique/se_alk_avoid_beam_flying": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/unique/se_alk_ignis_saber_blast": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/unique/se_alk_ignis_saber_charge_shot": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/unique/se_alk_ignis_saber_fire": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/unique/se_chapter12_distant_dragon_awakening": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_ground_rumbling_a": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_ground_rumbling_b": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/main_chapter_12_voice/se_stella_greeting": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/monster/se_chapter12_boss_roar_mix": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/monster/se_chapter12_boss_roar_single": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/light/se_core_break": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/light/se_core_shine": [
+    [
+      "0.3",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_chapter12_distant_dragon_chime": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_chapter12_distant_dragon_disappear": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/monster/se_chapter12_distant_dragon_roar": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/light/se_light_consecutive_shot": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_graphic_take_body": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_footstep_hard_surface_reverb_a": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_footstep_hard_surface_reverb_b": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_footstep_hard_surface_reverb_c": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_footstep_hard_surface_reverb_d": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_hit_body": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_hit_body_echo": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_pierce_body_a": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_pierce_body_b": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drop_sword_a": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drop_sword_b": [
     [
       "0.35",
       "0",

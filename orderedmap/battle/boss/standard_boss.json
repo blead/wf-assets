@@ -807,6 +807,14 @@
       ]
     ]
   },
+  "epuration_boss_highest_main": {
+    "100": [
+      [
+        "女帝の粛清者",
+        "battle/enemy/boss/epuration_boss_highest_main"
+      ]
+    ]
+  },
   "epuration_boss_highest_multi": {
     "100": [
       [
@@ -868,6 +876,32 @@
       [
         "イルメタレイ",
         "battle/enemy/boss/discarded_dragon_light_single4"
+      ]
+    ]
+  },
+  "chapter12_boss_story": {
+    "20": [
+      [
+        "シノリユウ",
+        "battle/enemy/boss/chapter12_boss_main"
+      ]
+    ],
+    "50": [
+      [
+        "シノリユウ",
+        "battle/enemy/boss/chapter12_boss_main"
+      ]
+    ],
+    "70": [
+      [
+        "シノリユウ",
+        "battle/enemy/boss/chapter12_boss_main"
+      ]
+    ],
+    "80": [
+      [
+        "シノリユウ",
+        "battle/enemy/boss/chapter12_boss_main"
       ]
     ]
   },
