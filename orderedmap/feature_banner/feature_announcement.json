@@ -4357,10 +4357,19 @@
   ],
   "209675": [
     [
-      "3002",
+      "3003",
       "dynamic/feature_announcement/main_quest_chapter_12_sequel",
       "2023-05-22 12:00:00",
       "2023-06-16 11:59:59",
+      "false"
+    ]
+  ],
+  "210444": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_20ny22ny_character_pickup_01",
+      "2023-05-22 12:00:00",
+      "2023-05-31 11:59:59",
       "false"
     ]
   ],

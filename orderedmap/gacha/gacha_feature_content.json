@@ -4865,6 +4865,99 @@
       ]
     ]
   },
+  "178": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20ny22ny_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151081",
+        "0",
+        "151081",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/high_priestess_ny22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151081",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161093",
+        "0",
+        "161093",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/dimension_witch_ny22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161093",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lightbullet_wiz_ny20",
+        "121003",
+        "0",
+        "121003",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/lightbullet_wiz_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121003",
+        ""
+      ]
+    ]
+  },
   "100": {
     "1": [
       [
