@@ -1412,6 +1412,15 @@
       "(None)"
     ]
   ],
+  "anv3half_battle_boss": [
+    [
+      "2",
+      "",
+      "bgm/event/anv3half/battle/anv3half_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "anv3_battle_boss": [
     [
       "2",
@@ -1642,6 +1651,15 @@
       "2",
       "",
       "bgm/event/advent_steam_robot/advent_steam_robot_water/battle/advent_steam_robot_water_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "advent_steam_robot_light_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/advent_steam_robot/advent_steam_robot_light/battle/advent_steam_robot_light_boss",
       "(None)",
       "(None)"
     ]

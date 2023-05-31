@@ -485,6 +485,91 @@
       ]
     ]
   },
+  "steampunk_light_funnel_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_multi4"
+      ]
+    ]
+  },
+  "steampunk_light_funnel_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_light_funnel_core_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_core_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_core_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_core_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_core_multi4"
+      ]
+    ]
+  },
+  "steampunk_light_funnel_core_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_core_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_light_funnel_heel_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_heel_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_heel_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_heel_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_heel_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_light_funnel_heel_hard_multi"
+      ]
+    ]
+  },
   "steampunk_fire_funnel_attack_left_multi": {
     "20": [
       [
@@ -1145,6 +1230,44 @@
     "100": [
       [
         "battle/enemy/boss/high_epuration_boss_attack_funnel_3anv"
+      ]
+    ]
+  },
+  "halfanv3_boss_funnel_multi": {
+    "55": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_multi4"
+      ]
+    ]
+  },
+  "halfanv3_boss_funnel_single": {
+    "55": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_single2"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_single4"
+      ]
+    ]
+  },
+  "halfanv3_boss_funnel_expert": {
+    "100": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_expert"
+      ]
+    ]
+  },
+  "halfanv3_boss_funnel_story": {
+    "100": [
+      [
+        "battle/enemy/boss/halfanv3_boss_funnel_story"
       ]
     ]
   },

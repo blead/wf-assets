@@ -2356,6 +2356,20 @@
       ]
     }
   },
+  "funnel_guardian_totem_multi_80": {
+    "100": {
+      "neutral": [
+        [
+          "200"
+        ]
+      ],
+      "charge": [
+        [
+          "90"
+        ]
+      ]
+    }
+  },
   "funnel_guardian_golem_fire_single": {
     "100": {
       "charge1": [

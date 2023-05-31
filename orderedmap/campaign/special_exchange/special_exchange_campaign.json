@@ -226,5 +226,24 @@
       "special_exchange_campaign_how_to_play_title",
       "rich_text/special_exchange_equipment_present_campaign_how_to_play"
     ]
+  ],
+  "13": [
+    [
+      "exchange_character_ticket_gift_01",
+      "キャラ交換チケットギフトCP",
+      "0",
+      "2023-05-31 12:00:00",
+      "2023-06-23 11:59:59",
+      "2023-05-31 12:00:00",
+      "2023-06-23 11:59:59",
+      "dynamic/special_exchange/exchange_character_ticket_gift_01_top_banner",
+      "999009",
+      "1",
+      "(None)",
+      "item/spends/tickets/exchange_character_ticket",
+      "【ギフト】キャラ交換チケット",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/exchange_character_ticket_gift_how_to_play"
+    ]
   ]
 }

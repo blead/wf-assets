@@ -6751,6 +6751,99 @@
       ]
     ]
   },
+  "179": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_88/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151165",
+        "0",
+        "151165",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_88/alk_3halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151165",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161177",
+        "0",
+        "161177",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_88/ruin_girl_3halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161177",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111165",
+        "0",
+        "111165",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_88/resistance_princess_3halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111165",
+        ""
+      ]
+    ]
+  },
   "176": {
     "1": [
       [
@@ -14222,6 +14315,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_common_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5037": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_black_pickup_2",
         "",
         "",
         "",

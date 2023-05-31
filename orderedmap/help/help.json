@@ -1429,6 +1429,17 @@
       "2021-11-27 04:59:59"
     ]
   ],
+  "event_anv3half": [
+    [
+      "help_label_event_world_story_anv3half",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_anv3half",
+      "2023-05-31 12:00:00",
+      "2023-06-24 04:59:59"
+    ]
+  ],
   "event_anv3": [
     [
       "help_event_world_story_event_anv3",
@@ -1471,6 +1482,28 @@
       "rich_text/help_event_advent_xm22",
       "2022-12-15 12:00:00",
       "2023-01-07 04:59:59"
+    ]
+  ],
+  "Help_advent_steam_robot_light_20230531_20230616": [
+    [
+      "help_label_event_advent_steam_robot_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_steam_robot_light",
+      "2023-05-31 12:00:00",
+      "2023-06-24 04:59:59"
+    ]
+  ],
+  "Help_hard_multi_advent_steam_robot_light_20230531_20230616": [
+    [
+      "help_label_event_hard_multi_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_hard_multi_steam_robot_light",
+      "2023-05-31 12:00:00",
+      "2023-06-24 04:59:59"
     ]
   ],
   "event_advent_spirit_beast_thunder4": [

@@ -344,9 +344,9 @@
       "ネフティム",
       "0xabb283",
       "character/ruin_girl/voice/",
-      "normal,normal_b,angry,hungry,joy,sad,shame,sleepy,smile,surprise,evolve",
-      "character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_1",
-      "character/ruin_girl/ui/story/normal,character/ruin_girl/ui/story/normal_b,character/ruin_girl/ui/story/angry,character/ruin_girl/ui/story/hungry,character/ruin_girl/ui/story/joy,character/ruin_girl/ui/story/sad,character/ruin_girl/ui/story/shame,character/ruin_girl/ui/story/sleepy,character/ruin_girl/ui/story/smile,character/ruin_girl/ui/story/surprise,(None)"
+      "normal,normal_b,angry,hungry,joy,sad,shame,sleepy,smile,surprise,angry_b,pride,sad_b,sad_c,sad_d,smile_b,surprise_b,sweat,tear,tear_b,think,evolve",
+      "character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_0,character/ruin_girl/ui/story/base_1",
+      "character/ruin_girl/ui/story/normal,character/ruin_girl/ui/story/normal_b,character/ruin_girl/ui/story/angry,character/ruin_girl/ui/story/hungry,character/ruin_girl/ui/story/joy,character/ruin_girl/ui/story/sad,character/ruin_girl/ui/story/shame,character/ruin_girl/ui/story/sleepy,character/ruin_girl/ui/story/smile,character/ruin_girl/ui/story/surprise,character/ruin_girl/ui/story/angry_b,character/ruin_girl/ui/story/pride,character/ruin_girl/ui/story/sad_b,character/ruin_girl/ui/story/sad_c,character/ruin_girl/ui/story/sad_d,character/ruin_girl/ui/story/smile_b,character/ruin_girl/ui/story/surprise_b,character/ruin_girl/ui/story/sweat,character/ruin_girl/ui/story/tear,character/ruin_girl/ui/story/tear_b,character/ruin_girl/ui/story/think,(None)"
     ]
   ],
   "ruin_girl_known": [
@@ -8067,6 +8067,166 @@
       "normal",
       "character/load_of_sand/ui/story/base",
       "character/load_of_sand/ui/story/normal"
+    ]
+  ],
+  "mob_shibuya_middle_girl_unknown": [
+    [
+      "？？？",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_middle_girl": [
+    [
+      "カナコ",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "all_entertainment_club": [
+    [
+      "部員達",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_school_teacher": [
+    [
+      "渋谷の教師",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_math_teacher": [
+    [
+      "数学の教師",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_extremist_knight": [
+    [
+      "過激派の騎士",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_injured_beast_man": [
+    [
+      "傷ついた獣人の男",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "letter_from_monster_cook": [
+    [
+      "この店の主からの手紙",
+      "0xabb283",
+      "character/alk/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_group_guest": [
+    [
+      "朝から団体のお客様",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_invade_guest": [
+    [
+      "さらに襲来するお客様",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_allergy_guest": [
+    [
+      "食事制限のあるお客様",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_exotic_magician": [
+    [
+      "異国の魔術師",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_exotic_magician_name": [
+    [
+      "シャウラ",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "alk_grow_unknown": [
+    [
+      "？？？",
+      "0x5481e6",
+      "character/alk/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_village_reed": [
+    [
+      "集落の長",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_crying_boy": [
+    [
+      "涙を流す青年",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
     ]
   ],
   "vesta_caster": [
@@ -25654,9 +25814,9 @@
       "リリス",
       "0xabb283",
       "character/resistance_princess/voice/",
-      "normal,angry_roar,cry,cry_b,cry_c,fear,fun,joy,laugh,nervous,nervous_b,nervous_c,regret,resolve,sad,sad_b,sad_c,scare,serious,seriously,seriously_b,seriously_c,seriously_d,serious_b,speech,surprise,wailing,sweat,shame",
-      "character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base",
-      "character/resistance_princess/ui/story/normal,character/resistance_princess/ui/story/angry_roar,character/resistance_princess/ui/story/cry,character/resistance_princess/ui/story/cry_b,character/resistance_princess/ui/story/cry_c,character/resistance_princess/ui/story/fear,character/resistance_princess/ui/story/fun,character/resistance_princess/ui/story/joy,character/resistance_princess/ui/story/laugh,character/resistance_princess/ui/story/nervous,character/resistance_princess/ui/story/nervous_b,character/resistance_princess/ui/story/nervous_c,character/resistance_princess/ui/story/regret,character/resistance_princess/ui/story/resolve,character/resistance_princess/ui/story/sad,character/resistance_princess/ui/story/sad_b,character/resistance_princess/ui/story/sad_c,character/resistance_princess/ui/story/scare,character/resistance_princess/ui/story/serious,character/resistance_princess/ui/story/seriously,character/resistance_princess/ui/story/seriously_b,character/resistance_princess/ui/story/seriously_c,character/resistance_princess/ui/story/seriously_d,character/resistance_princess/ui/story/serious_b,character/resistance_princess/ui/story/speech,character/resistance_princess/ui/story/surprise,character/resistance_princess/ui/story/wailing,character/resistance_princess/ui/story/sweat,character/resistance_princess/ui/story/shame"
+      "normal,angry_roar,cry,cry_b,cry_c,fear,fun,joy,laugh,nervous,nervous_b,nervous_c,regret,resolve,sad,sad_b,sad_c,scare,serious,seriously,seriously_b,seriously_c,seriously_d,serious_b,speech,surprise,wailing,sweat,shame,laugh_b,surprise_b",
+      "character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base,character/resistance_princess/ui/story/base",
+      "character/resistance_princess/ui/story/normal,character/resistance_princess/ui/story/angry_roar,character/resistance_princess/ui/story/cry,character/resistance_princess/ui/story/cry_b,character/resistance_princess/ui/story/cry_c,character/resistance_princess/ui/story/fear,character/resistance_princess/ui/story/fun,character/resistance_princess/ui/story/joy,character/resistance_princess/ui/story/laugh,character/resistance_princess/ui/story/nervous,character/resistance_princess/ui/story/nervous_b,character/resistance_princess/ui/story/nervous_c,character/resistance_princess/ui/story/regret,character/resistance_princess/ui/story/resolve,character/resistance_princess/ui/story/sad,character/resistance_princess/ui/story/sad_b,character/resistance_princess/ui/story/sad_c,character/resistance_princess/ui/story/scare,character/resistance_princess/ui/story/serious,character/resistance_princess/ui/story/seriously,character/resistance_princess/ui/story/seriously_b,character/resistance_princess/ui/story/seriously_c,character/resistance_princess/ui/story/seriously_d,character/resistance_princess/ui/story/serious_b,character/resistance_princess/ui/story/speech,character/resistance_princess/ui/story/surprise,character/resistance_princess/ui/story/wailing,character/resistance_princess/ui/story/sweat,character/resistance_princess/ui/story/shame,character/resistance_princess/ui/story/laugh_b,character/resistance_princess/ui/story/surprise_b"
     ]
   ],
   "gaunt_women": [
@@ -26054,9 +26214,9 @@
       "凪原ナオ",
       "0x00baff",
       "character/psychic_nao/voice/",
-      "normal,anger,anger_b,anger_c,anger_d,anger_star,anger_star_b,jitome,joy,normal_b,sad,sad_b,shame,smile,surprise,surprise_b,sweat",
-      "character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base",
-      "character/psychic_nao_combat/ui/story/normal,character/psychic_nao_combat/ui/story/anger,character/psychic_nao_combat/ui/story/anger_b,character/psychic_nao_combat/ui/story/anger_c,character/psychic_nao_combat/ui/story/anger_d,character/psychic_nao_combat/ui/story/anger_star,character/psychic_nao_combat/ui/story/anger_star_b,character/psychic_nao_combat/ui/story/jitome,character/psychic_nao_combat/ui/story/joy,character/psychic_nao_combat/ui/story/normal_b,character/psychic_nao_combat/ui/story/sad,character/psychic_nao_combat/ui/story/sad_b,character/psychic_nao_combat/ui/story/shame,character/psychic_nao_combat/ui/story/smile,character/psychic_nao_combat/ui/story/surprise,character/psychic_nao_combat/ui/story/surprise_b,character/psychic_nao_combat/ui/story/sweat"
+      "normal,anger,anger_b,anger_c,anger_d,anger_star,anger_star_b,jitome,joy,normal_b,sad,sad_b,shame,smile,surprise,surprise_b,sweat,normal_c,panic,panic_b,smile_b,smile_c,smile_d,smile_e,surprise_c,surprise_d,think",
+      "character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base,character/psychic_nao_combat/ui/story/base",
+      "character/psychic_nao_combat/ui/story/normal,character/psychic_nao_combat/ui/story/anger,character/psychic_nao_combat/ui/story/anger_b,character/psychic_nao_combat/ui/story/anger_c,character/psychic_nao_combat/ui/story/anger_d,character/psychic_nao_combat/ui/story/anger_star,character/psychic_nao_combat/ui/story/anger_star_b,character/psychic_nao_combat/ui/story/jitome,character/psychic_nao_combat/ui/story/joy,character/psychic_nao_combat/ui/story/normal_b,character/psychic_nao_combat/ui/story/sad,character/psychic_nao_combat/ui/story/sad_b,character/psychic_nao_combat/ui/story/shame,character/psychic_nao_combat/ui/story/smile,character/psychic_nao_combat/ui/story/surprise,character/psychic_nao_combat/ui/story/surprise_b,character/psychic_nao_combat/ui/story/sweat,character/psychic_nao_combat/ui/story/normal_c,character/psychic_nao_combat/ui/story/panic,character/psychic_nao_combat/ui/story/panic_b,character/psychic_nao_combat/ui/story/smile_b,character/psychic_nao_combat/ui/story/smile_c,character/psychic_nao_combat/ui/story/smile_d,character/psychic_nao_combat/ui/story/smile_e,character/psychic_nao_combat/ui/story/surprise_c,character/psychic_nao_combat/ui/story/surprise_d,character/psychic_nao_combat/ui/story/think"
     ]
   ],
   "psychic_nao_combat_unknown": [
@@ -26074,9 +26234,9 @@
       "アルク",
       "0x5481e6",
       "character/alk/voice/",
-      "normal,angry_most,angry_most_b,angry_most_c,angry_serious,angry_serious_b,despair,despair_b,might_cry,might_cry_b,might_cry_c,might_cry_d,normal_b,recite,sad,serious,serious_b,shame,shout,smile,smile_b,sweat,tear,tear_smile,tragic,wail",
-      "character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base",
-      "character/alk_devil/ui/story/normal,character/alk_devil/ui/story/angry_most,character/alk_devil/ui/story/angry_most_b,character/alk_devil/ui/story/angry_most_c,character/alk_devil/ui/story/angry_serious,character/alk_devil/ui/story/angry_serious_b,character/alk_devil/ui/story/despair,character/alk_devil/ui/story/despair_b,character/alk_devil/ui/story/might_cry,character/alk_devil/ui/story/might_cry_b,character/alk_devil/ui/story/might_cry_c,character/alk_devil/ui/story/might_cry_d,character/alk_devil/ui/story/normal_b,character/alk_devil/ui/story/recite,character/alk_devil/ui/story/sad,character/alk_devil/ui/story/serious,character/alk_devil/ui/story/serious_b,character/alk_devil/ui/story/shame,character/alk_devil/ui/story/shout,character/alk_devil/ui/story/smile,character/alk_devil/ui/story/smile_b,character/alk_devil/ui/story/sweat,character/alk_devil/ui/story/tear,character/alk_devil/ui/story/tear_smile,character/alk_devil/ui/story/tragic,character/alk_devil/ui/story/wail"
+      "normal,angry_most,angry_most_b,angry_most_c,angry_serious,angry_serious_b,despair,despair_b,might_cry,might_cry_b,might_cry_c,might_cry_d,normal_b,recite,sad,serious,serious_b,shame,shout,smile,smile_b,sweat,tear,tear_smile,tragic,wail,smile_c,smile_d",
+      "character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base,character/alk_devil/ui/story/base",
+      "character/alk_devil/ui/story/normal,character/alk_devil/ui/story/angry_most,character/alk_devil/ui/story/angry_most_b,character/alk_devil/ui/story/angry_most_c,character/alk_devil/ui/story/angry_serious,character/alk_devil/ui/story/angry_serious_b,character/alk_devil/ui/story/despair,character/alk_devil/ui/story/despair_b,character/alk_devil/ui/story/might_cry,character/alk_devil/ui/story/might_cry_b,character/alk_devil/ui/story/might_cry_c,character/alk_devil/ui/story/might_cry_d,character/alk_devil/ui/story/normal_b,character/alk_devil/ui/story/recite,character/alk_devil/ui/story/sad,character/alk_devil/ui/story/serious,character/alk_devil/ui/story/serious_b,character/alk_devil/ui/story/shame,character/alk_devil/ui/story/shout,character/alk_devil/ui/story/smile,character/alk_devil/ui/story/smile_b,character/alk_devil/ui/story/sweat,character/alk_devil/ui/story/tear,character/alk_devil/ui/story/tear_smile,character/alk_devil/ui/story/tragic,character/alk_devil/ui/story/wail,character/alk_devil/ui/story/smile_c,character/alk_devil/ui/story/smile_d"
     ]
   ],
   "alk_devil_unknown": [
@@ -26104,9 +26264,9 @@
       "アルク",
       "0x5481e6",
       "character/alk/voice/",
-      "normal,akire,angry,angry_b,confused,jitome,jitome_b,might_cry,might_cry_b,might_cry_c,natural,nigawarai,nigawarai_b,normal_c,normal_d,normal_e,repentance,repentance_b,repentance_c,sad,sad_b,serious,seriously,seriously_b,shame,smile,smile_b,surprise,surprise_b,sweat,tear_repentance_c,tear_wail_repentance,think,think_b,tragic,wail,might_cry_d,might_cry_e",
-      "character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base",
-      "character/alk_grow/ui/story/normal,character/alk_grow/ui/story/akire,character/alk_grow/ui/story/angry,character/alk_grow/ui/story/angry_b,character/alk_grow/ui/story/confused,character/alk_grow/ui/story/jitome,character/alk_grow/ui/story/jitome_b,character/alk_grow/ui/story/might_cry,character/alk_grow/ui/story/might_cry_b,character/alk_grow/ui/story/might_cry_c,character/alk_grow/ui/story/natural,character/alk_grow/ui/story/nigawarai,character/alk_grow/ui/story/nigawarai_b,character/alk_grow/ui/story/normal_c,character/alk_grow/ui/story/normal_d,character/alk_grow/ui/story/normal_e,character/alk_grow/ui/story/repentance,character/alk_grow/ui/story/repentance_b,character/alk_grow/ui/story/repentance_c,character/alk_grow/ui/story/sad,character/alk_grow/ui/story/sad_b,character/alk_grow/ui/story/serious,character/alk_grow/ui/story/seriously,character/alk_grow/ui/story/seriously_b,character/alk_grow/ui/story/shame,character/alk_grow/ui/story/smile,character/alk_grow/ui/story/smile_b,character/alk_grow/ui/story/surprise,character/alk_grow/ui/story/surprise_b,character/alk_grow/ui/story/sweat,character/alk_grow/ui/story/tear_repentance_c,character/alk_grow/ui/story/tear_wail_repentance,character/alk_grow/ui/story/think,character/alk_grow/ui/story/think_b,character/alk_grow/ui/story/tragic,character/alk_grow/ui/story/wail,character/alk_grow/ui/story/might_cry_d,character/alk_grow/ui/story/might_cry_e"
+      "normal,akire,angry,angry_b,confused,jitome,jitome_b,might_cry,might_cry_b,might_cry_c,natural,nigawarai,nigawarai_b,normal_c,normal_d,normal_e,repentance,repentance_b,repentance_c,sad,sad_b,serious,seriously,seriously_b,shame,smile,smile_b,surprise,surprise_b,sweat,tear_repentance_c,tear_wail_repentance,think,think_b,tragic,wail,angry_serious,confused_b,confused_c,doya,joy,joy_b,sad_c,serious_b,smile_c,surprise_c,surprise_d,might_cry_d,might_cry_e,normal_base_b,akire_base_b,angry_base_b,angry_b_base_b,confused_base_b,jitome_base_b,jitome_b_base_b,might_cry_base_b,might_cry_b_base_b,might_cry_c_base_b,natural_base_b,nigawarai_base_b,nigawarai_b_base_b,normal_c_base_b,normal_d_base_b,normal_e_base_b,repentance_base_b,repentance_b_base_b,repentance_c_base_b,sad_base_b,sad_b_base_b,serious_base_b,seriously_base_b,seriously_b_base_b,shame_base_b,smile_base_b,smile_b_base_b,surprise_base_b,surprise_b_base_b,sweat_base_b,tear_repentance_c_base_b,tear_wail_repentance_base_b,think_base_b,think_b_base_b,tragic_base_b,wail_base_b,angry_serious_base_b,confused_b_base_b,confused_c_base_b,doya_base_b,joy_base_b,joy_b_base_b,sad_c_base_b,serious_b_base_b,smile_c_base_b,surprise_c_base_b,surprise_d_base_b,might_cry_d_base_b,might_cry_e_base_b",
+      "character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b,character/alk_grow/ui/story/base_b",
+      "character/alk_grow/ui/story/normal,character/alk_grow/ui/story/akire,character/alk_grow/ui/story/angry,character/alk_grow/ui/story/angry_b,character/alk_grow/ui/story/confused,character/alk_grow/ui/story/jitome,character/alk_grow/ui/story/jitome_b,character/alk_grow/ui/story/might_cry,character/alk_grow/ui/story/might_cry_b,character/alk_grow/ui/story/might_cry_c,character/alk_grow/ui/story/natural,character/alk_grow/ui/story/nigawarai,character/alk_grow/ui/story/nigawarai_b,character/alk_grow/ui/story/normal_c,character/alk_grow/ui/story/normal_d,character/alk_grow/ui/story/normal_e,character/alk_grow/ui/story/repentance,character/alk_grow/ui/story/repentance_b,character/alk_grow/ui/story/repentance_c,character/alk_grow/ui/story/sad,character/alk_grow/ui/story/sad_b,character/alk_grow/ui/story/serious,character/alk_grow/ui/story/seriously,character/alk_grow/ui/story/seriously_b,character/alk_grow/ui/story/shame,character/alk_grow/ui/story/smile,character/alk_grow/ui/story/smile_b,character/alk_grow/ui/story/surprise,character/alk_grow/ui/story/surprise_b,character/alk_grow/ui/story/sweat,character/alk_grow/ui/story/tear_repentance_c,character/alk_grow/ui/story/tear_wail_repentance,character/alk_grow/ui/story/think,character/alk_grow/ui/story/think_b,character/alk_grow/ui/story/tragic,character/alk_grow/ui/story/wail,character/alk_grow/ui/story/angry_serious,character/alk_grow/ui/story/confused_b,character/alk_grow/ui/story/confused_c,character/alk_grow/ui/story/doya,character/alk_grow/ui/story/joy,character/alk_grow/ui/story/joy_b,character/alk_grow/ui/story/sad_c,character/alk_grow/ui/story/serious_b,character/alk_grow/ui/story/smile_c,character/alk_grow/ui/story/surprise_c,character/alk_grow/ui/story/surprise_d,character/alk_grow/ui/story/might_cry_d,character/alk_grow/ui/story/might_cry_e,character/alk_grow/ui/story/normal,character/alk_grow/ui/story/akire,character/alk_grow/ui/story/angry,character/alk_grow/ui/story/angry_b,character/alk_grow/ui/story/confused,character/alk_grow/ui/story/jitome,character/alk_grow/ui/story/jitome_b,character/alk_grow/ui/story/might_cry,character/alk_grow/ui/story/might_cry_b,character/alk_grow/ui/story/might_cry_c,character/alk_grow/ui/story/natural,character/alk_grow/ui/story/nigawarai,character/alk_grow/ui/story/nigawarai_b,character/alk_grow/ui/story/normal_c,character/alk_grow/ui/story/normal_d,character/alk_grow/ui/story/normal_e,character/alk_grow/ui/story/repentance,character/alk_grow/ui/story/repentance_b,character/alk_grow/ui/story/repentance_c,character/alk_grow/ui/story/sad,character/alk_grow/ui/story/sad_b,character/alk_grow/ui/story/serious,character/alk_grow/ui/story/seriously,character/alk_grow/ui/story/seriously_b,character/alk_grow/ui/story/shame,character/alk_grow/ui/story/smile,character/alk_grow/ui/story/smile_b,character/alk_grow/ui/story/surprise,character/alk_grow/ui/story/surprise_b,character/alk_grow/ui/story/sweat,character/alk_grow/ui/story/tear_repentance_c,character/alk_grow/ui/story/tear_wail_repentance,character/alk_grow/ui/story/think,character/alk_grow/ui/story/think_b,character/alk_grow/ui/story/tragic,character/alk_grow/ui/story/wail,character/alk_grow/ui/story/angry_serious,character/alk_grow/ui/story/confused_b,character/alk_grow/ui/story/confused_c,character/alk_grow/ui/story/doya,character/alk_grow/ui/story/joy,character/alk_grow/ui/story/joy_b,character/alk_grow/ui/story/sad_c,character/alk_grow/ui/story/serious_b,character/alk_grow/ui/story/smile_c,character/alk_grow/ui/story/surprise_c,character/alk_grow/ui/story/surprise_d,character/alk_grow/ui/story/might_cry_d,character/alk_grow/ui/story/might_cry_e"
     ]
   ],
   "stella_copy_and_nova": [
@@ -28187,6 +28347,46 @@
       "normal,anger,consent,joy,surprise,evolve",
       "character/prince_zero/ui/story/base_0,character/prince_zero/ui/story/base_0,character/prince_zero/ui/story/base_0,character/prince_zero/ui/story/base_0,character/prince_zero/ui/story/base_0,character/prince_zero/ui/story/base_1",
       "character/prince_zero/ui/story/normal,character/prince_zero/ui/story/anger,character/prince_zero/ui/story/consent,character/prince_zero/ui/story/joy,character/prince_zero/ui/story/surprise,(None)"
+    ]
+  ],
+  "ruin_girl_3halfanv": [
+    [
+      "ネフティム",
+      "0x3f2843",
+      "character/ruin_girl/voice/",
+      "normal,anger,anger_b,consent,consent_b,discontent,joy,pride,pride_b,sad,shame,surprise,surprise_b,sweat,think,evolve",
+      "character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_0,character/ruin_girl_3halfanv/ui/story/base_1",
+      "character/ruin_girl_3halfanv/ui/story/normal,character/ruin_girl_3halfanv/ui/story/anger,character/ruin_girl_3halfanv/ui/story/anger_b,character/ruin_girl_3halfanv/ui/story/consent,character/ruin_girl_3halfanv/ui/story/consent_b,character/ruin_girl_3halfanv/ui/story/discontent,character/ruin_girl_3halfanv/ui/story/joy,character/ruin_girl_3halfanv/ui/story/pride,character/ruin_girl_3halfanv/ui/story/pride_b,character/ruin_girl_3halfanv/ui/story/sad,character/ruin_girl_3halfanv/ui/story/shame,character/ruin_girl_3halfanv/ui/story/surprise,character/ruin_girl_3halfanv/ui/story/surprise_b,character/ruin_girl_3halfanv/ui/story/sweat,character/ruin_girl_3halfanv/ui/story/think,(None)"
+    ]
+  ],
+  "resistance_princess_3halfanv": [
+    [
+      "リリス",
+      "0xa32535",
+      "character/resistance_princess/voice/",
+      "normal,anger,normal_b,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,smile_d,surprise,sweat,think,evolve",
+      "character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_0,character/resistance_princess_3halfanv/ui/story/base_1",
+      "character/resistance_princess_3halfanv/ui/story/normal,character/resistance_princess_3halfanv/ui/story/anger,character/resistance_princess_3halfanv/ui/story/normal_b,character/resistance_princess_3halfanv/ui/story/sad,character/resistance_princess_3halfanv/ui/story/sad_b,character/resistance_princess_3halfanv/ui/story/serious,character/resistance_princess_3halfanv/ui/story/serious_b,character/resistance_princess_3halfanv/ui/story/shame,character/resistance_princess_3halfanv/ui/story/smile,character/resistance_princess_3halfanv/ui/story/smile_b,character/resistance_princess_3halfanv/ui/story/smile_c,character/resistance_princess_3halfanv/ui/story/smile_d,character/resistance_princess_3halfanv/ui/story/surprise,character/resistance_princess_3halfanv/ui/story/sweat,character/resistance_princess_3halfanv/ui/story/think,(None)"
+    ]
+  ],
+  "alk_3halfanv": [
+    [
+      "アルク",
+      "0x5481e6",
+      "character/alk/voice/",
+      "normal,evolve",
+      "character/alk_3halfanv/ui/story/base_0,character/alk_3halfanv/ui/story/base_1",
+      "character/alk_3halfanv/ui/story/normal,(None)"
+    ]
+  ],
+  "psychic_nao_3halfanv": [
+    [
+      "ナオ",
+      "0x00baff",
+      "character/psychic_nao/voice/",
+      "normal,evolve",
+      "character/psychic_nao_3halfanv/ui/story/base_0,character/psychic_nao_3halfanv/ui/story/base_1",
+      "character/psychic_nao_3halfanv/ui/story/normal,(None)"
     ]
   ],
   "student_president": [

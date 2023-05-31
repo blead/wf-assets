@@ -1822,6 +1822,60 @@
       ]
     }
   },
+  "treant_multi_80": {
+    "100": {
+      "neutral1": [
+        [
+          "210"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "neutral3": [
+        [
+          "210"
+        ]
+      ],
+      "neutral4": [
+        [
+          "180"
+        ]
+      ],
+      "neutral5": [
+        [
+          "210"
+        ]
+      ],
+      "neutral6": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "200"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "200"
+        ]
+      ],
+      "neutral_attack": [
+        [
+          "3"
+        ]
+      ]
+    }
+  },
   "stella_copy_boss_single": {
     "100": {
       "phase1_neutral": [
@@ -7825,6 +7879,50 @@
         ]
       ]
     },
+    "100": {
+      "skill_charge": [
+        [
+          "360"
+        ]
+      ],
+      "laser_charge": [
+        [
+          "120"
+        ]
+      ],
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "neutral3": [
+        [
+          "30"
+        ]
+      ],
+      "neutral4": [
+        [
+          "70"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "funnel_attack": [
+        [
+          "6"
+        ]
+      ]
+    }
+  },
+  "guardian_totem_multi_80": {
     "100": {
       "skill_charge": [
         [

@@ -1376,6 +1376,23 @@
       "54"
     ]
   ],
+  "guardian_totem_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "125",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
   "guardian_totem_multi": [
     [
       "0",
@@ -1476,6 +1493,23 @@
       "atk_correction_normal",
       "tp_basic_normal",
       "18"
+    ]
+  ],
+  "kraken_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "120",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "800"
     ]
   ],
   "kraken_multi": [
@@ -2122,6 +2156,23 @@
       "atk_multi",
       "tp_basic_normal",
       "75"
+    ]
+  ],
+  "treant_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "135",
+      "2.7",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "30",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "800"
     ]
   ],
   "treant_multi": [

@@ -4359,6 +4359,62 @@
       "12"
     ]
   ],
+  "sound_effect/situation/se_drag_voluntas_01_gateopen": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drag_voluntas_02_awake": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drag_voluntas_03_move": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drag_voluntas_04_fire": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drag_voluntas_05_magiccircle": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_drag_voluntas_06_takeoff": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_3halfanv_logo": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/situation/se_car_drive": [
     [
       "0.35",
@@ -5024,6 +5080,22 @@
     ]
   ],
   "sound_effect/haniwa_carnival/se_haniwa_high_score_update_fanfare_latter": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_beat_kick_v01": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_beat_kick_v02": [
     [
       "0.35",
       "0",

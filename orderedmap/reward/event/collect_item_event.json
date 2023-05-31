@@ -1087,6 +1087,38 @@
       "(None)"
     ]
   ],
+  "100003": [
+    [
+      "campaign_mission_halfanv_20230531_20230616",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/3halfanv_mission_event_background",
+      "quest/event/banner/collect_item_event/3halfanv_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2023-05-31 12:00:00",
+      "2023-06-16 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "100000": [
     [
       "campaign_mission_gw_20230428_20230507",

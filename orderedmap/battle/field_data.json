@@ -3947,6 +3947,20 @@
       "steampunk_water_hard"
     ]
   ],
+  "steampunk_light": [
+    [
+      "steampunk_light_area",
+      "battle/terrain/event_quest/advent_event/steampunk_light/steampunk_light",
+      "steampunk_light"
+    ]
+  ],
+  "steampunk_light_hard": [
+    [
+      "steampunk_light_area",
+      "battle/terrain/event_quest/advent_event/steampunk_light/steampunk_light",
+      "steampunk_light_hard"
+    ]
+  ],
   "steampunk_fire_1": [
     [
       "steampunk_fire_area",
@@ -5641,6 +5655,27 @@
       "haniwa_carnival_light_skill"
     ]
   ],
+  "halfanv3": [
+    [
+      "halfanv3",
+      "battle/terrain/event_quest/story_event/halfanv3/halfanv3",
+      "halfanv3"
+    ]
+  ],
+  "halfanv3_story": [
+    [
+      "halfanv3",
+      "battle/terrain/event_quest/story_event/halfanv3/halfanv3",
+      "halfanv3_story"
+    ]
+  ],
+  "halfanv3_expert": [
+    [
+      "halfanv3",
+      "battle/terrain/event_quest/story_event/halfanv3/halfanv3",
+      "halfanv3_expert"
+    ]
+  ],
   "halfanv25_big_boss": [
     [
       "halfanv25_big_boss",
@@ -5695,6 +5730,34 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_alk_3halfanv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_alk_3halfanv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_ruin_girl_3halfanv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_ruin_girl_3halfanv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_resistance_princess_3halfanv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_resistance_princess_3halfanv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_nao_3halfanv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_nao_3halfanv",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_vesta_caster": [

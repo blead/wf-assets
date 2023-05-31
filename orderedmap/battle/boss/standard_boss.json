@@ -381,6 +381,40 @@
       ]
     ]
   },
+  "steampunk_light_multi": {
+    "20": [
+      [
+        "閃機兵アイザン",
+        "battle/enemy/boss/steampunk_light_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "閃機兵アイザン",
+        "battle/enemy/boss/steampunk_light_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "閃機兵アイザン",
+        "battle/enemy/boss/steampunk_light_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "閃機兵アイザン",
+        "battle/enemy/boss/steampunk_light_multi4"
+      ]
+    ]
+  },
+  "steampunk_light_hard_multi": {
+    "100": [
+      [
+        "閃機兵アイザン",
+        "battle/enemy/boss/steampunk_light_hard_multi"
+      ]
+    ]
+  },
   "steampunk_fire_multi": {
     "20": [
       [
@@ -752,6 +786,50 @@
       [
         "僧正の粛清者",
         "battle/enemy/boss/high_epuration_boss_3anv"
+      ]
+    ]
+  },
+  "halfanv3_boss_multi": {
+    "55": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_multi2"
+      ]
+    ],
+    "80": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_multi4"
+      ]
+    ]
+  },
+  "halfanv3_boss_single": {
+    "55": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_single2"
+      ]
+    ],
+    "80": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_single4"
+      ]
+    ]
+  },
+  "halfanv3_boss_expert": {
+    "100": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_expert"
+      ]
+    ]
+  },
+  "halfanv3_boss_story": {
+    "100": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_story"
       ]
     ]
   },

@@ -1567,6 +1567,22 @@
       ""
     ]
   ],
+  "10042701": [
+    [
+      "anv3half_equipment_boss",
+      "1",
+      "5090049",
+      "1"
+    ]
+  ],
+  "10042702": [
+    [
+      "anv3half_scenario_end",
+      "2",
+      "153001",
+      ""
+    ]
+  ],
   "100016": [
     [
       "anv3_release_event_clear_first",

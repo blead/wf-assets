@@ -2249,6 +2249,84 @@
       ]
     ]
   },
+  "111165": {
+    "5": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/fire/se_light_fire_breath"
+      ]
+    ]
+  },
+  "161177": {
+    "5": [
+      [
+        "sound_effect/element/se_power_flip_special_lv3_set"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/dark/se_dark_hit_shadow"
+      ]
+    ]
+  },
+  "153001": {
+    "5": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect/sf/se_laser_shot"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/light/se_light_clink"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/light/se_light_shine"
+      ]
+    ]
+  },
+  "151165": {
+    "5": [
+      [
+        "sound_effect/monster/se_eyes_flash"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/slash/se_slash_finish"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "143": [
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ]
+  },
   "121159": {
     "5": [
       [

@@ -4373,6 +4373,69 @@
       "false"
     ]
   ],
+  "211062": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_01",
+      "2023-05-31 12:00:00",
+      "2023-06-23 11:59:59",
+      "false"
+    ]
+  ],
+  "211140": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_black_pickup_2",
+      "2023-05-31 12:00:00",
+      "2023-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "206698": [
+    [
+      "1000",
+      "dynamic/feature_announcement/world_story_event_anv3half",
+      "2023-05-31 12:00:00",
+      "2023-06-16 20:59:59",
+      "false"
+    ]
+  ],
+  "209479": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_multiboss_quest1",
+      "2023-05-31 12:00:00",
+      "2023-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "211085": [
+    [
+      "1000",
+      "dynamic/feature_announcement/new_character_pickup_88",
+      "2023-05-31 12:00:00",
+      "2023-06-08 11:59:59",
+      "false"
+    ]
+  ],
+  "211605": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_3-5_aniv_gacha_campaign",
+      "2023-05-31 12:00:00",
+      "2023-06-15 11:59:59",
+      "false"
+    ]
+  ],
+  "213234": [
+    [
+      "6900",
+      "dynamic/feature_announcement/notice_3rd_halfaniv_campaign",
+      "2023-05-31 12:00:00",
+      "2023-06-15 04:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4505,6 +4568,24 @@
       "dynamic/feature_announcement/new_character_pickup_74",
       "2022-10-31 12:00:00",
       "2022-11-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000030": [
+    [
+      "2000",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_light",
+      "2023-05-31 12:00:00",
+      "2023-06-16 20:59:59",
+      "false"
+    ]
+  ],
+  "10000031": [
+    [
+      "2001",
+      "dynamic/feature_announcement/advent_event_steam_robot_light",
+      "2023-05-31 12:00:00",
+      "2023-06-16 20:59:59",
       "false"
     ]
   ],

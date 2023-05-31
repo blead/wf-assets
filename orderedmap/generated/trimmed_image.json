@@ -2159,6 +2159,62 @@
       "690"
     ]
   ],
+  "character/alk_3halfanv/ui/full_shot_1440_1920_0": [
+    [
+      "53",
+      "41",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/alk_3halfanv/ui/skill_cutin_0": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/alk_3halfanv/ui/full_shot_1440_1920_1": [
+    [
+      "162",
+      "119",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/alk_3halfanv/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/alk_3halfanv/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_3halfanv/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_3halfanv/ui/story/normal": [
+    [
+      "191",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
   "character/alk_devil/ui/story/angry_most": [
     [
       "187",
@@ -2331,6 +2387,22 @@
     [
       "183",
       "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_devil/ui/story/smile_c": [
+    [
+      "186",
+      "224",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_devil/ui/story/smile_d": [
+    [
+      "186",
+      "224",
       "570",
       "690"
     ]
@@ -2543,9 +2615,25 @@
       "690"
     ]
   ],
+  "character/alk_grow/ui/story/angry_serious": [
+    [
+      "199",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
   "character/alk_grow/ui/story/base": [
     [
       "67",
+      "69",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/base_b": [
+    [
+      "63",
       "69",
       "570",
       "690"
@@ -2555,6 +2643,30 @@
     [
       "199",
       "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/confused_b": [
+    [
+      "199",
+      "223",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/confused_c": [
+    [
+      "199",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/doya": [
+    [
+      "199",
+      "232",
       "570",
       "690"
     ]
@@ -2570,6 +2682,22 @@
   "character/alk_grow/ui/story/jitome_b": [
     [
       "193",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/joy": [
+    [
+      "202",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/joy_b": [
+    [
+      "199",
       "232",
       "570",
       "690"
@@ -2711,7 +2839,23 @@
       "690"
     ]
   ],
+  "character/alk_grow/ui/story/sad_c": [
+    [
+      "199",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
   "character/alk_grow/ui/story/serious": [
+    [
+      "199",
+      "230",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/serious_b": [
     [
       "199",
       "230",
@@ -2759,6 +2903,14 @@
       "690"
     ]
   ],
+  "character/alk_grow/ui/story/smile_c": [
+    [
+      "199",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
   "character/alk_grow/ui/story/surprise": [
     [
       "198",
@@ -2771,6 +2923,22 @@
     [
       "199",
       "227",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/surprise_c": [
+    [
+      "198",
+      "228",
+      "570",
+      "690"
+    ]
+  ],
+  "character/alk_grow/ui/story/surprise_d": [
+    [
+      "196",
+      "223",
       "570",
       "690"
     ]
@@ -57815,6 +57983,62 @@
       "690"
     ]
   ],
+  "character/psychic_nao_3halfanv/ui/full_shot_1440_1920_0": [
+    [
+      "284",
+      "284",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/skill_cutin_0": [
+    [
+      "451",
+      "79",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/full_shot_1440_1920_1": [
+    [
+      "205",
+      "183",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/story/base_0": [
+    [
+      "114",
+      "159",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/story/base_1": [
+    [
+      "0",
+      "36",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_3halfanv/ui/story/normal": [
+    [
+      "194",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_nao_combat/ui/story/anger": [
     [
       "189",
@@ -57903,6 +58127,30 @@
       "690"
     ]
   ],
+  "character/psychic_nao_combat/ui/story/normal_c": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/panic": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/panic_b": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_nao_combat/ui/story/sad": [
     [
       "189",
@@ -57935,6 +58183,38 @@
       "690"
     ]
   ],
+  "character/psychic_nao_combat/ui/story/smile_b": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/smile_c": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/smile_d": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/smile_e": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_nao_combat/ui/story/surprise": [
     [
       "189",
@@ -57951,10 +58231,34 @@
       "690"
     ]
   ],
+  "character/psychic_nao_combat/ui/story/surprise_c": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/surprise_d": [
+    [
+      "189",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_nao_combat/ui/story/sweat": [
     [
       "319",
       "399",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_nao_combat/ui/story/think": [
+    [
+      "189",
+      "229",
       "570",
       "690"
     ]
@@ -63775,6 +64079,14 @@
       "690"
     ]
   ],
+  "character/resistance_princess/ui/story/laugh_b": [
+    [
+      "215",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
   "character/resistance_princess/ui/story/nervous": [
     [
       "216",
@@ -63927,6 +64239,14 @@
       "690"
     ]
   ],
+  "character/resistance_princess/ui/story/surprise_b": [
+    [
+      "214",
+      "180",
+      "570",
+      "690"
+    ]
+  ],
   "character/resistance_princess/ui/story/sweat": [
     [
       "328",
@@ -63947,6 +64267,174 @@
     [
       "222",
       "180",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/full_shot_1440_1920_0": [
+    [
+      "188",
+      "224",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/skill_cutin_0": [
+    [
+      "293",
+      "70",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/full_shot_1440_1920_1": [
+    [
+      "84",
+      "167",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/anger": [
+    [
+      "207",
+      "258",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/base_0": [
+    [
+      "50",
+      "74",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/normal": [
+    [
+      "207",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/normal_b": [
+    [
+      "207",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/sad": [
+    [
+      "207",
+      "258",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/sad_b": [
+    [
+      "206",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/serious": [
+    [
+      "207",
+      "256",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/serious_b": [
+    [
+      "207",
+      "257",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/shame": [
+    [
+      "220",
+      "303",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/smile": [
+    [
+      "211",
+      "259",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/smile_b": [
+    [
+      "207",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/smile_c": [
+    [
+      "207",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/smile_d": [
+    [
+      "207",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/surprise": [
+    [
+      "206",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/sweat": [
+    [
+      "316",
+      "331",
+      "570",
+      "690"
+    ]
+  ],
+  "character/resistance_princess_3halfanv/ui/story/think": [
+    [
+      "209",
+      "257",
       "570",
       "690"
     ]
@@ -64495,6 +64983,14 @@
       "690"
     ]
   ],
+  "character/ruin_girl/ui/story/angry_b": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
   "character/ruin_girl/ui/story/base_0": [
     [
       "0",
@@ -64543,10 +65039,42 @@
       "690"
     ]
   ],
+  "character/ruin_girl/ui/story/pride": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
   "character/ruin_girl/ui/story/sad": [
     [
       "226",
       "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/sad_b": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/sad_c": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/sad_d": [
+    [
+      "219",
+      "213",
       "570",
       "690"
     ]
@@ -64575,10 +65103,226 @@
       "690"
     ]
   ],
+  "character/ruin_girl/ui/story/smile_b": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
   "character/ruin_girl/ui/story/surprise": [
     [
       "226",
       "233",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/surprise_b": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/sweat": [
+    [
+      "245",
+      "305",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/tear": [
+    [
+      "236",
+      "286",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/tear_b": [
+    [
+      "236",
+      "280",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl/ui/story/think": [
+    [
+      "219",
+      "213",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/full_shot_1440_1920_0": [
+    [
+      "268",
+      "206",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/skill_cutin_0": [
+    [
+      "182",
+      "63",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/full_shot_1440_1920_1": [
+    [
+      "122",
+      "283",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/skill_cutin_1": [
+    [
+      "16",
+      "56",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/anger": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/anger_b": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/base_0": [
+    [
+      "0",
+      "84",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/base_1": [
+    [
+      "0",
+      "114",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/consent": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/consent_b": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/discontent": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/joy": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/normal": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/pride": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/pride_b": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/sad": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/shame": [
+    [
+      "232",
+      "300",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/surprise": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/surprise_b": [
+    [
+      "192",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/sweat": [
+    [
+      "339",
+      "300",
+      "570",
+      "690"
+    ]
+  ],
+  "character/ruin_girl_3halfanv/ui/story/think": [
+    [
+      "192",
+      "208",
       "570",
       "690"
     ]

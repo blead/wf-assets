@@ -174,6 +174,11 @@
       "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「蒼歎の機兵」の「蒼機兵ヴェルヌス 超級」をクリア"
     ]
   ],
+  "system_lock_hard_multi_light": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「閃哭の機兵」の「閃機兵アイザン 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -2474,6 +2479,11 @@
       "レベル ::count:: "
     ]
   ],
+  "ability_description_delay": [
+    [
+      "::if (delay > 0)::::delay::&nbsp;秒後に::end::"
+    ]
+  ],
   "ability_description_condition_content_number": [
     [
       "を ::number:: 個付与"
@@ -3324,6 +3334,11 @@
       "::if !withoutTarget::::target::の::end::弱体効果を ::count:: つ回復"
     ]
   ],
+  "ability_description_instant_content_delete_unique_condition": [
+    [
+      "::if !withoutTarget::::target::の::end::「::name::」を消去"
+    ]
+  ],
   "ability_description_prameter_reference_attack": [
     [
       "攻撃力"
@@ -3402,6 +3417,16 @@
   "ability_description_power_flip_limit_n_times": [
     [
       "::count:: 回パワーフリップするまで"
+    ]
+  ],
+  "ability_description_end_power_flip_limit_once": [
+    [
+      "パワーフリップLv::pfLevel::::if isOver::以上::end::が終了するまで"
+    ]
+  ],
+  "ability_description_end_power_flip_limit_n_times": [
+    [
+      "::count:: 回パワーフリップLv::pfLevel::::if isOver::以上::end::が終了するまで"
     ]
   ],
   "ability_description_variety_element": [
@@ -5319,6 +5344,11 @@
       "降臨討伐 蒼歎の機兵"
     ]
   ],
+  "help_label_event_advent_steam_robot_light": [
+    [
+      "降臨討伐 閃哭の機兵"
+    ]
+  ],
   "help_label_event_advent_zcollab": [
     [
       "降臨討伐 暴走ロメロを止めろ"
@@ -5397,6 +5427,11 @@
   "help_label_event_hard_multi_water": [
     [
       "共同決戦 蒼歎の機兵"
+    ]
+  ],
+  "help_label_event_hard_multi_light": [
+    [
+      "共同決戦 閃哭の機兵"
     ]
   ],
   "help_label_event_challenge": [
@@ -7346,7 +7381,7 @@
   ],
   "shop_top_list_special_character_exchange_campaign": [
     [
-      "スペシャルキャラ交換"
+      "キャラ交換チケットギフトCP"
     ]
   ],
   "shop_top_list_special_equipment_exchange_campaign": [
@@ -13397,6 +13432,11 @@
   "help_event_world_story_event_anv3": [
     [
       "遥かな王道、継承の騎士道"
+    ]
+  ],
+  "help_label_event_world_story_anv3half": [
+    [
+      "Ceremony"
     ]
   ],
   "help_label_event_material_trader": [

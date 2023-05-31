@@ -679,6 +679,23 @@
       "1"
     ]
   ],
+  "funnel_guardian_totem_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "4",
+      "1.8",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "44",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_guardian_totem_multi": [
     [
       "0",
@@ -1767,6 +1784,23 @@
       "1"
     ]
   ],
+  "funnel_treant_big_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "6",
+      "2.7",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "50",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "funnel_treant_big_multi": [
     [
       "0",
@@ -1790,6 +1824,23 @@
       "hit_hp_basic_normal",
       "6",
       "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "50",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "funnel_treant_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "3",
+      "2.7",
       "hit_hp_correction_funnel",
       "",
       "",
@@ -1931,6 +1982,40 @@
       "",
       "atk_basic_normal",
       "16",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "tentacle_left_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "6",
+      "2.7",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "tentacle_right_multi_80": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "6",
+      "2.7",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "15",
       "1",
       "atk_correction_normal",
       "tp_basic_normal",

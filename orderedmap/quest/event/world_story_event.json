@@ -869,6 +869,35 @@
       "2021-10-27 04:59:59"
     ]
   ],
+  "500009": [
+    [
+      "anv3half",
+      "(None)",
+      "Ceremony",
+      "",
+      "quest/event/banner/world_story_event/anv3half/anv3half",
+      "quest/event/bossbattle_banner/world_story_event/anv3half/anv3half",
+      "quest/event/logo/world_story_event/anv3half/anv3half_logo",
+      "quest/event/logo/world_story_event/anv3half/anv3half_logo",
+      "quest/event/animation_background/world_story_event/anv3half/anv3half_background",
+      "bgm/event/anv3half/system/anv3half_questlist",
+      "3",
+      "true",
+      "true",
+      "1",
+      "1011",
+      "5000644",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "how_to_play_anv3half",
+      "2023-05-31 12:00:00",
+      "2023-06-16 20:59:59",
+      "2023-06-24 04:59:59"
+    ]
+  ],
   "500005": [
     [
       "anv3",

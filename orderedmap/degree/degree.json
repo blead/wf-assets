@@ -3041,6 +3041,45 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_10"
     ]
   ],
+  "11140": [
+    [
+      "degree_boss_battle_ex_clear_single_16",
+      "510050",
+      "瘴木を祓う者",
+      "しょうきをはらうもの",
+      "獲得条件：シングルバトルでボルトホロウの超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_boss_battle_ex_clear_single_16"
+    ]
+  ],
+  "11150": [
+    [
+      "degree_boss_battle_ex_clear_single_17",
+      "510150",
+      "遺跡を暴く者",
+      "いせきをあばくもの",
+      "獲得条件：シングルバトルでファ・ルインガードの超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_boss_battle_ex_clear_single_17"
+    ]
+  ],
+  "11160": [
+    [
+      "degree_boss_battle_ex_clear_single_18",
+      "510300",
+      "海怪を穿つ者",
+      "かいかいをうがつもの",
+      "獲得条件：シングルバトルでタイダルクラーケンの超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_boss_battle_ex_clear_single_18"
+    ]
+  ],
   "12000": [
     [
       "degree_practice_rank_ss_clear_1",
@@ -11751,6 +11790,58 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "151165": [
+    [
+      "degree_favor_alk_3halfanv",
+      "200020",
+      "双星の剣",
+      "そうせいのつるぎ",
+      "獲得条件：【双星の剣】アルクをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_alk_3halfanv"
+    ]
+  ],
+  "161177": [
+    [
+      "degree_favor_ruin_girl_3halfanv",
+      "121030",
+      "美少女新入生兵器",
+      "びしょうじょしんにゅうせいへいき",
+      "獲得条件：【美少女新入生兵器】ネフティムをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_girl_3halfanv"
+    ]
+  ],
+  "111165": [
+    [
+      "degree_favor_resistance_princess_3halfanv",
+      "332020",
+      "炎の守護者",
+      "ほのおのしゅごしゃ",
+      "獲得条件：【炎の守護者】リリスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_resistance_princess_3halfanv"
+    ]
+  ],
+  "153001": [
+    [
+      "degree_favor_psychic_nao_3halfanv",
+      "228010",
+      "新たなる冒険者",
+      "あらたなるぼうけんしゃ",
+      "獲得条件：【新たなる冒険者】凪原ナオをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_nao_3halfanv"
+    ]
+  ],
   "121159": [
     [
       "degree_favor_vesta_caster",
@@ -15417,6 +15508,19 @@
       "dynamic/degree/degree_boss_epuration_event_01_clear_1_1"
     ]
   ],
+  "60940": [
+    [
+      "degree_anv3half_challenge_clear_1_1",
+      "533300",
+      "卒業の試練：極",
+      "そつぎょうのしれんきわみ",
+      "獲得条件：チャレンジシングルバトルでUタロス君∞の超級＋を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_anv3half_challenge_clear_1_1"
+    ]
+  ],
   "60930": [
     [
       "degree_anv3_challenge_clear_1_1",
@@ -15740,6 +15844,58 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_steam_robot_water_challenge_clear_1"
+    ]
+  ],
+  "62420": [
+    [
+      "degree_advent_event_steam_robot_light_clear_1",
+      "646490",
+      "閃哭の打倒者",
+      "せんこくのだとうしゃ",
+      "獲得条件：降臨討伐 閃哭の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_1"
+    ]
+  ],
+  "62430": [
+    [
+      "degree_advent_event_steam_robot_light_clear_2",
+      "646491",
+      "閃哭の征服者",
+      "せんこくのせいふくしゃ",
+      "獲得条件：降臨討伐 閃哭の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_2"
+    ]
+  ],
+  "62440": [
+    [
+      "degree_advent_event_steam_robot_light_clear_3",
+      "646492",
+      "閃哭の討滅者",
+      "せんこくのとうめつしゃ",
+      "獲得条件：降臨討伐 閃哭の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_light_clear_3"
+    ]
+  ],
+  "62450": [
+    [
+      "degree_steam_robot_light_challenge_clear_1",
+      "539300",
+      "閃哭の試練：決",
+      "せんこくのしれんけつ",
+      "獲得条件：共同決戦 閃哭の機兵で閃機兵アイザンの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_light_challenge_clear_1"
     ]
   ],
   "62300": [

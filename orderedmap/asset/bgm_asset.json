@@ -3869,6 +3869,46 @@
       "12"
     ]
   ],
+  "bgm/character_unique/alk_3halfanv/alk_3halfanv": [
+    [
+      "0.35",
+      "155",
+      "0.06979592",
+      "51.125782",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psychic_nao_3halfanv/psychic_nao_3halfanv": [
+    [
+      "0.35",
+      "194",
+      "0.07650793",
+      "39.623493",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/resistance_princess_3halfanv/resistance_princess_3halfanv": [
+    [
+      "0.35",
+      "143",
+      "0.075827666",
+      "0.075827666",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/ruin_girl_3halfanv/ruin_girl_3halfanv": [
+    [
+      "0.35",
+      "150",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/vesta_caster/vesta_caster": [
     [
       "0.35",
@@ -9039,6 +9079,166 @@
       "12"
     ]
   ],
+  "bgm/event/anv3half/battle/anv3half_battle_boss": [
+    [
+      "0.35",
+      "173",
+      "0.057278913",
+      "0.057278913",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_flat_chat": [
+    [
+      "0.35",
+      "95",
+      "0.052539684",
+      "0.052539684",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_mildly": [
+    [
+      "0.35",
+      "79",
+      "0.06927437",
+      "0.06927437",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_positive": [
+    [
+      "0.35",
+      "120",
+      "0.05888889",
+      "39.060883",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_lonely_chat": [
+    [
+      "0.35",
+      "85",
+      "0.066530615",
+      "0.066530615",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_lonely": [
+    [
+      "0.35",
+      "112",
+      "0.05281179",
+      "35.52179",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_happy_decide": [
+    [
+      "0.35",
+      "100",
+      "0.063424036",
+      "19.223425",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical_chat": [
+    [
+      "0.35",
+      "105",
+      "0.051179137",
+      "0.051179137",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_toast": [
+    [
+      "0.35",
+      "195",
+      "0.065238096",
+      "0.065238096",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical": [
+    [
+      "0.35",
+      "143",
+      "0.06818594",
+      "15.133175",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_comical01": [
+    [
+      "0.35",
+      "105",
+      "0.076054424",
+      "20.607052",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_graduation_ceremony": [
+    [
+      "0.35",
+      "75",
+      "0.07535148",
+      "89.66034",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_farewell": [
+    [
+      "0.35",
+      "128",
+      "0.056893423",
+      "30.016893",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/story/anv3half_story_ceremoney": [
+    [
+      "0.35",
+      "132",
+      "0.05739229",
+      "0.05739229",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/system/anv3half_questlist": [
+    [
+      "0.35",
+      "116",
+      "0.057641722",
+      "14.486621",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/anv3half/system/anv3half_tokengacha": [
+    [
+      "0.35",
+      "150",
+      "0.07056689",
+      "32.429546",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/anv3/battle/anv3_battle_boss": [
     [
       "0.35",
@@ -9425,6 +9625,16 @@
       "170",
       "0.060839",
       "72.37283",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_light/battle/advent_steam_robot_light_boss": [
+    [
+      "0.35",
+      "180",
+      "0.07179138",
+      "69.364784",
       "(None)",
       "12"
     ]
