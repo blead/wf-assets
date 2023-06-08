@@ -5382,6 +5382,125 @@
       ]
     ]
   },
+  "180": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_1anv2halfanv_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121117",
+        "0",
+        "121117",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_64/sing_android_2halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121117",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111111",
+        "0",
+        "111111",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_64/halberd_princess_2halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111111",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_woman_knight_1anv",
+        "251029",
+        "0",
+        "251029",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/woman_knight_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "251029",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_devil_woman_soldier_1anv",
+        "261029",
+        "0",
+        "261029",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/devil_woman_soldier_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261029",
+        ""
+      ]
+    ]
+  },
   "132": {
     "1": [
       [

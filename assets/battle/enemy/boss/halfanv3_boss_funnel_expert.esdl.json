@@ -385,7 +385,7 @@
               90
             ]
           ],
-          "e": 0,
+          "e": 6,
           "f": null,
           "g": null,
           "h": null,
@@ -404,12 +404,13 @@
   ],
   "av": null,
   "aw": [
-    "neutral",
+    "popup",
     "shot1_start",
     "shot1_charge",
     "shot1_fire_start",
     "shot1_fire_loop",
-    "shot1_end"
+    "shot1_end",
+    "neutral"
   ],
   "bC": false,
   "bD": false,

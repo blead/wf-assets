@@ -27727,6 +27727,186 @@
       ]
     ]
   },
+  "11000603": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_1",
+        "1",
+        "4040034",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000604": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_2",
+        "1",
+        "5010065",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000605": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_3",
+        "1",
+        "5010064",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000606": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_4",
+        "0",
+        "49356",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000607": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_5",
+        "0",
+        "49357",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000608": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_6",
+        "0",
+        "49357",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000609": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_7",
+        "0",
+        "49358",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000610": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_8",
+        "0",
+        "49358",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000611": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_9",
+        "0",
+        "49357",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_9",
+        "0",
+        "49357",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_9",
+        "0",
+        "49358",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_9",
+        "0",
+        "49358",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000612": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_10",
+        "0",
+        "49357",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_10",
+        "0",
+        "49357",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_10",
+        "0",
+        "49358",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_storm_20230608_20230622_rare_score_group_10",
+        "0",
+        "49358",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000029": {
     "1": [
       [

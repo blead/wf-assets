@@ -1349,6 +1349,36 @@
       "2023-03-08 04:59:59"
     ]
   ],
+  "200052": [
+    [
+      "advent_spirit_beast_storm_20230608_20230622",
+      "(None)",
+      "威風の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_storm",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_storm",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_storm",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "22",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "49356",
+      "49357",
+      "49358",
+      "(None)",
+      "true",
+      "advent_spirit_beast_storm",
+      "true",
+      "2023-06-08 12:00:00",
+      "2023-06-22 20:59:59",
+      "2023-06-30 04:59:59"
+    ]
+  ],
   "200038": [
     [
       "advent_spirit_beast_light_20230414_20230428",

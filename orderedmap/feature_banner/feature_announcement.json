@@ -4427,6 +4427,15 @@
       "false"
     ]
   ],
+  "211096": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_1anv2halfanv_character_pickup_01",
+      "2023-06-08 12:00:00",
+      "2023-06-16 11:59:59",
+      "false"
+    ]
+  ],
   "213234": [
     [
       "6900",
@@ -4586,6 +4595,15 @@
       "dynamic/feature_announcement/advent_event_steam_robot_light",
       "2023-05-31 12:00:00",
       "2023-06-16 20:59:59",
+      "false"
+    ]
+  ],
+  "10000029": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_storm2",
+      "2023-06-08 12:00:00",
+      "2023-06-22 20:59:59",
       "false"
     ]
   ],

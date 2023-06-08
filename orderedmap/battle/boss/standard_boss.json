@@ -499,6 +499,12 @@
         "風師アトモシア",
         "battle/enemy/boss/spirit_beast_wind_4"
       ]
+    ],
+    "100": [
+      [
+        "風師アトモシア",
+        "battle/enemy/boss/spirit_beast_wind_5"
+      ]
     ]
   },
   "spirit_beast_light_multi": {

@@ -743,6 +743,11 @@
       [
         "battle/enemy/boss/spirit_beast_wind_funnel1_4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_wind_funnel1_5"
+      ]
     ]
   },
   "spirit_beast_wind_funnel2": {
@@ -765,6 +770,11 @@
       [
         "battle/enemy/boss/spirit_beast_wind_funnel2_4"
       ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_wind_funnel2_5"
+      ]
     ]
   },
   "spirit_beast_wind_funnel3": {
@@ -786,6 +796,11 @@
     "80": [
       [
         "battle/enemy/boss/spirit_beast_wind_funnel3_4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/spirit_beast_wind_funnel3_5"
       ]
     ]
   },
