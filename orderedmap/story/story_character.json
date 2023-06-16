@@ -8069,6 +8069,156 @@
       "character/load_of_sand/ui/story/normal"
     ]
   ],
+  "paraaby_mascot_noname": [
+    [
+      "呼び声の端末",
+      "0xcdcd8b",
+      "(None)",
+      "normal",
+      "character/paraaby_mascot/ui/story/base",
+      "character/paraaby_mascot/ui/story/normal"
+    ]
+  ],
+  "paraaby_mascot": [
+    [
+      "ロスト",
+      "0xcdcd8b",
+      "(None)",
+      "normal",
+      "character/paraaby_mascot/ui/story/base",
+      "character/paraaby_mascot/ui/story/normal"
+    ]
+  ],
+  "priest_prince_playable": [
+    [
+      "マーデン",
+      "0x3f2843",
+      "character/priest_prince/voice/",
+      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think,anger_d,anger_hoshi,normal_hoshi,panic,provoke_hoshi,sad,sad_b,sad_c,serious_d,serious_e,serious_hoshi,smile_d,smile_e,surprise_hoshi,surprise_c,evolve",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince_playable/ui/story/base_1",
+      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think,character/priest_prince/ui/story/anger_d,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/panic,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/sad,character/priest_prince/ui/story/sad_b,character/priest_prince/ui/story/sad_c,character/priest_prince/ui/story/serious_d,character/priest_prince/ui/story/serious_e,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/smile_d,character/priest_prince/ui/story/smile_e,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/surprise_c,(None)"
+    ]
+  ],
+  "priest_prince_playable_fake_a": [
+    [
+      "マーデン？",
+      "0x8cc2c9",
+      "character/priest_prince/voice/",
+      "normal_hoshi,anger_hoshi,provoke_hoshi,serious_hoshi,surprise_hoshi,normal",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/normal"
+    ]
+  ],
+  "priest_prince_playable_fake_b": [
+    [
+      "マー？ン",
+      "0x8cc2c9",
+      "character/priest_prince/voice/",
+      "normal_hoshi,anger_hoshi,provoke_hoshi,serious_hoshi,surprise_hoshi,normal",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/normal"
+    ]
+  ],
+  "priest_prince_playable_fake_c": [
+    [
+      "マ？デン",
+      "0x8cc2c9",
+      "character/priest_prince/voice/",
+      "normal_hoshi,anger_hoshi,provoke_hoshi,serious_hoshi,surprise_hoshi,normal",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/normal"
+    ]
+  ],
+  "priest_prince_playable_fake_d": [
+    [
+      "？？？",
+      "0x8cc2c9",
+      "character/priest_prince/voice/",
+      "normal_hoshi,anger_hoshi,provoke_hoshi,serious_hoshi,surprise_hoshi,normal",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/normal"
+    ]
+  ],
+  "reformist_prince_fake_a": [
+    [
+      "？？ー？？？",
+      "0x9ba683",
+      "(None)",
+      "normal,anger,discontent,doya,normal_b,pain,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,surprise_d,sweat,think",
+      "character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0",
+      "character/reformist_prince/ui/story/normal,character/reformist_prince/ui/story/anger,character/reformist_prince/ui/story/discontent,character/reformist_prince/ui/story/doya,character/reformist_prince/ui/story/normal_b,character/reformist_prince/ui/story/pain,character/reformist_prince/ui/story/sad,character/reformist_prince/ui/story/sad_b,character/reformist_prince/ui/story/serious,character/reformist_prince/ui/story/serious_b,character/reformist_prince/ui/story/shame,character/reformist_prince/ui/story/smile,character/reformist_prince/ui/story/smile_b,character/reformist_prince/ui/story/smile_c,character/reformist_prince/ui/story/surprise,character/reformist_prince/ui/story/surprise_b,character/reformist_prince/ui/story/surprise_c,character/reformist_prince/ui/story/surprise_d,character/reformist_prince/ui/story/sweat,character/reformist_prince/ui/story/think"
+    ]
+  ],
+  "reformist_prince_fake_b": [
+    [
+      "？？？？？？",
+      "0x9ba683",
+      "(None)",
+      "normal,anger,discontent,doya,normal_b,pain,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,surprise_d,sweat,think",
+      "character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0,character/reformist_prince/ui/story/base_0",
+      "character/reformist_prince/ui/story/normal,character/reformist_prince/ui/story/anger,character/reformist_prince/ui/story/discontent,character/reformist_prince/ui/story/doya,character/reformist_prince/ui/story/normal_b,character/reformist_prince/ui/story/pain,character/reformist_prince/ui/story/sad,character/reformist_prince/ui/story/sad_b,character/reformist_prince/ui/story/serious,character/reformist_prince/ui/story/serious_b,character/reformist_prince/ui/story/shame,character/reformist_prince/ui/story/smile,character/reformist_prince/ui/story/smile_b,character/reformist_prince/ui/story/smile_c,character/reformist_prince/ui/story/surprise,character/reformist_prince/ui/story/surprise_b,character/reformist_prince/ui/story/surprise_c,character/reformist_prince/ui/story/surprise_d,character/reformist_prince/ui/story/sweat,character/reformist_prince/ui/story/think"
+    ]
+  ],
+  "psychic_nao_combat_unknown_voice": [
+    [
+      "誰かの声",
+      "0x00baff",
+      "(None)",
+      "normal",
+      "character/psychic_nao_combat/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_thug_unknown": [
+    [
+      "？？？",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_female_unknown": [
+    [
+      "？？？",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_teleport_playable": [
+    [
+      "澄波ヒビキ",
+      "0x3f2843",
+      "character/psychic_teleport/voice/",
+      "normal,anger,anger_b,discontent,normal_b,normal_c,pain,sad,serious,shame,smile,smile_b,surprise,surprise_b,surprise_c,surprise_d,surprise_f,sweat,tear,think,anger_c,normal_d,serious_b,serious_c,smile_c,smile_d,smile_e,surprise_e,tear_b,think_b,normal_base_b,anger_base_b,anger_b_base_b,discontent_base_b,normal_b_base_b,normal_c_base_b,pain_base_b,sad_base_b,serious_base_b,shame_base_b,smile_base_b,smile_b_base_b,surprise_base_b,surprise_b_base_b,surprise_c_base_b,surprise_d_base_b,surprise_f_base_b,sweat_base_b,tear_base_b,think_base_b,anger_c_base_b,normal_d_base_b,serious_b_base_b,serious_c_base_b,smile_c_base_b,smile_d_base_b,smile_e_base_b,surprise_e_base_b,tear_b_base_b,think_b_base_b",
+      "character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b",
+      "character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think,character/psychic_teleport/ui/story/anger_c,character/psychic_teleport/ui/story/normal_d,character/psychic_teleport/ui/story/serious_b,character/psychic_teleport/ui/story/serious_c,character/psychic_teleport/ui/story/smile_c,character/psychic_teleport/ui/story/smile_d,character/psychic_teleport/ui/story/smile_e,character/psychic_teleport/ui/story/surprise_e,character/psychic_teleport/ui/story/tear_b,character/psychic_teleport/ui/story/think_b,character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think,character/psychic_teleport/ui/story/anger_c,character/psychic_teleport/ui/story/normal_d,character/psychic_teleport/ui/story/serious_b,character/psychic_teleport/ui/story/serious_c,character/psychic_teleport/ui/story/smile_c,character/psychic_teleport/ui/story/smile_d,character/psychic_teleport/ui/story/smile_e,character/psychic_teleport/ui/story/surprise_e,character/psychic_teleport/ui/story/tear_b,character/psychic_teleport/ui/story/think_b"
+    ]
+  ],
+  "psychic_teleport_playable_encyclopedia": [
+    [
+      "澄波ヒビキ",
+      "0x3f2843",
+      "character/psychic_teleport/voice/",
+      "normal",
+      "character/psychic_teleport_playable/ui/story/base_0",
+      "character/psychic_teleport_playable/ui/story/normal"
+    ]
+  ],
+  "priest_prince_playable_encyclopedia": [
+    [
+      "マーデン",
+      "0x3f2843",
+      "character/priest_prince/voice/",
+      "normal",
+      "character/priest_prince_playable/ui/story/base_0",
+      "character/priest_prince_playable/ui/story/normal"
+    ]
+  ],
   "mob_shibuya_middle_girl_unknown": [
     [
       "？？？",
@@ -8323,16 +8473,6 @@
     [
       "適当そうな団員",
       "0x5ea497",
-      "(None)",
-      "",
-      "",
-      ""
-    ]
-  ],
-  "mob_shibuya_female_unknown": [
-    [
-      "？？？",
-      "0xcdcd8b",
       "(None)",
       "",
       "",
@@ -12169,6 +12309,16 @@
       ""
     ]
   ],
+  "lion_swordman_playable_encyclopedia": [
+    [
+      "マグノス",
+      "0xa32535",
+      "character/lion_swordman/voice/",
+      "normal",
+      "character/lion_swordman_playable/ui/story/base_0",
+      "character/lion_swordman_playable/ui/story/normal"
+    ]
+  ],
   "black_wolf_knight": [
     [
       "ロルフ",
@@ -15402,7 +15552,7 @@
   "mob_disbelieve_boy": [
     [
       "ハンス",
-      "0x5ea497",
+      "0x27925e",
       "(None)",
       "",
       "",
@@ -21152,7 +21302,7 @@
   "mob_magazine_writer": [
     [
       "記者",
-      "0xb3839c",
+      "0x27925e",
       "(None)",
       "",
       "",
@@ -27234,9 +27384,9 @@
       "マーデン",
       "0x32587d",
       "character/priest_prince/voice/",
-      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think",
-      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
-      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think"
+      "normal,anger,anger_b,anger_c,normal_b,normal_c,normal_d,provoke,provoke_b,provoke_c,serious,serious_b,serious_c,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,tear,think,anger_d,anger_hoshi,normal_hoshi,panic,provoke_hoshi,sad,sad_b,sad_c,serious_d,serious_e,serious_hoshi,smile_d,smile_e,surprise_hoshi,surprise_c",
+      "character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base,character/priest_prince/ui/story/base",
+      "character/priest_prince/ui/story/normal,character/priest_prince/ui/story/anger,character/priest_prince/ui/story/anger_b,character/priest_prince/ui/story/anger_c,character/priest_prince/ui/story/normal_b,character/priest_prince/ui/story/normal_c,character/priest_prince/ui/story/normal_d,character/priest_prince/ui/story/provoke,character/priest_prince/ui/story/provoke_b,character/priest_prince/ui/story/provoke_c,character/priest_prince/ui/story/serious,character/priest_prince/ui/story/serious_b,character/priest_prince/ui/story/serious_c,character/priest_prince/ui/story/shame,character/priest_prince/ui/story/smile,character/priest_prince/ui/story/smile_b,character/priest_prince/ui/story/smile_c,character/priest_prince/ui/story/surprise,character/priest_prince/ui/story/surprise_b,character/priest_prince/ui/story/sweat,character/priest_prince/ui/story/tear,character/priest_prince/ui/story/think,character/priest_prince/ui/story/anger_d,character/priest_prince/ui/story/anger_hoshi,character/priest_prince/ui/story/normal_hoshi,character/priest_prince/ui/story/panic,character/priest_prince/ui/story/provoke_hoshi,character/priest_prince/ui/story/sad,character/priest_prince/ui/story/sad_b,character/priest_prince/ui/story/sad_c,character/priest_prince/ui/story/serious_d,character/priest_prince/ui/story/serious_e,character/priest_prince/ui/story/serious_hoshi,character/priest_prince/ui/story/smile_d,character/priest_prince/ui/story/smile_e,character/priest_prince/ui/story/surprise_hoshi,character/priest_prince/ui/story/surprise_c"
     ]
   ],
   "priest_prince_unknown": [
@@ -28474,9 +28624,9 @@
       "澄波ヒビキ",
       "0x424064",
       "character/psychic_teleport/voice/",
-      "normal,anger,anger_b,discontent,normal_b,normal_c,pain,sad,serious,shame,smile,smile_b,surprise,surprise_b,surprise_c,surprise_d,surprise_f,sweat,tear,think,normal_base_b,anger_base_b,anger_b_base_b,discontent_base_b,normal_b_base_b,normal_c_base_b,pain_base_b,sad_base_b,serious_base_b,shame_base_b,smile_base_b,smile_b_base_b,surprise_base_b,surprise_b_base_b,surprise_c_base_b,surprise_d_base_b,surprise_f_base_b,sweat_base_b,tear_base_b,think_base_b",
-      "character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b",
-      "character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think,character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think"
+      "normal,anger,anger_b,discontent,normal_b,normal_c,pain,sad,serious,shame,smile,smile_b,surprise,surprise_b,surprise_c,surprise_d,surprise_f,sweat,tear,think,anger_c,normal_d,serious_b,serious_c,smile_c,smile_d,smile_e,surprise_e,tear_b,think_b,normal_base_b,anger_base_b,anger_b_base_b,discontent_base_b,normal_b_base_b,normal_c_base_b,pain_base_b,sad_base_b,serious_base_b,shame_base_b,smile_base_b,smile_b_base_b,surprise_base_b,surprise_b_base_b,surprise_c_base_b,surprise_d_base_b,surprise_f_base_b,sweat_base_b,tear_base_b,think_base_b,anger_c_base_b,normal_d_base_b,serious_b_base_b,serious_c_base_b,smile_c_base_b,smile_d_base_b,smile_e_base_b,surprise_e_base_b,tear_b_base_b,think_b_base_b",
+      "character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b,character/psychic_teleport/ui/story/base_b",
+      "character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think,character/psychic_teleport/ui/story/anger_c,character/psychic_teleport/ui/story/normal_d,character/psychic_teleport/ui/story/serious_b,character/psychic_teleport/ui/story/serious_c,character/psychic_teleport/ui/story/smile_c,character/psychic_teleport/ui/story/smile_d,character/psychic_teleport/ui/story/smile_e,character/psychic_teleport/ui/story/surprise_e,character/psychic_teleport/ui/story/tear_b,character/psychic_teleport/ui/story/think_b,character/psychic_teleport/ui/story/normal,character/psychic_teleport/ui/story/anger,character/psychic_teleport/ui/story/anger_b,character/psychic_teleport/ui/story/discontent,character/psychic_teleport/ui/story/normal_b,character/psychic_teleport/ui/story/normal_c,character/psychic_teleport/ui/story/pain,character/psychic_teleport/ui/story/sad,character/psychic_teleport/ui/story/serious,character/psychic_teleport/ui/story/shame,character/psychic_teleport/ui/story/smile,character/psychic_teleport/ui/story/smile_b,character/psychic_teleport/ui/story/surprise,character/psychic_teleport/ui/story/surprise_b,character/psychic_teleport/ui/story/surprise_c,character/psychic_teleport/ui/story/surprise_d,character/psychic_teleport/ui/story/surprise_f,character/psychic_teleport/ui/story/sweat,character/psychic_teleport/ui/story/tear,character/psychic_teleport/ui/story/think,character/psychic_teleport/ui/story/anger_c,character/psychic_teleport/ui/story/normal_d,character/psychic_teleport/ui/story/serious_b,character/psychic_teleport/ui/story/serious_c,character/psychic_teleport/ui/story/smile_c,character/psychic_teleport/ui/story/smile_d,character/psychic_teleport/ui/story/smile_e,character/psychic_teleport/ui/story/surprise_e,character/psychic_teleport/ui/story/tear_b,character/psychic_teleport/ui/story/think_b"
     ]
   ],
   "psychic_teleport_noname": [

@@ -3869,6 +3869,26 @@
       "12"
     ]
   ],
+  "bgm/character_unique/psychic_teleport_playable/psychic_teleport_playable": [
+    [
+      "0.35",
+      "140",
+      "0.07344671",
+      "0.46142858",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/priest_prince_playable/priest_prince_playable": [
+    [
+      "0.35",
+      "100",
+      "0.06260771",
+      "10.222608",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/alk_3halfanv/alk_3halfanv": [
     [
       "0.35",

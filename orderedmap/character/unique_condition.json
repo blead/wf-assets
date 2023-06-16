@@ -251,6 +251,24 @@
       "true"
     ]
   ],
+  "16": [
+    [
+      "unique_psychic_teleport_playable",
+      "世界の歌",
+      "battle/common/unique_condition/unique_psychic_teleport_playable",
+      "99999999",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "0",
+      "true"
+    ]
+  ],
   "9": [
     [
       "unique_megumin",

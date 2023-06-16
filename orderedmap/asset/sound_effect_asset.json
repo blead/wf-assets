@@ -4415,6 +4415,78 @@
       "12"
     ]
   ],
+  "sound_effect/situation/se_sampling1_congestion": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling2_footsteps": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling3_glass": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling4_electronic": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling5_electronic": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling6_electronic": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_sampling7_electronic": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_samplingmusic1": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_samplingmusic2": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/situation/se_car_drive": [
     [
       "0.35",

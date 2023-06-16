@@ -2249,6 +2249,40 @@
       ]
     ]
   },
+  "161189": {
+    "5": [
+      [
+        "sound_effect/dark/se_bad_soul_wind"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/fire/se_fire_spread"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/dark/se_dark_hit_shadow"
+      ]
+    ]
+  },
+  "161183": {
+    "5": [
+      [
+        "sound_effect/sf/se_multiball_appear"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/sf/se_power_flip_ranged_lv3"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/sf/se_player_recovery"
+      ]
+    ]
+  },
   "111165": {
     "5": [
       [

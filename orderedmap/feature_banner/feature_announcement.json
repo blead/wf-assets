@@ -4445,6 +4445,24 @@
       "false"
     ]
   ],
+  "211114": [
+    [
+      "3002",
+      "dynamic/feature_announcement/new_character_pickup_89",
+      "2023-06-16 12:00:00",
+      "2023-06-23 11:59:59",
+      "false"
+    ]
+  ],
+  "211131": [
+    [
+      "3001",
+      "dynamic/feature_announcement/black_element_pickup_04",
+      "2023-06-16 12:00:00",
+      "2023-06-23 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4604,6 +4622,15 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_storm2",
       "2023-06-08 12:00:00",
       "2023-06-22 20:59:59",
+      "false"
+    ]
+  ],
+  "10000032": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_light2",
+      "2023-06-16 12:00:00",
+      "2023-06-30 20:59:59",
       "false"
     ]
   ],

@@ -5732,6 +5732,20 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_priest_prince_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_priest_prince_playable",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_teleport_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_teleport_playable",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_alk_3halfanv": [
     [
       "common_skill_preview",

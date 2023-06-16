@@ -6870,6 +6870,73 @@
       ]
     ]
   },
+  "181": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_89/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161189",
+        "0",
+        "161189",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_89/priest_prince_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161189",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161183",
+        "0",
+        "161183",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_89/psychic_teleport_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161183",
+        ""
+      ]
+    ]
+  },
   "179": {
     "1": [
       [
@@ -15375,6 +15442,151 @@
         "",
         "(None)",
         "",
+        ""
+      ]
+    ]
+  },
+  "182": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/black_element_pickup_04/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_dark_psygirl_dst21",
+        "161051",
+        "0",
+        "161051",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_35/dark_psygirl_dst21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161051",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161081",
+        "0",
+        "161081",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/touyakiren_ceo_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161081",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_blindness_gunner_1halfanv",
+        "161063",
+        "0",
+        "161063",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/blindness_gunner_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161063",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261077",
+        "0",
+        "261077",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_73/psychic_tomboygirl_hw22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261077",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_reaper_girl_hw20",
+        "261017",
+        "0",
+        "261017",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/reaper_girl_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261017",
         ""
       ]
     ]

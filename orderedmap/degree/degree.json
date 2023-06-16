@@ -7292,6 +7292,19 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1261077": [
+    [
+      "degree_favor_psychic_tomboygirl_hw22_2",
+      "218011",
+      "ひーちゃんのおすすめクエスト",
+      "ひーちゃんのおすすめくえすと",
+      "獲得条件：【ギルド職員見習い】緋河リンネのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_tomboygirl_hw22_2"
+    ]
+  ],
   "1161123": [
     [
       "degree_favor_blackflower_wiz_smr22_2",
@@ -11788,6 +11801,32 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "161189": [
+    [
+      "degree_favor_priest_prince_playable",
+      "177000",
+      "星を無くした光",
+      "ほしをなくしたひかり",
+      "獲得条件：【星を無くした光】マーデンをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_priest_prince_playable"
+    ]
+  ],
+  "161183": [
+    [
+      "degree_favor_psychic_teleport_playable",
+      "178000",
+      "瞬間移動の能力者",
+      "しゅんかんいどうののうりょくしゃ",
+      "獲得条件：【瞬間移動の能力者】澄波ヒビキをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_teleport_playable"
     ]
   ],
   "151165": [

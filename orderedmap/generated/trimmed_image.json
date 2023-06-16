@@ -53871,6 +53871,22 @@
       "690"
     ]
   ],
+  "character/paraaby_mascot/ui/story/base": [
+    [
+      "168",
+      "255",
+      "570",
+      "690"
+    ]
+  ],
+  "character/paraaby_mascot/ui/story/normal": [
+    [
+      "224",
+      "220",
+      "570",
+      "690"
+    ]
+  ],
   "character/paralysis_hedgehog/ui/full_shot_1440_1920_0": [
     [
       "500",
@@ -56551,6 +56567,22 @@
       "690"
     ]
   ],
+  "character/priest_prince/ui/story/anger_d": [
+    [
+      "207",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/anger_hoshi": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
   "character/priest_prince/ui/story/base": [
     [
       "56",
@@ -56591,6 +56623,22 @@
       "690"
     ]
   ],
+  "character/priest_prince/ui/story/normal_hoshi": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/panic": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
   "character/priest_prince/ui/story/provoke": [
     [
       "208",
@@ -56615,6 +56663,38 @@
       "690"
     ]
   ],
+  "character/priest_prince/ui/story/provoke_hoshi": [
+    [
+      "208",
+      "227",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/sad": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/sad_b": [
+    [
+      "211",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/sad_c": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
   "character/priest_prince/ui/story/serious": [
     [
       "207",
@@ -56632,6 +56712,30 @@
     ]
   ],
   "character/priest_prince/ui/story/serious_c": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious_d": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious_e": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/serious_hoshi": [
     [
       "207",
       "235",
@@ -56671,6 +56775,22 @@
       "690"
     ]
   ],
+  "character/priest_prince/ui/story/smile_d": [
+    [
+      "208",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/smile_e": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
   "character/priest_prince/ui/story/surprise": [
     [
       "207",
@@ -56683,6 +56803,22 @@
     [
       "208",
       "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/surprise_c": [
+    [
+      "207",
+      "235",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince/ui/story/surprise_hoshi": [
+    [
+      "207",
+      "227",
       "570",
       "690"
     ]
@@ -56715,6 +56851,62 @@
     [
       "56",
       "124",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince_playable/ui/full_shot_1440_1920_0": [
+    [
+      "233",
+      "243",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/priest_prince_playable/ui/skill_cutin_0": [
+    [
+      "205",
+      "125",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/priest_prince_playable/ui/full_shot_1440_1920_1": [
+    [
+      "243",
+      "219",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/priest_prince_playable/ui/skill_cutin_1": [
+    [
+      "145",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/priest_prince_playable/ui/story/base_0": [
+    [
+      "0",
+      "129",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince_playable/ui/story/base_1": [
+    [
+      "0",
+      "73",
+      "570",
+      "690"
+    ]
+  ],
+  "character/priest_prince_playable/ui/story/normal": [
+    [
+      "190",
+      "241",
       "570",
       "690"
     ]
@@ -59631,6 +59823,14 @@
       "690"
     ]
   ],
+  "character/psychic_teleport/ui/story/anger_c": [
+    [
+      "211",
+      "228",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_teleport/ui/story/base": [
     [
       "90",
@@ -59679,6 +59879,14 @@
       "690"
     ]
   ],
+  "character/psychic_teleport/ui/story/normal_d": [
+    [
+      "204",
+      "230",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_teleport/ui/story/pain": [
     [
       "204",
@@ -59703,6 +59911,22 @@
       "690"
     ]
   ],
+  "character/psychic_teleport/ui/story/serious_b": [
+    [
+      "204",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport/ui/story/serious_c": [
+    [
+      "204",
+      "239",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_teleport/ui/story/shame": [
     [
       "211",
@@ -59723,6 +59947,30 @@
     [
       "204",
       "230",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport/ui/story/smile_c": [
+    [
+      "204",
+      "230",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport/ui/story/smile_d": [
+    [
+      "205",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport/ui/story/smile_e": [
+    [
+      "204",
+      "225",
       "570",
       "690"
     ]
@@ -59759,6 +60007,14 @@
       "690"
     ]
   ],
+  "character/psychic_teleport/ui/story/surprise_e": [
+    [
+      "204",
+      "224",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_teleport/ui/story/surprise_f": [
     [
       "204",
@@ -59783,10 +60039,82 @@
       "690"
     ]
   ],
+  "character/psychic_teleport/ui/story/tear_b": [
+    [
+      "219",
+      "292",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_teleport/ui/story/think": [
     [
       "209",
       "221",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport/ui/story/think_b": [
+    [
+      "209",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/full_shot_1440_1920_0": [
+    [
+      "258",
+      "241",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/skill_cutin_0": [
+    [
+      "311",
+      "107",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/full_shot_1440_1920_1": [
+    [
+      "229",
+      "228",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/skill_cutin_1": [
+    [
+      "89",
+      "62",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/story/base_0": [
+    [
+      "0",
+      "120",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/story/base_1": [
+    [
+      "0",
+      "81",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_teleport_playable/ui/story/normal": [
+    [
+      "201",
+      "228",
       "570",
       "690"
     ]

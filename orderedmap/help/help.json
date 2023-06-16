@@ -1528,6 +1528,17 @@
       "2023-06-30 04:59:59"
     ]
   ],
+  "Help_advent_spirit_beast_light_20230616_20230630": [
+    [
+      "help_label_event_advent_spirit_beast_light",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_light_template",
+      "2023-06-16 12:00:00",
+      "2023-07-08 04:59:59"
+    ]
+  ],
   "Help_advent_spirit_beast_light_20230414_20230428": [
     [
       "help_label_event_advent_spirit_beast_light",
