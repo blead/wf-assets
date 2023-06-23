@@ -4463,6 +4463,15 @@
       "false"
     ]
   ],
+  "212595": [
+    [
+      "3001",
+      "dynamic/feature_announcement/revival_xm20_xm19_character_pickup_01",
+      "2023-06-23 12:00:00",
+      "2023-06-30 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4568,6 +4577,15 @@
       "dynamic/feature_announcement/gw23_campaign_mission",
       "2023-04-28 12:00:00",
       "2023-05-07 20:59:59",
+      "false"
+    ]
+  ],
+  "10000034": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event",
+      "2023-06-23 12:00:00",
+      "2023-06-30 20:59:59",
       "false"
     ]
   ],

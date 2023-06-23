@@ -2483,13 +2483,13 @@
     [
       "common_attack_up",
       "condition_effect_attack_power_down",
-      "(None)",
+      "condition_attack_up",
       "(None)",
       "(None)",
       "(None)",
       "common_attack_up",
       "condition_effect_attack_power_down",
-      "(None)",
+      "condition_attack_up",
       "(None)",
       "(None)",
       "(None)"

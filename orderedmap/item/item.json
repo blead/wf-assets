@@ -10789,6 +10789,32 @@
       "false"
     ]
   ],
+  "261": [
+    [
+      "limited_potion_boss_battle_multi_light_water_orochi_pickup_20230630",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2023-07-23 04:59:59",
+      "(None)",
+      "false"
+    ]
+  ],
   "40122": [
     [
       "boss_coin_boar_rider_3",
