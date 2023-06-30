@@ -6639,6 +6639,166 @@
       "690"
     ]
   ],
+  "character/amulet_bosslady/ui/full_shot_1440_1920_0": [
+    [
+      "177",
+      "113",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/amulet_bosslady/ui/skill_cutin_0": [
+    [
+      "168",
+      "72",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/amulet_bosslady/ui/full_shot_1440_1920_1": [
+    [
+      "127",
+      "183",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/amulet_bosslady/ui/skill_cutin_1": [
+    [
+      "0",
+      "38",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/base_0": [
+    [
+      "13",
+      "131",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/base_1": [
+    [
+      "0",
+      "83",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/normal": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/normal_b": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/sad": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/serious": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/shame": [
+    [
+      "211",
+      "276",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/smile": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/smile_b": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/smile_c": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/smile_d": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/smile_e": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/surprise": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/sweat": [
+    [
+      "317",
+      "308",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/think": [
+    [
+      "190",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/amulet_bosslady/ui/story/unknown": [
+    [
+      "13",
+      "131",
+      "570",
+      "690"
+    ]
+  ],
   "character/anger_investigator/ui/full_shot_1440_1920_0": [
     [
       "301",
@@ -45019,6 +45179,166 @@
     [
       "179",
       "185",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/full_shot_1440_1920_0": [
+    [
+      "323",
+      "247",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/magatama_spirit/ui/skill_cutin_0": [
+    [
+      "204",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/magatama_spirit/ui/full_shot_1440_1920_1": [
+    [
+      "400",
+      "205",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/magatama_spirit/ui/skill_cutin_1": [
+    [
+      "205",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/base_0": [
+    [
+      "0",
+      "147",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/base_1": [
+    [
+      "0",
+      "81",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/doya": [
+    [
+      "194",
+      "298",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/normal": [
+    [
+      "195",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/normal_b": [
+    [
+      "195",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/sad": [
+    [
+      "194",
+      "301",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/sad_b": [
+    [
+      "194",
+      "301",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/serious": [
+    [
+      "196",
+      "303",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/shame": [
+    [
+      "238",
+      "348",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/smile": [
+    [
+      "198",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/smile_b": [
+    [
+      "194",
+      "299",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/smile_c": [
+    [
+      "194",
+      "289",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/surprise": [
+    [
+      "195",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/sweat": [
+    [
+      "251",
+      "397",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/think": [
+    [
+      "198",
+      "290",
+      "570",
+      "690"
+    ]
+  ],
+  "character/magatama_spirit/ui/story/unknown": [
+    [
+      "0",
+      "147",
       "570",
       "690"
     ]

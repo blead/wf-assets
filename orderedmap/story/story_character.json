@@ -7739,6 +7739,146 @@
       ""
     ]
   ],
+  "amulet_bosslady": [
+    [
+      "ランメイ",
+      "0x2f60b2",
+      "character/amulet_bosslady/voice/",
+      "normal,normal_b,sad,serious,shame,smile,smile_b,smile_c,smile_d,smile_e,surprise,sweat,think,evolve",
+      "character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_0,character/amulet_bosslady/ui/story/base_1",
+      "character/amulet_bosslady/ui/story/normal,character/amulet_bosslady/ui/story/normal_b,character/amulet_bosslady/ui/story/sad,character/amulet_bosslady/ui/story/serious,character/amulet_bosslady/ui/story/shame,character/amulet_bosslady/ui/story/smile,character/amulet_bosslady/ui/story/smile_b,character/amulet_bosslady/ui/story/smile_c,character/amulet_bosslady/ui/story/smile_d,character/amulet_bosslady/ui/story/smile_e,character/amulet_bosslady/ui/story/surprise,character/amulet_bosslady/ui/story/sweat,character/amulet_bosslady/ui/story/think,(None)"
+    ]
+  ],
+  "amulet_bosslady_unknown": [
+    [
+      "？？？",
+      "0x2f60b2",
+      "character/amulet_bosslady/voice/",
+      "normal",
+      "character/amulet_bosslady/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_female_salesperson": [
+    [
+      "女性の店員",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_female_salesperson_name": [
+    [
+      "リン",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_older_man": [
+    [
+      "おっちゃん",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_young_association_fervor": [
+    [
+      "熱血な青年団の男",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "magatama_spirit": [
+    [
+      "タマコ",
+      "0xabb283",
+      "character/magatama_spirit/voice/",
+      "normal,doya,normal_b,sad,sad_b,serious,shame,smile,smile_b,smile_c,surprise,sweat,think,evolve",
+      "character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_0,character/magatama_spirit/ui/story/base_1",
+      "character/magatama_spirit/ui/story/normal,character/magatama_spirit/ui/story/doya,character/magatama_spirit/ui/story/normal_b,character/magatama_spirit/ui/story/sad,character/magatama_spirit/ui/story/sad_b,character/magatama_spirit/ui/story/serious,character/magatama_spirit/ui/story/shame,character/magatama_spirit/ui/story/smile,character/magatama_spirit/ui/story/smile_b,character/magatama_spirit/ui/story/smile_c,character/magatama_spirit/ui/story/surprise,character/magatama_spirit/ui/story/sweat,character/magatama_spirit/ui/story/think,(None)"
+    ]
+  ],
+  "magatama_spirit_unknown_voice": [
+    [
+      "勾玉",
+      "0xabb283",
+      "character/magatama_spirit/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "magatama_spirit_unknown": [
+    [
+      "？？？",
+      "0xabb283",
+      "character/magatama_spirit/voice/",
+      "normal",
+      "character/magatama_spirit/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "magatama_spirit_noname": [
+    [
+      "小さな少女？",
+      "0xabb283",
+      "character/magatama_spirit/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "magatama_spirit_name": [
+    [
+      "八坂瓊曲玉",
+      "0xabb283",
+      "character/magatama_spirit/voice/",
+      "normal",
+      "character/black_hair_swordman/ui/story/base_0",
+      "character/black_hair_swordman/ui/story/normal"
+    ]
+  ],
+  "mob_village_boy": [
+    [
+      "村の少年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_village_girl": [
+    [
+      "村の少女",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_shibuya_lively_dk": [
+    [
+      "元気な渋谷の男子高校生",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "unyielding_adventurer": [
     [
       "ライア",

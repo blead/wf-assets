@@ -6963,6 +6963,73 @@
       ]
     ]
   },
+  "184": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_90/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121165",
+        "0",
+        "121165",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_90/amulet_bosslady/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121165",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151171",
+        "0",
+        "151171",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_90/magatama_spirit/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151171",
+        ""
+      ]
+    ]
+  },
   "181": {
     "1": [
       [
@@ -14139,6 +14206,21 @@
       ]
     ]
   },
+  "5038": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_water_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "5034": {
     "1": [
       [
@@ -15313,6 +15395,21 @@
       [
         "1",
         "dynamic/gacha_banner/bonus_gacha",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "185": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/blue_element_character_pickup_04",
         "",
         "",
         "",

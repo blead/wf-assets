@@ -2075,6 +2075,45 @@
       ]
     ]
   },
+  "151171": {
+    "5": [
+      [
+        "sound_effect/light/se_light_release"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/situation/se_japanese_hand_drum_single"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/light/se_light_bright_shooting_star"
+      ]
+    ],
+    "107": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
+  "121165": {
+    "5": [
+      [
+        "sound_effect/water/se_ice_blade_dissolve"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/water/se_water_strike"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/water/se_splash_slam"
+      ]
+    ]
+  },
   "121006": {
     "1": [
       [

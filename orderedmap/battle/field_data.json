@@ -5515,6 +5515,27 @@
       "haniwa_carnival_fire"
     ]
   ],
+  "haniwa_carnival_fire_direct": [
+    [
+      "haniwa_carnival_fire",
+      "battle/terrain/carnival_event/haniwa_carnival/haniwa_carnival_fire_direct",
+      "haniwa_carnival_fire_direct"
+    ]
+  ],
+  "haniwa_carnival_fire_pf": [
+    [
+      "haniwa_carnival_fire",
+      "battle/terrain/carnival_event/haniwa_carnival/haniwa_carnival_fire_pf",
+      "haniwa_carnival_fire_pf"
+    ]
+  ],
+  "haniwa_carnival_fire_skill": [
+    [
+      "haniwa_carnival_fire",
+      "battle/terrain/carnival_event/haniwa_carnival/haniwa_carnival_fire_skill",
+      "haniwa_carnival_fire_skill"
+    ]
+  ],
   "haniwa_carnival_water": [
     [
       "haniwa_carnival_water",
@@ -5730,6 +5751,20 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_amulet_bosslady": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_amulet_bosslady",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_magatama_spirit": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_magatama_spirit",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_priest_prince_playable": [

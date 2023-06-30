@@ -245,5 +245,81 @@
       "special_exchange_campaign_how_to_play_title",
       "rich_text/exchange_character_ticket_gift_how_to_play"
     ]
+  ],
+  "14": [
+    [
+      "exchange_character_ticket_gift_02",
+      "キャラ交換チケットギフトCP",
+      "0",
+      "2023-06-30 12:00:00",
+      "2023-07-21 11:59:59",
+      "2023-06-30 12:00:00",
+      "2023-07-21 11:59:59",
+      "dynamic/special_exchange/exchange_character_ticket_gift_02_top_banner",
+      "999009",
+      "1",
+      "(None)",
+      "item/spends/tickets/exchange_character_ticket",
+      "【ギフト】キャラ交換チケット",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/exchange_character_ticket_gift_how_to_play"
+    ]
+  ],
+  "15": [
+    [
+      "exchange_character_ticket_gift_03",
+      "キャラ交換チケットギフトCP",
+      "0",
+      "2023-07-31 12:00:00",
+      "2023-08-21 11:59:59",
+      "2023-07-31 12:00:00",
+      "2023-08-21 11:59:59",
+      "dynamic/special_exchange/exchange_character_ticket_gift_03_top_banner",
+      "999009",
+      "1",
+      "(None)",
+      "item/spends/tickets/exchange_character_ticket",
+      "【ギフト】キャラ交換チケット",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/exchange_character_ticket_gift_how_to_play"
+    ]
+  ],
+  "16": [
+    [
+      "exchange_character_ticket_gift_04",
+      "キャラ交換チケットギフトCP",
+      "0",
+      "2023-08-31 12:00:00",
+      "2023-09-21 11:59:59",
+      "2023-08-31 12:00:00",
+      "2023-09-21 11:59:59",
+      "dynamic/special_exchange/exchange_character_ticket_gift_04_top_banner",
+      "999009",
+      "1",
+      "(None)",
+      "item/spends/tickets/exchange_character_ticket",
+      "【ギフト】キャラ交換チケット",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/exchange_character_ticket_gift_how_to_play"
+    ]
+  ],
+  "17": [
+    [
+      "exchange_character_ticket_gift_05",
+      "キャラ交換チケットギフトCP",
+      "0",
+      "2023-09-30 12:00:00",
+      "2023-10-23 11:59:59",
+      "2023-09-30 12:00:00",
+      "2023-10-23 11:59:59",
+      "dynamic/special_exchange/exchange_character_ticket_gift_05_top_banner",
+      "999009",
+      "1",
+      "(None)",
+      "item/spends/tickets/exchange_character_ticket",
+      "【ギフト】キャラ交換チケット",
+      "special_exchange_campaign_how_to_play_title",
+      "rich_text/exchange_character_ticket_gift_how_to_play"
+    ]
   ]
 }

@@ -7292,6 +7292,84 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1141135": [
+    [
+      "degree_favor_asymmetry_birdgirl_2",
+      "113001",
+      "幸せを運ぶ風",
+      "しあわせをはこぶかぜ",
+      "獲得条件：【鳥族の姫巫女】ゼフィールのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asymmetry_birdgirl_2"
+    ]
+  ],
+  "1161147": [
+    [
+      "degree_favor_horn_mypace_2",
+      "173001",
+      "ベスタの慈愛",
+      "べすたのじあい",
+      "獲得条件：【心角の癒し手】エルモルのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_horn_mypace_2"
+    ]
+  ],
+  "1241069": [
+    [
+      "degree_favor_kung_fu_girl_2",
+      "308001",
+      "誅脚の使命",
+      "ちゅうきゃくのしめい",
+      "獲得条件：【仇敵を追う拳士】フーランのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kung_fu_girl_2"
+    ]
+  ],
+  "1131134": [
+    [
+      "degree_favor_octcyborg_lady_2",
+      "85001",
+      "嗜欲のボディデザイナー",
+      "しよくのぼでぃでざいなー",
+      "獲得条件：【檻を解き放つ者】カシヴァルスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_octcyborg_lady_2"
+    ]
+  ],
+  "1161165": [
+    [
+      "degree_favor_evilloli_master_2",
+      "175001",
+      "人でなしの導き",
+      "ひとでなしのみちびき",
+      "獲得条件：【混沌の師】タナキエラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_evilloli_master_2"
+    ]
+  ],
+  "1211062": [
+    [
+      "degree_favor_jiangshi_girl_2",
+      "220001",
+      "お化けなんて怖くないッ！",
+      "おばけなんてこわくないっ",
+      "獲得条件：【臆病な幽鬼退治屋】チェンシーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_jiangshi_girl_2"
+    ]
+  ],
   "1261077": [
     [
       "degree_favor_psychic_tomboygirl_hw22_2",
@@ -11452,6 +11530,45 @@
       "dynamic/degree/degree_favor_hero_girl"
     ]
   ],
+  "61260": [
+    [
+      "degree_favor_haniwa_carnival_11_clear_fire_1",
+      "521700",
+      "閃火ハニンを必殺せし者",
+      "せんかはにんをひっさつせしもの",
+      "獲得条件：シングルバトルで閃火必殺ハニンガー超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_1"
+    ]
+  ],
+  "61270": [
+    [
+      "degree_favor_haniwa_carnival_11_clear_fire_2",
+      "521710",
+      "閃火ハニンを強振せし者",
+      "せんかはにんをきょうしんせしもの",
+      "獲得条件：シングルバトルで閃火強振ハニンガー超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_2"
+    ]
+  ],
+  "61280": [
+    [
+      "degree_favor_haniwa_carnival_11_clear_fire_3",
+      "521720",
+      "閃火ハニンを直撃せし者",
+      "せんかはにんをちょくげきせしもの",
+      "獲得条件：シングルバトルで閃火直撃ハニンガー超級を討伐",
+      "3",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_3"
+    ]
+  ],
   "61230": [
     [
       "degree_favor_haniwa_carnival_07_clear_wind_1",
@@ -11801,6 +11918,32 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "121165": [
+    [
+      "degree_favor_amulet_bosslady",
+      "58000",
+      "九龍のギャングスター",
+      "くーろんのぎゃんぐすたー",
+      "獲得条件：【九龍のギャングスター】ランメイをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_amulet_bosslady"
+    ]
+  ],
+  "151171": [
+    [
+      "degree_favor_magatama_spirit",
+      "145000",
+      "霊玉の宿精",
+      "れいぎょくのしゅくせい",
+      "獲得条件：【霊玉の宿精】タマコをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_magatama_spirit"
     ]
   ],
   "161189": [

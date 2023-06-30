@@ -4351,6 +4351,57 @@
       "60"
     ]
   ],
+  "haniwa_great_fire_pf": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "40000",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "0.675",
+      "atk_single",
+      "tp_basic_normal",
+      "60"
+    ]
+  ],
+  "haniwa_great_fire_direct": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "22400",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "0.45",
+      "atk_single",
+      "tp_basic_normal",
+      "60"
+    ]
+  ],
+  "haniwa_great_fire_skill": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "28500",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "0.5",
+      "atk_single",
+      "tp_basic_normal",
+      "60"
+    ]
+  ],
   "haniwa_great_water": [
     [
       "0",

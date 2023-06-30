@@ -53,6 +53,33 @@
       "2023-04-29 04:59:59"
     ]
   ],
+  "100002": [
+    [
+      "haniwa_carnival_fire_20230630_20230714",
+      "ハニワカーニバル",
+      "",
+      "quest/event/banner/haniwa_carnival/haniwa_carnival_11",
+      "(None)",
+      "quest/event/background/haniwa_carnival/haniwa_carnival_11",
+      "quest/event/logo/haniwa_carnival/haniwa_logo",
+      "quest/event/animation_background/haniwa_carnival/haniwa_carnival_11/top/background",
+      "bgm/event/haniwa_carnival/haniwa_carnival_system",
+      "3",
+      "3195000",
+      "5515000",
+      "7075000",
+      "8335000",
+      "9565000",
+      "90070",
+      "90080",
+      "90090",
+      "(None)",
+      "haniwa_carnival_11",
+      "2023-06-30 12:00:00",
+      "2023-07-14 20:59:59",
+      "2023-07-22 04:59:59"
+    ]
+  ],
   "9": [
     [
       "haniwa_carnival_09",

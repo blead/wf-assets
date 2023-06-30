@@ -4472,6 +4472,69 @@
       "false"
     ]
   ],
+  "211063": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_02",
+      "2023-06-30 12:00:00",
+      "2023-07-21 11:59:59",
+      "false"
+    ]
+  ],
+  "211064": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_03",
+      "2023-07-31 12:00:00",
+      "2023-08-21 11:59:59",
+      "false"
+    ]
+  ],
+  "211065": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_04",
+      "2023-08-31 12:00:00",
+      "2023-09-21 11:59:59",
+      "false"
+    ]
+  ],
+  "211066": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_05",
+      "2023-09-30 12:00:00",
+      "2023-10-23 11:59:59",
+      "false"
+    ]
+  ],
+  "213380": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_90",
+      "2023-06-30 12:00:00",
+      "2023-07-07 11:59:59",
+      "false"
+    ]
+  ],
+  "213279": [
+    [
+      "3002",
+      "dynamic/feature_announcement/blue_element_character_pickup_04",
+      "2023-06-30 12:00:00",
+      "2023-07-07 11:59:59",
+      "false"
+    ]
+  ],
+  "214190": [
+    [
+      "3001",
+      "dynamic/feature_announcement/equipment_water_pickup_2",
+      "2023-06-30 12:00:00",
+      "2023-07-31 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4541,6 +4604,15 @@
       "dynamic/feature_announcement/haniwa_carnival_06",
       "2023-04-07 12:00:00",
       "2023-04-21 20:59:59",
+      "false"
+    ]
+  ],
+  "10000037": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_11",
+      "2023-06-30 12:00:00",
+      "2023-07-14 20:59:59",
       "false"
     ]
   ],

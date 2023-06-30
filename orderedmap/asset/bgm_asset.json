@@ -3689,6 +3689,26 @@
       "12"
     ]
   ],
+  "bgm/character_unique/amulet_bosslady/amulet_bosslady": [
+    [
+      "0.35",
+      "120",
+      "0.07566893",
+      "39.035667",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/magatama_spirit/magatama_spirit": [
+    [
+      "0.35",
+      "130",
+      "0.05659864",
+      "33.25059",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/lakeside_guardian/lakeside_guardian": [
     [
       "0.35",

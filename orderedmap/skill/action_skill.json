@@ -2497,6 +2497,122 @@
       ]
     ]
   },
+  "amulet_bosslady": {
+    "1": [
+      [
+        "水禍招来・四罪共工",
+        "しばらくの間、自身の周囲に結界を発生させ、近づいた敵に水ダメージ ＋ 累積攻撃力ダウン ＋ 累積水属性耐性ダウン効果",
+        "dynamic/skill/atk_surround",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/amulet_bosslady$amulet_bosslady_1",
+        "1",
+        "0",
+        "150",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "水禍招来・四罪共工＋",
+        "しばらくの間、自身の周囲に結界を発生させ、近づいた敵に水ダメージ ＋ 累積攻撃力ダウン ＋ 累積水属性耐性ダウン効果",
+        "dynamic/skill/atk_surround",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/amulet_bosslady$amulet_bosslady_2",
+        "1",
+        "0",
+        "150",
+        "",
+        "0",
+        "0",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "magatama_spirit": {
+    "1": [
+      [
+        "夜をほどく光",
+        "勾玉による光の力で光属性キャラと光属性マルチボールに攻撃力アップ ＋ 再生効果 ＋ 弱体効果を2つ回復",
+        "dynamic/skill/regene",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/magatama_spirit$magatama_spirit_1",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "夜をほどく光＋",
+        "勾玉による光の力で光属性キャラと光属性マルチボールに攻撃力アップ ＋ 再生効果 ＋ 弱体効果を2つ回復",
+        "dynamic/skill/regene",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/magatama_spirit$magatama_spirit_2",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "cursed_girl": {
     "1": [
       [

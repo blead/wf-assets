@@ -2398,6 +2398,161 @@
         }
       }
     },
+    "haniwa_great_fire_skill": {
+      "haniwa_great_fire_skill": {
+        "1": {
+          "haniwa_great_fire_skill": {
+            "haniwa_great_fire_skill": [
+              [
+                "2",
+                "1",
+                "2",
+                "after_",
+                "1",
+                "0",
+                "",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "skill_field_end",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "haniwa_great_fire_direct": {
+      "haniwa_great_fire_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "2",
+                "0",
+                "",
+                "2",
+                "2",
+                "phase3_coop",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase3_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "haniwa_great_fire_pf": {
+      "haniwa_great_fire_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "2",
+                "0",
+                "",
+                "2",
+                "2",
+                "funnel2_",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "field_funnel2_start3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "1",
+                "2",
+                "after_",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ],
+              [
+                "2",
+                "3",
+                "0",
+                "",
+                "3",
+                "2",
+                "phase3_coop",
+                "8",
+                "0",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase3_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
     "haniwa_great_water": {
       "haniwa_great_water": {
         "2": {
@@ -15943,6 +16098,251 @@
                 "false",
                 "0",
                 "strong_dead",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretA_pf": {
+      "funnel_haniwa_great_fire_turretA_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "3",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretB_pf": {
+      "funnel_haniwa_great_fire_turretB_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "3",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_strong_pf": {
+      "funnel_haniwa_great_fire_strong_pf": {
+        "1": {
+          "haniwa_great_fire_pf": {
+            "haniwa_great_fire_pf": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "field_funnel2_start3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "pf_fever_end",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretA_direct": {
+      "funnel_haniwa_great_fire_turretA_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretB_direct": {
+      "funnel_haniwa_great_fire_turretB_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretC_direct": {
+      "funnel_haniwa_great_fire_turretC_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
+                "true",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "funnel_haniwa_great_fire_turretD_direct": {
+      "funnel_haniwa_great_fire_turretD_direct": {
+        "1": {
+          "haniwa_great_fire_direct": {
+            "haniwa_great_fire_direct": [
+              [
+                "2",
+                "1",
+                "0",
+                "",
+                "2",
+                "1",
+                "phase3_check_end3",
+                "0",
+                "",
+                "0",
+                "5",
+                "false",
+                "false",
+                "false",
+                "0",
+                "phase1_coop_check_end3",
                 "true",
                 "",
                 "",

@@ -1981,6 +1981,63 @@
       ]
     }
   },
+  "funnel_haniwa_great_fire_bomb_skill": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge1": [
+        [
+          "120"
+        ]
+      ],
+      "charge2": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
+  "funnel_haniwa_great_fire_bomb_pf": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge1": [
+        [
+          "120"
+        ]
+      ],
+      "charge2": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
+  "funnel_haniwa_great_fire_bomb_direct": {
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "charge1": [
+        [
+          "120"
+        ]
+      ],
+      "charge2": [
+        [
+          "120"
+        ]
+      ]
+    }
+  },
   "funnel_haniwa_great_fire_bomb": {
     "100": {
       "neutral": [
