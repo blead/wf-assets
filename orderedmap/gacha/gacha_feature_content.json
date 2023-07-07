@@ -4430,6 +4430,151 @@
       ]
     ]
   },
+  "186": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_20smr21smr22smr_character_pickup_04/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131104",
+        "0",
+        "131104",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_68/combat_soldier_smr22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131104",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bigwing_shaman_smr21",
+        "141063",
+        "0",
+        "141063",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_43/bigwing_shaman_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141063",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_mercenary_smr21",
+        "141069",
+        "0",
+        "141069",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_45/mercenary_smr21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141069",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_unicorn_lancer_smr20",
+        "221011",
+        "0",
+        "221011",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/unicorn_lancer_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221011",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lady_gunner_smr20",
+        "261009",
+        "0",
+        "261009",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_17/lady_gunner_smr20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261009",
+        ""
+      ]
+    ]
+  },
   "177": {
     "1": [
       [

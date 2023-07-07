@@ -299,6 +299,20 @@
       "dynamic/time_attack_event_tutorial/water_sphere01/tutorial_03"
     ]
   ],
+  "summer_2023": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_multi_reward"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_expert_single"
+    ]
+  ],
   "summer_2022_how_to_play": [
     [
       "0",

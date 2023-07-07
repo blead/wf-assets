@@ -6252,6 +6252,58 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_9"
     ]
   ],
+  "1111117": [
+    [
+      "degree_favor_megumin_2",
+      "21001",
+      "紅魔族めぐみん",
+      "こうまぞくめぐみん",
+      "獲得条件：【爆裂魔法を極めし者】めぐみんのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_megumin_2"
+    ]
+  ],
+  "1121123": [
+    [
+      "degree_favor_aqua_2",
+      "53001",
+      "もっと私を甘やかして！！",
+      "もっとわたしをあまやかして",
+      "獲得条件：【アクシズ教の女神】アクアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_aqua_2"
+    ]
+  ],
+  "1151111": [
+    [
+      "degree_favor_darkness_2",
+      "141001",
+      "無尽蔵の防御力",
+      "むじんぞうのぼうぎょりょく",
+      "獲得条件：【被虐のクルセイダー】ダクネスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_darkness_2"
+    ]
+  ],
+  "1263015": [
+    [
+      "degree_favor_kazuma_2",
+      "374001",
+      "俺に作戦がある！！",
+      "おれにさくせんがある",
+      "獲得条件：【転生の策士】カズマのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_kazuma_2"
+    ]
+  ],
   "1161001": [
     [
       "degree_favor_dimension_witch_2",
@@ -7290,6 +7342,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
+    ]
+  ],
+  "1131104": [
+    [
+      "degree_favor_combat_soldier_smr22_2",
+      "125011",
+      "Sky for You",
+      "すかいふぉーゆー",
+      "獲得条件：【夏空を貫く弾丸】バレッタのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_soldier_smr22_2"
+    ]
+  ],
+  "1121129": [
+    [
+      "degree_favor_luca_playable_2",
+      "54001",
+      "憧憬を追って",
+      "どうけいをおって",
+      "獲得条件：【戸惑いのサイキッカー】ルカのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_luca_playable_2"
+    ]
+  ],
+  "1111129": [
+    [
+      "degree_favor_lion_swordman_playable_2",
+      "22001",
+      "再起の焔火",
+      "さいきのほむらび",
+      "獲得条件：【煩悶の獅子】マグノスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_swordman_playable_2"
     ]
   ],
   "1141135": [

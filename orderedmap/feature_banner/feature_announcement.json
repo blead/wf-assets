@@ -4535,6 +4535,24 @@
       "false"
     ]
   ],
+  "211628": [
+    [
+      "1001",
+      "dynamic/feature_announcement/world_story_event_summer_2022_re01",
+      "2023-07-07 12:00:00",
+      "2023-07-21 20:59:59",
+      "false"
+    ]
+  ],
+  "212991": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_20smr21smr22smr_character_pickup_04",
+      "2023-07-07 12:00:00",
+      "2023-07-14 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4703,6 +4721,15 @@
       "dynamic/feature_announcement/advent_event_steam_robot_light",
       "2023-05-31 12:00:00",
       "2023-06-16 20:59:59",
+      "false"
+    ]
+  ],
+  "10000033": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_water2",
+      "2023-07-07 12:00:00",
+      "2023-07-21 20:59:59",
       "false"
     ]
   ],
