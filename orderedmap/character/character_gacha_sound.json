@@ -2075,6 +2075,35 @@
       ]
     ]
   },
+  "111171": {
+    "23": [
+      [
+        "sound_effect/fire/se_fire_spread"
+      ]
+    ],
+    "107": [
+      [
+        "sound_effect/fire/se_light_fire_breath"
+      ]
+    ]
+  },
+  "121171": {
+    "41": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "89": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/element/se_power_flip_special_lv3_set"
+      ]
+    ]
+  },
   "151171": {
     "5": [
       [

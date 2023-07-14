@@ -1087,6 +1087,38 @@
       "(None)"
     ]
   ],
+  "100004": [
+    [
+      "campaign_mission_summer_20230714_20230731",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/summer23_mission_event_background",
+      "quest/event/banner/collect_item_event/summer23_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2023-07-14 12:00:00",
+      "2023-07-31 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "100003": [
     [
       "campaign_mission_halfanv_20230531_20230616",

@@ -1079,6 +1079,36 @@
       "2022-07-07 04:59:59"
     ]
   ],
+  "200055": [
+    [
+      "kc_summer_2023",
+      "(None)",
+      "クグイとリョウキの特別訓練！",
+      "",
+      "quest/event/banner/advent_event/event_kc",
+      "quest/event/bossbattle_banner/advent_event/event_kc",
+      "0",
+      "quest/event/background/advent_event/kc",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "32",
+      "bgm/world_japan/story/japan_story_fuan",
+      "event",
+      "40336",
+      "40337",
+      "40338",
+      "(None)",
+      "false",
+      "kc_summer_2023",
+      "true",
+      "2023-07-14 12:00:00",
+      "2023-07-28 20:59:59",
+      "2023-08-04 04:59:59"
+    ]
+  ],
   "200028": [
     [
       "kc_summer_2021",

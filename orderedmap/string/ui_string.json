@@ -11729,11 +11729,6 @@
       "獲得報酬"
     ]
   ],
-  "raid_event_party_select_aggregation_period": [
-    [
-      "集計中のため挑戦できません"
-    ]
-  ],
   "raid_event_party_select_out_of_period": [
     [
       "イベントは終了しました"
@@ -11769,66 +11764,6 @@
       "::rank_start::位～::rank_end::位"
     ]
   ],
-  "raid_event_ranking_ranking_rank": [
-    [
-      "::value::位"
-    ]
-  ],
-  "raid_event_ranking_out_of_ranking": [
-    [
-      "圏外"
-    ]
-  ],
-  "raid_event_ranking_player_rank": [
-    [
-      "ランク::value::"
-    ]
-  ],
-  "raid_event_ranking_kill_count": [
-    [
-      "討伐数: ::value::"
-    ]
-  ],
-  "raid_event_ranking_best_score": [
-    [
-      "BEST SCORE: ::value::"
-    ]
-  ],
-  "raid_event_ranking_update_time": [
-    [
-      "::value::更新"
-    ]
-  ],
-  "raid_event_ranking_party_dialog_title": [
-    [
-      "プレイヤー情報"
-    ]
-  ],
-  "raid_event_ranking_note_message": [
-    [
-      "BEST SCOREはランキングに影響しません"
-    ]
-  ],
-  "raid_event_ranking_copy": [
-    [
-      "コピー"
-    ]
-  ],
-  "raid_event_ranking_no_equipment": [
-    [
-      "装備アイテムは編成されていません"
-    ]
-  ],
-  "raid_event_ranking_no_ability_soul": [
-    [
-      "アビリティソウルは使用されていません"
-    ]
-  ],
-  "raid_event_ranking_no_character": [
-    [
-      "キャラは編成されていません"
-    ]
-  ],
   "raid_event_received_reward_dialog_title": [
     [
       "獲得報酬"
@@ -11862,41 +11797,6 @@
   "raid_event_top_boss_hp_percentage": [
     [
       "::percent::%"
-    ]
-  ],
-  "raid_event_top_now_aggregating": [
-    [
-      "現在集計中です\n::value::頃更新予定"
-    ]
-  ],
-  "rush_event_ranking_player_rank": [
-    [
-      "ランク::value::"
-    ]
-  ],
-  "rush_event_ranking_best_record": [
-    [
-      "BEST RECORD: ::value::戦"
-    ]
-  ],
-  "rush_event_ranking_time": [
-    [
-      "TIME: ::value::"
-    ]
-  ],
-  "rush_event_ranking_ranking_rank": [
-    [
-      "::value::位"
-    ]
-  ],
-  "rush_event_ranking_out_of_ranking": [
-    [
-      "圏外"
-    ]
-  ],
-  "rush_event_ranking_update_time": [
-    [
-      "::value::更新"
     ]
   ],
   "rush_event_ranking_party_list_round_number": [
@@ -11969,16 +11869,6 @@
       "ギブアップしますか？\n<font color=\"#ea354c\">クエストのクリア状況は\n破棄されます</font>"
     ]
   ],
-  "rush_event_top_now_aggregating": [
-    [
-      "現在集計中です\n::value::頃更新予定"
-    ]
-  ],
-  "rush_event_top_unselectable_now_aggregating": [
-    [
-      "集計中のため挑戦できません"
-    ]
-  ],
   "rush_event_party_select_rush_battle_used_characters": [
     [
       "ラッシュバトルの他のクエストに\n挑戦済みのキャラが編成されています"
@@ -12007,11 +11897,6 @@
   "rush_event_clear_reward_dialog_retry": [
     [
       "再挑戦する"
-    ]
-  ],
-  "rush_event_received_reward_dialog_title": [
-    [
-      "獲得報酬"
     ]
   ],
   "rush_event_break_through_reward": [
@@ -12662,6 +12547,26 @@
   "party_edit_invalid_party_code_message": [
     [
       "入力桁数が6桁に満たないまたは入力が間違っています"
+    ]
+  ],
+  "party_copy_copy_button_text": [
+    [
+      "コピー"
+    ]
+  ],
+  "party_copy_no_equipment": [
+    [
+      "装備アイテムは編成されていません"
+    ]
+  ],
+  "party_copy_no_ability_soul": [
+    [
+      "アビリティソウルは使用されていません"
+    ]
+  ],
+  "party_copy_no_character": [
+    [
+      "キャラは編成されていません"
     ]
   ],
   "party_copy_confirm_enough_dialog_title": [

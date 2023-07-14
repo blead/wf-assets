@@ -380,6 +380,28 @@
       ]
     ]
   },
+  "summoner_little_smr23_multiball_curve": {
+    "1": [
+      [
+        "0.1"
+      ]
+    ],
+    "10": [
+      [
+        "1"
+      ]
+    ],
+    "80": [
+      [
+        "6"
+      ]
+    ],
+    "100": [
+      [
+        "6.6"
+      ]
+    ]
+  },
   "unyielding_adventurer_ball_hp_curve": {
     "1": [
       [

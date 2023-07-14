@@ -7739,6 +7739,86 @@
       ""
     ]
   ],
+  "psychic_projection_smr23": [
+    [
+      "影丘リュウイチ",
+      "0x2f60b2",
+      "character/psychic_projection/voice/",
+      "normal,anger,anger_b,consent,flat,flat_b,joy,normal_b,objection,sad,sad_b,shame,surprise,surprise_b,sweat,think,evolve",
+      "character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_0,character/psychic_projection_smr23/ui/story/base_1",
+      "character/psychic_projection_smr23/ui/story/normal,character/psychic_projection_smr23/ui/story/anger,character/psychic_projection_smr23/ui/story/anger_b,character/psychic_projection_smr23/ui/story/consent,character/psychic_projection_smr23/ui/story/flat,character/psychic_projection_smr23/ui/story/flat_b,character/psychic_projection_smr23/ui/story/joy,character/psychic_projection_smr23/ui/story/normal_b,character/psychic_projection_smr23/ui/story/objection,character/psychic_projection_smr23/ui/story/sad,character/psychic_projection_smr23/ui/story/sad_b,character/psychic_projection_smr23/ui/story/shame,character/psychic_projection_smr23/ui/story/surprise,character/psychic_projection_smr23/ui/story/surprise_b,character/psychic_projection_smr23/ui/story/sweat,character/psychic_projection_smr23/ui/story/think,(None)"
+    ]
+  ],
+  "senior_wealthy_fath": [
+    [
+      "スコットの父",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "summoner_little_smr23": [
+    [
+      "クエット",
+      "0xa32535",
+      "character/summoner_little/voice/",
+      "normal,anger,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,surprise_c,sweat,think,evolve",
+      "character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_0,character/summoner_little_smr23/ui/story/base_1",
+      "character/summoner_little_smr23/ui/story/normal,character/summoner_little_smr23/ui/story/anger,character/summoner_little_smr23/ui/story/sad,character/summoner_little_smr23/ui/story/serious,character/summoner_little_smr23/ui/story/serious_b,character/summoner_little_smr23/ui/story/shame,character/summoner_little_smr23/ui/story/smile,character/summoner_little_smr23/ui/story/smile_b,character/summoner_little_smr23/ui/story/surprise,character/summoner_little_smr23/ui/story/surprise_b,character/summoner_little_smr23/ui/story/surprise_c,character/summoner_little_smr23/ui/story/sweat,character/summoner_little_smr23/ui/story/think,(None)"
+    ]
+  ],
+  "mob_honor_classmate": [
+    [
+      "？？？",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_honor_classmate_name": [
+    [
+      "ジェシカ",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_summoner_little_classmate": [
+    [
+      "クエットの同級生",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_rebuildisland_staff": [
+    [
+      "リビルドランド職員",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_interact_program_student": [
+    [
+      "交流プログラムの生徒",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "amulet_bosslady": [
     [
       "ランメイ",

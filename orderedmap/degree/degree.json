@@ -12011,6 +12011,32 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "111171": [
+    [
+      "degree_favor_summoner_little_smr23",
+      "163020",
+      "夏の扉を開く者",
+      "なつのとびらをひらくもの",
+      "獲得条件：【夏の扉を開く者】クエットをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_summoner_little_smr23"
+    ]
+  ],
+  "121171": [
+    [
+      "degree_favor_psychic_projection_smr23",
+      "369010",
+      "夏日の竜影",
+      "なつびのりゅうえい",
+      "獲得条件：【夏日の竜影】影丘リュウイチをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_projection_smr23"
+    ]
+  ],
   "121165": [
     [
       "degree_favor_amulet_bosslady",

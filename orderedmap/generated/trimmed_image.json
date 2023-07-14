@@ -58967,6 +58967,182 @@
       "690"
     ]
   ],
+  "character/psychic_projection_smr23/ui/full_shot_1440_1920_0": [
+    [
+      "196",
+      "235",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/skill_cutin_0": [
+    [
+      "124",
+      "86",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/full_shot_1440_1920_1": [
+    [
+      "276",
+      "188",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/skill_cutin_1": [
+    [
+      "122",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/anger": [
+    [
+      "208",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/anger_b": [
+    [
+      "208",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/base_0": [
+    [
+      "0",
+      "105",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/consent": [
+    [
+      "209",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/flat": [
+    [
+      "209",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/flat_b": [
+    [
+      "209",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/joy": [
+    [
+      "209",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/normal": [
+    [
+      "209",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/normal_b": [
+    [
+      "209",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/objection": [
+    [
+      "209",
+      "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/sad": [
+    [
+      "209",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/sad_b": [
+    [
+      "209",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/shame": [
+    [
+      "217",
+      "272",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/surprise": [
+    [
+      "209",
+      "242",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/surprise_b": [
+    [
+      "209",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/sweat": [
+    [
+      "317",
+      "316",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_projection_smr23/ui/story/think": [
+    [
+      "209",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_sakuya/ui/story/base": [
     [
       "65",
@@ -78355,6 +78531,158 @@
     [
       "0",
       "119",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/full_shot_1440_1920_0": [
+    [
+      "228",
+      "201",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/skill_cutin_0": [
+    [
+      "170",
+      "55",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/full_shot_1440_1920_1": [
+    [
+      "131",
+      "309",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/skill_cutin_1": [
+    [
+      "0",
+      "52",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/anger": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/base_0": [
+    [
+      "0",
+      "137",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/base_1": [
+    [
+      "0",
+      "125",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/normal": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/sad": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/serious": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/serious_b": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/shame": [
+    [
+      "222",
+      "375",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/smile": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/smile_b": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/surprise": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/surprise_b": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/surprise_c": [
+    [
+      "201",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/sweat": [
+    [
+      "223",
+      "249",
+      "570",
+      "690"
+    ]
+  ],
+  "character/summoner_little_smr23/ui/story/think": [
+    [
+      "201",
+      "229",
       "570",
       "690"
     ]

@@ -5753,6 +5753,20 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_summoner_little_smr23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_summoner_little_smr23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psychic_projection_smr23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_projection_smr23",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_amulet_bosslady": [
     [
       "common_skill_preview",

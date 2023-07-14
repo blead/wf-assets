@@ -4553,6 +4553,51 @@
       "false"
     ]
   ],
+  "213734": [
+    [
+      "2002",
+      "dynamic/feature_announcement/notice_kc",
+      "2023-07-14 12:00:00",
+      "2023-07-28 20:59:59",
+      "false"
+    ]
+  ],
+  "213000": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_91",
+      "2023-07-14 12:00:00",
+      "2023-07-21 11:59:59",
+      "false"
+    ]
+  ],
+  "213924": [
+    [
+      "3002",
+      "dynamic/feature_announcement/red_element_character_pickup_05",
+      "2023-07-14 12:00:00",
+      "2023-07-21 11:59:59",
+      "false"
+    ]
+  ],
+  "213041": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_2023_summer_gacha_campaign",
+      "2023-07-14 12:00:00",
+      "2023-07-31 11:59:59",
+      "false"
+    ]
+  ],
+  "215787": [
+    [
+      "300",
+      "dynamic/feature_announcement/notice_score_attack_event_border_extended",
+      "2023-07-14 12:00:00",
+      "2023-07-31 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4643,6 +4688,15 @@
       "false"
     ]
   ],
+  "10000035": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_staminahalf_reward",
+      "2023-07-14 12:00:00",
+      "2023-07-31 20:59:59",
+      "false"
+    ]
+  ],
   "10000019": [
     [
       "2000",
@@ -4658,6 +4712,15 @@
       "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
       "2023-03-31 12:00:00",
       "2023-04-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000038": [
+    [
+      "2000",
+      "dynamic/feature_announcement/summer23_campaign_mission",
+      "2023-07-14 12:00:00",
+      "2023-07-31 20:59:59",
       "false"
     ]
   ],

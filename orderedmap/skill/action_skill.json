@@ -2497,6 +2497,122 @@
       ]
     ]
   },
+  "summoner_little_smr23": {
+    "1": [
+      [
+        "ヴォイド・ゲイザー",
+        "深淵を開き、コーマ（水戦）を召喚（MB召喚）（既にコーマ（水戦）が居る場合、改めて召喚し直す） ／ パーティキャラ・マルチボールと参戦者のパーティキャラのHPを回復【属性「火」に対して効果アップ】 ／ 火属性マルチボールに最大速度固定効果",
+        "dynamic/skill/multi_ball",
+        "true",
+        "550",
+        "550",
+        "1",
+        "battle/action/skill/action/rare5/summoner_little_smr23$summoner_little_smr23_1",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "ヴォイド・ゲイザー＋",
+        "深淵を開き、コーマ（水戦）を召喚（MB召喚）（既にコーマ（水戦）が居る場合、改めて召喚し直す） ／ パーティキャラ・マルチボールと参戦者のパーティキャラのHPを回復【属性「火」に対して効果アップ】 ／ 火属性マルチボールに最大速度固定効果",
+        "dynamic/skill/multi_ball",
+        "true",
+        "550",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/summoner_little_smr23$summoner_little_smr23_2",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "psychic_projection_smr23": {
+    "1": [
+      [
+        "我が名は竜",
+        "最も近い敵に猛烈な水流を引き起こし、その周囲の敵に水ダメージ ／ リーダーが水属性の時、パーティにコンボブースト効果",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "450",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/psychic_projection_smr23$psychic_projection_smr23_1",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "我が名は竜＋",
+        "最も近い敵に猛烈な水流を引き起こし、その周囲の敵に水ダメージ ／ リーダーが水属性の時、パーティにコンボブースト効果",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "450",
+        "400",
+        "1",
+        "battle/action/skill/action/rare5/psychic_projection_smr23$psychic_projection_smr23_2",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "amulet_bosslady": {
     "1": [
       [
