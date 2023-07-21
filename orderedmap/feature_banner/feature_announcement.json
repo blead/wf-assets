@@ -4598,6 +4598,24 @@
       "false"
     ]
   ],
+  "213075": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_xm19xm20xm22_character_pickup_01",
+      "2023-07-21 12:00:00",
+      "2023-07-31 11:59:59",
+      "false"
+    ]
+  ],
+  "213502": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event_26",
+      "2023-07-21 12:00:00",
+      "2023-07-31 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",

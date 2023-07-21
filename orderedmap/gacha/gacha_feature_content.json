@@ -1678,6 +1678,151 @@
       ]
     ]
   },
+  "189": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_xm19xm20xm22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_battle_maid_xm19",
+        "111004",
+        "0",
+        "111004",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/xmas19/battle_maid_xm19/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111004",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_lady_summoner_xm20",
+        "111021",
+        "0",
+        "111021",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_27/lady_summoner_xm20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111021",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151141",
+        "0",
+        "151141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_77/compliment_oiran_xm22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151141",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_black_hair_swordman_xm20",
+        "231032",
+        "0",
+        "231032",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_27/black_hair_swordman_xm20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "231032",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261083",
+        "0",
+        "261083",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_77/herbalist_xm22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261083",
+        ""
+      ]
+    ]
+  },
   "120": {
     "1": [
       [

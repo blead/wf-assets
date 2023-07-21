@@ -7344,6 +7344,32 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1151141": [
+    [
+      "degree_favor_compliment_oiran_xm22_2",
+      "6011",
+      "白雲は絶ち消えず",
+      "しらくもはたちきえず",
+      "獲得条件：【聖夜祭の花魁】キクノのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_compliment_oiran_xm22_2"
+    ]
+  ],
+  "1261083": [
+    [
+      "degree_favor_herbalist_xm22_2",
+      "448011",
+      "健やかなる聖夜のために",
+      "すこやかなるせいやのために",
+      "獲得条件：【サンタナースな薬草士】ハートリーフのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_herbalist_xm22_2"
+    ]
+  ],
   "1131104": [
     [
       "degree_favor_combat_soldier_smr22_2",
@@ -11567,6 +11593,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_favor_informant_2"
+    ]
+  ],
+  "1161141": [
+    [
+      "degree_favor_asta_2",
+      "172001",
+      "諦めない心",
+      "あきらめないこころ",
+      "獲得条件：【魔力なき魔道士】アスタのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_asta_2"
+    ]
+  ],
+  "1141129": [
+    [
+      "degree_favor_yuno_2",
+      "112001",
+      "四つ葉の魔導書（グリモワール）",
+      "よつばのぐりもわーる",
+      "獲得条件：【風を操る天才魔道士】ユノのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_yuno_2"
+    ]
+  ],
+  "1123001": [
+    [
+      "degree_favor_noelle_silva_2",
+      "60001",
+      "王家の魔（マナ）",
+      "おうけのまな",
+      "獲得条件：【王族シルヴァ家の末娘】ノエル・シルヴァのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_noelle_silva_2"
     ]
   ],
   "55000": [

@@ -2819,6 +2819,44 @@
       ]
     ]
   },
+  "10000018": {
+    "1": [
+      [
+        "1",
+        "34",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_empress_03",
+        "(None)",
+        "",
+        "1",
+        "2023-07-21 12:00:00",
+        "2023-07-31 20:59:59"
+      ]
+    ],
+    "2": [
+      [
+        "1",
+        "31",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_empress_02",
+        "(None)",
+        "",
+        "1",
+        "2023-07-21 12:00:00",
+        "2023-07-31 20:59:59"
+      ]
+    ],
+    "3": [
+      [
+        "1",
+        "22",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/bossbattle_multi_pickup_empress_01",
+        "(None)",
+        "",
+        "1",
+        "2023-07-21 12:00:00",
+        "2023-07-31 20:59:59"
+      ]
+    ]
+  },
   "10000014": {
     "1": [
       [
