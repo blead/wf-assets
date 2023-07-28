@@ -6139,6 +6139,16 @@
       "第 ::chapter:: 章\n::stage:: - ::quest::"
     ]
   ],
+  "home_character_episode_balloon_recommend": [
+    [
+      "おすすめ"
+    ]
+  ],
+  "home_quest_balloon_encyclopedia": [
+    [
+      "星見の図鑑"
+    ]
+  ],
   "home_raid_boss_name": [
     [
       "戦陣の宴\nボス討伐数"
@@ -6361,12 +6371,17 @@
   ],
   "encyclopedia_dialog_message_keyword_just_unlocked": [
     [
-      "::keyword_name::の\nキーワードがアンロックされました"
+      "キーワード\n::keyword_name::\nがアンロックされました"
+    ]
+  ],
+  "encyclopedia_keyword_details_locked_episode_text": [
+    [
+      "情報::index::・エピソード"
     ]
   ],
   "encyclopedia_keyword_details_locked_text": [
     [
-      "?????"
+      "情報::index::"
     ]
   ],
   "encyclopedia_world_list_locked_text": [
@@ -6401,7 +6416,7 @@
   ],
   "encyclopedia_unlock_keyword_shortage_message": [
     [
-      "::keyword_label::\nのキーワードをアンロックするための\n::item_name::が不足しています\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます"
+      "キーワード\n::keyword_label::\nをアンロックするための::item_name::が\n不足しています\n\nキーワードは以下の条件を満たす事で\n::item_name::を使用せずに\nアンロックする事もできます"
     ]
   ],
   "encyclopedia_condition_message": [
@@ -6444,6 +6459,11 @@
       "キーワード ::keyword_label:: のアンロック"
     ]
   ],
+  "encyclopedia_back_to_top_button": [
+    [
+      "一覧にもどる"
+    ]
+  ],
   "character_episode_target_character_name_for_encyclopedia": [
     [
       "【::nickname::】::character_name::"
@@ -6454,9 +6474,9 @@
       "、"
     ]
   ],
-  "encyclopedia_keyword_label": [
+  "encyclopedia_keyword_label_with_character_quest": [
     [
-      "「::keyword_name::」"
+      "「::keyword_name::」 情報1、エピソード"
     ]
   ],
   "encyclopedia_keyword_label_with_information_index": [
@@ -6491,7 +6511,7 @@
   ],
   "encyclopedia_help": [
     [
-      "この星見の図鑑では\nワールドフリッパーの世界を紐解く\nキーワードがゲームの進行と共に\n開示されていきます\n\nメインストーリーやイベントストーリー、\nキャラごとのエピソードを進め\nキーワードを集めてみましょう！\n\nアイテム「ログキー」を使用する事で、\nまだ開示されていないキーワードを\nアンロックする事も可能です"
+      "この星見の図鑑では\nワールドフリッパーの世界を紐解く\nキーワードがゲームの進行と共に\n開示されていきます\n\nメインストーリーやイベントストーリー、\nキャラごとのエピソードを進め\nキーワードを集めてみましょう！\n\nアイテム「ログキー」を使用する事で、\n未開示のキーワードや未入手キャラのエピソードを\nアンロックする事も可能です"
     ]
   ],
   "encyclopedia_character_list_setting_dialog_filter_search_placeholder": [
@@ -8897,6 +8917,16 @@
   "application_option_asset_download_mode_button": [
     [
       "設定変更"
+    ]
+  ],
+  "application_option_episode_encyclopedia_suggest_title": [
+    [
+      "おすすめエピソード・図鑑の表示"
+    ]
+  ],
+  "application_option_episode_encyclopedia_suggest_show": [
+    [
+      "ホーム画面におすすめエピソードや\n図鑑を表示します"
     ]
   ],
   "dialog_title_transaction_law": [
