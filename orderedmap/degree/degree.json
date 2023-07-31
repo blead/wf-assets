@@ -12076,6 +12076,32 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141177": [
+    [
+      "degree_favor_psychic_yamikawa_smr23",
+      "171010",
+      "グラビティな彼女",
+      "ぐらびてぃなかのじょ",
+      "獲得条件：【グラビティな彼女】操里ユカリコをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_smr23"
+    ]
+  ],
+  "131164": [
+    [
+      "degree_favor_lion_boy_smr23",
+      "284010",
+      "ネイキッド・ライオン",
+      "ねいきっどらいおん",
+      "獲得条件：【ネイキッド・ライオン】テオをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_boy_smr23"
+    ]
+  ],
   "111171": [
     [
       "degree_favor_summoner_little_smr23",

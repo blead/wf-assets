@@ -1159,6 +1159,62 @@
       ]
     }
   },
+  "white_tiger_ghost_thunder_rush": {
+    "79": {
+      "neutral_funnel1": [
+        [
+          "60"
+        ]
+      ],
+      "slash_small_charge": [
+        [
+          "180"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "390"
+        ]
+      ],
+      "skill3_charge": [
+        [
+          "300"
+        ]
+      ]
+    },
+    "100": {
+      "neutral_funnel1": [
+        [
+          "30"
+        ]
+      ],
+      "slash_small_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill1_charge": [
+        [
+          "300"
+        ]
+      ],
+      "skill2_charge": [
+        [
+          "330"
+        ]
+      ],
+      "skill3_charge": [
+        [
+          "300"
+        ]
+      ]
+    }
+  },
   "waraboss_single": {
     "50": {
       "move_ex_shot": [
@@ -13131,6 +13187,112 @@
       "charge1": [
         [
           "80"
+        ]
+      ]
+    }
+  },
+  "boar_rider_rush": {
+    "79": {
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "skill_charge": [
+        [
+          "220"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "240"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "300"
+        ]
+      ],
+      "tackle_loop": [
+        [
+          "3"
+        ]
+      ],
+      "neutral3": [
+        [
+          "120"
+        ]
+      ],
+      "neutral4": [
+        [
+          "120"
+        ]
+      ],
+      "neutral5": [
+        [
+          "60"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "1"
+        ]
+      ]
+    },
+    "100": {
+      "neutral1": [
+        [
+          "30"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "skill_charge": [
+        [
+          "160"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "150"
+        ]
+      ],
+      "skill_charge3": [
+        [
+          "300"
+        ]
+      ],
+      "tackle_loop": [
+        [
+          "2"
+        ]
+      ],
+      "neutral3": [
+        [
+          "110"
+        ]
+      ],
+      "neutral4": [
+        [
+          "110"
+        ]
+      ],
+      "neutral5": [
+        [
+          "50"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
         ]
       ]
     }

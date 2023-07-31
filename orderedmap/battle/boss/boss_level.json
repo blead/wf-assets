@@ -3518,6 +3518,57 @@
       "500"
     ]
   ],
+  "boar_rider_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "125",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "18",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
+  "white_tiger_ghost_thunder_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "115",
+      "1",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "10",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
+  "spirit_beast_thunder_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "1000",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "20",
+      "1",
+      "atk_single",
+      "tp_basic_normal",
+      "800"
+    ]
+  ],
   "ghost_fox_rush": [
     [
       "0",

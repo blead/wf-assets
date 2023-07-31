@@ -7739,6 +7739,166 @@
       ""
     ]
   ],
+  "psychic_yamikawa_smr23": [
+    [
+      "操里ユカリコ",
+      "0x539722",
+      "character/psychic_yamikawa/voice/",
+      "normal,anger,sad,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,yandere,yandere_b,yandere_c,evolve",
+      "character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_0,character/psychic_yamikawa_smr23/ui/story/base_1",
+      "character/psychic_yamikawa_smr23/ui/story/normal,character/psychic_yamikawa_smr23/ui/story/anger,character/psychic_yamikawa_smr23/ui/story/sad,character/psychic_yamikawa_smr23/ui/story/serious,character/psychic_yamikawa_smr23/ui/story/serious_b,character/psychic_yamikawa_smr23/ui/story/shame,character/psychic_yamikawa_smr23/ui/story/smile,character/psychic_yamikawa_smr23/ui/story/smile_b,character/psychic_yamikawa_smr23/ui/story/smile_c,character/psychic_yamikawa_smr23/ui/story/surprise,character/psychic_yamikawa_smr23/ui/story/surprise_b,character/psychic_yamikawa_smr23/ui/story/sweat,character/psychic_yamikawa_smr23/ui/story/think,character/psychic_yamikawa_smr23/ui/story/yandere,character/psychic_yamikawa_smr23/ui/story/yandere_b,character/psychic_yamikawa_smr23/ui/story/yandere_c,(None)"
+    ]
+  ],
+  "mother_with_daughter": [
+    [
+      "娘を連れた母親",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "exchange_program_student": [
+    [
+      "交流プログラムの生徒",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "exchange_program_couple": [
+    [
+      "カップルな交流生徒",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "turnoffed_adventurer": [
+    [
+      "完全に引いている冒険者",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "rumor_lover_girl": [
+    [
+      "噂好きの女性",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "gossip_girl": [
+    [
+      "ゴシップ好きの女性",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "lion_boy_smr23": [
+    [
+      "テオ",
+      "0xb29614",
+      "character/lion_boy/voice/",
+      "normal,anger,anger_b,confused,jitome,jitome_b,sad,serious,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_0,character/lion_boy_smr23/ui/story/base_1",
+      "character/lion_boy_smr23/ui/story/normal,character/lion_boy_smr23/ui/story/anger,character/lion_boy_smr23/ui/story/anger_b,character/lion_boy_smr23/ui/story/confused,character/lion_boy_smr23/ui/story/jitome,character/lion_boy_smr23/ui/story/jitome_b,character/lion_boy_smr23/ui/story/sad,character/lion_boy_smr23/ui/story/serious,character/lion_boy_smr23/ui/story/shame,character/lion_boy_smr23/ui/story/smile,character/lion_boy_smr23/ui/story/smile_b,character/lion_boy_smr23/ui/story/smile_c,character/lion_boy_smr23/ui/story/surprise,character/lion_boy_smr23/ui/story/surprise_b,character/lion_boy_smr23/ui/story/sweat,character/lion_boy_smr23/ui/story/think,(None)"
+    ]
+  ],
+  "calm_lion_boy_fan": [
+    [
+      "冷静なテオ君ファン",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "ardent_lion_boy_fan": [
+    [
+      "熱烈なテオ君ファン",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "human_female_guest": [
+    [
+      "人間の女性客",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "female_tourist": [
+    [
+      "女性の観光客",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "female_beast_tourist": [
+    [
+      "獣人の女性客",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psychic_shouta_smr22_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/psychic_shouta/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "lady_gunner_smr20_unknown": [
+    [
+      "？？？",
+      "0x3f2843",
+      "character/lady_gunner_smr20/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "dog_slasher_proud_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/dog_slasher/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
   "psychic_projection_smr23": [
     [
       "影丘リュウイチ",

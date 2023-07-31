@@ -43375,6 +43375,182 @@
       "690"
     ]
   ],
+  "character/lion_boy_smr23/ui/full_shot_1440_1920_0": [
+    [
+      "237",
+      "313",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/skill_cutin_0": [
+    [
+      "423",
+      "106",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/full_shot_1440_1920_1": [
+    [
+      "183",
+      "249",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/skill_cutin_1": [
+    [
+      "186",
+      "44",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/anger": [
+    [
+      "148",
+      "174",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/anger_b": [
+    [
+      "148",
+      "174",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/base_0": [
+    [
+      "154",
+      "168",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/base_1": [
+    [
+      "0",
+      "95",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/confused": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/jitome": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/jitome_b": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/normal": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/sad": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/serious": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/shame": [
+    [
+      "215",
+      "351",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/smile": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/smile_b": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/smile_c": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/surprise": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/surprise_b": [
+    [
+      "154",
+      "169",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/sweat": [
+    [
+      "310",
+      "378",
+      "570",
+      "690"
+    ]
+  ],
+  "character/lion_boy_smr23/ui/story/think": [
+    [
+      "155",
+      "209",
+      "570",
+      "690"
+    ]
+  ],
   "character/lion_swordman/ui/story/anger": [
     [
       "112",
@@ -61339,6 +61515,182 @@
     [
       "195",
       "212",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/full_shot_1440_1920_0": [
+    [
+      "186",
+      "79",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/skill_cutin_0": [
+    [
+      "49",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/full_shot_1440_1920_1": [
+    [
+      "170",
+      "255",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/skill_cutin_1": [
+    [
+      "213",
+      "52",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/anger": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/base_1": [
+    [
+      "0",
+      "101",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/normal": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/sad": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/serious": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/serious_b": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/shame": [
+    [
+      "201",
+      "289",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/smile": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/smile_b": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/smile_c": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/surprise": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/surprise_b": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/sweat": [
+    [
+      "189",
+      "268",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/think": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/yandere": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/yandere_b": [
+    [
+      "187",
+      "199",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_yamikawa_smr23/ui/story/yandere_c": [
+    [
+      "187",
+      "199",
       "570",
       "690"
     ]

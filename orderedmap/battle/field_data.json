@@ -4206,6 +4206,27 @@
       "tower_dungeon_area_10_5_3_score_event"
     ]
   ],
+  "boar_rider_rush": [
+    [
+      "beast_cat_village",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_boar_rider_3",
+      "boar_rider_rush"
+    ]
+  ],
+  "boss_battle_white_tiger_rush": [
+    [
+      "beast_ruins",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_white_tiger",
+      "boss_battle_white_tiger_rush"
+    ]
+  ],
+  "spirit_beast_thunder_rush": [
+    [
+      "spirit_beast_thunder_area",
+      "battle/terrain/event_quest/advent_event/spirit_beast_thunder/spirit_beast_thunder_1",
+      "spirit_beast_thunder_rush"
+    ]
+  ],
   "rush_05_ghost_fox": [
     [
       "japan_shrine",
@@ -5751,6 +5772,20 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_psychic_yamikawa_smr23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psychic_yamikawa_smr23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_lion_boy_smr23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_lion_boy_smr23",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_summoner_little_smr23": [

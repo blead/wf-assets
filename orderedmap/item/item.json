@@ -8839,6 +8839,32 @@
       "true"
     ]
   ],
+  "70006": [
+    [
+      "rush_event_item_06",
+      "70006",
+      "ダイバーズチェック",
+      "item/materials/event/rush_event/rush_event_item_01",
+      "item_icon/materials/event/rush_event/rush_event_item",
+      "VRゲーム『コンバットダイバー』で得られる仮想通貨。バトル記憶をテクニカルレートに応じてポイント化したもの",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2023-07-31 12:00:00",
+      "2023-08-22 04:59:59",
+      "true"
+    ]
+  ],
   "50600": [
     [
       "revival_Rcollab_exchange_item_01",

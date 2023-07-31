@@ -2075,6 +2075,45 @@
       ]
     ]
   },
+  "141177": {
+    "5": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "23": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "71": [
+      [
+        "sound_effect/monster/se_teleportation"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/monster/se_teleportation"
+      ]
+    ]
+  },
+  "131164": {
+    "5": [
+      [
+        "sound_effect/thunder/se_lightning_needle_rip"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/thunder/se_lightning"
+      ]
+    ],
+    "89": [
+      [
+        "sound_effect/thunder/se_thunder_wide_area_electricity"
+      ]
+    ]
+  },
   "111171": {
     "23": [
       [

@@ -137,6 +137,21 @@
       ]
     ]
   },
+  "191": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/yellow_element_character_pickup_06",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "156": {
     "1": [
       [
@@ -7398,6 +7413,73 @@
       ]
     ]
   },
+  "190": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131164",
+        "0",
+        "131164",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/lion_boy_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131164",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141177",
+        "0",
+        "141177",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_92/psychic_yamikawa_smr23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141177",
+        ""
+      ]
+    ]
+  },
   "187": {
     "1": [
       [
@@ -14638,6 +14720,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_yellow_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5039": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_wind_pickup_2",
         "",
         "",
         "",

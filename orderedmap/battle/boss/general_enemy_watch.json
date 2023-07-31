@@ -11261,6 +11261,35 @@
                 ""
               ]
             ]
+          },
+          "spirit_beast_thunder_rush": {
+            "spirit_beast_thunder": [
+              [
+                "1",
+                "1",
+                "1",
+                "neutral",
+                "1",
+                "2",
+                "link_funnel_",
+                "0",
+                "",
+                "0",
+                "1",
+                "false",
+                "false",
+                "false",
+                "0",
+                "start1",
+                "false",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+              ]
+            ]
           }
         }
       }
