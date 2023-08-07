@@ -3530,6 +3530,125 @@
       ]
     ]
   },
+  "192": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_hw20_hw22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_sing_android_hw20",
+        "161015",
+        "0",
+        "161015",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/sing_android_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161015",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161135",
+        "0",
+        "161135",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_73/wind_spgirl_hw22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161135",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_fox_scientist_hw20",
+        "231020",
+        "0",
+        "231020",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/fox_scientist_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "231020",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_priest_hw20",
+        "351015",
+        "0",
+        "351015",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_20/priest_hw20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "351015",
+        ""
+      ]
+    ]
+  },
   "142": {
     "1": [
       [

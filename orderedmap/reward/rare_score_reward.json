@@ -18689,7 +18689,7 @@
         "expert_single_lich_1_1",
         "0",
         "16",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -18699,7 +18699,7 @@
         "expert_single_lich_1_1",
         "0",
         "16",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -18709,7 +18709,7 @@
         "expert_single_lich_1_1",
         "0",
         "16",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -18719,7 +18719,7 @@
         "expert_single_lich_1_1",
         "0",
         "16",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -18729,7 +18729,7 @@
         "expert_single_lich_1_1",
         "0",
         "16",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -18741,7 +18741,7 @@
         "expert_single_lich_1_2",
         "0",
         "59",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -18751,7 +18751,7 @@
         "expert_single_lich_1_2",
         "0",
         "59",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -18761,7 +18761,7 @@
         "expert_single_lich_1_2",
         "0",
         "59",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -18771,7 +18771,7 @@
         "expert_single_lich_1_2",
         "0",
         "59",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -18781,7 +18781,7 @@
         "expert_single_lich_1_2",
         "0",
         "59",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -18793,7 +18793,7 @@
         "expert_single_lich_1_3",
         "0",
         "60",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -18803,7 +18803,7 @@
         "expert_single_lich_1_3",
         "0",
         "60",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -18813,7 +18813,7 @@
         "expert_single_lich_1_3",
         "0",
         "60",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -18823,7 +18823,7 @@
         "expert_single_lich_1_3",
         "0",
         "60",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -18835,7 +18835,7 @@
         "expert_single_lich_1_4_1",
         "0",
         "61",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -18847,7 +18847,7 @@
         "expert_single_lich_1_4_2",
         "0",
         "61",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -18857,7 +18857,7 @@
         "expert_single_lich_1_4_2",
         "0",
         "61",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -18869,7 +18869,7 @@
         "expert_single_lich_1_4",
         "0",
         "61",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -18879,7 +18879,7 @@
         "expert_single_lich_1_4",
         "0",
         "61",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -18891,7 +18891,7 @@
         "expert_single_lich_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -18901,7 +18901,7 @@
         "expert_single_lich_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -18911,7 +18911,7 @@
         "expert_single_lich_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -18923,7 +18923,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -18933,7 +18933,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -18943,7 +18943,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -18953,7 +18953,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -18963,7 +18963,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -18973,7 +18973,7 @@
         "expert_single_lich_2_1",
         "0",
         "59",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -18985,7 +18985,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -18995,7 +18995,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -19005,7 +19005,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -19015,7 +19015,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -19025,7 +19025,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -19035,7 +19035,7 @@
         "expert_single_lich_2_2",
         "0",
         "60",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -19047,7 +19047,7 @@
         "expert_single_lich_2_3",
         "0",
         "61",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -19057,7 +19057,7 @@
         "expert_single_lich_2_3",
         "0",
         "61",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -19067,7 +19067,7 @@
         "expert_single_lich_2_3",
         "0",
         "61",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -19079,7 +19079,7 @@
         "expert_single_lich_2_3_1",
         "0",
         "61",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -19089,7 +19089,7 @@
         "expert_single_lich_2_3_1",
         "0",
         "61",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -19099,7 +19099,7 @@
         "expert_single_lich_2_3_1",
         "0",
         "61",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -19111,7 +19111,7 @@
         "expert_single_lich_2_3_2",
         "0",
         "61",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -19121,7 +19121,7 @@
         "expert_single_lich_2_3_2",
         "0",
         "61",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -19131,7 +19131,7 @@
         "expert_single_lich_2_3_2",
         "0",
         "61",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -19141,7 +19141,7 @@
         "expert_single_lich_2_3_2",
         "0",
         "61",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -19153,7 +19153,7 @@
         "expert_single_lich_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -19163,7 +19163,7 @@
         "expert_single_lich_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -19173,7 +19173,7 @@
         "expert_single_lich_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -19185,7 +19185,7 @@
         "expert_single_guardian_golem_1_1",
         "0",
         "4",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -19195,7 +19195,7 @@
         "expert_single_guardian_golem_1_1",
         "0",
         "4",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -19205,7 +19205,7 @@
         "expert_single_guardian_golem_1_1",
         "0",
         "4",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -19215,7 +19215,7 @@
         "expert_single_guardian_golem_1_1",
         "0",
         "4",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -19225,7 +19225,7 @@
         "expert_single_guardian_golem_1_1",
         "0",
         "4",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -19237,7 +19237,7 @@
         "expert_single_guardian_golem_1_2",
         "0",
         "50",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -19247,7 +19247,7 @@
         "expert_single_guardian_golem_1_2",
         "0",
         "50",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -19257,7 +19257,7 @@
         "expert_single_guardian_golem_1_2",
         "0",
         "50",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -19267,7 +19267,7 @@
         "expert_single_guardian_golem_1_2",
         "0",
         "50",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -19277,7 +19277,7 @@
         "expert_single_guardian_golem_1_2",
         "0",
         "50",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -19289,7 +19289,7 @@
         "expert_single_guardian_golem_1_3",
         "0",
         "51",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -19299,7 +19299,7 @@
         "expert_single_guardian_golem_1_3",
         "0",
         "51",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -19309,7 +19309,7 @@
         "expert_single_guardian_golem_1_3",
         "0",
         "51",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -19319,7 +19319,7 @@
         "expert_single_guardian_golem_1_3",
         "0",
         "51",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -19331,7 +19331,7 @@
         "expert_single_guardian_golem_1_4_1",
         "0",
         "52",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -19343,7 +19343,7 @@
         "expert_single_guardian_golem_1_4_2",
         "0",
         "52",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -19353,7 +19353,7 @@
         "expert_single_guardian_golem_1_4_2",
         "0",
         "52",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -19365,7 +19365,7 @@
         "expert_single_guardian_golem_1_4",
         "0",
         "52",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -19375,7 +19375,7 @@
         "expert_single_guardian_golem_1_4",
         "0",
         "52",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -19387,7 +19387,7 @@
         "expert_single_guardian_golem_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -19397,7 +19397,7 @@
         "expert_single_guardian_golem_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -19407,7 +19407,7 @@
         "expert_single_guardian_golem_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -19419,7 +19419,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -19429,7 +19429,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -19439,7 +19439,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -19449,7 +19449,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -19459,7 +19459,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -19469,7 +19469,7 @@
         "expert_single_guardian_golem_2_1",
         "0",
         "50",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -19481,7 +19481,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -19491,7 +19491,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -19501,7 +19501,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -19511,7 +19511,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -19521,7 +19521,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -19531,7 +19531,7 @@
         "expert_single_guardian_golem_2_2",
         "0",
         "51",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -19543,7 +19543,7 @@
         "expert_single_guardian_golem_2_3",
         "0",
         "52",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -19553,7 +19553,7 @@
         "expert_single_guardian_golem_2_3",
         "0",
         "52",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -19563,7 +19563,7 @@
         "expert_single_guardian_golem_2_3",
         "0",
         "52",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -19575,7 +19575,7 @@
         "expert_single_guardian_golem_2_3_1",
         "0",
         "52",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -19585,7 +19585,7 @@
         "expert_single_guardian_golem_2_3_1",
         "0",
         "52",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -19595,7 +19595,7 @@
         "expert_single_guardian_golem_2_3_1",
         "0",
         "52",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -19607,7 +19607,7 @@
         "expert_single_guardian_golem_2_3_2",
         "0",
         "52",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -19617,7 +19617,7 @@
         "expert_single_guardian_golem_2_3_2",
         "0",
         "52",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -19627,7 +19627,7 @@
         "expert_single_guardian_golem_2_3_2",
         "0",
         "52",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -19637,7 +19637,7 @@
         "expert_single_guardian_golem_2_3_2",
         "0",
         "52",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -19649,7 +19649,7 @@
         "expert_single_guardian_golem_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -19659,7 +19659,7 @@
         "expert_single_guardian_golem_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -19669,7 +19669,7 @@
         "expert_single_guardian_golem_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -19681,7 +19681,7 @@
         "expert_single_hermit_crab_1_1",
         "0",
         "8",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -19691,7 +19691,7 @@
         "expert_single_hermit_crab_1_1",
         "0",
         "8",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -19701,7 +19701,7 @@
         "expert_single_hermit_crab_1_1",
         "0",
         "8",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -19711,7 +19711,7 @@
         "expert_single_hermit_crab_1_1",
         "0",
         "8",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -19721,7 +19721,7 @@
         "expert_single_hermit_crab_1_1",
         "0",
         "8",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -19733,7 +19733,7 @@
         "expert_single_hermit_crab_1_2",
         "0",
         "53",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -19743,7 +19743,7 @@
         "expert_single_hermit_crab_1_2",
         "0",
         "53",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -19753,7 +19753,7 @@
         "expert_single_hermit_crab_1_2",
         "0",
         "53",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -19763,7 +19763,7 @@
         "expert_single_hermit_crab_1_2",
         "0",
         "53",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -19773,7 +19773,7 @@
         "expert_single_hermit_crab_1_2",
         "0",
         "53",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -19785,7 +19785,7 @@
         "expert_single_hermit_crab_1_3",
         "0",
         "54",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -19795,7 +19795,7 @@
         "expert_single_hermit_crab_1_3",
         "0",
         "54",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -19805,7 +19805,7 @@
         "expert_single_hermit_crab_1_3",
         "0",
         "54",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -19815,7 +19815,7 @@
         "expert_single_hermit_crab_1_3",
         "0",
         "54",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -19827,7 +19827,7 @@
         "expert_single_hermit_crab_1_4_1",
         "0",
         "55",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -19839,7 +19839,7 @@
         "expert_single_hermit_crab_1_4_2",
         "0",
         "55",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -19849,7 +19849,7 @@
         "expert_single_hermit_crab_1_4_2",
         "0",
         "55",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -19861,7 +19861,7 @@
         "expert_single_hermit_crab_1_4",
         "0",
         "55",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -19871,7 +19871,7 @@
         "expert_single_hermit_crab_1_4",
         "0",
         "55",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -19883,7 +19883,7 @@
         "expert_single_hermit_crab_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -19893,7 +19893,7 @@
         "expert_single_hermit_crab_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -19903,7 +19903,7 @@
         "expert_single_hermit_crab_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -19915,7 +19915,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -19925,7 +19925,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -19935,7 +19935,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -19945,7 +19945,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -19955,7 +19955,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -19965,7 +19965,7 @@
         "expert_single_hermit_crab_2_1",
         "0",
         "53",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -19977,7 +19977,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -19987,7 +19987,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -19997,7 +19997,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -20007,7 +20007,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -20017,7 +20017,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -20027,7 +20027,7 @@
         "expert_single_hermit_crab_2_2",
         "0",
         "54",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -20039,7 +20039,7 @@
         "expert_single_hermit_crab_2_3",
         "0",
         "55",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -20049,7 +20049,7 @@
         "expert_single_hermit_crab_2_3",
         "0",
         "55",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -20059,7 +20059,7 @@
         "expert_single_hermit_crab_2_3",
         "0",
         "55",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -20071,7 +20071,7 @@
         "expert_single_hermit_crab_2_3_1",
         "0",
         "55",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -20081,7 +20081,7 @@
         "expert_single_hermit_crab_2_3_1",
         "0",
         "55",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -20091,7 +20091,7 @@
         "expert_single_hermit_crab_2_3_1",
         "0",
         "55",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -20103,7 +20103,7 @@
         "expert_single_hermit_crab_2_3_2",
         "0",
         "55",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -20113,7 +20113,7 @@
         "expert_single_hermit_crab_2_3_2",
         "0",
         "55",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -20123,7 +20123,7 @@
         "expert_single_hermit_crab_2_3_2",
         "0",
         "55",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -20133,7 +20133,7 @@
         "expert_single_hermit_crab_2_3_2",
         "0",
         "55",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -20145,7 +20145,7 @@
         "expert_single_hermit_crab_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -20155,7 +20155,7 @@
         "expert_single_hermit_crab_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -20165,7 +20165,7 @@
         "expert_single_hermit_crab_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -20177,7 +20177,7 @@
         "expert_single_white_tiger_ghost_1_1",
         "0",
         "12",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -20187,7 +20187,7 @@
         "expert_single_white_tiger_ghost_1_1",
         "0",
         "12",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -20197,7 +20197,7 @@
         "expert_single_white_tiger_ghost_1_1",
         "0",
         "12",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -20207,7 +20207,7 @@
         "expert_single_white_tiger_ghost_1_1",
         "0",
         "12",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -20217,7 +20217,7 @@
         "expert_single_white_tiger_ghost_1_1",
         "0",
         "12",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -20229,7 +20229,7 @@
         "expert_single_white_tiger_ghost_1_2",
         "0",
         "56",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -20239,7 +20239,7 @@
         "expert_single_white_tiger_ghost_1_2",
         "0",
         "56",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -20249,7 +20249,7 @@
         "expert_single_white_tiger_ghost_1_2",
         "0",
         "56",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -20259,7 +20259,7 @@
         "expert_single_white_tiger_ghost_1_2",
         "0",
         "56",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -20269,7 +20269,7 @@
         "expert_single_white_tiger_ghost_1_2",
         "0",
         "56",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -20281,7 +20281,7 @@
         "expert_single_white_tiger_ghost_1_3",
         "0",
         "57",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -20291,7 +20291,7 @@
         "expert_single_white_tiger_ghost_1_3",
         "0",
         "57",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -20301,7 +20301,7 @@
         "expert_single_white_tiger_ghost_1_3",
         "0",
         "57",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -20311,7 +20311,7 @@
         "expert_single_white_tiger_ghost_1_3",
         "0",
         "57",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -20323,7 +20323,7 @@
         "expert_single_white_tiger_ghost_1_4_1",
         "0",
         "58",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -20335,7 +20335,7 @@
         "expert_single_white_tiger_ghost_1_4_2",
         "0",
         "58",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -20345,7 +20345,7 @@
         "expert_single_white_tiger_ghost_1_4_2",
         "0",
         "58",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -20357,7 +20357,7 @@
         "expert_single_white_tiger_ghost_1_4",
         "0",
         "58",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -20367,7 +20367,7 @@
         "expert_single_white_tiger_ghost_1_4",
         "0",
         "58",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -20379,7 +20379,7 @@
         "expert_single_white_tiger_ghost_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -20389,7 +20389,7 @@
         "expert_single_white_tiger_ghost_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -20399,7 +20399,7 @@
         "expert_single_white_tiger_ghost_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -20411,7 +20411,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -20421,7 +20421,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -20431,7 +20431,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -20441,7 +20441,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -20451,7 +20451,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -20461,7 +20461,7 @@
         "expert_single_white_tiger_ghost_2_1",
         "0",
         "56",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -20473,7 +20473,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -20483,7 +20483,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -20493,7 +20493,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -20503,7 +20503,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -20513,7 +20513,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -20523,7 +20523,7 @@
         "expert_single_white_tiger_ghost_2_2",
         "0",
         "57",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -20535,7 +20535,7 @@
         "expert_single_white_tiger_ghost_2_3",
         "0",
         "58",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -20545,7 +20545,7 @@
         "expert_single_white_tiger_ghost_2_3",
         "0",
         "58",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -20555,7 +20555,7 @@
         "expert_single_white_tiger_ghost_2_3",
         "0",
         "58",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -20567,7 +20567,7 @@
         "expert_single_white_tiger_ghost_2_3_1",
         "0",
         "58",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -20577,7 +20577,7 @@
         "expert_single_white_tiger_ghost_2_3_1",
         "0",
         "58",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -20587,7 +20587,7 @@
         "expert_single_white_tiger_ghost_2_3_1",
         "0",
         "58",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -20599,7 +20599,7 @@
         "expert_single_white_tiger_ghost_2_3_2",
         "0",
         "58",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -20609,7 +20609,7 @@
         "expert_single_white_tiger_ghost_2_3_2",
         "0",
         "58",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -20619,7 +20619,7 @@
         "expert_single_white_tiger_ghost_2_3_2",
         "0",
         "58",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -20629,7 +20629,7 @@
         "expert_single_white_tiger_ghost_2_3_2",
         "0",
         "58",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -20641,7 +20641,7 @@
         "expert_single_white_tiger_ghost_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -20651,7 +20651,7 @@
         "expert_single_white_tiger_ghost_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -20661,7 +20661,7 @@
         "expert_single_white_tiger_ghost_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -20673,7 +20673,7 @@
         "expert_single_arch_evil_1_1",
         "0",
         "45",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -20683,7 +20683,7 @@
         "expert_single_arch_evil_1_1",
         "0",
         "45",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -20693,7 +20693,7 @@
         "expert_single_arch_evil_1_1",
         "0",
         "45",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -20703,7 +20703,7 @@
         "expert_single_arch_evil_1_1",
         "0",
         "45",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -20713,7 +20713,7 @@
         "expert_single_arch_evil_1_1",
         "0",
         "45",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -20725,7 +20725,7 @@
         "expert_single_arch_evil_1_2",
         "0",
         "62",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -20735,7 +20735,7 @@
         "expert_single_arch_evil_1_2",
         "0",
         "62",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -20745,7 +20745,7 @@
         "expert_single_arch_evil_1_2",
         "0",
         "62",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -20755,7 +20755,7 @@
         "expert_single_arch_evil_1_2",
         "0",
         "62",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -20765,7 +20765,7 @@
         "expert_single_arch_evil_1_2",
         "0",
         "62",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -20777,7 +20777,7 @@
         "expert_single_arch_evil_1_3",
         "0",
         "63",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -20787,7 +20787,7 @@
         "expert_single_arch_evil_1_3",
         "0",
         "63",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -20797,7 +20797,7 @@
         "expert_single_arch_evil_1_3",
         "0",
         "63",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -20807,7 +20807,7 @@
         "expert_single_arch_evil_1_3",
         "0",
         "63",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -20819,7 +20819,7 @@
         "expert_single_arch_evil_1_4_1",
         "0",
         "64",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -20831,7 +20831,7 @@
         "expert_single_arch_evil_1_4_2",
         "0",
         "64",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -20841,7 +20841,7 @@
         "expert_single_arch_evil_1_4_2",
         "0",
         "64",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -20853,7 +20853,7 @@
         "expert_single_arch_evil_1_4",
         "0",
         "64",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -20863,7 +20863,7 @@
         "expert_single_arch_evil_1_4",
         "0",
         "64",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -20875,7 +20875,7 @@
         "expert_single_arch_evil_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -20885,7 +20885,7 @@
         "expert_single_arch_evil_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -20895,7 +20895,7 @@
         "expert_single_arch_evil_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -20907,7 +20907,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -20917,7 +20917,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -20927,7 +20927,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -20937,7 +20937,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -20947,7 +20947,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -20957,7 +20957,7 @@
         "expert_single_arch_evil_2_1",
         "0",
         "62",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -20969,7 +20969,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -20979,7 +20979,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -20989,7 +20989,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -20999,7 +20999,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -21009,7 +21009,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -21019,7 +21019,7 @@
         "expert_single_arch_evil_2_2",
         "0",
         "63",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -21031,7 +21031,7 @@
         "expert_single_arch_evil_2_3",
         "0",
         "64",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -21041,7 +21041,7 @@
         "expert_single_arch_evil_2_3",
         "0",
         "64",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -21051,7 +21051,7 @@
         "expert_single_arch_evil_2_3",
         "0",
         "64",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -21063,7 +21063,7 @@
         "expert_single_arch_evil_2_3_1",
         "0",
         "64",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -21073,7 +21073,7 @@
         "expert_single_arch_evil_2_3_1",
         "0",
         "64",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -21083,7 +21083,7 @@
         "expert_single_arch_evil_2_3_1",
         "0",
         "64",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -21095,7 +21095,7 @@
         "expert_single_arch_evil_2_3_2",
         "0",
         "64",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -21105,7 +21105,7 @@
         "expert_single_arch_evil_2_3_2",
         "0",
         "64",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -21115,7 +21115,7 @@
         "expert_single_arch_evil_2_3_2",
         "0",
         "64",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -21125,7 +21125,7 @@
         "expert_single_arch_evil_2_3_2",
         "0",
         "64",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -21137,7 +21137,7 @@
         "expert_single_arch_evil_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -21147,7 +21147,7 @@
         "expert_single_arch_evil_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -21157,7 +21157,7 @@
         "expert_single_arch_evil_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -21169,7 +21169,7 @@
         "expert_single_adminisitraor_1_1",
         "0",
         "49",
-        "8",
+        "16",
         "0.22",
         "false"
       ]
@@ -21179,7 +21179,7 @@
         "expert_single_adminisitraor_1_1",
         "0",
         "49",
-        "9",
+        "18",
         "0.22",
         "false"
       ]
@@ -21189,7 +21189,7 @@
         "expert_single_adminisitraor_1_1",
         "0",
         "49",
-        "10",
+        "20",
         "0.2",
         "false"
       ]
@@ -21199,7 +21199,7 @@
         "expert_single_adminisitraor_1_1",
         "0",
         "49",
-        "11",
+        "22",
         "0.18",
         "false"
       ]
@@ -21209,7 +21209,7 @@
         "expert_single_adminisitraor_1_1",
         "0",
         "49",
-        "12",
+        "24",
         "0.18",
         "false"
       ]
@@ -21221,7 +21221,7 @@
         "expert_single_adminisitraor_1_2",
         "0",
         "65",
-        "6",
+        "12",
         "0.22",
         "false"
       ]
@@ -21231,7 +21231,7 @@
         "expert_single_adminisitraor_1_2",
         "0",
         "65",
-        "7",
+        "14",
         "0.22",
         "false"
       ]
@@ -21241,7 +21241,7 @@
         "expert_single_adminisitraor_1_2",
         "0",
         "65",
-        "8",
+        "16",
         "0.2",
         "false"
       ]
@@ -21251,7 +21251,7 @@
         "expert_single_adminisitraor_1_2",
         "0",
         "65",
-        "9",
+        "18",
         "0.18",
         "false"
       ]
@@ -21261,7 +21261,7 @@
         "expert_single_adminisitraor_1_2",
         "0",
         "65",
-        "10",
+        "20",
         "0.18",
         "false"
       ]
@@ -21273,7 +21273,7 @@
         "expert_single_adminisitraor_1_3",
         "0",
         "66",
-        "2",
+        "4",
         "0.3",
         "false"
       ]
@@ -21283,7 +21283,7 @@
         "expert_single_adminisitraor_1_3",
         "0",
         "66",
-        "3",
+        "6",
         "0.3",
         "false"
       ]
@@ -21293,7 +21293,7 @@
         "expert_single_adminisitraor_1_3",
         "0",
         "66",
-        "4",
+        "8",
         "0.2",
         "false"
       ]
@@ -21303,7 +21303,7 @@
         "expert_single_adminisitraor_1_3",
         "0",
         "66",
-        "5",
+        "10",
         "0.2",
         "false"
       ]
@@ -21315,7 +21315,7 @@
         "expert_single_adminisitraor_1_4_1",
         "0",
         "67",
-        "1",
+        "2",
         "1",
         "false"
       ]
@@ -21327,7 +21327,7 @@
         "expert_single_adminisitraor_1_4_2",
         "0",
         "67",
-        "1",
+        "2",
         "0.6",
         "false"
       ]
@@ -21337,7 +21337,7 @@
         "expert_single_adminisitraor_1_4_2",
         "0",
         "67",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -21349,7 +21349,7 @@
         "expert_single_adminisitraor_1_4",
         "0",
         "67",
-        "10",
+        "20",
         "0.5",
         "true"
       ]
@@ -21359,7 +21359,7 @@
         "expert_single_adminisitraor_1_4",
         "0",
         "67",
-        "12",
+        "24",
         "0.5",
         "true"
       ]
@@ -21371,7 +21371,7 @@
         "expert_single_adminisitraor_1_5",
         "4",
         "",
-        "5000",
+        "10000",
         "0.65",
         "true"
       ]
@@ -21381,7 +21381,7 @@
         "expert_single_adminisitraor_1_5",
         "4",
         "",
-        "10000",
+        "20000",
         "0.25",
         "true"
       ]
@@ -21391,7 +21391,7 @@
         "expert_single_adminisitraor_1_5",
         "4",
         "",
-        "15000",
+        "30000",
         "0.1",
         "true"
       ]
@@ -21403,7 +21403,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "8",
+        "16",
         "0.17",
         "false"
       ]
@@ -21413,7 +21413,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "9",
+        "18",
         "0.17",
         "false"
       ]
@@ -21423,7 +21423,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "10",
+        "20",
         "0.17",
         "false"
       ]
@@ -21433,7 +21433,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "11",
+        "22",
         "0.17",
         "false"
       ]
@@ -21443,7 +21443,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "12",
+        "24",
         "0.16",
         "false"
       ]
@@ -21453,7 +21453,7 @@
         "expert_single_adminisitraor_2_1",
         "0",
         "65",
-        "13",
+        "26",
         "0.16",
         "false"
       ]
@@ -21465,7 +21465,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "4",
+        "8",
         "0.17",
         "false"
       ]
@@ -21475,7 +21475,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "5",
+        "10",
         "0.17",
         "false"
       ]
@@ -21485,7 +21485,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "6",
+        "12",
         "0.17",
         "false"
       ]
@@ -21495,7 +21495,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "7",
+        "14",
         "0.17",
         "false"
       ]
@@ -21505,7 +21505,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "8",
+        "16",
         "0.16",
         "false"
       ]
@@ -21515,7 +21515,7 @@
         "expert_single_adminisitraor_2_2",
         "0",
         "66",
-        "9",
+        "18",
         "0.16",
         "false"
       ]
@@ -21527,7 +21527,7 @@
         "expert_single_adminisitraor_2_3",
         "0",
         "67",
-        "10",
+        "20",
         "0.33",
         "true"
       ]
@@ -21537,7 +21537,7 @@
         "expert_single_adminisitraor_2_3",
         "0",
         "67",
-        "12",
+        "24",
         "0.33",
         "true"
       ]
@@ -21547,7 +21547,7 @@
         "expert_single_adminisitraor_2_3",
         "0",
         "67",
-        "14",
+        "28",
         "0.34",
         "true"
       ]
@@ -21559,7 +21559,7 @@
         "expert_single_adminisitraor_2_3_1",
         "0",
         "67",
-        "1",
+        "2",
         "0.4",
         "false"
       ]
@@ -21569,7 +21569,7 @@
         "expert_single_adminisitraor_2_3_1",
         "0",
         "67",
-        "2",
+        "4",
         "0.4",
         "false"
       ]
@@ -21579,7 +21579,7 @@
         "expert_single_adminisitraor_2_3_1",
         "0",
         "67",
-        "3",
+        "6",
         "0.2",
         "false"
       ]
@@ -21591,7 +21591,7 @@
         "expert_single_adminisitraor_2_3_2",
         "0",
         "67",
-        "1",
+        "2",
         "0.25",
         "false"
       ]
@@ -21601,7 +21601,7 @@
         "expert_single_adminisitraor_2_3_2",
         "0",
         "67",
-        "2",
+        "4",
         "0.25",
         "false"
       ]
@@ -21611,7 +21611,7 @@
         "expert_single_adminisitraor_2_3_2",
         "0",
         "67",
-        "3",
+        "6",
         "0.25",
         "false"
       ]
@@ -21621,7 +21621,7 @@
         "expert_single_adminisitraor_2_3_2",
         "0",
         "67",
-        "4",
+        "8",
         "0.25",
         "false"
       ]
@@ -21633,7 +21633,7 @@
         "expert_single_adminisitraor_2_4",
         "4",
         "",
-        "10000",
+        "20000",
         "0.65",
         "true"
       ]
@@ -21643,7 +21643,7 @@
         "expert_single_adminisitraor_2_4",
         "4",
         "",
-        "15000",
+        "30000",
         "0.25",
         "true"
       ]
@@ -21653,7 +21653,7 @@
         "expert_single_adminisitraor_2_4",
         "4",
         "",
-        "20000",
+        "40000",
         "0.1",
         "true"
       ]
@@ -31063,6 +31063,144 @@
         "5100006",
         "1",
         "1",
+        "true"
+      ]
+    ]
+  },
+  "11000691": {
+    "1": [
+      [
+        "advent_hw23_rare_1",
+        "1",
+        "4050023",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000692": {
+    "1": [
+      [
+        "advent_hw23_rare_2",
+        "1",
+        "5070024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000693": {
+    "1": [
+      [
+        "advent_hw23_rare_3",
+        "1",
+        "5060024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000694": {
+    "1": [
+      [
+        "advent_hw23_rare_4",
+        "0",
+        "10000007",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000695": {
+    "1": [
+      [
+        "advent_hw23_rare_5",
+        "0",
+        "10000008",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000696": {
+    "1": [
+      [
+        "advent_hw23_rare_6",
+        "0",
+        "10000008",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000697": {
+    "1": [
+      [
+        "advent_hw23_rare_7",
+        "0",
+        "10000009",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000698": {
+    "1": [
+      [
+        "advent_hw23_rare_8",
+        "0",
+        "10000009",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000699": {
+    "1": [
+      [
+        "advent_hw23_rare_9",
+        "0",
+        "10000008",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_hw23_rare_9",
+        "0",
+        "10000008",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_hw23_rare_9",
+        "0",
+        "10000009",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_hw23_rare_9",
+        "0",
+        "10000009",
+        "10",
+        "0.15",
         "true"
       ]
     ]

@@ -1649,6 +1649,36 @@
       "2022-12-23 04:59:59"
     ]
   ],
+  "200061": [
+    [
+      "advent_hw23",
+      "9",
+      "君に届ける鎮魂歌",
+      "",
+      "quest/event/banner/advent_event/event_advent_hw20",
+      "quest/event/bossbattle_banner/advent_event/advent_event_hw20",
+      "0",
+      "quest/event/background/advent_event/advent_event_hw20",
+      "quest/event/logo/advent_event/advent_hw20",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "9",
+      "bgm/event/advent_event/advent_event_hw20/system/halloween_stage_node",
+      "event",
+      "10000007",
+      "10000008",
+      "10000009",
+      "(None)",
+      "true",
+      "advent_hw20",
+      "true",
+      "2023-08-07 12:00:00",
+      "2023-08-21 20:59:59",
+      "2023-08-29 04:59:59"
+    ]
+  ],
   "200010": [
     [
       "advent_hw22",

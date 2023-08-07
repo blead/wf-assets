@@ -4661,12 +4661,39 @@
       "false"
     ]
   ],
+  "214935": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_hw20_hw22_character_pickup_01",
+      "2023-08-07 12:00:00",
+      "2023-08-14 11:59:59",
+      "false"
+    ]
+  ],
+  "216312": [
+    [
+      "1004",
+      "dynamic/feature_announcement/advent_event_hw21",
+      "2023-08-07 12:00:00",
+      "2023-08-21 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
       "dynamic/feature_announcement/advent_u_collabo_event",
       "2022-06-15 12:00:00",
       "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "10000039": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_017",
+      "2023-08-07 12:00:00",
+      "2023-08-21 20:59:59",
       "false"
     ]
   ],

@@ -7344,6 +7344,84 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1161135": [
+    [
+      "degree_favor_wind_spgirl_hw22_2",
+      "91021",
+      "剣風、心に秘めて",
+      "けんぷうこころにひめて",
+      "獲得条件：【恋する吸血剣鬼】シルティーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_hw22_2"
+    ]
+  ],
+  "1151129": [
+    [
+      "degree_favor_swallow_knight_3anv_2",
+      "231021",
+      "飛燕、再び",
+      "ひえんふたたび",
+      "獲得条件：【飛燕自由騎士団団長】ユーウェルのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_swallow_knight_3anv_2"
+    ]
+  ],
+  "1161153": [
+    [
+      "degree_favor_veteran_hunter_3anv_2",
+      "152011",
+      "遺された仕事",
+      "のこされたしごと",
+      "獲得条件：【奪還の戦士】ヴェロンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_veteran_hunter_3anv_2"
+    ]
+  ],
+  "1121141": [
+    [
+      "degree_favor_wind_spbro_3anv_2",
+      "56001",
+      "剣は光の頂きへ",
+      "けんはひかりのいただきへ",
+      "獲得条件：【ロード・サーディア】シエルのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spbro_3anv_2"
+    ]
+  ],
+  "1161159": [
+    [
+      "degree_favor_rector_sorcerer_playable_2",
+      "174001",
+      "真なる空に、虚を刻め",
+      "しんなるくうにこをきざめ",
+      "獲得条件：【虚影の織手】ニルヤーナのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_rector_sorcerer_playable_2"
+    ]
+  ],
+  "1253019": [
+    [
+      "degree_favor_reformist_prince_2",
+      "350001",
+      "集え、光の下へ",
+      "つどえひかりのもとへ",
+      "獲得条件：【一つの王道】ヴァーレインのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_reformist_prince_2"
+    ]
+  ],
   "1151141": [
     [
       "degree_favor_compliment_oiran_xm22_2",
