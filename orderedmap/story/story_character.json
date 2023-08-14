@@ -7739,6 +7739,96 @@
       ""
     ]
   ],
+  "blindfold_agent": [
+    [
+      "チャトリナ",
+      "0x3f2843",
+      "character/blindfold_agent/voice/",
+      "normal,anger,anger_b,laugh,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,evolve",
+      "character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_0,character/blindfold_agent/ui/story/base_1",
+      "character/blindfold_agent/ui/story/normal,character/blindfold_agent/ui/story/anger,character/blindfold_agent/ui/story/anger_b,character/blindfold_agent/ui/story/laugh,character/blindfold_agent/ui/story/sad,character/blindfold_agent/ui/story/serious,character/blindfold_agent/ui/story/serious_b,character/blindfold_agent/ui/story/shame,character/blindfold_agent/ui/story/smile,character/blindfold_agent/ui/story/smile_b,character/blindfold_agent/ui/story/surprise,character/blindfold_agent/ui/story/surprise_b,character/blindfold_agent/ui/story/sweat,(None)"
+    ]
+  ],
+  "blindfold_agent_childhood": [
+    [
+      "幼いチャトリナ",
+      "0x3f2843",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "dispatch_team_member": [
+    [
+      "派遣隊のメンバー",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "blindfold_agent_noname": [
+    [
+      "黒装束の女性",
+      "0x3f2843",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "human_male_exsoldier": [
+    [
+      "元兵士の人間の男",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "demon_male_exsoldier": [
+    [
+      "元戦士の魔族の男",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "girl_with_flower": [
+    [
+      "花を持った少女",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "paula": [
+    [
+      "ポーラ",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "talkative_girl": [
+    [
+      "お喋り好きな少女",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "psychic_yamikawa_smr23": [
     [
       "操里ユカリコ",
@@ -26704,9 +26794,9 @@
       "ライト",
       "0xff9f1c",
       "character/light/voice/",
-      "normal,anger,discontent,normal_b,shame,smile,surprise,surprise_b,sweat",
-      "character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base",
-      "character/light_adventurer/ui/story/normal,character/light_adventurer/ui/story/anger,character/light_adventurer/ui/story/discontent,character/light_adventurer/ui/story/normal_b,character/light_adventurer/ui/story/shame,character/light_adventurer/ui/story/smile,character/light_adventurer/ui/story/surprise,character/light_adventurer/ui/story/surprise_b,character/light_adventurer/ui/story/sweat"
+      "normal,anger,discontent,normal_b,shame,smile,surprise,surprise_b,sweat,akire,anger_b,joy,joy_b,sad,serious,serious_b,smile_b,smile_c,think,think_b",
+      "character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base",
+      "character/light_adventurer/ui/story/normal,character/light_adventurer/ui/story/anger,character/light_adventurer/ui/story/discontent,character/light_adventurer/ui/story/normal_b,character/light_adventurer/ui/story/shame,character/light_adventurer/ui/story/smile,character/light_adventurer/ui/story/surprise,character/light_adventurer/ui/story/surprise_b,character/light_adventurer/ui/story/sweat,character/light_adventurer/ui/story/akire,character/light_adventurer/ui/story/anger_b,character/light_adventurer/ui/story/joy,character/light_adventurer/ui/story/joy_b,character/light_adventurer/ui/story/sad,character/light_adventurer/ui/story/serious,character/light_adventurer/ui/story/serious_b,character/light_adventurer/ui/story/smile_b,character/light_adventurer/ui/story/smile_c,character/light_adventurer/ui/story/think,character/light_adventurer/ui/story/think_b"
     ]
   ],
   "remna": [

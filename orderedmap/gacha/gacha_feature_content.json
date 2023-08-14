@@ -3530,6 +3530,125 @@
       ]
     ]
   },
+  "194": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_hw21_hw22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131122",
+        "0",
+        "131122",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_73/palpebra_knight_lady_hw22/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131122",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151075",
+        "0",
+        "151075",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/neoviolin_musician_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151075",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "221053",
+        "0",
+        "221053",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/spry_sailor_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221053",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "241057",
+        "0",
+        "241057",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_48/sanctuary_guard_hw21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "241057",
+        ""
+      ]
+    ]
+  },
   "192": {
     "1": [
       [
@@ -7528,6 +7647,47 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "193": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_93/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161195",
+        "0",
+        "161195",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_93/blindfold_agent/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161195",
         ""
       ]
     ]

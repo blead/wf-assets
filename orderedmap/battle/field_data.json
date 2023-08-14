@@ -2267,6 +2267,41 @@
       "multi_variant_empress_wind_5"
     ]
   ],
+  "multi_variant_empress_light_1": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_light",
+      "multi_variant_empress_light_1"
+    ]
+  ],
+  "multi_variant_empress_light_2": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_light",
+      "multi_variant_empress_light_2"
+    ]
+  ],
+  "multi_variant_empress_light_3": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_light",
+      "multi_variant_empress_light_3"
+    ]
+  ],
+  "multi_variant_empress_light_4": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_light",
+      "multi_variant_empress_light_4"
+    ]
+  ],
+  "multi_variant_empress_light_5": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_light",
+      "multi_variant_empress_light_5"
+    ]
+  ],
   "valentine21_01": [
     [
       "valentine21_01",
@@ -5772,6 +5807,13 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_blindfold_agent": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_blindfold_agent",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_psychic_yamikawa_smr23": [

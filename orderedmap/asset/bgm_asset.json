@@ -3459,6 +3459,16 @@
       "12"
     ]
   ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_blanche_battle_boss": [
+    [
+      "0.35",
+      "185",
+      "0.07569161",
+      "55.818684",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/ranking_event/ranking_event_01/battle/ranking_event_battle_water_1": [
     [
       "0.37",
@@ -3685,6 +3695,16 @@
       "128",
       "0.06791383",
       "60.067913",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/blindfold_agent/blindfold_agent": [
+    [
+      "0.35",
+      "90",
+      "0.06743764",
+      "5.3604307",
       "(None)",
       "12"
     ]

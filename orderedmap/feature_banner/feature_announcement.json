@@ -4679,6 +4679,24 @@
       "false"
     ]
   ],
+  "215371": [
+    [
+      "3001",
+      "dynamic/feature_announcement/new_character_pickup_93",
+      "2023-08-14 12:00:00",
+      "2023-08-21 11:59:59",
+      "false"
+    ]
+  ],
+  "215380": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_hw21_hw22_character_pickup_01",
+      "2023-08-14 12:00:00",
+      "2023-08-21 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4856,6 +4874,15 @@
       "dynamic/feature_announcement/new_character_pickup_74",
       "2022-10-31 12:00:00",
       "2022-11-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000040": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_variant_empress_light",
+      "2023-08-14 12:00:00",
+      "2023-08-28 20:59:59",
       "false"
     ]
   ],

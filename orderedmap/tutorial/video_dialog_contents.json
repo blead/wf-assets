@@ -1865,6 +1865,12 @@
       "dynamic/advent_event_tutorial/advent_event_steam_robot_light/tutorial_03"
     ]
   ],
+  "advent_variant_empress_light": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_variant_empress_light/tutorial_01"
+    ]
+  ],
   "abyss_beast": [
     [
       "0",

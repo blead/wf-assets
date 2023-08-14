@@ -7344,6 +7344,45 @@
       "dynamic/degree/degree_favor_reaper_girl_hw20_2"
     ]
   ],
+  "1131122": [
+    [
+      "degree_favor_palpebra_knight_lady_hw22_2",
+      "325011",
+      "決意の行進",
+      "けついのこうしん",
+      "獲得条件：【ブラックドレスナイト】キーラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_palpebra_knight_lady_hw22_2"
+    ]
+  ],
+  "1121147": [
+    [
+      "degree_favor_psychic_yuki_ny23_2",
+      "47011",
+      "私達の世界",
+      "わたしたちのせかい",
+      "獲得条件：【春想花】見嶋ユキのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yuki_ny23_2"
+    ]
+  ],
+  "1131128": [
+    [
+      "degree_favor_general_toyakiren_ny23_2",
+      "75011",
+      "ニューイヤーチーム",
+      "にゅーいやーちーむ",
+      "獲得条件：【新春気鋭の豪腕課長】ツインクのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_general_toyakiren_ny23_2"
+    ]
+  ],
   "1161135": [
     [
       "degree_favor_wind_spgirl_hw22_2",
@@ -12152,6 +12191,19 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "161195": [
+    [
+      "degree_favor_blindfold_agent",
+      "178500",
+      "饒舌な元・諜報員",
+      "じょうぜつなもとちょうほういん",
+      "獲得条件：【饒舌な元・諜報員】チャトリナをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blindfold_agent"
     ]
   ],
   "141177": [

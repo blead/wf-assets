@@ -161,6 +161,330 @@
       ]
     ]
   },
+  "variant_empress_light_funnel_crystal_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_crystal_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_crystal_single5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_big_bomb_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_big_bomb_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_big_bomb_single5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_attack_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_attack_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_attack_single5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_triangle_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_triangle_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_triangle_single5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_halo_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_halo_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_halo_single5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_phantom_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_multi5"
+      ]
+    ]
+  },
+  "variant_empress_light_funnel_phantom_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_light_funnel_phantom_single5"
+      ]
+    ]
+  },
   "funnel_turf_boss_multi": {
     "25": [
       [

@@ -26163,6 +26163,122 @@
       ]
     ]
   },
+  "11000703": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_1",
+        "0",
+        "10000010",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000704": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_2",
+        "0",
+        "10000011",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000705": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_3",
+        "0",
+        "10000012",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000706": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_4",
+        "0",
+        "10000012",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000707": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_5",
+        "0",
+        "10000012",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000708": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_6",
+        "0",
+        "10000012",
+        "1",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_6",
+        "0",
+        "10000012",
+        "2",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
+  "11000709": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_7",
+        "0",
+        "10000012",
+        "2",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000710": {
+    "1": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_8",
+        "0",
+        "10000012",
+        "2",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "advent_variant_empress_light_20230814_20230828_rare_score_group_8",
+        "0",
+        "10000012",
+        "3",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
   "3083": {
     "1": [
       [

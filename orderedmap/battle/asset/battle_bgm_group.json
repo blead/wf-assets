@@ -1664,6 +1664,15 @@
       "(None)"
     ]
   ],
+  "advent_variant_empress_light": [
+    [
+      "2",
+      "",
+      "bgm/event/boss_battle_multi_pickup/battle/reine_blanche_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "event_valentine_battle_boss": [
     [
       "2",

@@ -2075,6 +2075,28 @@
       ]
     ]
   },
+  "161195": {
+    "5": [
+      [
+        "sound_effect/dark/se_bad_soul_wind"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect/dark/se_dark_hit_shadow"
+      ]
+    ],
+    "95": [
+      [
+        "sound_effect/element/se_power_flip_special_lv2_set"
+      ]
+    ],
+    "137": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ]
+  },
   "141177": {
     "5": [
       [

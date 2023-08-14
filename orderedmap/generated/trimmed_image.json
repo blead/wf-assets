@@ -12183,6 +12183,158 @@
       "690"
     ]
   ],
+  "character/blindfold_agent/ui/full_shot_1440_1920_0": [
+    [
+      "214",
+      "218",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/blindfold_agent/ui/skill_cutin_0": [
+    [
+      "198",
+      "74",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/blindfold_agent/ui/full_shot_1440_1920_1": [
+    [
+      "204",
+      "211",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/blindfold_agent/ui/skill_cutin_1": [
+    [
+      "45",
+      "56",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/anger": [
+    [
+      "267",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/anger_b": [
+    [
+      "261",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/base_0": [
+    [
+      "0",
+      "121",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/base_1": [
+    [
+      "0",
+      "14",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/laugh": [
+    [
+      "64",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/normal": [
+    [
+      "260",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/sad": [
+    [
+      "270",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/serious": [
+    [
+      "265",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/serious_b": [
+    [
+      "264",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/shame": [
+    [
+      "251",
+      "300",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/smile": [
+    [
+      "262",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/smile_b": [
+    [
+      "260",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/surprise": [
+    [
+      "260",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/surprise_b": [
+    [
+      "274",
+      "312",
+      "570",
+      "690"
+    ]
+  ],
+  "character/blindfold_agent/ui/story/sweat": [
+    [
+      "238",
+      "324",
+      "570",
+      "690"
+    ]
+  ],
   "character/blindness_gunner/ui/full_shot_1440_1920_0": [
     [
       "376",
@@ -41831,7 +41983,23 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/akire": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/anger": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/anger_b": [
     [
       "190",
       "253",
@@ -41855,6 +42023,22 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/joy": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/joy_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/normal": [
     [
       "190",
@@ -41871,6 +42055,30 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/sad": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/serious": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/serious_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/shame": [
     [
       "218",
@@ -41880,6 +42088,22 @@
     ]
   ],
   "character/light_adventurer/ui/story/smile": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/smile_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/smile_c": [
     [
       "190",
       "253",
@@ -41907,6 +42131,22 @@
     [
       "334",
       "380",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/think": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/think_b": [
+    [
+      "190",
+      "253",
       "570",
       "690"
     ]
