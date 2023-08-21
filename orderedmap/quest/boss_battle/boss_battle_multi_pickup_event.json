@@ -299,6 +299,18 @@
       "2022-09-15 20:59:59"
     ]
   ],
+  "10000020": [
+    [
+      "boss_battle_multi_pickup_1_20230821_20230831",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "2",
+      "2023-08-21 12:00:00",
+      "2023-08-31 20:59:59"
+    ]
+  ],
   "10000017": [
     [
       "boss_battle_multi_light_water_orochi_pickup_20230623_20230630",

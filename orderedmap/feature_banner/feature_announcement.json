@@ -4697,6 +4697,24 @@
       "false"
     ]
   ],
+  "215389": [
+    [
+      "3000",
+      "dynamic/feature_announcement/revival_ny20ny21ny23_character_pickup_01",
+      "2023-08-21 12:00:00",
+      "2023-08-31 11:59:59",
+      "false"
+    ]
+  ],
+  "217131": [
+    [
+      "300",
+      "dynamic/feature_announcement/notice_aigis_weapon",
+      "2023-08-21 12:00:00",
+      "2023-09-21 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4838,6 +4856,15 @@
       "dynamic/feature_announcement/gw23_campaign_mission",
       "2023-04-28 12:00:00",
       "2023-05-07 20:59:59",
+      "false"
+    ]
+  ],
+  "10000042": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event",
+      "2023-08-21 12:00:00",
+      "2023-08-31 20:59:59",
       "false"
     ]
   ],

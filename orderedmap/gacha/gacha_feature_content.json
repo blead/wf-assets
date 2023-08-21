@@ -3266,6 +3266,151 @@
       ]
     ]
   },
+  "195": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_ny20ny21ny23_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_heavenly_one",
+        "111005",
+        "0",
+        "111005",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/heavenly_one/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111005",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_brown_fighter_dst21",
+        "141039",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_35/brown_fighter_dst21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141039",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141141",
+        "0",
+        "141141",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_78/heavenly_four/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141141",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_bearish_darkwitch_ny20",
+        "241006",
+        "0",
+        "241006",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/bearish_darkwitch_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "241006",
+        ""
+      ]
+    ],
+    "10": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_swallow_knight_ny20",
+        "261006",
+        "0",
+        "261006",
+        ""
+      ]
+    ],
+    "11": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/ny20/swallow_knight_ny20/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261006",
+        ""
+      ]
+    ]
+  },
   "107": {
     "1": [
       [

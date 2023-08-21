@@ -291,6 +291,81 @@
             "None"
           ]
         ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          3,
+          113,
+          [
+            6
+          ],
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  3,
+                  [
+                    [
+                      "ACAttackPoint",
+                      [
+                        {
+                          "max": 1200,
+                          "min": 1200
+                        }
+                      ],
+                      [
+                        {
+                          "max": 0.75,
+                          "min": 0.65
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  1,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ]
+            ]
+          ]
+        ]
       ]
     ]
   ]

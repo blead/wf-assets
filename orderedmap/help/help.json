@@ -1308,6 +1308,17 @@
       "2022-12-31 04:59:59"
     ]
   ],
+  "boss_battle_multi_pickup_1_20230821_20230831": [
+    [
+      "help_event_boss_battle_multi_pickup",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_battle_multi_pickup",
+      "2023-08-21 12:00:00",
+      "2023-08-31 20:59:59"
+    ]
+  ],
   "boss_battle_multi_pickup_event": [
     [
       "help_event_boss_battle_multi_pickup",

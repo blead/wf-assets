@@ -7175,6 +7175,58 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1141141": [
+    [
+      "degree_favor_heavenly_four_2",
+      "114001",
+      "コズミック友情パワー",
+      "こずみっくゆうじょうぱわー",
+      "獲得条件：【一人サーカスの女王】シルクハーレのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_heavenly_four_2"
+    ]
+  ],
+  "1151147": [
+    [
+      "degree_favor_stella_ballot23_2",
+      "349011",
+      "物語への一歩",
+      "ものがたりへのいっぽ",
+      "獲得条件：【星見の街の】ステラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_ballot23_2"
+    ]
+  ],
+  "1111147": [
+    [
+      "degree_favor_still_obstinator_ballot23_2",
+      "138011",
+      "人よ、どうか幸せであれ",
+      "ひとよどうかしあわせであれ",
+      "獲得条件：【アイ・ブレス・ユー】スティネルのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_still_obstinator_ballot23_2"
+    ]
+  ],
+  "1151153": [
+    [
+      "degree_favor_light_ballot23_2",
+      "143001",
+      "覚悟のマスコット",
+      "かくごのますこっと",
+      "獲得条件：【最後の勇者】ライトのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_ballot23_2"
+    ]
+  ],
   "1121008": [
     [
       "degree_favor_prince_zero_smr20_2",

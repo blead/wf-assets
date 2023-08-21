@@ -319,7 +319,7 @@
                                                           ],
                                                           [
                                                             "CalculatedUsingMaxNumOfHits",
-                                                            9
+                                                            15
                                                           ],
                                                           [
                                                             "None"
@@ -374,14 +374,14 @@
                                                                   false,
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
@@ -681,7 +681,7 @@
                                                           ],
                                                           [
                                                             "CalculatedUsingMaxNumOfHits",
-                                                            9
+                                                            15
                                                           ],
                                                           [
                                                             "None"
@@ -736,14 +736,14 @@
                                                                   false,
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
                                                                     {
-                                                                      "max": 1,
-                                                                      "min": 1
+                                                                      "max": 0.6,
+                                                                      "min": 0.6
                                                                     }
                                                                   ],
                                                                   [
@@ -933,8 +933,8 @@
               ],
               [
                 {
-                  "max": 1,
-                  "min": 0.85
+                  "max": 2,
+                  "min": 1.7
                 }
               ],
               [

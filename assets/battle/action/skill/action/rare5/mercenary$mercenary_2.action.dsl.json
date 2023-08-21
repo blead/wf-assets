@@ -106,7 +106,7 @@
                   ],
                   [
                     "CalculatedUsingMaxNumOfHits",
-                    6
+                    18
                   ],
                   [
                     "None"
@@ -179,11 +179,11 @@
                           255,
                           null,
                           null,
-                          36,
+                          12,
                           [
                             {
-                              "max": 5.4,
-                              "min": 4.7
+                              "max": 1.8,
+                              "min": 1.5666666666666669
                             }
                           ],
                           [
@@ -199,14 +199,14 @@
                           false,
                           [
                             {
-                              "max": 2.4,
-                              "min": 2.4
+                              "max": 0.8,
+                              "min": 0.8
                             }
                           ],
                           [
                             {
-                              "max": 1.2,
-                              "min": 1.2
+                              "max": 0.4,
+                              "min": 0.4
                             }
                           ],
                           [
@@ -358,6 +358,102 @@
             }
           ],
           false
+        ]
+      ],
+      [
+        "Command",
+        [
+          "FindAllSubjects",
+          4,
+          34,
+          [
+            4
+          ],
+          null,
+          null,
+          null,
+          null,
+          [
+            "DoNothing"
+          ],
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  5,
+                  97,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateCondition",
+                          5,
+                          [
+                            [
+                              "ACPowerFlipDamage",
+                              [
+                                {
+                                  "max": 1200,
+                                  "min": 1200
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1.5,
+                                  "min": 1.25
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1,
+                                  "min": 1
+                                }
+                              ]
+                            ]
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "GenericConditionHitEffect"
+                          ],
+                          true,
+                          false,
+                          "",
+                          null,
+                          false,
+                          2,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          false
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
         ]
       ]
     ]
