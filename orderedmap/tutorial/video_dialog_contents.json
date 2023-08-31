@@ -955,6 +955,28 @@
       "dynamic/hard_multi_tutorial/hard_multi_steam_robot_light/tutorial_05"
     ]
   ],
+  "hard_multi_steam_robot_thunder": [
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_03"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_04"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_05"
+    ]
+  ],
   "haniwa_carnival_01": [
     [
       "0",
@@ -1869,6 +1891,20 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_event_variant_empress_light/tutorial_01"
+    ]
+  ],
+  "advent_steam_robot_thunder": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_thunder/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_thunder/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_thunder/tutorial_03"
     ]
   ],
   "abyss_beast": [

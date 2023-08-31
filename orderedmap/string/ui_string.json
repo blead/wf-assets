@@ -179,6 +179,11 @@
       "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「閃哭の機兵」の「閃機兵アイザン 超級」をクリア"
     ]
   ],
+  "system_lock_hard_multi_yellow": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「橙悚の機兵」の「橙機兵ギブシーズ 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -2074,6 +2079,11 @@
       "パーティに同じ属性のキャラを ::count:: 体::if once::::if is_max::::else::以上::end::編成した::else::編成する::end::"
     ]
   ],
+  "ability_description_instant_trigger_excess_skill_gauge": [
+    [
+      "バトル開始時に::if !omittable::::triggerPuller::の::end::スキルゲージが ::percent:: ::if once::超過した::else::超過する::end::"
+    ]
+  ],
   "ability_description_during_trigger_kind_hp_low": [
     [
       "::if !omittable::::triggerPuller::が::end::HP::sum:: ::percent:: ::if includesThreshold::以下::else::未満::end::の間::if (isBeforeInstantTrigger)::に::else::、::end::"
@@ -2699,6 +2709,11 @@
       "::if !withoutTarget::::target::の::end::直接攻撃ダメージ ::percent_up_down::"
     ]
   ],
+  "ability_description_condition_content_swift": [
+    [
+      "::if !withoutTarget::::target::に::end::ダッシュ間隔短縮効果"
+    ]
+  ],
   "ability_description_condition_not_cancelable": [
     [
       "（消去不可）"
@@ -2927,6 +2942,11 @@
   "ability_description_common_content_fixed_speed_summary": [
     [
       "::if !withoutTarget::::target::の::end::最大速度固定::if (strength >= 0)::アップ::else::ダウン::end::"
+    ]
+  ],
+  "ability_description_common_content_swift": [
+    [
+      "::if !withoutTarget::::target::の::end::ダッシュの間隔を短くする"
     ]
   ],
   "ability_description_common_content_fever_time": [
@@ -3802,6 +3822,11 @@
   "ability_description_condition_target_good_separated_term_direct_damage": [
     [
       "直接攻撃ダメージアップ効果"
+    ]
+  ],
+  "ability_description_condition_target_swift": [
+    [
+      "ダッシュ間隔短縮効果"
     ]
   ],
   "modifier_field_content_good_attack": [
@@ -5349,6 +5374,11 @@
       "降臨討伐 閃哭の機兵"
     ]
   ],
+  "help_label_event_advent_steam_robot_thunder": [
+    [
+      "降臨討伐 橙悚の機兵"
+    ]
+  ],
   "help_label_event_advent_zcollab": [
     [
       "降臨討伐 暴走ロメロを止めろ"
@@ -5442,6 +5472,11 @@
   "help_label_event_hard_multi_light": [
     [
       "共同決戦 閃哭の機兵"
+    ]
+  ],
+  "help_label_event_hard_multi_thunder": [
+    [
+      "共同決戦 橙悚の機兵"
     ]
   ],
   "help_label_event_challenge": [

@@ -164,7 +164,7 @@
       "鈍足効果強化"
     ]
   ],
-  "condition_fever_point_up": [
+  "condition_add_fever_point_up": [
     [
       "フィーバーゲージ増加効果強化"
     ]
@@ -252,6 +252,16 @@
   "separated_term_directdamage_up": [
     [
       "別枠直接攻撃ダメージアップ効果強化"
+    ]
+  ],
+  "condition_swifting_up": [
+    [
+      "ダッシュ間隔短縮効果強化"
+    ]
+  ],
+  "condition_fever_point_up": [
+    [
+      "フィーバーゲージ上昇率アップ効果強化"
     ]
   ],
   "speed_up": [

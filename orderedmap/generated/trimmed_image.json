@@ -15103,6 +15103,166 @@
       "690"
     ]
   ],
+  "character/combat_animal_meteor23/ui/full_shot_1440_1920_0": [
+    [
+      "177",
+      "55",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/skill_cutin_0": [
+    [
+      "269",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/full_shot_1440_1920_1": [
+    [
+      "86",
+      "112",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/anger": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/anger_b": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/confused": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/normal": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/sad": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/serious": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/shame": [
+    [
+      "229",
+      "295",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/smile": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/smile_b": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/smile_c": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/surprise": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/surprise_b": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/sweat": [
+    [
+      "193",
+      "263",
+      "570",
+      "690"
+    ]
+  ],
+  "character/combat_animal_meteor23/ui/story/think": [
+    [
+      "188",
+      "208",
+      "570",
+      "690"
+    ]
+  ],
   "character/combat_animal_xm21/ui/full_shot_1440_1920_0": [
     [
       "70",
@@ -62551,6 +62711,182 @@
       "690"
     ]
   ],
+  "character/psycho_reaper_meteor23/ui/full_shot_1440_1920_0": [
+    [
+      "144",
+      "213",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/skill_cutin_0": [
+    [
+      "103",
+      "77",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/full_shot_1440_1920_1": [
+    [
+      "135",
+      "110",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/skill_cutin_1": [
+    [
+      "121",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/anger": [
+    [
+      "211",
+      "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/base_0": [
+    [
+      "0",
+      "94",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/base_1": [
+    [
+      "0",
+      "11",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/confused": [
+    [
+      "211",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/normal": [
+    [
+      "211",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/pain": [
+    [
+      "211",
+      "221",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/serious": [
+    [
+      "210",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/shame": [
+    [
+      "201",
+      "266",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/shame_b": [
+    [
+      "196",
+      "261",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/smile": [
+    [
+      "211",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/smile_b": [
+    [
+      "204",
+      "229",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/smile_c": [
+    [
+      "211",
+      "224",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/smile_d": [
+    [
+      "209",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/surprise": [
+    [
+      "211",
+      "224",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/surprise_b": [
+    [
+      "211",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/surprise_c": [
+    [
+      "211",
+      "224",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/sweat": [
+    [
+      "295",
+      "324",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psycho_reaper_meteor23/ui/story/think": [
+    [
+      "210",
+      "234",
+      "570",
+      "690"
+    ]
+  ],
   "character/psycho_reaper_smr21/ui/full_shot_1440_1920_0": [
     [
       "351",
@@ -74155,6 +74491,174 @@
     [
       "206",
       "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/full_shot_1440_1920_0": [
+    [
+      "76",
+      "230",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/skill_cutin_0": [
+    [
+      "8",
+      "55",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/full_shot_1440_1920_1": [
+    [
+      "44",
+      "3",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/skill_cutin_1": [
+    [
+      "4",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/anger": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/base_0": [
+    [
+      "0",
+      "68",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/normal": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/sad": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/serious": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/shame": [
+    [
+      "205",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/smile": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/smile_b": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/smile_c": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/smile_d": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/surprise": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/surprise_b": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/sweat": [
+    [
+      "222",
+      "266",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/think": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/think_b": [
+    [
+      "216",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/starbreak_hunter_meteor23/ui/story/unknown": [
+    [
+      "0",
+      "68",
       "570",
       "690"
     ]

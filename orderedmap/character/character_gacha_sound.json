@@ -2075,6 +2075,72 @@
       ]
     ]
   },
+  "121177": {
+    "5": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ],
+    "47": [
+      [
+        "sound_effect/light/se_light_barrier"
+      ]
+    ],
+    "119": [
+      [
+        "sound_effect/light/se_light_rising_shine"
+      ]
+    ]
+  },
+  "141183": {
+    "5": [
+      [
+        "sound_effect/element/se_resistance_quick"
+      ]
+    ],
+    "53": [
+      [
+        "sound_effect/element/se_power_flip_special_lv3_set"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ]
+  },
+  "131170": {
+    "5": [
+      [
+        "sound_effect/thunder/se_lightning_needle_discharge"
+      ]
+    ],
+    "37": [
+      [
+        "sound_effect/thunder/se_thunder_stamp"
+      ]
+    ],
+    "75": [
+      [
+        "sound_effect/slash/se_slash_finish"
+      ]
+    ],
+    "111": [
+      [
+        "sound_effect/slash/se_power_flip_knight_lv3_smash"
+      ]
+    ],
+    "137": [
+      [
+        "sound_effect/thunder/se_thunder_wide_area_electricity"
+      ]
+    ],
+    "179": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ]
+  },
   "161195": {
     "5": [
       [

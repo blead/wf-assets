@@ -174,5 +174,13 @@
       "short_system_lock_hard_multi_red",
       "1"
     ]
+  ],
+  "hard_multi_yellow": [
+    [
+      "condition_hard_multi_yellow",
+      "system_lock_hard_multi_yellow",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
   ]
 }

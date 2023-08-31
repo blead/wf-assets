@@ -1,0 +1,172 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "StopBall",
+          -18,
+          10,
+          [
+            "RestoreToSpeedBeforeActionExecution"
+          ],
+          [
+            "EF"
+          ],
+          0
+        ]
+      ],
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "チャージバック",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/skill_unique/starbreak_hunter_meteor23/starbreak_hunter_meteor23_charge_back"
+          ],
+          -18,
+          [
+            "BacksideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          true,
+          false,
+          [
+            "None"
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "チャージ",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/skill_unique/starbreak_hunter_meteor23/starbreak_hunter_meteor23_charge"
+          ],
+          -18,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          true,
+          false,
+          [
+            "None"
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateCondition",
+          -17,
+          [
+            [
+              "ACSkillDamage",
+              [
+                {
+                  "max": 9999999,
+                  "min": 9999999
+                }
+              ],
+              [
+                {
+                  "max": 0.75,
+                  "min": 0.65
+                }
+              ],
+              [
+                {
+                  "max": 2,
+                  "min": 2
+                }
+              ]
+            ]
+          ],
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          [
+            "GenericConditionHitEffect"
+          ],
+          true,
+          false,
+          "",
+          null,
+          false,
+          3,
+          [
+            {
+              "max": 1,
+              "min": 1
+            }
+          ],
+          false
+        ]
+      ],
+      [
+        "Command",
+        [
+          "AddSkillPoint",
+          -17,
+          [
+            {
+              "max": 0.2,
+              "min": 0.15
+            }
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateRatioAttack",
+          -17,
+          2,
+          [
+            {
+              "max": 0.1,
+              "min": 0.1
+            }
+          ]
+        ]
+      ]
+    ]
+  ]
+]

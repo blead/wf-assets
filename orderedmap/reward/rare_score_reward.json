@@ -26781,6 +26781,166 @@
       ]
     ]
   },
+  "11000718": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_1",
+        "1",
+        "5080032",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000719": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_2",
+        "0",
+        "10000019",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000720": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_3",
+        "0",
+        "10000020",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000721": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_4",
+        "0",
+        "10000019",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000722": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_5",
+        "0",
+        "10000020",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000723": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_6",
+        "0",
+        "10000021",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000724": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_7",
+        "0",
+        "10000021",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000725": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_8",
+        "0",
+        "10000020",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000726": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_9",
+        "0",
+        "10000020",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_9",
+        "0",
+        "10000020",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_9",
+        "0",
+        "10000021",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_thunder_20230831_20230914_rare_score_group_9",
+        "0",
+        "10000021",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000727": {
+    "1": [
+      [
+        "hard_multi_advent_steam_robot_thunder_20230831_20230914_rare_score_group_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_advent_steam_robot_thunder_20230831_20230914_rare_score_group_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
   "11000613": {
     "1": [
       [

@@ -1063,6 +1063,20 @@
       "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
     ]
   ],
+  "steampunk_thunder_area": [
+    [
+      "battle/field/world_advent/steampunk_thunder_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
   "steampunk_light_area": [
     [
       "battle/field/world_advent/steampunk_light_area/background/background",

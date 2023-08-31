@@ -7796,6 +7796,99 @@
       ]
     ]
   },
+  "196": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121177",
+        "0",
+        "121177",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/psycho_reaper_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121177",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131170",
+        "0",
+        "131170",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/starbreak_hunter_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131170",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141183",
+        "0",
+        "141183",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_94/combat_animal_meteor23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141183",
+        ""
+      ]
+    ]
+  },
   "193": {
     "1": [
       [
@@ -15129,6 +15222,21 @@
       [
         "1",
         "dynamic/gacha_banner/fukubukuro_gacha_ny2021",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5040": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_yellow_pickup_1",
         "",
         "",
         "",

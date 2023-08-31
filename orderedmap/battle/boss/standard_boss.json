@@ -509,6 +509,66 @@
       ]
     ]
   },
+  "steampunk_thunder_multi": {
+    "20": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_multi4"
+      ]
+    ]
+  },
+  "steampunk_thunder_single": {
+    "20": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_single1"
+      ]
+    ],
+    "50": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_single2"
+      ]
+    ],
+    "70": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_single3"
+      ]
+    ],
+    "80": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_single4"
+      ]
+    ]
+  },
+  "steampunk_thunder_hard_multi": {
+    "100": [
+      [
+        "橙機兵ギブシーズ",
+        "battle/enemy/boss/steampunk_thunder_hard_multi"
+      ]
+    ]
+  },
   "steampunk_light_multi": {
     "20": [
       [

@@ -304,5 +304,23 @@
       "0",
       "false"
     ]
+  ],
+  "18": [
+    [
+      "unique_psycho_reaper_meteor23",
+      "ブーケトス",
+      "battle/common/unique_condition/unique_psycho_reaper_meteor23",
+      "99999999",
+      "9",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "false",
+      "0",
+      "0",
+      "true"
+    ]
   ]
 }

@@ -7739,6 +7739,206 @@
       ""
     ]
   ],
+  "psycho_reaper_meteor23": [
+    [
+      "ソーヴィ",
+      "0x2f60b2",
+      "character/psycho_reaper/voice/",
+      "normal,anger,confused,pain,serious,shame,shame_b,smile,smile_b,smile_c,smile_d,surprise,surprise_b,surprise_c,sweat,think,evolve",
+      "character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_0,character/psycho_reaper_meteor23/ui/story/base_1",
+      "character/psycho_reaper_meteor23/ui/story/normal,character/psycho_reaper_meteor23/ui/story/anger,character/psycho_reaper_meteor23/ui/story/confused,character/psycho_reaper_meteor23/ui/story/pain,character/psycho_reaper_meteor23/ui/story/serious,character/psycho_reaper_meteor23/ui/story/shame,character/psycho_reaper_meteor23/ui/story/shame_b,character/psycho_reaper_meteor23/ui/story/smile,character/psycho_reaper_meteor23/ui/story/smile_b,character/psycho_reaper_meteor23/ui/story/smile_c,character/psycho_reaper_meteor23/ui/story/smile_d,character/psycho_reaper_meteor23/ui/story/surprise,character/psycho_reaper_meteor23/ui/story/surprise_b,character/psycho_reaper_meteor23/ui/story/surprise_c,character/psycho_reaper_meteor23/ui/story/sweat,character/psycho_reaper_meteor23/ui/story/think,(None)"
+    ]
+  ],
+  "gentle_lady": [
+    [
+      "優しそうな婦人",
+      "0xc6c6a8",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "gentlemen": [
+    [
+      "優しそうな紳士",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "fluffy_people": [
+    [
+      "？？？",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "fluffy_merchants": [
+    [
+      "フサフサな商人達",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "fluffy_priests": [
+    [
+      "フサフサな司祭",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "darling_plush": [
+    [
+      "ダーリンのぬいぐるみ",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "darling_plush_unknown": [
+    [
+      "？？？",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "darling_shiro": [
+    [
+      "ダーリン・シロ",
+      "0x98cb4a",
+      "(None)",
+      "normal,akire,akire_b,akire_c,akire_d,angry,angry_b,angry_c,joy,joy_b,might_cry,might_cry_b,pain,pain_b,sad,sad_b,serious,seriously,shame,shy,smile,surprise,surprise_b,sutebachi,tragic,tukkomi,tukkomi_b,sweat,normal_b,smile_b,akire_e,serious_b,serious_c,seriously_b,sad_c,angry_d,think,might_cry_c,evolve",
+      "character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_1",
+      "character/white_tiger/ui/story/normal,character/white_tiger/ui/story/akire,character/white_tiger/ui/story/akire_b,character/white_tiger/ui/story/akire_c,character/white_tiger/ui/story/akire_d,character/white_tiger/ui/story/angry,character/white_tiger/ui/story/angry_b,character/white_tiger/ui/story/angry_c,character/white_tiger/ui/story/joy,character/white_tiger/ui/story/joy_b,character/white_tiger/ui/story/might_cry,character/white_tiger/ui/story/might_cry_b,character/white_tiger/ui/story/pain,character/white_tiger/ui/story/pain_b,character/white_tiger/ui/story/sad,character/white_tiger/ui/story/sad_b,character/white_tiger/ui/story/serious,character/white_tiger/ui/story/seriously,character/white_tiger/ui/story/shame,character/white_tiger/ui/story/shy,character/white_tiger/ui/story/smile,character/white_tiger/ui/story/surprise,character/white_tiger/ui/story/surprise_b,character/white_tiger/ui/story/sutebachi,character/white_tiger/ui/story/tragic,character/white_tiger/ui/story/tukkomi,character/white_tiger/ui/story/tukkomi_b,character/white_tiger/ui/story/sweat,character/white_tiger/ui/story/normal_b,character/white_tiger/ui/story/smile_b,character/white_tiger/ui/story/akire_e,character/white_tiger/ui/story/serious_b,character/white_tiger/ui/story/serious_c,character/white_tiger/ui/story/seriously_b,character/white_tiger/ui/story/sad_c,character/white_tiger/ui/story/angry_d,character/white_tiger/ui/story/think,character/white_tiger/ui/story/might_cry_c,(None)"
+    ]
+  ],
+  "darling_shiro_and_white_tiger": [
+    [
+      "シロ＆ダーリン・シロ",
+      "0x98cb4a",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "white_tiger_another": [
+    [
+      "シロ？",
+      "0x98cb4a",
+      "(None)",
+      "normal,akire,akire_b,akire_c,akire_d,angry,angry_b,angry_c,joy,joy_b,might_cry,might_cry_b,pain,pain_b,sad,sad_b,serious,seriously,shame,shy,smile,surprise,surprise_b,sutebachi,tragic,tukkomi,tukkomi_b,sweat,normal_b,smile_b,akire_e,serious_b,serious_c,seriously_b,sad_c,angry_d,think,might_cry_c,evolve",
+      "character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_0,character/white_tiger/ui/story/base_1",
+      "character/white_tiger/ui/story/normal,character/white_tiger/ui/story/akire,character/white_tiger/ui/story/akire_b,character/white_tiger/ui/story/akire_c,character/white_tiger/ui/story/akire_d,character/white_tiger/ui/story/angry,character/white_tiger/ui/story/angry_b,character/white_tiger/ui/story/angry_c,character/white_tiger/ui/story/joy,character/white_tiger/ui/story/joy_b,character/white_tiger/ui/story/might_cry,character/white_tiger/ui/story/might_cry_b,character/white_tiger/ui/story/pain,character/white_tiger/ui/story/pain_b,character/white_tiger/ui/story/sad,character/white_tiger/ui/story/sad_b,character/white_tiger/ui/story/serious,character/white_tiger/ui/story/seriously,character/white_tiger/ui/story/shame,character/white_tiger/ui/story/shy,character/white_tiger/ui/story/smile,character/white_tiger/ui/story/surprise,character/white_tiger/ui/story/surprise_b,character/white_tiger/ui/story/sutebachi,character/white_tiger/ui/story/tragic,character/white_tiger/ui/story/tukkomi,character/white_tiger/ui/story/tukkomi_b,character/white_tiger/ui/story/sweat,character/white_tiger/ui/story/normal_b,character/white_tiger/ui/story/smile_b,character/white_tiger/ui/story/akire_e,character/white_tiger/ui/story/serious_b,character/white_tiger/ui/story/serious_c,character/white_tiger/ui/story/seriously_b,character/white_tiger/ui/story/sad_c,character/white_tiger/ui/story/angry_d,character/white_tiger/ui/story/think,character/white_tiger/ui/story/might_cry_c,(None)"
+    ]
+  ],
+  "combat_animal_meteor23": [
+    [
+      "フラフィ",
+      "0x539722",
+      "character/combat_animal/voice/",
+      "normal,anger,anger_b,confused,sad,serious,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_0,character/combat_animal_meteor23/ui/story/base_1",
+      "character/combat_animal_meteor23/ui/story/normal,character/combat_animal_meteor23/ui/story/anger,character/combat_animal_meteor23/ui/story/anger_b,character/combat_animal_meteor23/ui/story/confused,character/combat_animal_meteor23/ui/story/sad,character/combat_animal_meteor23/ui/story/serious,character/combat_animal_meteor23/ui/story/shame,character/combat_animal_meteor23/ui/story/smile,character/combat_animal_meteor23/ui/story/smile_b,character/combat_animal_meteor23/ui/story/smile_c,character/combat_animal_meteor23/ui/story/surprise,character/combat_animal_meteor23/ui/story/surprise_b,character/combat_animal_meteor23/ui/story/sweat,character/combat_animal_meteor23/ui/story/think,(None)"
+    ]
+  ],
+  "lightning_fighter_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "(None)",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "bodysuit_trooper_unknown": [
+    [
+      "？？？",
+      "0xabb283",
+      "(None)",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "heavenly_four_unknown_herself": [
+    [
+      "？？？",
+      "0x539722",
+      "(None)",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "starbreak_hunter_meteor23": [
+    [
+      "タージェス",
+      "0xb29614",
+      "character/starbreak_hunter/voice/",
+      "normal,anger,sad,serious,shame,smile,smile_b,smile_c,smile_d,surprise,surprise_b,sweat,think,think_b,evolve",
+      "character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_0,character/starbreak_hunter_meteor23/ui/story/base_1",
+      "character/starbreak_hunter_meteor23/ui/story/normal,character/starbreak_hunter_meteor23/ui/story/anger,character/starbreak_hunter_meteor23/ui/story/sad,character/starbreak_hunter_meteor23/ui/story/serious,character/starbreak_hunter_meteor23/ui/story/shame,character/starbreak_hunter_meteor23/ui/story/smile,character/starbreak_hunter_meteor23/ui/story/smile_b,character/starbreak_hunter_meteor23/ui/story/smile_c,character/starbreak_hunter_meteor23/ui/story/smile_d,character/starbreak_hunter_meteor23/ui/story/surprise,character/starbreak_hunter_meteor23/ui/story/surprise_b,character/starbreak_hunter_meteor23/ui/story/sweat,character/starbreak_hunter_meteor23/ui/story/think,character/starbreak_hunter_meteor23/ui/story/think_b,(None)"
+    ]
+  ],
+  "starbreak_hunter_meteor23_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/starbreak_hunter/voice/",
+      "normal",
+      "character/starbreak_hunter_meteor23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "mob_abduction_leader_unknown": [
+    [
+      "？？？",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "bill_collector_replia": [
+    [
+      "借金取りレプリア",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "scoutman": [
+    [
+      "スカウトマン",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
   "blindfold_agent": [
     [
       "チャトリナ",
@@ -8371,7 +8571,7 @@
   ],
   "mob_rich_pharmacist": [
     [
-      "富豪の薬草師",
+      "富豪の薬草士",
       "0x27925e",
       "(None)",
       "",
@@ -8381,7 +8581,7 @@
   ],
   "mob_pharmacist_daughter": [
     [
-      "薬草師の娘",
+      "薬草士の娘",
       "0xb3839c",
       "(None)",
       "",

@@ -1,0 +1,448 @@
+{
+  "aa": [
+    "Machine"
+  ],
+  "ab": 2,
+  "ac": "Unknown",
+  "ae": [
+    "T1",
+    "*spawn-point*"
+  ],
+  "ah": 1,
+  "ar": "battle/boss/steampunk_thunder/funnel/steampunk_thunder_heart_core_funnel",
+  "as": "battle/boss/steampunk_thunder/funnel/steampunk_thunder_heart_core_funnel",
+  "at": "battle/boss/steampunk_thunder/funnel/steampunk_thunder_heart_core_funnel_shadow",
+  "au": [
+    {
+      "a": 0,
+      "b": 0,
+      "bq": [
+        "T1"
+      ],
+      "c": [
+        "T1",
+        "*spawn-point*"
+      ],
+      "d": [
+        "T1",
+        500000000000
+      ],
+      "g": [
+        {
+          "a": 0,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  0
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  0
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              900000
+            ]
+          ],
+          "e": 0,
+          "f": null,
+          "g": [
+            "弱点待機"
+          ],
+          "h": null,
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 1,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  1
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  1
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              30000
+            ]
+          ],
+          "e": 0,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": null,
+          "k": null,
+          "m": [
+            "T1",
+            {
+              "d": [
+                {
+                  "a": 180,
+                  "b": 50,
+                  "c": 1.5,
+                  "x": 1
+                }
+              ],
+              "e": [
+                2
+              ],
+              "h": true
+            }
+          ]
+        },
+        {
+          "a": 2,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  2
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  2
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              6000000
+            ]
+          ],
+          "e": 0,
+          "f": null,
+          "g": [
+            "ダウン"
+          ],
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "脚部保護システムに異常",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 3,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  4
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  4
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              1
+            ]
+          ],
+          "e": 0,
+          "f": null,
+          "g": [
+            "足破壊"
+          ],
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "脚部機能停止",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 4,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  0
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  0
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              300
+            ]
+          ],
+          "e": 0,
+          "f": [
+            1
+          ],
+          "g": null,
+          "h": null,
+          "i": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "down",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "k": null
+        }
+      ],
+      "h": [
+        {
+          "a": [
+            "T2",
+            1,
+            "steampunk_thunder_funnel_core_multi"
+          ],
+          "b": [
+            "T2",
+            [
+              "弱点待機"
+            ]
+          ],
+          "c": [
+            "T2",
+            [
+              "自爆"
+            ]
+          ],
+          "d": [
+            "T1"
+          ],
+          "e": 10,
+          "f": [
+            "T3"
+          ],
+          "g": true,
+          "h": true,
+          "i": [
+            "T1",
+            [
+              1
+            ],
+            true
+          ],
+          "j": true
+        },
+        {
+          "a": [
+            "T1",
+            1,
+            "steampunk_thunder_multi"
+          ],
+          "b": [
+            "T2",
+            [
+              "ダウン"
+            ]
+          ],
+          "c": [
+            "T2",
+            [
+              "水没解除"
+            ]
+          ],
+          "d": [
+            "T1"
+          ],
+          "e": 10,
+          "f": [
+            "T3"
+          ],
+          "g": true,
+          "h": true,
+          "i": [
+            "T1",
+            [
+              3
+            ],
+            true
+          ],
+          "j": true
+        }
+      ],
+      "i": null,
+      "j": null,
+      "k": null,
+      "l": null,
+      "m": null,
+      "n": null
+    }
+  ],
+  "av": null,
+  "aw": [
+    "neutral"
+  ],
+  "bC": false,
+  "bD": false,
+  "bE": false,
+  "bF": [
+    "T1"
+  ],
+  "bG": "steampunk_thunder_multi",
+  "bH": "battle/action/enemy/action/boss_steampunk_thunder/funnel_steampunk_thunder$",
+  "bI": [
+    "T1"
+  ],
+  "bJ": false,
+  "ba": 100,
+  "be": [
+    "T1",
+    300
+  ],
+  "bg": true,
+  "bh": false,
+  "bi": false,
+  "bj": false,
+  "bx": [
+    "T2",
+    {
+      "a": false,
+      "b": false,
+      "c": true,
+      "d": true,
+      "e": false,
+      "f": false,
+      "g": 2,
+      "h": [
+        "T1"
+      ],
+      "k": false,
+      "l": 2
+    }
+  ]
+}

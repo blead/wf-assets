@@ -3982,6 +3982,20 @@
       "steampunk_water_hard"
     ]
   ],
+  "steampunk_thunder": [
+    [
+      "steampunk_thunder_area",
+      "battle/terrain/event_quest/advent_event/steampunk_thunder/steampunk_thunder",
+      "steampunk_thunder"
+    ]
+  ],
+  "steampunk_thunder_hard": [
+    [
+      "steampunk_thunder_area",
+      "battle/terrain/event_quest/advent_event/steampunk_thunder/steampunk_thunder",
+      "steampunk_thunder_hard"
+    ]
+  ],
   "steampunk_light": [
     [
       "steampunk_light_area",
@@ -5807,6 +5821,27 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_combat_animal_meteor23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_combat_animal_meteor23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_starbreak_hunter_meteor23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_starbreak_hunter_meteor23",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_psycho_reaper_meteor23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_psycho_reaper_meteor23",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_blindfold_agent": [

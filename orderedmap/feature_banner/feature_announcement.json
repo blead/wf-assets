@@ -4715,6 +4715,33 @@
       "false"
     ]
   ],
+  "3085": [
+    [
+      "2000",
+      "dynamic/feature_announcement/battle_support_campaign",
+      "2023-08-31 12:00:00",
+      "2023-09-15 20:59:59",
+      "false"
+    ]
+  ],
+  "215399": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_94",
+      "2023-08-31 12:00:00",
+      "2023-09-07 11:59:59",
+      "false"
+    ]
+  ],
+  "215408": [
+    [
+      "3002",
+      "dynamic/feature_announcement/equipment_yellow_pickup_1",
+      "2023-08-31 12:00:00",
+      "2023-09-29 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4910,6 +4937,24 @@
       "dynamic/feature_announcement/advent_variant_empress_light",
       "2023-08-14 12:00:00",
       "2023-08-28 20:59:59",
+      "false"
+    ]
+  ],
+  "10000043": [
+    [
+      "2000",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_thunder",
+      "2023-08-31 12:00:00",
+      "2023-09-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000044": [
+    [
+      "2001",
+      "dynamic/feature_announcement/advent_event_steam_robot_thunder",
+      "2023-08-31 12:00:00",
+      "2023-09-14 20:59:59",
       "false"
     ]
   ],

@@ -7809,6 +7809,28 @@
         "(None)",
         "(None)"
       ]
+    ],
+    "ConditionSwift": [
+      [
+        "condition",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "SwiftExtend": [
+      [
+        "condition",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
     ]
   },
   "During": {
@@ -12413,6 +12435,28 @@
     "FeverPointByAbilityDamage": [
       [
         "fever",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "PowerFlipOverride": [
+      [
+        "power_flip",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ],
+    "Swift": [
+      [
+        "special",
         "(None)",
         "(None)",
         "(None)",

@@ -8438,7 +8438,7 @@
     [
       "(None)",
       "degree_rank_ss_clear_single_1",
-      "シングルバトルでランクSS 100 回クリア",
+      "シングルバトルでSSランク 100 回クリア",
       "24",
       "",
       "",
@@ -8473,7 +8473,7 @@
     [
       "(None)",
       "degree_rank_ss_clear_single_2",
-      "シングルバトルでランクSS 500 回クリア",
+      "シングルバトルでSSランク 500 回クリア",
       "24",
       "",
       "",
@@ -8508,7 +8508,7 @@
     [
       "(None)",
       "degree_rank_ss_clear_single_3",
-      "シングルバトルでランクSS 1500 回クリア",
+      "シングルバトルでSSランク 1500 回クリア",
       "24",
       "",
       "",
@@ -28492,7 +28492,7 @@
   "61260": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_11_clear_fire_1",
+      "degree_haniwa_carnival_11_clear_fire_1",
       "閃火直撃ハニンガー超級を討伐",
       "21",
       "",
@@ -28527,7 +28527,7 @@
   "61270": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_11_clear_fire_2",
+      "degree_haniwa_carnival_11_clear_fire_2",
       "閃火強振ハニンガー超級を討伐",
       "21",
       "",
@@ -28562,7 +28562,7 @@
   "61280": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_11_clear_fire_3",
+      "degree_haniwa_carnival_11_clear_fire_3",
       "閃火必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -28597,7 +28597,7 @@
   "61230": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_07_clear_wind_1",
+      "degree_haniwa_carnival_07_clear_wind_1",
       "旋風必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -28632,7 +28632,7 @@
   "61240": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_07_clear_wind_2",
+      "degree_haniwa_carnival_07_clear_wind_2",
       "旋風強振ハニンガー超級を討伐",
       "21",
       "",
@@ -28667,7 +28667,7 @@
   "61250": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_07_clear_wind_3",
+      "degree_haniwa_carnival_07_clear_wind_3",
       "旋風直撃ハニンガー超級を討伐",
       "21",
       "",
@@ -28702,7 +28702,7 @@
   "61200": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_06_clear_thunder_1",
+      "degree_haniwa_carnival_06_clear_thunder_1",
       "奔雷直撃ハニンガー超級を討伐",
       "21",
       "",
@@ -28737,7 +28737,7 @@
   "61210": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_06_clear_thunder_2",
+      "degree_haniwa_carnival_06_clear_thunder_2",
       "奔雷必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -28772,7 +28772,7 @@
   "61220": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_06_clear_thunder_3",
+      "degree_haniwa_carnival_06_clear_thunder_3",
       "奔雷強振ハニンガー超級を討伐",
       "21",
       "",
@@ -28807,7 +28807,7 @@
   "61170": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_05_clear_black_1",
+      "degree_haniwa_carnival_05_clear_dark_1",
       "宵闇必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -28842,7 +28842,7 @@
   "61180": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_05_clear_black_2",
+      "degree_haniwa_carnival_05_clear_dark_2",
       "宵闇直撃ハニンガー超級を討伐",
       "21",
       "",
@@ -28877,7 +28877,7 @@
   "61190": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_05_clear_black_3",
+      "degree_haniwa_carnival_05_clear_dark_3",
       "宵闇強振ハニンガー超級を討伐",
       "21",
       "",
@@ -28912,7 +28912,7 @@
   "61140": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_04_clear_water_1",
+      "degree_haniwa_carnival_04_clear_water_1",
       "雲水必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -28947,7 +28947,7 @@
   "61150": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_04_clear_water_2",
+      "degree_haniwa_carnival_04_clear_water_2",
       "雲水強振ハニンガー超級を討伐",
       "21",
       "",
@@ -28982,7 +28982,7 @@
   "61160": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_04_clear_water_3",
+      "degree_haniwa_carnival_04_clear_water_3",
       "雲水狂乱ハニンガー超級を討伐",
       "21",
       "",
@@ -29017,7 +29017,7 @@
   "61110": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_03_clear_light_1",
+      "degree_haniwa_carnival_03_clear_light_1",
       "溢光直撃ハニンガー超級を討伐",
       "21",
       "",
@@ -29052,7 +29052,7 @@
   "61120": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_03_clear_light_2",
+      "degree_haniwa_carnival_03_clear_light_2",
       "溢光必殺ハニンガー超級を討伐",
       "21",
       "",
@@ -29087,7 +29087,7 @@
   "61130": [
     [
       "(None)",
-      "degree_favor_haniwa_carnival_03_clear_light_3",
+      "degree_haniwa_carnival_03_clear_light_3",
       "溢光強振ハニンガー超級を討伐",
       "21",
       "",
@@ -29347,6 +29347,111 @@
       "(None)",
       "(None)",
       "(None)",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "141183": [
+    [
+      "(None)",
+      "degree_favor_combat_animal_meteor23",
+      "フラフィをLv100かつ絆の証を入手",
+      "41",
+      "",
+      "",
+      "",
+      "",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "141183",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "131170": [
+    [
+      "(None)",
+      "degree_favor_starbreak_hunter_meteor23",
+      "タージェスをLv100かつ絆の証を入手",
+      "41",
+      "",
+      "",
+      "",
+      "",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "131170",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "121177": [
+    [
+      "(None)",
+      "degree_favor_psycho_reaper_meteor23",
+      "ソーヴィをLv100かつ絆の証を入手",
+      "41",
+      "",
+      "",
+      "",
+      "",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "121177",
       "(None)",
       "",
       "",
@@ -38432,7 +38537,7 @@
   "60520": [
     [
       "(None)",
-      "degree_favor_cyberpunk02_hero_2_2",
+      "degree_cyberpunk02_hero_2_2",
       "チャレンジシングルバトルで統括AIの超級＋を討伐",
       "12",
       "",
@@ -38467,7 +38572,7 @@
   "60500": [
     [
       "(None)",
-      "degree_favor_cyberpunk02_hero_1_1",
+      "degree_cyberpunk02_hero_1_1",
       "チャレンジシングルバトルで自動警装SecMk2の超級を討伐",
       "12",
       "",
@@ -40051,6 +40156,146 @@
       "",
       "19",
       "3",
+      "",
+      "1",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "62460": [
+    [
+      "(None)",
+      "degree_advent_event_steam_robot_thunder_clear_1",
+      "降臨討伐 橙悚の機兵を 10 回クリア",
+      "21",
+      "",
+      "",
+      "3",
+      "",
+      "5",
+      "200064",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "62470": [
+    [
+      "(None)",
+      "degree_advent_event_steam_robot_thunder_clear_2",
+      "降臨討伐 橙悚の機兵を 100 回クリア",
+      "21",
+      "",
+      "",
+      "3",
+      "",
+      "5",
+      "200064",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "62480": [
+    [
+      "(None)",
+      "degree_advent_event_steam_robot_thunder_clear_3",
+      "降臨討伐 橙悚の機兵を 500 回クリア",
+      "21",
+      "",
+      "",
+      "3",
+      "",
+      "5",
+      "200064",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "false",
+      "",
+      "(None)"
+    ]
+  ],
+  "62490": [
+    [
+      "(None)",
+      "degree_steam_robot_thunder_challenge_clear_1",
+      "共同決戦 橙悚の機兵で橙機兵ギブシーズの決戦級を討伐",
+      "21",
+      "",
+      "",
+      "3",
+      "",
+      "19",
+      "100001",
       "",
       "1",
       "(None)",

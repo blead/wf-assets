@@ -3151,7 +3151,7 @@
       "610000",
       "当然の結果です",
       "とうぜんのけっかです",
-      "獲得条件：シングルバトルでランクSS 100 回クリア",
+      "獲得条件：シングルバトルでSSランク 100 回クリア",
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -3164,7 +3164,7 @@
       "610001",
       "いつもの景色",
       "いつものけしき",
-      "獲得条件：シングルバトルでランクSS 500 回クリア",
+      "獲得条件：シングルバトルでSSランク 500 回クリア",
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -3177,7 +3177,7 @@
       "610002",
       "息を吸うように",
       "いきをすうように",
-      "獲得条件：シングルバトルでランクSS 1500 回クリア",
+      "獲得条件：シングルバトルでSSランク 1500 回クリア",
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
@@ -11857,7 +11857,7 @@
   ],
   "61260": [
     [
-      "degree_favor_haniwa_carnival_11_clear_fire_1",
+      "degree_haniwa_carnival_11_clear_fire_1",
       "521700",
       "閃火ハニンを必殺せし者",
       "せんかはにんをひっさつせしもの",
@@ -11865,12 +11865,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_1"
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_1"
     ]
   ],
   "61270": [
     [
-      "degree_favor_haniwa_carnival_11_clear_fire_2",
+      "degree_haniwa_carnival_11_clear_fire_2",
       "521710",
       "閃火ハニンを強振せし者",
       "せんかはにんをきょうしんせしもの",
@@ -11878,12 +11878,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_2"
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_2"
     ]
   ],
   "61280": [
     [
-      "degree_favor_haniwa_carnival_11_clear_fire_3",
+      "degree_haniwa_carnival_11_clear_fire_3",
       "521720",
       "閃火ハニンを直撃せし者",
       "せんかはにんをちょくげきせしもの",
@@ -11891,12 +11891,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_11_clear_fire_3"
+      "dynamic/degree/degree_haniwa_carnival_11_clear_fire_3"
     ]
   ],
   "61230": [
     [
-      "degree_favor_haniwa_carnival_07_clear_wind_1",
+      "degree_haniwa_carnival_07_clear_wind_1",
       "521600",
       "旋風ハニンを必殺せし者",
       "せんぷうはにんをひっさつせしもの",
@@ -11904,12 +11904,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_1"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_1"
     ]
   ],
   "61240": [
     [
-      "degree_favor_haniwa_carnival_07_clear_wind_2",
+      "degree_haniwa_carnival_07_clear_wind_2",
       "521610",
       "旋風ハニンを強振せし者",
       "せんぷうはにんをきょうしんせしもの",
@@ -11917,12 +11917,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_2"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_2"
     ]
   ],
   "61250": [
     [
-      "degree_favor_haniwa_carnival_07_clear_wind_3",
+      "degree_haniwa_carnival_07_clear_wind_3",
       "521620",
       "旋風ハニンを直撃せし者",
       "せんぷうはにんをちょくげきせしもの",
@@ -11930,12 +11930,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_07_clear_wind_3"
+      "dynamic/degree/degree_haniwa_carnival_07_clear_wind_3"
     ]
   ],
   "61200": [
     [
-      "degree_favor_haniwa_carnival_06_clear_thunder_1",
+      "degree_haniwa_carnival_06_clear_thunder_1",
       "521500",
       "奔雷ハニンを直撃せし者",
       "ほんらいはにんをちょくげきせしもの",
@@ -11943,12 +11943,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_1"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_1"
     ]
   ],
   "61210": [
     [
-      "degree_favor_haniwa_carnival_06_clear_thunder_2",
+      "degree_haniwa_carnival_06_clear_thunder_2",
       "521510",
       "奔雷ハニンを必殺せし者",
       "ほんらいはにんをひっさつせしもの",
@@ -11956,12 +11956,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_2"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_2"
     ]
   ],
   "61220": [
     [
-      "degree_favor_haniwa_carnival_06_clear_thunder_3",
+      "degree_haniwa_carnival_06_clear_thunder_3",
       "521520",
       "奔雷ハニンを強振せし者",
       "ほんらいはにんをきょうしんせしもの",
@@ -11969,12 +11969,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_06_clear_thunder_3"
+      "dynamic/degree/degree_haniwa_carnival_06_clear_thunder_3"
     ]
   ],
   "61170": [
     [
-      "degree_favor_haniwa_carnival_05_clear_black_1",
+      "degree_haniwa_carnival_05_clear_dark_1",
       "521400",
       "宵闇ハニンを必殺せし者",
       "よいやみはにんをひっさつせしもの",
@@ -11982,12 +11982,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_1"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_dark_1"
     ]
   ],
   "61180": [
     [
-      "degree_favor_haniwa_carnival_05_clear_black_2",
+      "degree_haniwa_carnival_05_clear_dark_2",
       "521410",
       "宵闇ハニンを直撃せし者",
       "よいやみはにんをちょくげきせしもの",
@@ -11995,12 +11995,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_2"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_dark_2"
     ]
   ],
   "61190": [
     [
-      "degree_favor_haniwa_carnival_05_clear_black_3",
+      "degree_haniwa_carnival_05_clear_dark_3",
       "521420",
       "宵闇ハニンを強振せし者",
       "よいやみはにんをきょうしんせしもの",
@@ -12008,12 +12008,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_05_clear_black_3"
+      "dynamic/degree/degree_haniwa_carnival_05_clear_dark_3"
     ]
   ],
   "61140": [
     [
-      "degree_favor_haniwa_carnival_04_clear_water_1",
+      "degree_haniwa_carnival_04_clear_water_1",
       "521300",
       "雲水ハニンを必殺せし者",
       "うんすいはにんをひっさつせしもの",
@@ -12021,12 +12021,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_1"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_1"
     ]
   ],
   "61150": [
     [
-      "degree_favor_haniwa_carnival_04_clear_water_2",
+      "degree_haniwa_carnival_04_clear_water_2",
       "521310",
       "雲水ハニンを強振せし者",
       "うんすいはにんをきょうしんせしもの",
@@ -12034,12 +12034,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_2"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_2"
     ]
   ],
   "61160": [
     [
-      "degree_favor_haniwa_carnival_04_clear_water_3",
+      "degree_haniwa_carnival_04_clear_water_3",
       "521320",
       "雲水ハニンを狂乱せし者",
       "うんすいはにんをきょうらんせしもの",
@@ -12047,12 +12047,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_04_clear_water_3"
+      "dynamic/degree/degree_haniwa_carnival_04_clear_water_3"
     ]
   ],
   "61110": [
     [
-      "degree_favor_haniwa_carnival_03_clear_light_1",
+      "degree_haniwa_carnival_03_clear_light_1",
       "521200",
       "溢光ハニンを直撃せし者",
       "いっこうはにんをちょくげきせしもの",
@@ -12060,12 +12060,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_1"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_1"
     ]
   ],
   "61120": [
     [
-      "degree_favor_haniwa_carnival_03_clear_light_2",
+      "degree_haniwa_carnival_03_clear_light_2",
       "521210",
       "溢光ハニンを必殺せし者",
       "いっこうはにんをひっさつせしもの",
@@ -12073,12 +12073,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_2"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_2"
     ]
   ],
   "61130": [
     [
-      "degree_favor_haniwa_carnival_03_clear_light_3",
+      "degree_haniwa_carnival_03_clear_light_3",
       "521220",
       "溢光ハニンを強振せし者",
       "いっこうはにんをきょうしんせしもの",
@@ -12086,12 +12086,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_03_clear_light_3"
+      "dynamic/degree/degree_haniwa_carnival_03_clear_light_3"
     ]
   ],
   "61080": [
     [
-      "degree_favor_haniwa_carnival_01_clear_thunder_1",
+      "degree_haniwa_carnival_01_clear_thunder_1",
       "521130",
       "奔雷ハニンを捕らえし者",
       "ほんらいはにんをとらえしもの",
@@ -12099,12 +12099,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_thunder_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_thunder_1"
     ]
   ],
   "61090": [
     [
-      "degree_favor_haniwa_carnival_01_clear_light_1",
+      "degree_haniwa_carnival_01_clear_light_1",
       "521140",
       "溢光ハニンを捕らえし者",
       "いっこうはにんをとらえしもの",
@@ -12112,12 +12112,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_light_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_light_1"
     ]
   ],
   "61100": [
     [
-      "degree_favor_haniwa_carnival_01_clear_dark_1",
+      "degree_haniwa_carnival_01_clear_dark_1",
       "521150",
       "宵闇ハニンを捕らえし者",
       "よいやみはにんをとらえしもの",
@@ -12125,12 +12125,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_dark_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_dark_1"
     ]
   ],
   "61000": [
     [
-      "degree_favor_haniwa_carnival_01_rank_b_1",
+      "degree_haniwa_carnival_01_rank_b_1",
       "521000",
       "ハニワ弾迅士",
       "はにわだんじんし",
@@ -12138,12 +12138,12 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_b_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_b_1"
     ]
   ],
   "61010": [
     [
-      "degree_favor_haniwa_carnival_01_rank_a_1",
+      "degree_haniwa_carnival_01_rank_a_1",
       "521010",
       "ハニワ弾迅将",
       "はにわだんじんしょう",
@@ -12151,12 +12151,12 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_a_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_a_1"
     ]
   ],
   "61020": [
     [
-      "degree_favor_haniwa_carnival_01_rank_s_1",
+      "degree_haniwa_carnival_01_rank_s_1",
       "521020",
       "ハニワ弾迅王",
       "はにわだんじんおう",
@@ -12164,12 +12164,12 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_s_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_s_1"
     ]
   ],
   "61030": [
     [
-      "degree_favor_haniwa_carnival_01_rank_ss_1",
+      "degree_haniwa_carnival_01_rank_ss_1",
       "521030",
       "ハニワ弾迅星",
       "はにわだんじんせい",
@@ -12177,12 +12177,12 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_rank_ss_1"
+      "dynamic/degree/degree_haniwa_carnival_01_rank_ss_1"
     ]
   ],
   "61040": [
     [
-      "degree_favor_haniwa_carnival_01_clear_fire_1",
+      "degree_haniwa_carnival_01_clear_fire_1",
       "521100",
       "閃火ハニンを捕らえし者",
       "せんかはにんをとらえしもの",
@@ -12190,12 +12190,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_fire_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_fire_1"
     ]
   ],
   "61050": [
     [
-      "degree_favor_haniwa_carnival_01_clear_water_1",
+      "degree_haniwa_carnival_01_clear_water_1",
       "521110",
       "雲水ハニンを捕らえし者",
       "うんすいはにんをとらえしもの",
@@ -12203,12 +12203,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_water_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_water_1"
     ]
   ],
   "61060": [
     [
-      "degree_favor_haniwa_carnival_01_clear_wind_1",
+      "degree_haniwa_carnival_01_clear_wind_1",
       "521120",
       "旋風ハニンを捕らえし者",
       "せんぷうはにんをとらえしもの",
@@ -12216,12 +12216,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_wind_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_wind_1"
     ]
   ],
   "61070": [
     [
-      "degree_favor_haniwa_carnival_01_clear_all_1",
+      "degree_haniwa_carnival_01_clear_all_1",
       "521040",
       "ハニンコレクター",
       "はにんこれくたー",
@@ -12229,7 +12229,7 @@
       "8",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_haniwa_carnival_01_clear_all_1"
+      "dynamic/degree/degree_haniwa_carnival_01_clear_all_1"
     ]
   ],
   "11110": [
@@ -12243,6 +12243,45 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
+    ]
+  ],
+  "141183": [
+    [
+      "degree_favor_combat_animal_meteor23",
+      "103020",
+      "疾風の拳闘士",
+      "しっぷうのけんとうし",
+      "獲得条件：【疾風の拳闘士】フラフィをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_animal_meteor23"
+    ]
+  ],
+  "131170": [
+    [
+      "degree_favor_starbreak_hunter_meteor23",
+      "124010",
+      "強翼のシューター",
+      "ごうよくのしゅーたー",
+      "獲得条件：【強翼のシューター】タージェスをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_starbreak_hunter_meteor23"
+    ]
+  ],
+  "121177": [
+    [
+      "degree_favor_psycho_reaper_meteor23",
+      "239020",
+      "可能性の花嫁",
+      "かのうせいのはなよめ",
+      "獲得条件：【可能性の花嫁】ソーヴィをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_meteor23"
     ]
   ],
   "161195": [
@@ -15614,7 +15653,7 @@
   ],
   "60520": [
     [
-      "degree_favor_cyberpunk02_hero_2_2",
+      "degree_cyberpunk02_hero_2_2",
       "532502",
       "統御の試練：極",
       "とうぎょのしれんきわみ",
@@ -15622,12 +15661,12 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_cyberpunk02_hero_2_2"
+      "dynamic/degree/degree_cyberpunk02_hero_2_2"
     ]
   ],
   "60500": [
     [
-      "degree_favor_cyberpunk02_hero_1_1",
+      "degree_cyberpunk02_hero_1_1",
       "532500",
       "機律の試練：真",
       "きりつのしれんしん",
@@ -15635,7 +15674,7 @@
       "3",
       "dynamic/degree/background",
       "item/etc/degree",
-      "dynamic/degree/degree_favor_cyberpunk02_hero_1_1"
+      "dynamic/degree/degree_cyberpunk02_hero_1_1"
     ]
   ],
   "60700": [
@@ -16418,6 +16457,58 @@
       "dynamic/degree/degree_steam_robot_water_challenge_clear_1"
     ]
   ],
+  "62460": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_1",
+      "646500",
+      "橙悚の打倒者",
+      "とうしょうのだとうしゃ",
+      "獲得条件：降臨討伐 橙悚の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_1"
+    ]
+  ],
+  "62470": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_2",
+      "646501",
+      "橙悚の征服者",
+      "とうしょうのせいふくしゃ",
+      "獲得条件：降臨討伐 橙悚の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_2"
+    ]
+  ],
+  "62480": [
+    [
+      "degree_advent_event_steam_robot_thunder_clear_3",
+      "646502",
+      "橙悚の討滅者",
+      "とうしょうのとうめつしゃ",
+      "獲得条件：降臨討伐 橙悚の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_thunder_clear_3"
+    ]
+  ],
+  "62490": [
+    [
+      "degree_steam_robot_thunder_challenge_clear_1",
+      "539400",
+      "橙悚の試練：決",
+      "とうしょうのしれんけつ",
+      "獲得条件：共同決戦 橙悚の機兵で橙機兵ギブシーズの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_thunder_challenge_clear_1"
+    ]
+  ],
   "62420": [
     [
       "degree_advent_event_steam_robot_light_clear_1",
@@ -16720,7 +16811,7 @@
   "59000": [
     [
       "degree_advent_event_hw20_clear_1",
-      "646500",
+      "646590",
       "ハロウィンランナー",
       "はろうぃんらんなー",
       "獲得条件：降臨討伐 君に届ける鎮魂歌を 10 回クリア",
@@ -16733,7 +16824,7 @@
   "59010": [
     [
       "degree_advent_event_hw20_clear_2",
-      "646501",
+      "646591",
       "ハロウィンセレブ",
       "はろうぃんせれぶ",
       "獲得条件：降臨討伐 君に届ける鎮魂歌を 50 回クリア",
@@ -16746,7 +16837,7 @@
   "59020": [
     [
       "degree_advent_event_hw20_clear_3",
-      "646502",
+      "646592",
       "ハロウィンキング",
       "はろうぃんきんぐ",
       "獲得条件：降臨討伐 君に届ける鎮魂歌を 100 回クリア",

@@ -19,5 +19,12 @@
       "battle/action/power_flip/action/empty",
       "battle/action/power_flip/action/empty"
     ]
+  ],
+  "override_psycho_reaper_meteor23": [
+    [
+      "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv1",
+      "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv2",
+      "battle/action/power_flip/action/override/override_psycho_reaper_meteor23$override_psycho_reaper_meteor23_lv3"
+    ]
   ]
 }

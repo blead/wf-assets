@@ -3699,6 +3699,36 @@
       "12"
     ]
   ],
+  "bgm/character_unique/combat_animal_meteor23/combat_animal_meteor23": [
+    [
+      "0.35",
+      "175",
+      "0.06256236",
+      "2.7645578",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/psycho_reaper_meteor23/psycho_reaper_meteor23": [
+    [
+      "0.35",
+      "160",
+      "0.057687074",
+      "4.517687",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/starbreak_hunter_meteor23/starbreak_hunter_meteor23": [
+    [
+      "0.35",
+      "138",
+      "0.059909295",
+      "27.845896",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/blindfold_agent/blindfold_agent": [
     [
       "0.35",
@@ -9725,6 +9755,16 @@
       "170",
       "0.060839",
       "72.37283",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_thunder/battle/advent_steam_robot_thunder_boss": [
+    [
+      "0.35",
+      "100",
+      "0.06993198",
+      "52.829933",
       "(None)",
       "12"
     ]

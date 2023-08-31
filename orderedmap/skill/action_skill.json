@@ -2497,6 +2497,180 @@
       ]
     ]
   },
+  "combat_animal_meteor23": {
+    "1": [
+      [
+        "デイブレイク・コンビネーション",
+        "装備の力を発揮し、リーダーが風属性の時、パーティに浮遊 ＋ 最大速度固定効果 ／ 自身に攻撃力アップ ＋ 直接攻撃ダメージアップ効果",
+        "dynamic/skill/float",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/combat_animal_meteor23$combat_animal_meteor23_1",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "デイブレイク・コンビネーション＋",
+        "装備の力を発揮し、リーダーが風属性の時、パーティに浮遊 ＋ 最大速度固定効果 ／ 自身に攻撃力アップ ＋ 直接攻撃ダメージアップ効果",
+        "dynamic/skill/float",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/combat_animal_meteor23$combat_animal_meteor23_2",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "starbreak_hunter_meteor23": {
+    "1": [
+      [
+        "ビッグバン・インパクト",
+        "【HP50%以上】プラズマエンジンの出力を上げ、自身に累積スキルダメージアップ効果（永続） ＋ スキルゲージ増加 ／ 自身にダメージ\n【HP50%未満】前方に飛翔し、急降下と共に斬撃を繰り出し、その周囲の敵に雷ダメージ ／ 自身に攻撃力アップ効果",
+        "dynamic/skill/atk_front",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/starbreak_hunter_meteor23$starbreak_hunter_meteor23_1",
+        "1",
+        "0",
+        "225",
+        "",
+        "0",
+        "-125",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "ビッグバン・インパクト＋",
+        "【HP50%以上】プラズマエンジンの出力を上げ、自身に累積スキルダメージアップ効果（永続） ＋ スキルゲージ増加 ／ 自身にダメージ\n【HP50%未満】前方に飛翔し、急降下と共に斬撃を繰り出し、その周囲の敵に雷ダメージ ／ 自身に攻撃力アップ効果",
+        "dynamic/skill/atk_front",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/starbreak_hunter_meteor23$starbreak_hunter_meteor23_2",
+        "1",
+        "0",
+        "225",
+        "",
+        "0",
+        "-125",
+        "",
+        "",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "psycho_reaper_meteor23": {
+    "1": [
+      [
+        "レイバップ・レセプション",
+        "最も近い敵にぬいぐるみが降り注ぎ、その周囲の敵に水ダメージ ／ 自身の『ブーケトス』レベルを3上昇",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/psycho_reaper_meteor23$psycho_reaper_meteor23_1",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "レイバップ・レセプション＋",
+        "最も近い敵にぬいぐるみが降り注ぎ、その周囲の敵に水ダメージ ／ 自身の『ブーケトス』レベルを3上昇",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/psycho_reaper_meteor23$psycho_reaper_meteor23_2",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "blindfold_agent": {
     "1": [
       [
