@@ -25,6 +25,32 @@
       ]
     ]
   },
+  "100003": {
+    "1": [
+      [
+        "1",
+        "雲水強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "雲水必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "雲水狂乱ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ]
+  },
   "100000": {
     "1": [
       [

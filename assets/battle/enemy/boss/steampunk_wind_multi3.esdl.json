@@ -1875,7 +1875,7 @@
             ]
           ],
           "bA": 1,
-          "bB": false,
+          "bB": true,
           "bE": "試練区間",
           "bJ": false,
           "bK": false,
@@ -2368,7 +2368,7 @@
             ]
           ],
           "bA": 1,
-          "bB": false,
+          "bB": true,
           "bE": "試練区間",
           "bJ": false,
           "bK": false,

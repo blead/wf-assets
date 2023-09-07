@@ -4742,6 +4742,15 @@
       "false"
     ]
   ],
+  "216281": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_1anv1halfanv_character_pickup_01",
+      "2023-09-07 12:00:00",
+      "2023-09-14 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4811,6 +4820,15 @@
       "dynamic/feature_announcement/k_collabo_special_set",
       "2022-06-30 12:00:00",
       "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000045": [
+    [
+      "1000",
+      "dynamic/feature_announcement/haniwa_carnival_04",
+      "2023-09-07 12:00:00",
+      "2023-09-21 20:59:59",
       "false"
     ]
   ],

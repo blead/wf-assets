@@ -6282,6 +6282,99 @@
       ]
     ]
   },
+  "197": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_1anv1halfanv_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_wind_spgirl_1anv",
+        "141021",
+        "0",
+        "141021",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_24/wind_spgirl_1anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141021",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_elf_princess_1halfanv",
+        "141051",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/elf_princess_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141051",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141111",
+        "0",
+        "141111",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_65/silence_suzuka/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141111",
+        ""
+      ]
+    ]
+  },
   "132": {
     "1": [
       [
