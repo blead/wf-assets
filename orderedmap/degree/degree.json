@@ -12323,6 +12323,19 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "121183": [
+    [
+      "degree_favor_guild_front_girl_playable",
+      "59000",
+      "天蓋の担い手",
+      "てんがいのにないて",
+      "獲得条件：【天蓋の担い手】プ・リリエをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_guild_front_girl_playable"
+    ]
+  ],
   "141183": [
     [
       "degree_favor_combat_animal_meteor23",

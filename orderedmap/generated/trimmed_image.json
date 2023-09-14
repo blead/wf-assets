@@ -31095,6 +31095,30 @@
       "690"
     ]
   ],
+  "character/guild_front_girl/ui/story/cry": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/cry_b": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/fear": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
   "character/guild_front_girl/ui/story/joy": [
     [
       "232",
@@ -31107,6 +31131,14 @@
     [
       "226",
       "299",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/lovely_b": [
+    [
+      "209",
+      "271",
       "570",
       "690"
     ]
@@ -31127,6 +31159,30 @@
       "690"
     ]
   ],
+  "character/guild_front_girl/ui/story/sad_b": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/serious": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/serious_b": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
   "character/guild_front_girl/ui/story/shame": [
     [
       "228",
@@ -31139,6 +31195,14 @@
     [
       "228",
       "285",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/surprise_b": [
+    [
+      "209",
+      "271",
       "570",
       "690"
     ]
@@ -31171,6 +31235,70 @@
     [
       "230",
       "296",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl/ui/story/think_d": [
+    [
+      "209",
+      "271",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/full_shot_1440_1920_0": [
+    [
+      "300",
+      "269",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/skill_cutin_0": [
+    [
+      "204",
+      "33",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/full_shot_1440_1920_1": [
+    [
+      "383",
+      "350",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/skill_cutin_1": [
+    [
+      "258",
+      "29",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/story/base_0": [
+    [
+      "0",
+      "106",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/story/base_1": [
+    [
+      "0",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/guild_front_girl_playable/ui/story/normal": [
+    [
+      "0",
+      "0",
       "570",
       "690"
     ]

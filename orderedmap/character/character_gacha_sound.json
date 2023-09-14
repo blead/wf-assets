@@ -2075,6 +2075,28 @@
       ]
     ]
   },
+  "121183": {
+    "5": [
+      [
+        "sound_effect/situation/se_cute_throw"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "59": [
+      [
+        "sound_effect/light/se_light_barrier"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/element/se_energy_inhalation"
+      ]
+    ]
+  },
   "121177": {
     "5": [
       [

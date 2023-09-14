@@ -1624,9 +1624,9 @@
       "プ・リリエ",
       "0xff007e",
       "character/guild_front_girl/voice/",
-      "normal,anger,consent,cool,joy,lovely,sad,shame,surprise,sweat,think,think_b,think_c",
-      "character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base",
-      "character/guild_front_girl/ui/story/normal,character/guild_front_girl/ui/story/anger,character/guild_front_girl/ui/story/consent,character/guild_front_girl/ui/story/cool,character/guild_front_girl/ui/story/joy,character/guild_front_girl/ui/story/lovely,character/guild_front_girl/ui/story/sad,character/guild_front_girl/ui/story/shame,character/guild_front_girl/ui/story/surprise,character/guild_front_girl/ui/story/sweat,character/guild_front_girl/ui/story/think,character/guild_front_girl/ui/story/think_b,character/guild_front_girl/ui/story/think_c"
+      "normal,anger,consent,cool,joy,lovely,sad,shame,surprise,sweat,think,think_b,think_c,cry,cry_b,fear,lovely_b,sad_b,serious,serious_b,surprise_b,think_d",
+      "character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base,character/guild_front_girl/ui/story/base",
+      "character/guild_front_girl/ui/story/normal,character/guild_front_girl/ui/story/anger,character/guild_front_girl/ui/story/consent,character/guild_front_girl/ui/story/cool,character/guild_front_girl/ui/story/joy,character/guild_front_girl/ui/story/lovely,character/guild_front_girl/ui/story/sad,character/guild_front_girl/ui/story/shame,character/guild_front_girl/ui/story/surprise,character/guild_front_girl/ui/story/sweat,character/guild_front_girl/ui/story/think,character/guild_front_girl/ui/story/think_b,character/guild_front_girl/ui/story/think_c,character/guild_front_girl/ui/story/cry,character/guild_front_girl/ui/story/cry_b,character/guild_front_girl/ui/story/fear,character/guild_front_girl/ui/story/lovely_b,character/guild_front_girl/ui/story/sad_b,character/guild_front_girl/ui/story/serious,character/guild_front_girl/ui/story/serious_b,character/guild_front_girl/ui/story/surprise_b,character/guild_front_girl/ui/story/think_d"
     ]
   ],
   "guild_front_girl_known": [
@@ -7737,6 +7737,36 @@
       "",
       "",
       ""
+    ]
+  ],
+  "mob_adventurer_baldo": [
+    [
+      "冒険者バルド",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "school_uniform_boy": [
+    [
+      "学生服の青年",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "guild_front_girl_playable": [
+    [
+      "プ・リリエ",
+      "0xff007e",
+      "character/guild_front_girl/voice/",
+      "normal,evolve",
+      "character/guild_front_girl_playable/ui/story/base_0,character/guild_front_girl_playable/ui/story/base_1",
+      "character/guild_front_girl_playable/ui/story/normal,(None)"
     ]
   ],
   "psycho_reaper_meteor23": [

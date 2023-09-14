@@ -855,6 +855,12 @@
       "dynamic/advent_event_tutorial/kc/kc_tutorial_01"
     ]
   ],
+  "kc_hero_big_boss": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/kc/kc_tutorial_01"
+    ]
+  ],
   "kc_anv1": [
     [
       "0",
@@ -1561,6 +1567,24 @@
     [
       "0",
       "dynamic/world_story_event_tutorial/anv3half/tutorial_expert_single"
+    ]
+  ],
+  "anv3_re01": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/tutorial_token_gacha"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_multi"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_expert_single"
     ]
   ],
   "anv3": [

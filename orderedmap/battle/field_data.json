@@ -5529,6 +5529,13 @@
       "light_guardian_raid4"
     ]
   ],
+  "hero_big_boss_kc": [
+    [
+      "gyokuto_private_police_empty",
+      "battle/terrain/event_quest/kc_event/cyberpunk02_big_boss_kc",
+      "hero_big_boss_kc"
+    ]
+  ],
   "advent_k_collabo": [
     [
       "advent_k_collabo",
@@ -5821,6 +5828,13 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_guild_front_girl_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_guild_front_girl_playable",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_combat_animal_meteor23": [

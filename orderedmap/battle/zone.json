@@ -24291,6 +24291,53 @@
       ]
     ]
   },
+  "hero_big_boss_kc": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "hero_big_boss_kc_multi",
+        "1",
+        "hero_big_boss_kc_multi",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_cyber_punk/gyokuto_private_police_empty/outhole/gyokuto_private_police_empty_outhole_zone1",
+        "battle/field_object/world_cyber_punk/gyokuto_private_police_empty/yakumono/dash_panel",
+        "battle/field_object/world_cyber_punk/gyokuto_private_police_empty/rotation_panel/gyokuto_private_police_empty_rotation_panel",
+        "(None)",
+        "chapter1_mana_breakableblock",
+        "chapter1_mana_decoration"
+      ]
+    ]
+  },
   "advent_k_collabo": {
     "0": [
       [

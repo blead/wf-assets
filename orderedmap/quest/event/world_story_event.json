@@ -927,6 +927,35 @@
       "2023-06-24 04:59:59"
     ]
   ],
+  "500013": [
+    [
+      "anv3_re01",
+      "500005",
+      "遥かな王道、継承の騎士道",
+      "",
+      "quest/event/banner/world_story_event/anv3/anv3",
+      "quest/event/bossbattle_banner/world_story_event/anv3/anv3",
+      "quest/event/logo/world_story_event/anv3/anv3_logo",
+      "quest/event/logo/world_story_event/anv3/anv3_logo",
+      "quest/event/animation_background/world_story_event/anv3/anv3_background",
+      "bgm/event/anv3/system/anv3_questlist",
+      "3",
+      "true",
+      "true",
+      "1",
+      "1015",
+      "4000021",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "anv3_re01",
+      "2023-09-14 12:00:00",
+      "2023-09-28 20:59:59",
+      "2023-10-06 04:59:59"
+    ]
+  ],
   "500005": [
     [
       "anv3",

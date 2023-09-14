@@ -4317,6 +4317,23 @@
       "1000"
     ]
   ],
+  "hero_big_boss_kc_multi": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "320",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "62.5",
+      "1",
+      "atk_multi",
+      "tp_basic_normal",
+      "1000"
+    ]
+  ],
   "hungry_dragon": [
     [
       "0",

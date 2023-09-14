@@ -901,6 +901,17 @@
       "2023-04-07 04:59:59"
     ]
   ],
+  "event_kc_hero_big_boss": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_hero_big_boss",
+      "2023-09-14 12:00:00",
+      "2023-10-06 04:59:59"
+    ]
+  ],
   "event_kc_anv1": [
     [
       "help_label_event_kc_summer_2021",
@@ -1515,6 +1526,17 @@
       "rich_text/help_event_anv3half",
       "2023-05-31 12:00:00",
       "2023-06-24 04:59:59"
+    ]
+  ],
+  "event_anv3_re01": [
+    [
+      "help_event_world_story_event_anv3",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_anv3_re01",
+      "2023-09-14 12:00:00",
+      "2023-10-06 04:59:59"
     ]
   ],
   "event_anv3": [
