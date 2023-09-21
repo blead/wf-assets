@@ -284,7 +284,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_01",
       "quest/boss_battle/background/boss_battle_discarded_dragon_thunder",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],
@@ -301,7 +301,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_02",
       "quest/boss_battle/background/boss_battle_discarded_dragon_fire",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],
@@ -318,7 +318,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_05",
       "quest/boss_battle/background/boss_battle_discarded_dragon_water",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],
@@ -352,7 +352,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_08",
       "quest/boss_battle/background/boss_battle_discarded_dragon_wind",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],
@@ -369,7 +369,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_03",
       "quest/boss_battle/background/boss_battle_discarded_dragon_light",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],
@@ -386,7 +386,7 @@
       "(None)",
       "quest/event/banner/advent_event/advent_event_banner_07",
       "quest/boss_battle/background/boss_battle_discarded_dragon_dark",
-      "18,10000012,10000015",
+      "18,10000012,10000015,10000021",
       "false"
     ]
   ],

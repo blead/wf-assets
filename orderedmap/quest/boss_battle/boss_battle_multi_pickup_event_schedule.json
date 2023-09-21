@@ -4069,6 +4069,368 @@
       ]
     ]
   },
+  "10000021": {
+    "1": [
+      [
+        "1",
+        "26",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_fire",
+        "(None)",
+        "",
+        "1",
+        "2023-09-21 12:00:00",
+        "2023-09-22 04:59:59"
+      ]
+    ],
+    "2": [
+      [
+        "1",
+        "27",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_water",
+        "(None)",
+        "",
+        "1",
+        "2023-09-21 12:00:00",
+        "2023-09-22 04:59:59"
+      ]
+    ],
+    "3": [
+      [
+        "1",
+        "28",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_wind",
+        "(None)",
+        "",
+        "1",
+        "2023-09-21 12:00:00",
+        "2023-09-22 04:59:59"
+      ]
+    ],
+    "4": [
+      [
+        "1",
+        "25",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_thunder",
+        "(None)",
+        "",
+        "1",
+        "2023-09-22 05:00:00",
+        "2023-09-23 04:59:59"
+      ]
+    ],
+    "5": [
+      [
+        "1",
+        "29",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_light",
+        "(None)",
+        "",
+        "1",
+        "2023-09-22 05:00:00",
+        "2023-09-23 04:59:59"
+      ]
+    ],
+    "6": [
+      [
+        "1",
+        "30",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_dark",
+        "(None)",
+        "",
+        "1",
+        "2023-09-22 05:00:00",
+        "2023-09-23 04:59:59"
+      ]
+    ],
+    "7": [
+      [
+        "1",
+        "26",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_fire",
+        "(None)",
+        "",
+        "1",
+        "2023-09-23 05:00:00",
+        "2023-09-24 04:59:59"
+      ]
+    ],
+    "8": [
+      [
+        "1",
+        "27",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_water",
+        "(None)",
+        "",
+        "1",
+        "2023-09-23 05:00:00",
+        "2023-09-24 04:59:59"
+      ]
+    ],
+    "9": [
+      [
+        "1",
+        "28",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_wind",
+        "(None)",
+        "",
+        "1",
+        "2023-09-23 05:00:00",
+        "2023-09-24 04:59:59"
+      ]
+    ],
+    "10": [
+      [
+        "1",
+        "25",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_thunder",
+        "(None)",
+        "",
+        "1",
+        "2023-09-24 05:00:00",
+        "2023-09-25 04:59:59"
+      ]
+    ],
+    "11": [
+      [
+        "1",
+        "29",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_light",
+        "(None)",
+        "",
+        "1",
+        "2023-09-24 05:00:00",
+        "2023-09-25 04:59:59"
+      ]
+    ],
+    "12": [
+      [
+        "1",
+        "30",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_dark",
+        "(None)",
+        "",
+        "1",
+        "2023-09-24 05:00:00",
+        "2023-09-25 04:59:59"
+      ]
+    ],
+    "13": [
+      [
+        "1",
+        "26",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_fire",
+        "(None)",
+        "",
+        "1",
+        "2023-09-25 05:00:00",
+        "2023-09-26 04:59:59"
+      ]
+    ],
+    "14": [
+      [
+        "1",
+        "27",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_water",
+        "(None)",
+        "",
+        "1",
+        "2023-09-25 05:00:00",
+        "2023-09-26 04:59:59"
+      ]
+    ],
+    "15": [
+      [
+        "1",
+        "28",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_wind",
+        "(None)",
+        "",
+        "1",
+        "2023-09-25 05:00:00",
+        "2023-09-26 04:59:59"
+      ]
+    ],
+    "16": [
+      [
+        "1",
+        "25",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_thunder",
+        "(None)",
+        "",
+        "1",
+        "2023-09-26 05:00:00",
+        "2023-09-27 04:59:59"
+      ]
+    ],
+    "17": [
+      [
+        "1",
+        "29",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_light",
+        "(None)",
+        "",
+        "1",
+        "2023-09-26 05:00:00",
+        "2023-09-27 04:59:59"
+      ]
+    ],
+    "18": [
+      [
+        "1",
+        "30",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_dark",
+        "(None)",
+        "",
+        "1",
+        "2023-09-26 05:00:00",
+        "2023-09-27 04:59:59"
+      ]
+    ],
+    "19": [
+      [
+        "1",
+        "26",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_fire",
+        "(None)",
+        "",
+        "1",
+        "2023-09-27 05:00:00",
+        "2023-09-28 04:59:59"
+      ]
+    ],
+    "20": [
+      [
+        "1",
+        "27",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_water",
+        "(None)",
+        "",
+        "1",
+        "2023-09-27 05:00:00",
+        "2023-09-28 04:59:59"
+      ]
+    ],
+    "21": [
+      [
+        "1",
+        "28",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_wind",
+        "(None)",
+        "",
+        "1",
+        "2023-09-27 05:00:00",
+        "2023-09-28 04:59:59"
+      ]
+    ],
+    "22": [
+      [
+        "1",
+        "25",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_thunder",
+        "(None)",
+        "",
+        "1",
+        "2023-09-28 05:00:00",
+        "2023-09-29 04:59:59"
+      ]
+    ],
+    "23": [
+      [
+        "1",
+        "29",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_light",
+        "(None)",
+        "",
+        "1",
+        "2023-09-28 05:00:00",
+        "2023-09-29 04:59:59"
+      ]
+    ],
+    "24": [
+      [
+        "1",
+        "30",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_dark",
+        "(None)",
+        "",
+        "1",
+        "2023-09-28 05:00:00",
+        "2023-09-29 04:59:59"
+      ]
+    ],
+    "25": [
+      [
+        "1",
+        "26",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_fire",
+        "(None)",
+        "",
+        "1",
+        "2023-09-29 05:00:00",
+        "2023-09-30 04:59:59"
+      ]
+    ],
+    "26": [
+      [
+        "1",
+        "27",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_water",
+        "(None)",
+        "",
+        "1",
+        "2023-09-29 05:00:00",
+        "2023-09-30 04:59:59"
+      ]
+    ],
+    "27": [
+      [
+        "1",
+        "28",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_wind",
+        "(None)",
+        "",
+        "1",
+        "2023-09-29 05:00:00",
+        "2023-09-30 04:59:59"
+      ]
+    ],
+    "28": [
+      [
+        "1",
+        "25",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_thunder",
+        "(None)",
+        "",
+        "1",
+        "2023-09-30 05:00:00",
+        "2023-09-30 20:59:59"
+      ]
+    ],
+    "29": [
+      [
+        "1",
+        "29",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_light",
+        "(None)",
+        "",
+        "1",
+        "2023-09-30 05:00:00",
+        "2023-09-30 20:59:59"
+      ]
+    ],
+    "30": [
+      [
+        "1",
+        "30",
+        "quest/event/background/bossbattle_multi_pickup_event/boss_quest_background/advent_multi_pickup_event_dragon_dark",
+        "(None)",
+        "",
+        "1",
+        "2023-09-30 05:00:00",
+        "2023-09-30 20:59:59"
+      ]
+    ]
+  },
   "10000020": {
     "1": [
       [

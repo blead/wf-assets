@@ -4778,6 +4778,15 @@
       "false"
     ]
   ],
+  "216291": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_crown_beasts_character_pickup_02",
+      "2023-09-21 12:00:00",
+      "2023-09-29 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4928,6 +4937,15 @@
       "dynamic/feature_announcement/gw23_campaign_mission",
       "2023-04-28 12:00:00",
       "2023-05-07 20:59:59",
+      "false"
+    ]
+  ],
+  "10000046": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_multi_pickup_event_2",
+      "2023-09-21 12:00:00",
+      "2023-09-30 20:59:59",
       "false"
     ]
   ],

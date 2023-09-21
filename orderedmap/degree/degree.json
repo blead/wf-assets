@@ -7175,6 +7175,84 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1141159": [
+    [
+      "degree_favor_black_wolf_knight_wt23_2",
+      "7011",
+      "信じられる道を",
+      "しんじられるみちを",
+      "獲得条件：【黒狼の自由騎士】ロルフのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_black_wolf_knight_wt23_2"
+    ]
+  ],
+  "1131146": [
+    [
+      "degree_favor_blade_dancer_wt23_2",
+      "126011",
+      "ヘクシズフィロソフィー",
+      "へくしずふぃろそふぃー",
+      "獲得条件：【尊大紳士な交渉者】リーブラムのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blade_dancer_wt23_2"
+    ]
+  ],
+  "1231099": [
+    [
+      "degree_favor_hero_mechanic_2",
+      "282101",
+      "非凡なるインスパイア",
+      "ひぼんなるいんすぱいあ",
+      "獲得条件：【ヒーロー・メカニック】インヴェトラのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_hero_mechanic_2"
+    ]
+  ],
+  "1121153": [
+    [
+      "degree_favor_ruin_lady_meteor23_2",
+      "253011",
+      "夜明けの兆し",
+      "よあけのきざし",
+      "獲得条件：【黄金の曙光】ソティエスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_lady_meteor23_2"
+    ]
+  ],
+  "1131152": [
+    [
+      "degree_favor_pbc_ceo_playable_2",
+      "86001",
+      "stay cool",
+      "すていくーる",
+      "獲得条件：【キング・プレデター】キング・ジョンソンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_pbc_ceo_playable_2"
+    ]
+  ],
+  "1141165": [
+    [
+      "degree_favor_wind_oracle_meteor23_2",
+      "92021",
+      "風と光に愛された娘",
+      "かぜとひかりにあいされたむすめ",
+      "獲得条件：【紡がれた未来の風】フィリアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_oracle_meteor23_2"
+    ]
+  ],
   "1141147": [
     [
       "degree_favor_heavenly_two_vt23_2",
