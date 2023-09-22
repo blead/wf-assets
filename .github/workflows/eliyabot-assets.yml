@@ -1,0 +1,22 @@
+name: eliyabot-assets
+on:
+  workflow_dispatch:
+  workflow_run:
+    workflows: [wfax]
+    types: [completed]
+
+jobs:
+  sheets:
+    runs-on: ubuntu-latest
+    steps:
+    - id: token
+      uses: tibdex/github-app-token@v2
+      with:
+        app_id: ${{ secrets.GH_APP_ID }}
+        private_key: ${{ secrets.GH_APP_PRIVATE_KEY }}
+        repositories: >-
+          ["eliyabot-assets"]
+    - name: dispatch
+      env:
+        GH_TOKEN: ${{ steps.token.outputs.token }}
+      run: gh workflow run wf-assets -R blead/eliyabot-assets -r master

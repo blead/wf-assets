@@ -1,3 +1,4 @@
+name: wfax
 on:
   repository_dispatch:
     types: [wf-assets-cron]
@@ -53,15 +54,12 @@ jobs:
       working-directory: ${{env.TMP_WORKDIR}}
     - id: fetch
       name: Run wfax fetch
-      continue-on-error: true
       run: ./wfax fetch dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY} > ${GITHUB_WORKSPACE}/${VERSION_FILE}
       working-directory: ${{env.TMP_WORKDIR}}
     - name: Run wfax extract
-      if: steps.fetch.outcome == 'success'
       run: ./wfax extract dump --concurrency 50 ${GITHUB_WORKSPACE} --indent ${INDENT}
       working-directory: ${{env.TMP_WORKDIR}}
     - name: Git commit
-      if: steps.fetch.outcome == 'success'
       run: |
         git config user.name "wfax-bot"
         git config user.email "<>"
