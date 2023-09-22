@@ -6,7 +6,7 @@ on:
     types: [completed]
 
 jobs:
-  sheets:
+  eliyabot-assets:
     runs-on: ubuntu-latest
     steps:
     - id: token
