@@ -3699,6 +3699,26 @@
       "12"
     ]
   ],
+  "bgm/character_unique/artificialeye_sniper/artificialeye_sniper": [
+    [
+      "0.35",
+      "128",
+      "0.054331064",
+      "1.8893198",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wirfled_playable/wirfled_playable": [
+    [
+      "0.35",
+      "150",
+      "0.07648526",
+      "12.836485",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/character_unique/guild_front_girl_playable/guild_front_girl_playable": [
     [
       "0.35",

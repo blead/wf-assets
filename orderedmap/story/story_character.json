@@ -6574,9 +6574,9 @@
       "ウィルフレッド",
       "0xcdcd8b",
       "character/wirfled/voice/",
-      "normal,anger,normal_b,sad,sad_b,serious,shame,shame_b,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,surprise_d,sweat,think,normal_base_b,anger_base_b,normal_b_base_b,sad_base_b,sad_b_base_b,serious_base_b,shame_base_b,shame_b_base_b,smile_base_b,smile_b_base_b,smile_c_base_b,surprise_base_b,surprise_b_base_b,surprise_c_base_b,surprise_d_base_b,sweat_base_b,think_base_b",
-      "character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b",
-      "character/wirfled/ui/story/normal,character/wirfled/ui/story/anger,character/wirfled/ui/story/normal_b,character/wirfled/ui/story/sad,character/wirfled/ui/story/sad_b,character/wirfled/ui/story/serious,character/wirfled/ui/story/shame,character/wirfled/ui/story/shame_b,character/wirfled/ui/story/smile,character/wirfled/ui/story/smile_b,character/wirfled/ui/story/smile_c,character/wirfled/ui/story/surprise,character/wirfled/ui/story/surprise_b,character/wirfled/ui/story/surprise_c,character/wirfled/ui/story/surprise_d,character/wirfled/ui/story/sweat,character/wirfled/ui/story/think,character/wirfled/ui/story/normal,character/wirfled/ui/story/anger,character/wirfled/ui/story/normal_b,character/wirfled/ui/story/sad,character/wirfled/ui/story/sad_b,character/wirfled/ui/story/serious,character/wirfled/ui/story/shame,character/wirfled/ui/story/shame_b,character/wirfled/ui/story/smile,character/wirfled/ui/story/smile_b,character/wirfled/ui/story/smile_c,character/wirfled/ui/story/surprise,character/wirfled/ui/story/surprise_b,character/wirfled/ui/story/surprise_c,character/wirfled/ui/story/surprise_d,character/wirfled/ui/story/sweat,character/wirfled/ui/story/think"
+      "normal,anger,normal_b,sad,sad_b,serious,shame,shame_b,smile,smile_b,smile_c,surprise,surprise_b,surprise_c,surprise_d,sweat,think,cry,cry_b,sad_c,smile_d,smile_e,think_b,normal_base_b,anger_base_b,normal_b_base_b,sad_base_b,sad_b_base_b,serious_base_b,shame_base_b,shame_b_base_b,smile_base_b,smile_b_base_b,smile_c_base_b,surprise_base_b,surprise_b_base_b,surprise_c_base_b,surprise_d_base_b,sweat_base_b,think_base_b,cry_base_b,cry_b_base_b,sad_c_base_b,smile_d_base_b,smile_e_base_b,think_b_base_b",
+      "character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b",
+      "character/wirfled/ui/story/normal,character/wirfled/ui/story/anger,character/wirfled/ui/story/normal_b,character/wirfled/ui/story/sad,character/wirfled/ui/story/sad_b,character/wirfled/ui/story/serious,character/wirfled/ui/story/shame,character/wirfled/ui/story/shame_b,character/wirfled/ui/story/smile,character/wirfled/ui/story/smile_b,character/wirfled/ui/story/smile_c,character/wirfled/ui/story/surprise,character/wirfled/ui/story/surprise_b,character/wirfled/ui/story/surprise_c,character/wirfled/ui/story/surprise_d,character/wirfled/ui/story/sweat,character/wirfled/ui/story/think,character/wirfled/ui/story/cry,character/wirfled/ui/story/cry_b,character/wirfled/ui/story/sad_c,character/wirfled/ui/story/smile_d,character/wirfled/ui/story/smile_e,character/wirfled/ui/story/think_b,character/wirfled/ui/story/normal,character/wirfled/ui/story/anger,character/wirfled/ui/story/normal_b,character/wirfled/ui/story/sad,character/wirfled/ui/story/sad_b,character/wirfled/ui/story/serious,character/wirfled/ui/story/shame,character/wirfled/ui/story/shame_b,character/wirfled/ui/story/smile,character/wirfled/ui/story/smile_b,character/wirfled/ui/story/smile_c,character/wirfled/ui/story/surprise,character/wirfled/ui/story/surprise_b,character/wirfled/ui/story/surprise_c,character/wirfled/ui/story/surprise_d,character/wirfled/ui/story/sweat,character/wirfled/ui/story/think,character/wirfled/ui/story/cry,character/wirfled/ui/story/cry_b,character/wirfled/ui/story/sad_c,character/wirfled/ui/story/smile_d,character/wirfled/ui/story/smile_e,character/wirfled/ui/story/think_b"
     ]
   ],
   "wirfled_unknown": [
@@ -7734,6 +7734,126 @@
       "？？？",
       "0xff9f1c",
       "character/light/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "artificialeye_sniper": [
+    [
+      "シャーリーン",
+      "0xb29614",
+      "character/artificialeye_sniper/voice/",
+      "normal,anger,sad,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,evolve",
+      "character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_0,character/artificialeye_sniper/ui/story/base_1",
+      "character/artificialeye_sniper/ui/story/normal,character/artificialeye_sniper/ui/story/anger,character/artificialeye_sniper/ui/story/sad,character/artificialeye_sniper/ui/story/serious,character/artificialeye_sniper/ui/story/serious_b,character/artificialeye_sniper/ui/story/shame,character/artificialeye_sniper/ui/story/smile,character/artificialeye_sniper/ui/story/smile_b,character/artificialeye_sniper/ui/story/surprise,character/artificialeye_sniper/ui/story/surprise_b,character/artificialeye_sniper/ui/story/sweat,character/artificialeye_sniper/ui/story/think,(None)"
+    ]
+  ],
+  "artificialeye_sniper_of_snipers": [
+    [
+      "狙撃手",
+      "0xb29614",
+      "character/artificialeye_sniper/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "artificialeye_sniper_unknown": [
+    [
+      "？？？",
+      "0xb29614",
+      "character/artificialeye_sniper/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "men_of_the_underworld": [
+    [
+      "裏稼業の男達",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "captains_of_the_underworld": [
+    [
+      "裏稼業の隊長",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "voice_of_mom": [
+    [
+      "母さんの声",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "voice_of_dad": [
+    [
+      "父さんの声",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "my_favorite_voice": [
+    [
+      "大好きな声",
+      "0x539722",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "manager_of_moon_bunny_civil_police": [
+    [
+      "玉兎民間警察マネージャー",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "psycho_reaper_unknown": [
+    [
+      "？？？",
+      "0x2f60b2",
+      "character/psycho_reaper/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "wirfled_playable": [
+    [
+      "ウィルフレッド",
+      "0xa32535",
+      "character/wirfled/voice/",
+      "normal,anger,anger_b,cry,lunatic,lunatic_b,pain,pain_b,serious,serious_b,smile,surprise,visor,evolve,normal_suitoff,anger_suitoff,normal_b_suitoff,sad_suitoff,sad_b_suitoff,serious_suitoff,shame_suitoff,shame_b_suitoff,smile_suitoff,smile_b_suitoff,smile_c_suitoff,surprise_suitoff,surprise_b_suitoff,surprise_c_suitoff,surprise_d_suitoff,sweat_suitoff,think_suitoff,cry_suitoff,cry_b_suitoff,sad_c_suitoff,smile_d_suitoff,smile_e_suitoff,think_b_suitoff,shame,sweat",
+      "character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_0,character/wirfled_playable/ui/story/base_1,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b,character/wirfled/ui/story/base_b",
+      "character/wirfled_playable/ui/story/normal,character/wirfled_playable/ui/story/anger,character/wirfled_playable/ui/story/anger_b,character/wirfled_playable/ui/story/cry,character/wirfled_playable/ui/story/lunatic,character/wirfled_playable/ui/story/lunatic_b,character/wirfled_playable/ui/story/pain,character/wirfled_playable/ui/story/pain_b,character/wirfled_playable/ui/story/serious,character/wirfled_playable/ui/story/serious_b,character/wirfled_playable/ui/story/smile,character/wirfled_playable/ui/story/surprise,character/wirfled_playable/ui/story/visor,(None),character/wirfled/ui/story/normal,character/wirfled/ui/story/anger,character/wirfled/ui/story/normal_b,character/wirfled/ui/story/sad,character/wirfled/ui/story/sad_b,character/wirfled/ui/story/serious,character/wirfled/ui/story/shame,character/wirfled/ui/story/shame_b,character/wirfled/ui/story/smile,character/wirfled/ui/story/smile_b,character/wirfled/ui/story/smile_c,character/wirfled/ui/story/surprise,character/wirfled/ui/story/surprise_b,character/wirfled/ui/story/surprise_c,character/wirfled/ui/story/surprise_d,character/wirfled/ui/story/sweat,character/wirfled/ui/story/think,character/wirfled/ui/story/cry,character/wirfled/ui/story/cry_b,character/wirfled/ui/story/sad_c,character/wirfled/ui/story/smile_d,character/wirfled/ui/story/smile_e,character/wirfled/ui/story/think_b,character/wirfled/ui/story/shame,character/wirfled/ui/story/sweat"
+    ]
+  ],
+  "wirfled_little_playable": [
+    [
+      "幼いウィルフレッド",
+      "0xa32535",
+      "(None)",
       "",
       "",
       ""

@@ -7375,6 +7375,150 @@
       "690"
     ]
   ],
+  "character/artificialeye_sniper/ui/full_shot_1440_1920_0": [
+    [
+      "266",
+      "74",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/skill_cutin_0": [
+    [
+      "132",
+      "34",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/full_shot_1440_1920_1": [
+    [
+      "118",
+      "164",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/skill_cutin_1": [
+    [
+      "8",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/anger": [
+    [
+      "219",
+      "246",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/base_0": [
+    [
+      "0",
+      "81",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/normal": [
+    [
+      "219",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/sad": [
+    [
+      "219",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/serious": [
+    [
+      "219",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/serious_b": [
+    [
+      "219",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/shame": [
+    [
+      "220",
+      "296",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/smile": [
+    [
+      "219",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/smile_b": [
+    [
+      "219",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/surprise": [
+    [
+      "219",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/surprise_b": [
+    [
+      "219",
+      "245",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/sweat": [
+    [
+      "243",
+      "318",
+      "570",
+      "690"
+    ]
+  ],
+  "character/artificialeye_sniper/ui/story/think": [
+    [
+      "217",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
   "character/asahina_mikuru/ui/full_shot_1440_1920_0": [
     [
       "195",
@@ -90695,6 +90839,22 @@
       "690"
     ]
   ],
+  "character/wirfled/ui/story/cry": [
+    [
+      "193",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled/ui/story/cry_b": [
+    [
+      "193",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
   "character/wirfled/ui/story/normal": [
     [
       "193",
@@ -90723,6 +90883,14 @@
     [
       "193",
       "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled/ui/story/sad_c": [
+    [
+      "193",
+      "238",
       "570",
       "690"
     ]
@@ -90775,6 +90943,22 @@
       "690"
     ]
   ],
+  "character/wirfled/ui/story/smile_d": [
+    [
+      "193",
+      "244",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled/ui/story/smile_e": [
+    [
+      "193",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
   "character/wirfled/ui/story/surprise": [
     [
       "193",
@@ -90819,6 +91003,166 @@
     [
       "193",
       "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled/ui/story/think_b": [
+    [
+      "193",
+      "251",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/full_shot_1440_1920_0": [
+    [
+      "190",
+      "170",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wirfled_playable/ui/skill_cutin_0": [
+    [
+      "236",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wirfled_playable/ui/full_shot_1440_1920_1": [
+    [
+      "247",
+      "261",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wirfled_playable/ui/skill_cutin_1": [
+    [
+      "136",
+      "91",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/anger": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/anger_b": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/base_0": [
+    [
+      "0",
+      "52",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/base_1": [
+    [
+      "0",
+      "96",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/cry": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/lunatic": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/lunatic_b": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/normal": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/pain": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/pain_b": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/serious": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/serious_b": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/smile": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/surprise": [
+    [
+      "181",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wirfled_playable/ui/story/visor": [
+    [
+      "181",
+      "247",
       "570",
       "690"
     ]

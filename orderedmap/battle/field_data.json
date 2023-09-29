@@ -5830,6 +5830,20 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_wirfled_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_wirfled_playable",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_artificialeye_sniper": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_artificialeye_sniper",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_guild_front_girl_playable": [
     [
       "common_skill_preview",

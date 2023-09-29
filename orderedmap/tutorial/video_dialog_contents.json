@@ -1931,6 +1931,12 @@
       "dynamic/advent_event_tutorial/advent_event_steam_robot_thunder/tutorial_03"
     ]
   ],
+  "advent_variant_empress_wind": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_variant_empress_wind/tutorial_01"
+    ]
+  ],
   "abyss_beast": [
     [
       "0",

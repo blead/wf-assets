@@ -2497,6 +2497,122 @@
       ]
     ]
   },
+  "wirfled_playable": {
+    "1": [
+      [
+        "フラム・クラフト",
+        "メリエンナへのあふれ出る愛情を解き放ち、フィールド全体の敵に火ダメージ ＋ 強化効果を1つ消去 ／ 火属性キャラにスキルダメージアップ効果",
+        "dynamic/skill/atk_field",
+        "true",
+        "550",
+        "550",
+        "1",
+        "battle/action/skill/action/rare5/wirfled_playable$wirfled_playable_1",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "フラム・クラフト＋",
+        "メリエンナへのあふれ出る愛情を解き放ち、フィールド全体の敵に火ダメージ ＋ 強化効果を1つ消去 ／ 火属性キャラにスキルダメージアップ効果",
+        "dynamic/skill/atk_field",
+        "true",
+        "550",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/wirfled_playable$wirfled_playable_2",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "artificialeye_sniper": {
+    "1": [
+      [
+        "デッドライン３０００",
+        "最も近い敵に向かって狙いすました貫通弾の一撃を放ち、命中した敵に雷ダメージ ＋ 雷属性耐性ダウン効果",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "500",
+        "500",
+        "1",
+        "battle/action/skill/action/rare5/artificialeye_sniper$artificialeye_sniper_1",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "デッドライン３０００＋",
+        "最も近い敵に向かって狙いすました貫通弾の一撃を放ち、命中した敵に雷ダメージ ＋ 雷属性耐性ダウン効果",
+        "dynamic/skill/atk_nearest",
+        "true",
+        "500",
+        "450",
+        "1",
+        "battle/action/skill/action/rare5/artificialeye_sniper$artificialeye_sniper_2",
+        "1",
+        "2",
+        "2400",
+        "3000",
+        "0",
+        "0",
+        "0",
+        "0",
+        "(None)",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "guild_front_girl_playable": {
     "1": [
       [

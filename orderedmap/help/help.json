@@ -1594,6 +1594,17 @@
       "2023-01-07 04:59:59"
     ]
   ],
+  "Help_advent_variant_empress_wind_20230929_20231012": [
+    [
+      "help_label_event_advent_variant_empress_wind",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_variant_empress_wind_template",
+      "2023-09-29 12:00:00",
+      "2023-10-20 04:59:59"
+    ]
+  ],
   "Help_advent_variant_empress_light_20230814_20230828": [
     [
       "help_label_event_advent_variant_empress_light",
@@ -2142,6 +2153,17 @@
       "rich_text/help_event_advent_hw23",
       "2023-08-07 12:00:00",
       "2023-08-29 04:59:59"
+    ]
+  ],
+  "Help_advent_boss_epuration_20230929_20231012": [
+    [
+      "help_label_event_boss_epuration_event_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_epuration_event_01",
+      "2023-09-29 12:00:00",
+      "2023-10-20 04:59:59"
     ]
   ],
   "Help_advent_boss_epuration_20230515_20230531": [

@@ -7956,6 +7956,73 @@
       ]
     ]
   },
+  "200": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111177",
+        "0",
+        "111177",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/wirfled_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111177",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "131176",
+        "0",
+        "131176",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_96/artificialeye_sniper/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131176",
+        ""
+      ]
+    ]
+  },
   "198": {
     "1": [
       [
@@ -16008,6 +16075,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_common_pickup_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5041": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_black_pickup_2",
         "",
         "",
         "",

@@ -26455,6 +26455,122 @@
       ]
     ]
   },
+  "11000774": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_1",
+        "0",
+        "40305",
+        "100",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000775": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_2",
+        "0",
+        "40306",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000776": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_3",
+        "0",
+        "40307",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000777": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_4",
+        "0",
+        "40307",
+        "20",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000778": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_5",
+        "0",
+        "40307",
+        "2",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000779": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_6",
+        "0",
+        "40307",
+        "2",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_6",
+        "0",
+        "40307",
+        "4",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
+  "11000780": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_7",
+        "0",
+        "40307",
+        "4",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000781": {
+    "1": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_8",
+        "0",
+        "40307",
+        "4",
+        "0.5",
+        "false"
+      ]
+    ],
+    "2": [
+      [
+        "advent_variant_empress_wind_20230929_20231012_rare_score_group_8",
+        "0",
+        "40307",
+        "6",
+        "0.5",
+        "false"
+      ]
+    ]
+  },
   "11000703": {
     "1": [
       [
@@ -32633,6 +32749,208 @@
         "5100006",
         "1",
         "0.3",
+        "true"
+      ]
+    ]
+  },
+  "11000790": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_1",
+        "0",
+        "10000048",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000791": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_2",
+        "0",
+        "10000047",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000792": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_3",
+        "0",
+        "10000047",
+        "2",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000793": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_4",
+        "0",
+        "10000047",
+        "3",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000794": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_5",
+        "0",
+        "10000047",
+        "4",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000795": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_6",
+        "0",
+        "10000047",
+        "6",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000796": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_7",
+        "0",
+        "10000047",
+        "7",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000797": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_8",
+        "0",
+        "10000047",
+        "8",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000798": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_9",
+        "0",
+        "10000047",
+        "3",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_9",
+        "0",
+        "10000047",
+        "4",
+        "0.6",
+        "true"
+      ]
+    ]
+  },
+  "11000799": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_10",
+        "0",
+        "10000047",
+        "5",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_10",
+        "0",
+        "10000047",
+        "10",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_10",
+        "0",
+        "10000047",
+        "15",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_10",
+        "0",
+        "10000047",
+        "20",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000800": {
+    "1": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_11",
+        "0",
+        "10000047",
+        "10",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_11",
+        "0",
+        "10000047",
+        "20",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_11",
+        "0",
+        "10000047",
+        "30",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_20230929_20231012_rare_score_group_11",
+        "0",
+        "10000047",
+        "40",
+        "0.15",
         "true"
       ]
     ]

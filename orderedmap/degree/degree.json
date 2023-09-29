@@ -12401,6 +12401,32 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "111177": [
+    [
+      "degree_favor_wirfled_playable",
+      "26000",
+      "熱情プロポーズスーツ",
+      "ねつじょうぷろぽーずすーつ",
+      "獲得条件：【熱情プロポーズスーツ】ウィルフレッドをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wirfled_playable"
+    ]
+  ],
+  "131176": [
+    [
+      "degree_favor_artificialeye_sniper",
+      "88000",
+      "コードネーム・死神",
+      "こーどねーむしにがみ",
+      "獲得条件：【コードネーム・死神】シャーリーンをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_artificialeye_sniper"
+    ]
+  ],
   "121183": [
     [
       "degree_favor_guild_front_girl_playable",

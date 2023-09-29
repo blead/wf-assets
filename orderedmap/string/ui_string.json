@@ -564,6 +564,16 @@
       "毎日::resetHour::時にリセット!"
     ]
   ],
+  "gacha_wildcard_once_rare4_character_ticket_have": [
+    [
+      "所持"
+    ]
+  ],
+  "gacha_wildcard_once_rare4_character_ticket_count": [
+    [
+      "×::ticketCount::"
+    ]
+  ],
   "gacha_ten_times_per_account_description": [
     [
       "あと1回"
@@ -5444,6 +5454,11 @@
       "降臨討伐 レーヌ・ブロンシュ"
     ]
   ],
+  "help_label_event_advent_variant_empress_wind": [
+    [
+      "降臨討伐 レーヌ・ヴェルト"
+    ]
+  ],
   "help_label_event_kc_summer_2021": [
     [
       "クグイとリョウキの特別訓練！"
@@ -7344,11 +7359,6 @@
       "::owned_equipment::の覚醒Lvが足りません"
     ]
   ],
-  "shop_cell_cover_message_for_enhancement_currency_item_shortage": [
-    [
-      "強化に必要な素材が足りません"
-    ]
-  ],
   "mail_detail_receive_without_count": [
     [
       "::name:: を受け取りました"
@@ -7524,9 +7534,19 @@
       "<font size='24px'>総在庫数</font> ::value::"
     ]
   ],
+  "shop_list_stock_number_before_after": [
+    [
+      "<font size='24px'>総在庫数</font> ::before:: → ::after::"
+    ]
+  ],
   "shop_list_progress_number": [
     [
       "<font size='24px'>進捗</font> ::value::/::max::"
+    ]
+  ],
+  "shop_list_select_checkbox_label": [
+    [
+      "選択"
     ]
   ],
   "shop_exchange": [
@@ -7752,6 +7772,61 @@
   "boss_coin_exchange_no_matching_items": [
     [
       "絞り込み条件に合うキャラ・アイテムが見つかりませんでした"
+    ]
+  ],
+  "boss_coin_exchange_bulk_exchange": [
+    [
+      "一括交換"
+    ]
+  ],
+  "boss_coin_exchange_not_found_bulk_exchange_item": [
+    [
+      "一括交換を行うには交換アイテムを\n1つ以上選択する必要があります"
+    ]
+  ],
+  "boss_coin_exchange_no_selectable_items": [
+    [
+      "選択できるアイテムがありません"
+    ]
+  ],
+  "boss_coin_exchange_select_all": [
+    [
+      "全選択"
+    ]
+  ],
+  "boss_coin_exchange_cant_select_character": [
+    [
+      "キャラを一括交換の対象にすることはできません"
+    ]
+  ],
+  "boss_coin_exchange_cant_select_purple_coin": [
+    [
+      "紫貨を一括交換の対象にすることはできません"
+    ]
+  ],
+  "boss_coin_exchange_cant_select_gold_coin": [
+    [
+      "金貨を一括交換の対象にすることはできません"
+    ]
+  ],
+  "boss_coin_exchange_cant_select_silver_coin": [
+    [
+      "銀貨を一括交換の対象にすることはできません"
+    ]
+  ],
+  "boss_coin_exchange_bulk_exchange_dialog_title": [
+    [
+      "ボスコイン一括交換"
+    ]
+  ],
+  "boss_coin_exchange_bulk_exchange_dialog_received_items": [
+    [
+      "交換する"
+    ]
+  ],
+  "boss_coin_exchange_bulk_exchange_dialog_cost_items": [
+    [
+      "消費アイテム"
     ]
   ],
   "boss_coin_list_setting_dialog_order_description": [
@@ -9852,6 +9927,11 @@
   "quest_result_dialog_finish_auto_start_mode": [
     [
       "通信が切断されたため、連戦を終了します"
+    ]
+  ],
+  "quest_result_dialog_finish_auto_play_stop_complete": [
+    [
+      "連戦が完了しました"
     ]
   ],
   "quest_result_retry_button_label": [
@@ -12849,6 +12929,11 @@
       "「::title::」 を交換しました"
     ]
   ],
+  "boss_coin_bulk_exchange_complete_message": [
+    [
+      "ボスコイン一括交換を実行しました"
+    ]
+  ],
   "shop_item_shortage": [
     [
       "::item::が不足しています"
@@ -13849,6 +13934,26 @@
       "変更"
     ]
   ],
+  "multi_auto_start_setting_dialog_title": [
+    [
+      "連戦機能"
+    ]
+  ],
+  "multi_auto_start_setting_dialog_slider": [
+    [
+      "周回回数: ::value::"
+    ]
+  ],
+  "multi_auto_start_setting_dialog_slider_none": [
+    [
+      "指定なし"
+    ]
+  ],
+  "multi_auto_start_setting_dialog_slider_value": [
+    [
+      "::value::回"
+    ]
+  ],
   "orb_movie_open_detail": [
     [
       "詳細を見る"
@@ -14197,6 +14302,21 @@
   "multi_battle_result_favorite_party_button_disable_label": [
     [
       "お気に入り登録済み"
+    ]
+  ],
+  "multi_battle_auto_start_setting_title": [
+    [
+      "連戦設定"
+    ]
+  ],
+  "multi_battle_auto_start_setting_lap_time_none": [
+    [
+      "回数指定なし"
+    ]
+  ],
+  "multi_battle_auto_start_setting_lap_time_some": [
+    [
+      "あと<font size=\"32px\">::value::</font>回"
     ]
   ],
   "gacha_ratio_dialog_html_template": [

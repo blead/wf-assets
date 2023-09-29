@@ -4787,6 +4787,24 @@
       "false"
     ]
   ],
+  "216809": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_black_pickup_2",
+      "2023-09-29 12:00:00",
+      "2023-10-31 11:59:59",
+      "false"
+    ]
+  ],
+  "216800": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_96",
+      "2023-09-29 12:00:00",
+      "2023-10-06 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -4994,6 +5012,15 @@
       "false"
     ]
   ],
+  "10000050": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_variant_empress_wind",
+      "2023-09-29 12:00:00",
+      "2023-10-12 20:59:59",
+      "false"
+    ]
+  ],
   "10000040": [
     [
       "1000",
@@ -5081,6 +5108,15 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_fire2",
       "2023-05-15 12:00:00",
       "2023-05-31 20:59:59",
+      "false"
+    ]
+  ],
+  "10000052": [
+    [
+      "1000",
+      "dynamic/feature_announcement/boss_epuration_event_01",
+      "2023-09-29 12:00:00",
+      "2023-10-12 20:59:59",
       "false"
     ]
   ],

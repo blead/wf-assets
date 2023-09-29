@@ -2729,6 +2729,32 @@
       "0"
     ]
   ],
+  "111177": [
+    [
+      "346",
+      "false",
+      "false",
+      "346",
+      "false",
+      "false",
+      "character/wirfled_playable/battle/character_detail_skill_preview",
+      "100",
+      "0"
+    ]
+  ],
+  "131176": [
+    [
+      "347",
+      "false",
+      "false",
+      "347",
+      "false",
+      "false",
+      "character/artificialeye_sniper/battle/character_detail_skill_preview",
+      "500",
+      "0"
+    ]
+  ],
   "121183": [
     [
       "345",
