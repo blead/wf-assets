@@ -1726,6 +1726,17 @@
       "2023-02-22 04:59:59"
     ]
   ],
+  "Help_advent_spirit_beast_fire_20231006_20231020": [
+    [
+      "help_label_event_advent_spirit_beast_fire",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_spirit_beast_fire_template",
+      "2023-10-06 12:00:00",
+      "2023-10-28 04:59:59"
+    ]
+  ],
   "Help_advent_spirit_beast_fire_20230515_20230531": [
     [
       "help_label_event_advent_spirit_beast_fire",

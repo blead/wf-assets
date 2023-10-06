@@ -30233,6 +30233,186 @@
       ]
     ]
   },
+  "11000737": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_1",
+        "1",
+        "4070038",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000738": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_2",
+        "1",
+        "5030040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000739": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_3",
+        "1",
+        "5010060",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000740": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_4",
+        "0",
+        "10000025",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000741": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_5",
+        "0",
+        "10000026",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000742": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_6",
+        "0",
+        "10000026",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000743": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_7",
+        "0",
+        "10000027",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000744": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_8",
+        "0",
+        "10000027",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000745": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_9",
+        "0",
+        "10000026",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_9",
+        "0",
+        "10000026",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_9",
+        "0",
+        "10000027",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_9",
+        "0",
+        "10000027",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000746": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_10",
+        "0",
+        "10000026",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_10",
+        "0",
+        "10000026",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_10",
+        "0",
+        "10000027",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_20231006_20231020_rare_score_group_10",
+        "0",
+        "10000027",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000593": {
     "1": [
       [

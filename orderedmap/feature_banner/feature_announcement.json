@@ -4805,6 +4805,15 @@
       "false"
     ]
   ],
+  "217725": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_xm21xm22_character_pickup_01",
+      "2023-10-06 12:00:00",
+      "2023-10-13 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5099,6 +5108,15 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_light2",
       "2023-04-14 12:00:00",
       "2023-04-28 20:59:59",
+      "false"
+    ]
+  ],
+  "10000047": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_fire2",
+      "2023-10-06 12:00:00",
+      "2023-10-20 20:59:59",
       "false"
     ]
   ],

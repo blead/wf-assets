@@ -7175,6 +7175,84 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1111141": [
+    [
+      "degree_favor_tiger_treasure_hunter_xm22_2",
+      "291021",
+      "虎耳の導き手",
+      "とらみみのみちびきて",
+      "獲得条件：【トレジャーサンタ】ミアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_tiger_treasure_hunter_xm22_2"
+    ]
+  ],
+  "1151159": [
+    [
+      "degree_favor_golden_dragon_jr_2",
+      "144001",
+      "我こそは聖龍王！",
+      "われこそはせいりゅうおう",
+      "獲得条件：【愛を継ぐ龍】ラフマーノのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_golden_dragon_jr_2"
+    ]
+  ],
+  "1261089": [
+    [
+      "degree_favor_darkness_dragon_2",
+      "370001",
+      "継承された記憶",
+      "けいしょうされたきおく",
+      "獲得条件：【想い繋ぐ冥龍】アルマデウスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_darkness_dragon_2"
+    ]
+  ],
+  "1141171": [
+    [
+      "degree_favor_psychic_taichi_2",
+      "116001",
+      "日はまた昇る",
+      "ひはまたのぼる",
+      "獲得条件：【その後を知る男】夕日野タイチのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_taichi_2"
+    ]
+  ],
+  "1131158": [
+    [
+      "degree_favor_psychic_katana_2",
+      "87001",
+      "不撓不屈の剣",
+      "ふとうふくつのつるぎ",
+      "獲得条件：【裁刀の能力者】天羽ナギリのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_katana_2"
+    ]
+  ],
+  "1111159": [
+    [
+      "degree_favor_catbaby_psychicer_2",
+      "25001",
+      "わたくしにおまかせを！",
+      "わたくしにおまかせを",
+      "獲得条件：【純情可憐なキトゥン】ペネローネのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_catbaby_psychicer_2"
+    ]
+  ],
   "1141159": [
     [
       "degree_favor_black_wolf_knight_wt23_2",
