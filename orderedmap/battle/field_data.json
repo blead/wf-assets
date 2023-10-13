@@ -2267,6 +2267,13 @@
       "multi_variant_empress_wind_5"
     ]
   ],
+  "multi_variant_empress_thunder": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_thunder",
+      "multi_variant_empress_thunder"
+    ]
+  ],
   "multi_variant_empress_light_1": [
     [
       "end_dungeon",
@@ -5536,6 +5543,13 @@
       "hero_big_boss_kc"
     ]
   ],
+  "guardian_golem_atnoher_light_kc": [
+    [
+      "sand_ruins",
+      "battle/terrain/event_quest/kc_event/boss_battle_guardian_golem_atnoher_light_kc",
+      "guardian_golem_atnoher_light_kc"
+    ]
+  ],
   "advent_k_collabo": [
     [
       "advent_k_collabo",
@@ -5828,6 +5842,13 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_mob_jiguza_playable": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_mob_jiguza_playable",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_wirfled_playable": [

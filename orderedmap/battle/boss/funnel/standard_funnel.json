@@ -161,6 +161,33 @@
       ]
     ]
   },
+  "variant_empress_thunder_funnel_metal": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_thunder_funnel_metal_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_thunder_funnel_metal_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_thunder_funnel_metal_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_thunder_funnel_metal_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_thunder_funnel_metal_multi5"
+      ]
+    ]
+  },
   "variant_empress_light_funnel_crystal_multi": {
     "25": [
       [

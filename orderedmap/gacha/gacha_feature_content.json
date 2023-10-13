@@ -8075,6 +8075,47 @@
       ]
     ]
   },
+  "202": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_97/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141189",
+        "0",
+        "141189",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_97/mob_jiguza_playable/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141189",
+        ""
+      ]
+    ]
+  },
   "200": {
     "1": [
       [
@@ -16245,6 +16286,125 @@
         "",
         "(None)",
         "",
+        ""
+      ]
+    ]
+  },
+  "203": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/direct_attack_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141153",
+        "0",
+        "141153",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_82/psychic_gal/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141153",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141111",
+        "0",
+        "141111",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_65/silence_suzuka/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141111",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141135",
+        "0",
+        "141135",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_75/asymmetry_birdgirl/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141135",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_elf_princess",
+        "141015",
+        "0",
+        "141015",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_22/elf_princess/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141015",
         ""
       ]
     ]

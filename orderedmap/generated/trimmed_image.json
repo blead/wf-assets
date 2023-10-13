@@ -49735,6 +49735,14 @@
       "690"
     ]
   ],
+  "character/mob_jiguza/ui/story/joy_b": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
   "character/mob_jiguza/ui/story/normal": [
     [
       "206",
@@ -49759,6 +49767,30 @@
       "690"
     ]
   ],
+  "character/mob_jiguza/ui/story/sad_b": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/serious": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/serious_b": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
   "character/mob_jiguza/ui/story/shame": [
     [
       "209",
@@ -49767,10 +49799,106 @@
       "690"
     ]
   ],
+  "character/mob_jiguza/ui/story/smile": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/smile_b": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/surprise": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/surprise_b": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
   "character/mob_jiguza/ui/story/sweat": [
     [
       "318",
       "202",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza/ui/story/think": [
+    [
+      "207",
+      "175",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/full_shot_1440_1920_0": [
+    [
+      "199",
+      "224",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/skill_cutin_0": [
+    [
+      "273",
+      "65",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/full_shot_1440_1920_1": [
+    [
+      "205",
+      "210",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/skill_cutin_1": [
+    [
+      "55",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/story/base_0": [
+    [
+      "0",
+      "104",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/mob_jiguza_playable/ui/story/normal": [
+    [
+      "0",
+      "0",
       "570",
       "690"
     ]

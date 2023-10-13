@@ -861,6 +861,12 @@
       "dynamic/advent_event_tutorial/kc/kc_tutorial_01"
     ]
   ],
+  "kc_guardian_golem_light": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/kc/kc_tutorial_01"
+    ]
+  ],
   "kc_anv1": [
     [
       "0",
@@ -1935,6 +1941,12 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_event_variant_empress_wind/tutorial_01"
+    ]
+  ],
+  "advent_variant_empress_thunder": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_variant_empress_thunder/tutorial_01"
     ]
   ],
   "abyss_beast": [

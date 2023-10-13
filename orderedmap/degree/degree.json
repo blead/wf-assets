@@ -12479,6 +12479,19 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "141189": [
+    [
+      "degree_favor_mob_jiguza_playable",
+      "117000",
+      "異界渡りの画狂",
+      "いかいわたりのがきょう",
+      "獲得条件：【異界渡りの画狂】画狂老人ジグザをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mob_jiguza_playable"
+    ]
+  ],
   "111177": [
     [
       "degree_favor_wirfled_playable",

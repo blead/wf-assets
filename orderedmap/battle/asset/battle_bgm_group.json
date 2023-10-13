@@ -1682,6 +1682,15 @@
       "(None)"
     ]
   ],
+  "advent_variant_empress_thunder_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/boss_battle_multi_pickup/battle/reine_jaune_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "event_valentine_battle_boss": [
     [
       "2",

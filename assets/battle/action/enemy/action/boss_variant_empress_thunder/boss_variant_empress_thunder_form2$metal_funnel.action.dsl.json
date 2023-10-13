@@ -1,0 +1,36 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "SpawnFunnel",
+          [
+            "StandardFunnel",
+            "variant_empress_thunder_funnel_metal"
+          ],
+          4,
+          [
+            "FunnelGroup",
+            1
+          ],
+          null
+        ]
+      ]
+    ]
+  ]
+]

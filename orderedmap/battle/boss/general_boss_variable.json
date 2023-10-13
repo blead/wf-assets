@@ -8814,6 +8814,72 @@
       ]
     }
   },
+  "guardian_golem_another_light_kc": {
+    "79": {
+      "punch_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "360"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "360"
+        ]
+      ],
+      "neutral1": [
+        [
+          "45"
+        ]
+      ],
+      "neutral2": [
+        [
+          "150"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
+        ]
+      ]
+    },
+    "100": {
+      "punch_charge": [
+        [
+          "120"
+        ]
+      ],
+      "skill_charge1": [
+        [
+          "360"
+        ]
+      ],
+      "skill_charge2": [
+        [
+          "360"
+        ]
+      ],
+      "neutral1": [
+        [
+          "45"
+        ]
+      ],
+      "neutral2": [
+        [
+          "150"
+        ]
+      ],
+      "funnel_fire": [
+        [
+          "2"
+        ]
+      ]
+    }
+  },
   "grizzly": {
     "100": {
       "mogumogu_time": [

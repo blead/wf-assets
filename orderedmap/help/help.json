@@ -912,6 +912,17 @@
       "2023-10-06 04:59:59"
     ]
   ],
+  "event_kc_guardian_golem_light": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_guardian_golem_light",
+      "2023-10-13 12:00:00",
+      "2023-10-30 04:59:59"
+    ]
+  ],
   "event_kc_anv1": [
     [
       "help_label_event_kc_summer_2021",
@@ -1603,6 +1614,17 @@
       "rich_text/help_event_advent_variant_empress_wind_template",
       "2023-09-29 12:00:00",
       "2023-10-20 04:59:59"
+    ]
+  ],
+  "Help_advent_variant_empress_thunder_20231013_20231022": [
+    [
+      "help_label_event_advent_variant_empress_thunder",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_variant_empress_thunder_template",
+      "2023-10-13 12:00:00",
+      "2023-10-30 04:59:59"
     ]
   ],
   "Help_advent_variant_empress_light_20230814_20230828": [

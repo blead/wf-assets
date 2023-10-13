@@ -2596,6 +2596,25 @@
       ]
     }
   },
+  "funnel_guardian_golem_another_light_kc": {
+    "100": {
+      "charge1": [
+        [
+          "150"
+        ]
+      ],
+      "charge2": [
+        [
+          "150"
+        ]
+      ],
+      "charge3": [
+        [
+          "150"
+        ]
+      ]
+    }
+  },
   "avator_ghost_fox_avator_rush": {
     "79": {
       "charge": [

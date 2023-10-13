@@ -3459,6 +3459,16 @@
       "12"
     ]
   ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_jaune_battle_boss": [
+    [
+      "0.35",
+      "220",
+      "0.054126985",
+      "0.054126985",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/boss_battle_multi_pickup/battle/reine_blanche_battle_boss": [
     [
       "0.35",
@@ -3695,6 +3705,16 @@
       "128",
       "0.06791383",
       "60.067913",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/mob_jiguza_playable/mob_jiguza_playable": [
+    [
+      "0.35",
+      "89",
+      "0.07204082",
+      "89.02002",
       "(None)",
       "12"
     ]

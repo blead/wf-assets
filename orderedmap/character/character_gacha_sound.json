@@ -2075,6 +2075,28 @@
       ]
     ]
   },
+  "141189": {
+    "11": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "83": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "131": [
+      [
+        "sound_effect/fire/se_fire_spread"
+      ]
+    ]
+  },
   "131176": {
     "5": [
       [

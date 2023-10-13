@@ -6414,9 +6414,9 @@
       "画狂老人Ｚ",
       "0x82a0c1",
       "character/mob_jiguza/voice/",
-      "normal,normal_b,amazed,anger,anger_b,consent,joy,sad,shame,sweat,normal_right,normal_b_right,amazed_right,anger_right,anger_b_right,consent_right,joy_right,sad_right,shame_right,sweat_right",
-      "character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b",
-      "character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat,character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat"
+      "normal,normal_b,amazed,anger,anger_b,consent,joy,sad,shame,sweat,joy_b,sad_b,serious,serious_b,smile,smile_b,surprise,surprise_b,think,normal_right,normal_b_right,amazed_right,anger_right,anger_b_right,consent_right,joy_right,sad_right,shame_right,sweat_right,joy_b_right,sad_b_right,serious_right,serious_b_right,smile_right,smile_b_right,surprise_right,surprise_b_right,think_right",
+      "character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b",
+      "character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat,character/mob_jiguza/ui/story/joy_b,character/mob_jiguza/ui/story/sad_b,character/mob_jiguza/ui/story/serious,character/mob_jiguza/ui/story/serious_b,character/mob_jiguza/ui/story/smile,character/mob_jiguza/ui/story/smile_b,character/mob_jiguza/ui/story/surprise,character/mob_jiguza/ui/story/surprise_b,character/mob_jiguza/ui/story/think,character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat,character/mob_jiguza/ui/story/joy_b,character/mob_jiguza/ui/story/sad_b,character/mob_jiguza/ui/story/serious,character/mob_jiguza/ui/story/serious_b,character/mob_jiguza/ui/story/smile,character/mob_jiguza/ui/story/smile_b,character/mob_jiguza/ui/story/surprise,character/mob_jiguza/ui/story/surprise_b,character/mob_jiguza/ui/story/think"
     ]
   ],
   "ekaki_onmyoji_younggirl": [
@@ -7734,6 +7734,76 @@
       "？？？",
       "0xff9f1c",
       "character/light/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "frontier_people": [
+    [
+      "辺境の民",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "frontier_children": [
+    [
+      "辺境の子供",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "farland_aristocrat": [
+    [
+      "ファーランド貴族",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mob_jiguza_playable": [
+    [
+      "画狂老人ジグザ",
+      "0x539722",
+      "character/mob_jiguza/voice/",
+      "normal,normal_c,normal_b,amazed,anger,anger_b,consent,joy,sad,shame,sweat,joy_b,sad_b,serious,serious_b,smile,smile_b,surprise,surprise_b,think,normal_c_right,normal_b_right,amazed_right,anger_right,anger_b_right,consent_right,joy_right,sad_right,shame_right,sweat_right,joy_b_right,sad_b_right,serious_right,serious_b_right,smile_right,smile_b_right,surprise_right,surprise_b_right,think_right",
+      "character/mob_jiguza_playable/ui/story/base_0,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b,character/mob_jiguza/ui/story/base_b",
+      "character/mob_jiguza_playable/ui/story/normal,character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat,character/mob_jiguza/ui/story/joy_b,character/mob_jiguza/ui/story/sad_b,character/mob_jiguza/ui/story/serious,character/mob_jiguza/ui/story/serious_b,character/mob_jiguza/ui/story/smile,character/mob_jiguza/ui/story/smile_b,character/mob_jiguza/ui/story/surprise,character/mob_jiguza/ui/story/surprise_b,character/mob_jiguza/ui/story/think,character/mob_jiguza/ui/story/normal,character/mob_jiguza/ui/story/normal_b,character/mob_jiguza/ui/story/amazed,character/mob_jiguza/ui/story/anger,character/mob_jiguza/ui/story/anger_b,character/mob_jiguza/ui/story/consent,character/mob_jiguza/ui/story/joy,character/mob_jiguza/ui/story/sad,character/mob_jiguza/ui/story/shame,character/mob_jiguza/ui/story/sweat,character/mob_jiguza/ui/story/joy_b,character/mob_jiguza/ui/story/sad_b,character/mob_jiguza/ui/story/serious,character/mob_jiguza/ui/story/serious_b,character/mob_jiguza/ui/story/smile,character/mob_jiguza/ui/story/smile_b,character/mob_jiguza/ui/story/surprise,character/mob_jiguza/ui/story/surprise_b,character/mob_jiguza/ui/story/think"
+    ]
+  ],
+  "ghost_child_voice": [
+    [
+      "子供の声",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "elation_drunk_man": [
+    [
+      "酔っぱらい",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "ekaki_girl_playable_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "(None)",
       "",
       "",
       ""
