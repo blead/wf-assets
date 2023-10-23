@@ -7175,6 +7175,97 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1121159": [
+    [
+      "degree_favor_vesta_caster_2",
+      "57001",
+      "ベスタの杖",
+      "べすたのつえ",
+      "獲得条件：【心角の冒険者】ニスエスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_vesta_caster_2"
+    ]
+  ],
+  "1151165": [
+    [
+      "degree_favor_alk_3halfanv_2",
+      "200021",
+      "星よ、共に在れ",
+      "ほしよともにあれ",
+      "獲得条件：【双星の剣】アルクのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_alk_3halfanv_2"
+    ]
+  ],
+  "1161177": [
+    [
+      "degree_favor_ruin_girl_3halfanv_2",
+      "121031",
+      "全ての夜明けに始まりを",
+      "すべてのよあけにはじまりを",
+      "獲得条件：【美少女新入生兵器】ネフティムのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_ruin_girl_3halfanv_2"
+    ]
+  ],
+  "1111165": [
+    [
+      "degree_favor_resistance_princess_3halfanv_2",
+      "332021",
+      "彼方を照らす灯火を",
+      "かなたをてらすともしびを",
+      "獲得条件：【炎の守護者】リリスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_resistance_princess_3halfanv_2"
+    ]
+  ],
+  "1153001": [
+    [
+      "degree_favor_psychic_nao_3halfanv_2",
+      "228011",
+      "星よ、未来を掴め",
+      "ほしよみらいをつかめ",
+      "獲得条件：【新たなる冒険者】凪原ナオのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_nao_3halfanv_2"
+    ]
+  ],
+  "1161189": [
+    [
+      "degree_favor_priest_prince_playable_2",
+      "177001",
+      "星を喰らう闇",
+      "ほしをくらうやみ",
+      "獲得条件：【星を無くした光】マーデンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_priest_prince_playable_2"
+    ]
+  ],
+  "1161183": [
+    [
+      "degree_favor_psychic_teleport_playable_2",
+      "178001",
+      "寄り添う音色",
+      "よりそうねいろ",
+      "獲得条件：【瞬間移動の能力者】澄波ヒビキのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_teleport_playable_2"
+    ]
+  ],
   "1111141": [
     [
       "degree_favor_tiger_treasure_hunter_xm22_2",

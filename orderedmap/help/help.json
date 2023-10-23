@@ -846,6 +846,17 @@
       "2023-05-16 04:59:59"
     ]
   ],
+  "event_raid_event_06": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event_06",
+      "2023-10-23 12:00:00",
+      "2023-11-07 04:59:59"
+    ]
+  ],
   "multi_special_exchange_01": [
     [
       "help_label_event_multi_special_exchange",

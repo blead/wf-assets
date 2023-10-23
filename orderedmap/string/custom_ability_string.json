@@ -289,6 +289,31 @@
       "『鬼神ノ手・共鳴』の「攻撃力アップ効果」を強化"
     ]
   ],
+  "change_skill_psychic_katana": [
+    [
+      "『天雷一閃』の威力を強化"
+    ]
+  ],
+  "change_skill_catbaby_psychicer_2": [
+    [
+      "『キトゥンキネシス』の「貫通効果」を強化"
+    ]
+  ],
+  "change_skill_alk_3halfanv_2": [
+    [
+      "『メテオブレイク・ライズ』の威力を強化"
+    ]
+  ],
+  "change_skill_psychic_nao_3halfanv_2": [
+    [
+      "『星よ、未来を掴め』の「攻撃力アップ効果」を強化"
+    ]
+  ],
+  "change_skill_psychic_nao_3halfanv_3": [
+    [
+      "『星よ、未来を掴め』の「スキルダメージアップ効果」を強化"
+    ]
+  ],
   "change_skill_silence_suzuka": [
     [
       "『先頭の景色は譲らない…！』の「最大速度固定効果」を強化 ＆ アウトホールに柵を設置 ＆ しばらくの間ダッシュを受け付けない"

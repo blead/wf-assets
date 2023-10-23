@@ -143,5 +143,34 @@
       "2023-05-05 20:59:59",
       "2023-05-16 04:59:59"
     ]
+  ],
+  "6": [
+    [
+      "raid_event_06",
+      "レイドイベント 戦陣の宴",
+      "2023-10-23 12:00:00,2023-10-30 20:59:59,2023-11-07 04:59:59",
+      "quest/event/banner/raid_event/raid_event_banner_06_001,quest/event/banner/raid_event/raid_event_banner_06_002",
+      "quest/event/bossbattle_banner/raid_event/raid_event_bossbattle_banner_06,(None)",
+      "quest/event/background/raid_event/raid_event_background_06",
+      "(None)",
+      "(None)",
+      "bgm/event/raid_event/raid_event_top",
+      "3",
+      "quest/event/boss_thumbnail/raid_event/raid_event_06/raid_event_boss_thumbnail_06",
+      "battle/boss/yokai_emaki_middle_boss/yokai_emaki_middle_boss",
+      "battle/boss/yokai_emaki_middle_boss/yokai_emaki_middle_boss_shadow",
+      "neutral",
+      "wince",
+      "dead",
+      "0",
+      "250000",
+      "27",
+      "2023-11-07 04:59:59",
+      "(None)",
+      "raid_event_06",
+      "2023-10-23 12:00:00",
+      "2023-10-30 20:59:59",
+      "2023-11-07 04:59:59"
+    ]
   ]
 }

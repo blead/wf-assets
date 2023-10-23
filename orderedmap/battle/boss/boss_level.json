@@ -3739,6 +3739,23 @@
       "800"
     ]
   ],
+  "white_tiger_ghost_thunder_expert_100_raid": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "115",
+      "1.5",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "10",
+      "1",
+      "atk_single",
+      "tp_normal",
+      "500"
+    ]
+  ],
   "orochi_ex": [
     [
       "0",

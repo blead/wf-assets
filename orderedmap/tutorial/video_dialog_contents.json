@@ -811,6 +811,24 @@
       "dynamic/how_to/raid_event/raid_event_01/howto_05"
     ]
   ],
+  "raid_event_06": [
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_01/howto_01"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_01/howto_02"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_01/howto_03"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_01/howto_04"
+    ]
+  ],
   "multi_special_exchange": [
     [
       "0",

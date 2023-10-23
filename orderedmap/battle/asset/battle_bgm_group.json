@@ -800,6 +800,15 @@
       "(None)"
     ]
   ],
+  "raid_event_06_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/raid_event/raid_event_battle_yellow",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "multi_pickup_empress_01_boss": [
     [
       "2",

@@ -3385,6 +3385,125 @@
       ]
     ]
   },
+  "204": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_ny21ny22_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121093",
+        "0",
+        "121093",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_54/heavenly_three/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121093",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_heavenly_two",
+        "131026",
+        "0",
+        "131026",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/heavenly_two/feature",
+        "",
+        "",
+        "",
+        "0",
+        "131026",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_timid_kunoichi_ny21",
+        "141027",
+        "0",
+        "141027",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/timid_kunoichi_ny21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141027",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_urban_soldier_ny21",
+        "221022",
+        "0",
+        "221022",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_28/urban_soldier_ny21/feature",
+        "",
+        "",
+        "",
+        "0",
+        "221022",
+        ""
+      ]
+    ]
+  },
   "195": {
     "1": [
       [
@@ -15626,6 +15745,21 @@
         "",
         "0",
         "141045",
+        ""
+      ]
+    ]
+  },
+  "205": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/green_element_character_pickup_02",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
         ""
       ]
     ]

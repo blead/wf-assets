@@ -17335,6 +17335,53 @@
       ]
     ]
   },
+  "raid_yokai_emaki_middle_boss": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "yokai_emaki_middle_boss_multi",
+        "1",
+        "yokai_emaki_middle_boss_multi",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_raid/raid_event_light/outhole/outhole",
+        "battle/field_object/world_raid/raid_event_light/yakumono/dash_panel",
+        "battle/field_object/world_raid/raid_event_light/rotation_panel/raid_event_ligh_rotation_panel",
+        "(None)",
+        "chapter1_mana_breakableblock",
+        "chapter1_mana_decoration"
+      ]
+    ]
+  },
   "raid_alter_sheep_materia1": {
     "0": [
       [

@@ -4528,6 +4528,13 @@
       "multi_reine_rouge_4"
     ]
   ],
+  "raid_yokai_emaki_middle_boss": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/raid_yokai_emaki_middle_boss/raid_yokai_emaki_middle_boss",
+      "raid_yokai_emaki_middle_boss"
+    ]
+  ],
   "raid_alter_sheep_materia1": [
     [
       "light_guardian_raid",
