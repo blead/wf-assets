@@ -1606,12 +1606,12 @@
   ],
   "ability_description_instant_trigger_limit_once": [
     [
-      "一度だけ"
+      "::eachMember::一度だけ"
     ]
   ],
   "ability_description_instant_trigger_limit_n_times": [
     [
-      "計 ::count:: 回まで"
+      "::eachMember::計 ::count:: 回まで"
     ]
   ],
   "ability_description_instant_conjunction_trigger_limit_once": [
@@ -1704,6 +1704,11 @@
       "ごと"
     ]
   ],
+  "ability_description_each_member": [
+    [
+      "それぞれ"
+    ]
+  ],
   "ability_description_n_times": [
     [
       "::count::&nbsp;回"
@@ -1761,7 +1766,7 @@
   ],
   "ability_description_instant_trigger_kind_continuous_power_flip_lv": [
     [
-      "パワーフリップLv::level::::if (level <= 2)::以上::end::を連続で ::count:: 回::if once::発動::else::発動する::end::"
+      "パワーフリップ::if (level >= 2)::Lv::level::::if (level <= 2)::以上::end::::end::を連続で ::count:: 回::if once::発動::else::発動する::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_power_flip_hit_lv_high_count": [
@@ -2151,12 +2156,12 @@
   ],
   "ability_description_during_trigger_kind_continuous_power_flip_high": [
     [
-      "パワーフリップLv::level::::if (level <= 2)::以上::end::が連続で ::count:: 回以上続いている間::if (isBeforeInstantTrigger)::に::else::、::end::"
+      "パワーフリップ::if (level >= 2)::Lv::level::::if (level <= 2)::以上::end::::end::が連続で ::count:: 回以上続いている間::if (isBeforeInstantTrigger)::に::else::、::end::"
     ]
   ],
   "ability_description_during_trigger_kind_continuous_power_flip_high_count": [
     [
-      "パワーフリップLv::level::::if (level <= 2)::以上::end::を連続発動している間、その回数に応じて"
+      "パワーフリップ::if (level >= 2)::Lv::level::::if (level <= 2)::以上::end::::end::を連続発動している間、その回数に応じて"
     ]
   ],
   "ability_description_during_trigger_kind_continuous_power_flip_high_count_detail": [
@@ -2994,6 +2999,11 @@
       "::if !withoutTarget::::target::の::end::「追い打ちダメージアップ」をブレイク・ダウン状態を問わず有効にする"
     ]
   ],
+  "ability_description_common_content_override_character_element": [
+    [
+      "バトル中::element_full::になる"
+    ]
+  ],
   "ability_description_common_content_scapegoat": [
     [
       "::if !withoutTarget::::target::のダメージを::end::::if (strength < 100000) :: ::percent:: ::end::かばう"
@@ -3451,12 +3461,12 @@
   ],
   "ability_description_end_power_flip_limit_once": [
     [
-      "パワーフリップLv::pfLevel::::if isOver::以上::end::が終了するまで"
+      "パワーフリップ::if isOver::::if (pfLevel > 1)::Lv::pfLevel::以上::end::::else::Lv::pfLevel::::end::が終了するまで"
     ]
   ],
   "ability_description_end_power_flip_limit_n_times": [
     [
-      "::count:: 回パワーフリップLv::pfLevel::::if isOver::以上::end::が終了するまで"
+      "::count:: 回パワーフリップ::if isOver::::if (pfLevel > 1)::Lv::pfLevel::以上::end::::else::Lv::pfLevel::::end::が終了するまで"
     ]
   ],
   "ability_description_variety_element": [
