@@ -8,6 +8,7 @@ on:
 jobs:
   eliyabot-assets:
     runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_dispatch || github.event.workflow_run.conclusion == 'success' }}
     steps:
     - id: token
       uses: tibdex/github-app-token@v2
