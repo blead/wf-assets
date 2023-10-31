@@ -4389,6 +4389,125 @@
       ]
     ]
   },
+  "207": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/revival_halfanv_character_pickup_01/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_mermaid_1halfanv",
+        "121045",
+        "0",
+        "121045",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_39/mermaid_1halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121045",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "1",
+        "skill_preview_gacha_ruin_girl_halfanv",
+        "151009",
+        "0",
+        "151009",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_13/ruin_girl_halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151009",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161117",
+        "0",
+        "161117",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_64/warlock_2halfanv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161117",
+        ""
+      ]
+    ],
+    "8": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "261071",
+        "0",
+        "261071",
+        ""
+      ]
+    ],
+    "9": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_51/informant_2anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "261071",
+        ""
+      ]
+    ]
+  },
   "148": {
     "1": [
       [
@@ -8190,6 +8309,47 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "206": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_98/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "121189",
+        "0",
+        "121189",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_98/dryad_hw23/feature",
+        "",
+        "",
+        "",
+        "0",
+        "121189",
         ""
       ]
     ]
@@ -15949,6 +16109,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_water_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5042": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_red_pickup_1",
         "",
         "",
         "",

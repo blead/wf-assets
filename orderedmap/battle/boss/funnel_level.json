@@ -11525,6 +11525,40 @@
       "1"
     ]
   ],
+  "halloween_jack_bomb_attack_funnel_rush_re01": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "30",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "38",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
+  "halloween_jack_bomb_attack_funnel_ex_rush_re01": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "560",
+      "1",
+      "hit_hp_correction_funnel",
+      "",
+      "",
+      "atk_basic_normal",
+      "38",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "1"
+    ]
+  ],
   "halloween_jack_bomb_attack_funnel": [
     [
       "0",

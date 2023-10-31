@@ -2133,6 +2133,54 @@
       ]
     }
   },
+  "halloween_jack_bomb_attack_funnel_rush_re01": {
+    "100": {
+      "neutral": [
+        [
+          "90"
+        ]
+      ],
+      "neutral2": [
+        [
+          "60"
+        ]
+      ],
+      "charge1": [
+        [
+          "60"
+        ]
+      ],
+      "charge2": [
+        [
+          "150"
+        ]
+      ]
+    }
+  },
+  "halloween_jack_bomb_attack_funnel_ex_rush_re01": {
+    "100": {
+      "neutral": [
+        [
+          "90"
+        ]
+      ],
+      "neutral2": [
+        [
+          "180"
+        ]
+      ],
+      "charge1": [
+        [
+          "450"
+        ]
+      ],
+      "charge2": [
+        [
+          "210"
+        ]
+      ]
+    }
+  },
   "halloween_jack_bomb_attack_funnel_rush": {
     "100": {
       "neutral": [

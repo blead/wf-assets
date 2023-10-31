@@ -1379,6 +1379,36 @@
       "2023-01-07 04:59:59"
     ]
   ],
+  "200072": [
+    [
+      "advent_variant_hw_fire_20231031_20231113",
+      "9",
+      "君に届ける鎮魂歌",
+      "",
+      "quest/event/banner/advent_event/advent_variant_hw_fire",
+      "quest/event/bossbattle_banner/advent_event/advent_variant_hw_fire",
+      "0",
+      "quest/event/background/advent_event/advent_variant_hw_fire",
+      "quest/event/logo/advent_event/advent_variant_hw_fire",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "1000",
+      "bgm/event/advent_event/advent_event_hw20/system/halloween_stage_node",
+      "event",
+      "10000057",
+      "10000058",
+      "10000059",
+      "(None)",
+      "true",
+      "advent_variant_hw_fire",
+      "true",
+      "2023-10-31 12:00:00",
+      "2023-11-13 20:59:59",
+      "2023-11-21 04:59:59"
+    ]
+  ],
   "200069": [
     [
       "advent_variant_empress_wind_20230929_20231012",
@@ -1829,6 +1859,36 @@
       "2022-09-23 04:59:59"
     ]
   ],
+  "200074": [
+    [
+      "advent_spirit_beast_dark_20231031_20231113",
+      "(None)",
+      "闇喚の精霊獣",
+      "",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_dark",
+      "quest/event/bossbattle_banner/advent_event/advent_event_spirit_beast_dark",
+      "0",
+      "quest/event/background/advent_event/advent_event_spirit_beast_dark",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "25",
+      "bgm/event/advent_event_spirit_beast/spirit_beast_stage_node",
+      "event",
+      "10000065",
+      "10000066",
+      "10000067",
+      "(None)",
+      "true",
+      "advent_spirit_beast_dark",
+      "true",
+      "2023-10-31 12:00:00",
+      "2023-11-13 20:59:59",
+      "2023-11-21 04:59:59"
+    ]
+  ],
   "200016": [
     [
       "advent_spirit_beast_dark2",
@@ -1857,36 +1917,6 @@
       "2022-12-06 12:00:00",
       "2022-12-15 20:59:59",
       "2022-12-23 04:59:59"
-    ]
-  ],
-  "200061": [
-    [
-      "advent_hw23",
-      "9",
-      "君に届ける鎮魂歌",
-      "",
-      "quest/event/banner/advent_event/event_advent_hw20",
-      "quest/event/bossbattle_banner/advent_event/advent_event_hw20",
-      "0",
-      "quest/event/background/advent_event/advent_event_hw20",
-      "quest/event/logo/advent_event/advent_hw20",
-      "(None)",
-      "",
-      "1",
-      "(None)",
-      "9",
-      "bgm/event/advent_event/advent_event_hw20/system/halloween_stage_node",
-      "event",
-      "10000007",
-      "10000008",
-      "10000009",
-      "(None)",
-      "true",
-      "advent_hw20",
-      "true",
-      "2023-08-07 12:00:00",
-      "2023-08-21 20:59:59",
-      "2023-08-29 04:59:59"
     ]
   ],
   "200010": [

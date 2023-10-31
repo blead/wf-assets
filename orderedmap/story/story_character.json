@@ -7739,6 +7739,116 @@
       ""
     ]
   ],
+  "dryad_hw23": [
+    [
+      "チャルア",
+      "0x2f60b2",
+      "character/dryad/voice/",
+      "normal,angry,angry_b,joy,sad,sad_b,serious,serious_b,shame,smile,smile_b,smile_c,surprise,surprise_b,sweat,think,evolve",
+      "character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_0,character/dryad_hw23/ui/story/base_1",
+      "character/dryad_hw23/ui/story/normal,character/dryad_hw23/ui/story/angry,character/dryad_hw23/ui/story/angry_b,character/dryad_hw23/ui/story/joy,character/dryad_hw23/ui/story/sad,character/dryad_hw23/ui/story/sad_b,character/dryad_hw23/ui/story/serious,character/dryad_hw23/ui/story/serious_b,character/dryad_hw23/ui/story/shame,character/dryad_hw23/ui/story/smile,character/dryad_hw23/ui/story/smile_b,character/dryad_hw23/ui/story/smile_c,character/dryad_hw23/ui/story/surprise,character/dryad_hw23/ui/story/surprise_b,character/dryad_hw23/ui/story/sweat,character/dryad_hw23/ui/story/think,(None)"
+    ]
+  ],
+  "dryad_hw23_unknown": [
+    [
+      "？？？",
+      "0x2f60b2",
+      "character/dryad_hw23/voice/",
+      "normal",
+      "character/dryad_hw23/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "immortal": [
+    [
+      "不死者",
+      "0xb3839c",
+      "(None)",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "immortal_unknown": [
+    [
+      "？？？",
+      "0xb3839c",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "great_tree_spirit": [
+    [
+      "大樹の精霊",
+      "0x539722",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "great_tree_spirit_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "mother_of_babies": [
+    [
+      "赤子の母",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "father_of_babies": [
+    [
+      "赤子の父",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "hw20_sing_android_and_reaper_girl": [
+    [
+      "ディア＆ファルチェ",
+      "0x3f2843",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "zeppu": [
+    [
+      "ゼップウ",
+      "0x539722",
+      "(None)",
+      "normal",
+      "character/zeppu/ui/story/base_0",
+      "character/zeppu/ui/story/normal"
+    ]
+  ],
+  "lich_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/lich/voice/",
+      "",
+      "",
+      ""
+    ]
+  ],
   "frontier_people": [
     [
       "辺境の民",

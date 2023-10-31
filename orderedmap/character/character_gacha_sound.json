@@ -2075,6 +2075,28 @@
       ]
     ]
   },
+  "121189": {
+    "5": [
+      [
+        "sound_effect/situation/se_jump_up"
+      ]
+    ],
+    "35": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/light/se_light_rising_shine"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
   "141189": {
     "11": [
       [

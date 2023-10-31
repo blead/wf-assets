@@ -12570,6 +12570,19 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "121189": [
+    [
+      "degree_favor_dryad_hw23",
+      "443020",
+      "祝福の精霊",
+      "しゅくふくのせいれい",
+      "獲得条件：【祝福の精霊】チャルアをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dryad_hw23"
+    ]
+  ],
   "141189": [
     [
       "degree_favor_mob_jiguza_playable",

@@ -2096,7 +2096,7 @@
   ],
   "ability_description_instant_trigger_excess_skill_gauge": [
     [
-      "バトル開始時に::if !omittable::::triggerPuller::の::end::スキルゲージが ::percent:: ::if once::超過した::else::超過する::end::"
+      "バトル開始時に超過した::if !omittable::::triggerPuller::の::end::スキルゲージ ::percent:: につき、"
     ]
   ],
   "ability_description_during_trigger_kind_hp_low": [
@@ -5450,6 +5450,11 @@
     ]
   ],
   "help_label_event_advent_hw23": [
+    [
+      "降臨討伐 君に届ける鎮魂歌"
+    ]
+  ],
+  "help_label_event_advent_variant_hw_fire": [
     [
       "降臨討伐 君に届ける鎮魂歌"
     ]

@@ -4487,6 +4487,22 @@
       "12"
     ]
   ],
+  "sound_effect/situation/se_cane_a": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
+  "sound_effect/situation/se_cane_b": [
+    [
+      "0.35",
+      "0",
+      "0",
+      "12"
+    ]
+  ],
   "sound_effect/situation/se_car_drive": [
     [
       "0.35",

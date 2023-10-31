@@ -4868,12 +4868,84 @@
       "false"
     ]
   ],
+  "218251": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_06",
+      "2023-10-31 12:00:00",
+      "2023-11-23 11:59:59",
+      "false"
+    ]
+  ],
+  "218252": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_07",
+      "2023-11-30 12:00:00",
+      "2023-12-23 11:59:59",
+      "false"
+    ]
+  ],
+  "218253": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_08",
+      "2023-12-31 12:00:00",
+      "2024-01-23 11:59:59",
+      "false"
+    ]
+  ],
+  "218254": [
+    [
+      "4000",
+      "dynamic/feature_announcement/exchange_character_ticket_gift_09",
+      "2024-01-31 12:00:00",
+      "2024-02-23 11:59:59",
+      "false"
+    ]
+  ],
+  "218150": [
+    [
+      "3001",
+      "dynamic/feature_announcement/equipment_red_pickup_1",
+      "2023-10-31 12:00:00",
+      "2023-11-30 11:59:59",
+      "false"
+    ]
+  ],
+  "218070": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_98",
+      "2023-10-31 12:00:00",
+      "2023-11-07 11:59:59",
+      "false"
+    ]
+  ],
+  "218079": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_halfanv_character_pickup_01",
+      "2023-10-31 12:00:00",
+      "2023-11-07 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
       "dynamic/feature_announcement/advent_u_collabo_event",
       "2022-06-15 12:00:00",
       "2022-06-30 11:59:59",
+      "false"
+    ]
+  ],
+  "10000056": [
+    [
+      "1000",
+      "dynamic/feature_announcement/collect_item_event_018",
+      "2023-10-31 12:00:00",
+      "2023-11-13 20:59:59",
       "false"
     ]
   ],
@@ -4985,6 +5057,15 @@
       "false"
     ]
   ],
+  "10000053": [
+    [
+      "2000",
+      "dynamic/feature_announcement/character_training_campaign_staminahalf_challenge1",
+      "2023-10-31 12:00:00",
+      "2023-11-14 20:59:59",
+      "false"
+    ]
+  ],
   "10000019": [
     [
       "2000",
@@ -5018,6 +5099,15 @@
       "dynamic/feature_announcement/gw23_campaign_mission",
       "2023-04-28 12:00:00",
       "2023-05-07 20:59:59",
+      "false"
+    ]
+  ],
+  "10000055": [
+    [
+      "2000",
+      "dynamic/feature_announcement/halloween23_campaign_mission",
+      "2023-10-31 12:00:00",
+      "2023-11-14 20:59:59",
       "false"
     ]
   ],
@@ -5072,6 +5162,15 @@
       "dynamic/feature_announcement/new_character_pickup_74",
       "2022-10-31 12:00:00",
       "2022-11-15 11:59:59",
+      "false"
+    ]
+  ],
+  "10000057": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_variant_hw_fire",
+      "2023-10-31 12:00:00",
+      "2023-11-13 20:59:59",
       "false"
     ]
   ],
@@ -5189,6 +5288,15 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_fire2",
       "2023-05-15 12:00:00",
       "2023-05-31 20:59:59",
+      "false"
+    ]
+  ],
+  "10000059": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_event_spirit_beast_dark2",
+      "2023-10-31 12:00:00",
+      "2023-11-13 20:59:59",
       "false"
     ]
   ],

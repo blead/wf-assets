@@ -56971,6 +56971,53 @@
       ]
     ]
   },
+  "advent_hw22_re01": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "halloween_jack_rush_re01",
+        "1",
+        "halloween_jack_rush_re01",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_advent/halloween_area/outhole/halloween_area_outhole_zone1",
+        "battle/field_object/world_advent/halloween_area/yakumono/dash_panel",
+        "battle/field_object/world_advent/halloween_area/rotation_panel/halloween_area_rotation_panel",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "advent_hw20_01": {
     "0": [
       [

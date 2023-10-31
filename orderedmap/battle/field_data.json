@@ -5851,6 +5851,13 @@
       "multi_normal_1_24_4"
     ]
   ],
+  "skill_preview_dryad_hw23": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_dryad_hw23",
+      "skill_preview_common"
+    ]
+  ],
   "skill_preview_mob_jiguza_playable": [
     [
       "common_skill_preview",
@@ -8782,6 +8789,13 @@
       "light_dragon_area",
       "battle/terrain/event_quest/advent_event/discarded_dragon_light/discarded_dragon_light_04",
       "advent_event_discarded_dragon_light_4"
+    ]
+  ],
+  "advent_hw22_re01": [
+    [
+      "advent_hw20_area",
+      "battle/terrain/event_quest/advent_event/advent_hw20/advent_hw20_rush_re01",
+      "advent_hw22_re01"
     ]
   ],
   "advent_hw20_1": [

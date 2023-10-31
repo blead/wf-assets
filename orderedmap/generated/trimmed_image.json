@@ -24407,6 +24407,190 @@
       "690"
     ]
   ],
+  "character/dryad_hw23/ui/full_shot_1440_1920_0": [
+    [
+      "132",
+      "47",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/dryad_hw23/ui/skill_cutin_0": [
+    [
+      "145",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/dryad_hw23/ui/full_shot_1440_1920_1": [
+    [
+      "204",
+      "107",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/dryad_hw23/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/angry": [
+    [
+      "214",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/angry_b": [
+    [
+      "214",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/joy": [
+    [
+      "212",
+      "111",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/normal": [
+    [
+      "213",
+      "109",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/sad": [
+    [
+      "214",
+      "124",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/sad_b": [
+    [
+      "212",
+      "103",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/serious": [
+    [
+      "214",
+      "109",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/serious_b": [
+    [
+      "213",
+      "109",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/shame": [
+    [
+      "214",
+      "295",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/smile": [
+    [
+      "213",
+      "109",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/smile_b": [
+    [
+      "212",
+      "109",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/smile_c": [
+    [
+      "214",
+      "117",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/surprise": [
+    [
+      "214",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/surprise_b": [
+    [
+      "214",
+      "121",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/sweat": [
+    [
+      "315",
+      "315",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/think": [
+    [
+      "212",
+      "112",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dryad_hw23/ui/story/unknown": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
   "character/dryad_xm19/ui/full_shot_1440_1920_0": [
     [
       "371",
@@ -92755,6 +92939,22 @@
     [
       "256",
       "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/zeppu/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/zeppu/ui/story/normal": [
+    [
+      "182",
+      "203",
       "570",
       "690"
     ]

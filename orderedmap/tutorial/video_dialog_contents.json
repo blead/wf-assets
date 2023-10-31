@@ -1967,6 +1967,12 @@
       "dynamic/advent_event_tutorial/advent_event_variant_empress_thunder/tutorial_01"
     ]
   ],
+  "advent_variant_hw_fire": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_variant_hw_fire/tutorial_01"
+    ]
+  ],
   "abyss_beast": [
     [
       "0",
