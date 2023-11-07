@@ -4262,6 +4262,20 @@
       "tower_dungeon_area_10_5_3_score_event"
     ]
   ],
+  "administrator_another_dark_rush": [
+    [
+      "mecha_area02",
+      "battle/terrain/event_quest/rush_event/rush_administrator_another_dark/rush_administrator_another_dark",
+      "administrator_another_dark_rush"
+    ]
+  ],
+  "big_boss_anv1_rush": [
+    [
+      "end_dungeon",
+      "battle/terrain/event_quest/rush_event/rush_big_boss_anv1/rush_big_boss_anv1",
+      "big_boss_anv1_single"
+    ]
+  ],
   "boar_rider_rush": [
     [
       "beast_cat_village",
@@ -8194,6 +8208,27 @@
       "cyber_punk_vacant_land_battle_hell",
       "battle/terrain/event_quest/story_event/anv2/boss_battle_mechanic_dragon_eater_hell",
       "anv2_mechanic_dragon_eater_challenge_hell"
+    ]
+  ],
+  "halfanv25_big_boss_hell": [
+    [
+      "halfanv25_big_boss_hell",
+      "battle/terrain/event_quest/story_event/halfanv25/halfanv25_big_boss",
+      "halfanv25_big_boss_hell"
+    ]
+  ],
+  "summer22_helicopter_hell": [
+    [
+      "summer22_helicopter_hell",
+      "battle/terrain/event_quest/story_event/summer_2022/summer22_helicopter",
+      "summer22_helicopter_hell"
+    ]
+  ],
+  "vt22_boss_hell": [
+    [
+      "vt22_boss_hell",
+      "battle/terrain/event_quest/story_event/vt22/vt22_boss",
+      "vt22_boss_hell"
     ]
   ],
   "skill_preview_asta": [

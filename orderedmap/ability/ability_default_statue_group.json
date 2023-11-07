@@ -3399,6 +3399,17 @@
         "defense_black"
       ]
     ],
+    "ResistanceToUniqueEnemy": [
+      [
+        "defense_common",
+        "defense_red",
+        "defense_blue",
+        "defense_yellow",
+        "defense_green",
+        "defense_white",
+        "defense_black"
+      ]
+    ],
     "ResistanceToCharacterSlayerUpEnemy": [
       [
         "defense_common",

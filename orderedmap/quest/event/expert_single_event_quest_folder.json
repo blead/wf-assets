@@ -154,6 +154,33 @@
         "quest/event/logo/expert_single_side_story/boss_logo_big_boss_anv2",
         "quest/event/animation_background/expert_single_event/anv2_big_boss/background"
       ]
+    ],
+    "596": [
+      [
+        "追憶の試練【火】",
+        "廃龍イルフリード",
+        "quest/thumbnail/world_story_event/single_battle/2halfanv/2halfanv_single_battle",
+        "quest/event/logo/expert_single_side_story/boss_logo_big_boss_2halfanv",
+        "quest/event/animation_background/expert_single_event/2halfanv/background"
+      ]
+    ],
+    "499": [
+      [
+        "追憶の試練【水】",
+        "STM-パリデス",
+        "quest/thumbnail/world_story_event/single_battle/summer_2022/single_8",
+        "quest/event/logo/expert_single_side_story/boss_logo_big_boss_summer_2022",
+        "quest/event/animation_background/expert_single_event/summer_2022/background"
+      ]
+    ],
+    "299": [
+      [
+        "追憶の試練【風】",
+        "Ａ・シープマテリア",
+        "quest/thumbnail/world_story_event/single_battle/vt22/vt22_battle_8",
+        "quest/event/logo/expert_single_side_story/boss_logo_big_boss_vt22",
+        "quest/event/animation_background/expert_single_event/vt22/background"
+      ]
     ]
   }
 }

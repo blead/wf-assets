@@ -284,6 +284,8 @@
                       "ACFixedSpeed",
                       [
                         {
+                          "alv_max": 240,
+                          "alv_min": 120,
                           "max": 900,
                           "min": 900
                         }

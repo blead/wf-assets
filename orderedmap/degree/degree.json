@@ -7175,6 +7175,97 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1121165": [
+    [
+      "degree_favor_amulet_bosslady_2",
+      "58001",
+      "奈落へ伸ばす指先",
+      "ならくへのばすゆびさき",
+      "獲得条件：【九龍のギャングスター】ランメイのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_amulet_bosslady_2"
+    ]
+  ],
+  "1151171": [
+    [
+      "degree_favor_magatama_spirit_2",
+      "145001",
+      "みんなのタマ婆ちゃん",
+      "みんなのたまばあちゃん",
+      "獲得条件：【霊玉の宿精】タマコのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_magatama_spirit_2"
+    ]
+  ],
+  "1111171": [
+    [
+      "degree_favor_summoner_little_smr23_2",
+      "163021",
+      "虚無へのいざない",
+      "きょむへのいざない",
+      "獲得条件：【夏の扉を開く者】クエットのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_summoner_little_smr23_2"
+    ]
+  ],
+  "1121171": [
+    [
+      "degree_favor_psychic_projection_smr23_2",
+      "369011",
+      "竜よ宿れ",
+      "りゅうよやどれ",
+      "獲得条件：【夏日の竜影】影丘リュウイチのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_projection_smr23_2"
+    ]
+  ],
+  "1141177": [
+    [
+      "degree_favor_psychic_yamikawa_smr23_2",
+      "171011",
+      "ラブ＆カース",
+      "らぶあんどかーす",
+      "獲得条件：【グラビティな彼女】操里ユカリコのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psychic_yamikawa_smr23_2"
+    ]
+  ],
+  "1131164": [
+    [
+      "degree_favor_lion_boy_smr23_2",
+      "284011",
+      "ボクが見つけた夏",
+      "ぼくがみつけたなつ",
+      "獲得条件：【ネイキッド・ライオン】テオのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_lion_boy_smr23_2"
+    ]
+  ],
+  "1161195": [
+    [
+      "degree_favor_blindfold_agent_2",
+      "178501",
+      "絶え間ない言の葉",
+      "たえまないことのは",
+      "獲得条件：【饒舌な元・諜報員】チャトリナのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_blindfold_agent_2"
+    ]
+  ],
   "1121159": [
     [
       "degree_favor_vesta_caster_2",

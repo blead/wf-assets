@@ -593,6 +593,48 @@
       "dynamic/world_story_event_tutorial/anv2/tutorial_plot_03"
     ]
   ],
+  "vt22_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_plot_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/vt22/tutorial_plot_03"
+    ]
+  ],
+  "anv2halfanv_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/2halfanv/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/2halfanv/tutorial_plot_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/2halfanv/tutorial_plot_03"
+    ]
+  ],
+  "summer_2022_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_plot_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/summer_2022/tutorial_plot_03"
+    ]
+  ],
   "score_attack_event_how_to_play": [
     [
       "0",
@@ -1573,6 +1615,24 @@
     [
       "0",
       "dynamic/world_story_event_tutorial/anv_story_01/tutorial_expert_single"
+    ]
+  ],
+  "anv3half_re01": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/tutorial_token_gacha"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_multi"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_expert_single"
     ]
   ],
   "how_to_play_anv3half": [

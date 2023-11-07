@@ -15001,5 +15001,34 @@
         ]
       ]
     }
+  },
+  "administrator_another_dark_single_rush": {
+    "100": {
+      "gatling_wait": [
+        [
+          "40"
+        ]
+      ],
+      "laser_wait": [
+        [
+          "40"
+        ]
+      ],
+      "guard_funnel_wait": [
+        [
+          "40"
+        ]
+      ],
+      "skill_charge1_1": [
+        [
+          "260"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ]
+    }
   }
 }

@@ -3518,6 +3518,23 @@
       "500"
     ]
   ],
+  "administrator_another_dark_single_rush": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "70",
+      "1",
+      "hit_hp_correction_normal",
+      "",
+      "",
+      "atk_basic_normal",
+      "10",
+      "1",
+      "atk_correction_normal",
+      "tp_basic_normal",
+      "10"
+    ]
+  ],
   "boar_rider_rush": [
     [
       "0",

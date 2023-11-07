@@ -791,6 +791,17 @@
       "2023-08-22 04:59:59"
     ]
   ],
+  "combat_diver_07": [
+    [
+      "help_label_event_rush_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_rush_event",
+      "2023-11-07 12:00:00",
+      "2023-11-29 04:59:59"
+    ]
+  ],
   "event_raid_event": [
     [
       "help_label_event_raid_event",
@@ -1548,6 +1559,17 @@
       "rich_text/help_event_world_story_event_anv_re01",
       "2021-11-11 12:00:00",
       "2021-11-27 04:59:59"
+    ]
+  ],
+  "event_anv3half_re01": [
+    [
+      "help_label_event_world_story_anv3half",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_anv3half_re01",
+      "2023-11-07 12:00:00",
+      "2023-11-29 04:59:59"
     ]
   ],
   "event_anv3half": [

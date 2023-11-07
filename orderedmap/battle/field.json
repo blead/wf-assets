@@ -2337,6 +2337,48 @@
       "battle/field_object/world_cyber_punk/cyber_punk_vacant_land_battle_expert/fever_gauge/cyber_punk_vacant_land_battle_fever_gauge"
     ]
   ],
+  "halfanv25_big_boss_hell": [
+    [
+      "battle/field/world_advent/halfanv25_boss_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/halfanv25_boss_expert/fever_gauge/fever_gauge"
+    ]
+  ],
+  "summer22_helicopter_hell": [
+    [
+      "battle/field/world_advent/summer22_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/summer22_expert/fever_gauge/summer22_area_fever_gauge"
+    ]
+  ],
+  "vt22_boss_hell": [
+    [
+      "battle/field/world_advent/valentine_area_expert/background/background",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/valentine_area_expert/fever_gauge/valentine_area_expert_fever_gauge"
+    ]
+  ],
   "boss_battle_shark_area": [
     [
       "battle/field/world_boss_battle/shark_area/background/background",
