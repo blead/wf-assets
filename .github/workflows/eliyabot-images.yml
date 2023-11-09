@@ -1,0 +1,68 @@
+name: eliyabot-images
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version
+        default: '0.0.0'
+        type: string
+      full_extract:
+        description: Full Extract
+        default: true
+        type: boolean
+  workflow_run:
+    workflows: [wfax]
+    types: [completed]
+
+jobs:
+  eliyabot-images:
+    env:
+      VERSION: '0.0.0'
+      DIFF_ONLY: --diff-only
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: poswords/EliyaBot
+        path: /EliyaBot
+    - name: Set VERSION from dispatch
+      if: ${{ github.event_name == 'workflow_dispatch' && inputs.version }}
+      run: echo VERSION=${{ inputs.version }} >> ${GITHUB_ENV}
+    - name: Set DIFF_ONLY from dispatch
+      if: ${{ github.event_name == 'workflow_dispatch' && inputs.full_extract }}
+      run: echo DIFF_ONLY= >> ${GITHUB_ENV}
+    - uses: dsaltares/fetch-gh-release-asset@1.1.0
+      with:
+        repo: blead/wfax
+        version: latest
+        regex: true
+        file: wfax-.+-linux-amd64\.tar\.gz$
+        target: /.wfax/
+    - name: Untar wfax
+      run: |
+        tar -xvf wfax-*.tar.gz
+        rm -f wfax-*.tar.gz
+        chmod +x wfax
+      working-directory: /.wfax
+    - name: Download raw assets
+      if: ${{ github.event_name == 'workflow_run' }}
+      uses: actions/download-artifact@v3
+      with:
+        name: dump-${{ github.sha }}
+        path: /dump
+    - name: Run wfax fetch
+      if: ${{ github.event_name == 'workflow_dispatch' }}
+      run: ./wfax fetch /dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
+      working-directory: /.wfax
+    - name: Extract character images
+      run: ./wfax extract /dump /out --concurrency 50 --eliyabot --no-default-paths
+      working-directory: /.wfax
+    - name: Extract equipment images
+      run: ./wfax sprite /dump  /out --concurrency 50 --eliyabot
+      working-directory: /.wfax
+    - name: Copy images
+      run: cp --recursive --update=none /out/assets/eliyabot/* /EliyaBot/public/img/assets/
+    - name: git status
+      run: git status && git add . && git commit -m "Test"
+      working-directory: /EliyaBot

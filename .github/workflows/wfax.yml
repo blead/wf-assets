@@ -52,8 +52,7 @@ jobs:
         rm -f wfax-*.tar.gz
         chmod +x wfax
       working-directory: ${{env.TMP_WORKDIR}}
-    - id: fetch
-      name: Run wfax fetch
+    - name: Run wfax fetch
       run: ./wfax fetch dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY} > ${GITHUB_WORKSPACE}/${VERSION_FILE}
       working-directory: ${{env.TMP_WORKDIR}}
     - name: Run wfax extract
@@ -68,3 +67,10 @@ jobs:
         git tag "v$(cat ${VERSION_FILE})"
         git push origin master
         git push --tags --force origin
+    - name: Upload raw assets
+      uses: actions/upload-artifact@v3
+      with:
+        name: dump-${{ github.sha }}
+        path: dump
+        retention-days: 14
+      working-directory: ${{env.TMP_WORKDIR}}
