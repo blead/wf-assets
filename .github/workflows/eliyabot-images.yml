@@ -66,7 +66,7 @@ jobs:
       run: ./wfax sprite ../dump  ../out --concurrency 20 --eliyabot
       working-directory: .wfax
     - name: Copy images
-      run: cp --no-clobber assets/eliyabot/* ../EliyaBot/public/img/assets/ || true
+      run: cp --no-clobber --recursive assets/eliyabot/* ../EliyaBot/public/img/assets/ || true
       working-directory: out
     - name: git status
       run: git status && git add . && git commit -m "Test"
