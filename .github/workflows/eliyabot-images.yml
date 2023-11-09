@@ -25,7 +25,7 @@ jobs:
     - uses: actions/checkout@v4
       with:
         repository: poswords/EliyaBot
-        path: /EliyaBot
+        path: EliyaBot
     - name: Set VERSION from dispatch
       if: ${{ github.event_name == 'workflow_dispatch' && inputs.version }}
       run: echo VERSION=${{ inputs.version }} >> ${GITHUB_ENV}
@@ -38,31 +38,32 @@ jobs:
         version: latest
         regex: true
         file: wfax-.+-linux-amd64\.tar\.gz$
-        target: /.wfax/
+        target: .wfax/
     - name: Untar wfax
       run: |
         tar -xvf wfax-*.tar.gz
         rm -f wfax-*.tar.gz
         chmod +x wfax
-      working-directory: /.wfax
+      working-directory: .wfax
     - name: Download raw assets
       if: ${{ github.event_name == 'workflow_run' }}
       uses: actions/download-artifact@v3
       with:
         name: dump-${{ github.sha }}
-        path: /dump
+        path: dump
     - name: Run wfax fetch
       if: ${{ github.event_name == 'workflow_dispatch' }}
-      run: ./wfax fetch /dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
-      working-directory: /.wfax
+      run: ./wfax fetch ../dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
+      working-directory: .wfax
     - name: Extract character images
-      run: ./wfax extract /dump /out --concurrency 50 --eliyabot --no-default-paths
-      working-directory: /.wfax
+      run: ./wfax extract ../dump ../out --concurrency 50 --eliyabot --no-default-paths
+      working-directory: .wfax
     - name: Extract equipment images
-      run: ./wfax sprite /dump  /out --concurrency 50 --eliyabot
-      working-directory: /.wfax
+      run: ./wfax sprite ../dump  ../out --concurrency 50 --eliyabot
+      working-directory: .wfax
     - name: Copy images
-      run: cp --recursive --update=none /out/assets/eliyabot/* /EliyaBot/public/img/assets/
+      run: cp --recursive --update=none assets/eliyabot/* ../EliyaBot/public/img/assets/
+      working-directory: out
     - name: git status
       run: git status && git add . && git commit -m "Test"
-      working-directory: /EliyaBot
+      working-directory: EliyaBot
