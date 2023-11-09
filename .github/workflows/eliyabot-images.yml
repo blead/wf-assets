@@ -11,7 +11,7 @@ on:
         default: true
         type: boolean
   workflow_run:
-    workflows: [wfax]
+    workflows: [wfax, test-artifacts]
     types: [completed]
 
 jobs:
