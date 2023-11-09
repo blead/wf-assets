@@ -53,9 +53,12 @@ jobs:
     - name: Run wfax fetch
       run: ./wfax fetch dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY} > ${GITHUB_WORKSPACE}/${VERSION_FILE}
       working-directory: ${{env.TMP_WORKDIR}}
+    - name: Tar raw assets
+      run: tar -cvf dump.tar dump
+      working-directory: ${{env.TMP_WORKDIR}}
     - name: Upload raw assets
       uses: actions/upload-artifact@v3
       with:
         name: dump-${{ github.sha }}
-        path: ${{env.TMP_WORKDIR}}/dump
+        path: ${{env.TMP_WORKDIR}}/dump.tar
         retention-days: 14

@@ -67,10 +67,12 @@ jobs:
         git tag "v$(cat ${VERSION_FILE})"
         git push origin master
         git push --tags --force origin
+    - name: Tar raw assets
+      run: tar -cvf dump.tar dump
+      working-directory: ${{env.TMP_WORKDIR}}
     - name: Upload raw assets
       uses: actions/upload-artifact@v3
       with:
         name: dump-${{ github.sha }}
-        path: dump
+        path: ${{env.TMP_WORKDIR}}/dump.tar
         retention-days: 14
-      working-directory: ${{env.TMP_WORKDIR}}
