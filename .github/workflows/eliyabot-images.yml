@@ -56,13 +56,13 @@ jobs:
       run: ./wfax fetch ../dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
       working-directory: .wfax
     - name: Extract character images
-      run: ./wfax extract ../dump ../out --concurrency 50 --eliyabot --no-default-paths
+      run: ./wfax extract ../dump ../out --concurrency 20 --eliyabot --no-default-paths
       working-directory: .wfax
     - name: Extract equipment images
-      run: ./wfax sprite ../dump  ../out --concurrency 50 --eliyabot
+      run: ./wfax sprite ../dump  ../out --concurrency 20 --eliyabot
       working-directory: .wfax
     - name: Copy images
-      run: cp --recursive --update=none assets/eliyabot/* ../EliyaBot/public/img/assets/
+      run: cp --no-clobber assets/eliyabot/* ../EliyaBot/public/img/assets/ || true
       working-directory: out
     - name: git status
       run: git status && git add . && git commit -m "Test"
