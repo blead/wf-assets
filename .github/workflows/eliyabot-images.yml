@@ -11,7 +11,7 @@ on:
         default: true
         type: boolean
   workflow_run:
-    workflows: [wfax, test-artifacts]
+    workflows: [wfax]
     types: [completed]
 
 jobs:
@@ -24,14 +24,24 @@ jobs:
     steps:
     - uses: actions/checkout@v4
       with:
+        ref: master
+        path: wf-assets
+        sparse-checkout: |
+          VERSION
+        sparse-checkout-cone-mode: false
+    - uses: actions/checkout@v4
+      with:
         repository: poswords/EliyaBot
         path: EliyaBot
+        token: ${{ secrets.GH_TOKEN }}
+
     - name: Set VERSION from dispatch
       if: ${{ github.event_name == 'workflow_dispatch' && inputs.version }}
       run: echo VERSION=${{ inputs.version }} >> ${GITHUB_ENV}
     - name: Set DIFF_ONLY from dispatch
       if: ${{ github.event_name == 'workflow_dispatch' && inputs.full_extract }}
       run: echo DIFF_ONLY= >> ${GITHUB_ENV}
+
     - uses: dsaltares/fetch-gh-release-asset@1.1.0
       with:
         repo: blead/wfax
@@ -45,6 +55,11 @@ jobs:
         rm -f wfax-*.tar.gz
         chmod +x wfax
       working-directory: .wfax
+
+    - name: Run wfax fetch
+      if: ${{ github.event_name == 'workflow_dispatch' }}
+      run: ./wfax fetch ../dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
+      working-directory: .wfax
     - name: Download raw assets
       if: ${{ github.event_name == 'workflow_run' }}
       uses: dawidd6/action-download-artifact@v2
@@ -55,19 +70,23 @@ jobs:
     - name: Untar raw assets
       if: ${{ github.event_name == 'workflow_run' }}
       run: tar -xvf dump.tar
-    - name: Run wfax fetch
-      if: ${{ github.event_name == 'workflow_dispatch' }}
-      run: ./wfax fetch ../dump --concurrency 50 --version ${VERSION} ${DIFF_ONLY}
-      working-directory: .wfax
+
     - name: Extract character images
+      continue-on-error: true
       run: ./wfax extract ../dump ../out --concurrency 20 --eliyabot --no-default-paths
       working-directory: .wfax
     - name: Extract equipment images
+      continue-on-error: true
       run: ./wfax sprite ../dump  ../out --concurrency 20 --eliyabot
       working-directory: .wfax
+
     - name: Copy images
       run: cp --no-clobber --recursive assets/eliyabot/* ../EliyaBot/public/img/assets/ || true
       working-directory: out
-    - name: git status
-      run: git status && git add . && git commit -m "Test"
+    - name: Git commit
+      run: |
+        git config user.name "wfax-bot"
+        git config user.email "<>"
+        git add .
+        git commit -m "Automated asset update v$(cat ../wf-assets/VERSION)"
       working-directory: EliyaBot
