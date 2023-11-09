@@ -89,4 +89,5 @@ jobs:
         git config user.email "<>"
         git add .
         git commit -m "Automated asset update v$(cat ../wf-assets/VERSION)"
+        git push origin master
       working-directory: EliyaBot
