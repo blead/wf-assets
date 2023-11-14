@@ -66,7 +66,6 @@ jobs:
       with:
         workflow: ${{ github.event.workflow_run.workflow_id }}
         workflow_conclusion: success
-        name: dump-${{ github.sha }}
     - name: Untar raw assets
       if: ${{ github.event_name == 'workflow_run' }}
       run: tar -xvf dump.tar
