@@ -274,9 +274,9 @@
       "ヴァーグナー",
       "0xa32535",
       "character/fire_dragon/voice/",
-      "normal,angry,angry_b,angry_c,feel,feel_b,joy,joy_b,sad,sad_b,smile,smile_b,surprise,surprise_b,sweat,trouble,evolve",
-      "character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_1",
-      "character/fire_dragon/ui/story/normal,character/fire_dragon/ui/story/angry,character/fire_dragon/ui/story/angry_b,character/fire_dragon/ui/story/angry_c,character/fire_dragon/ui/story/feel,character/fire_dragon/ui/story/feel_b,character/fire_dragon/ui/story/joy,character/fire_dragon/ui/story/joy_b,character/fire_dragon/ui/story/sad,character/fire_dragon/ui/story/sad_b,character/fire_dragon/ui/story/smile,character/fire_dragon/ui/story/smile_b,character/fire_dragon/ui/story/surprise,character/fire_dragon/ui/story/surprise_b,character/fire_dragon/ui/story/sweat,character/fire_dragon/ui/story/trouble,(None)"
+      "normal,angry,angry_b,angry_c,feel,feel_b,joy,joy_b,sad,sad_b,smile,smile_b,surprise,surprise_b,sweat,trouble,angry_d,angry_e,pain,pain_b,sad_c,shout,surprise_c,evolve",
+      "character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_0,character/fire_dragon/ui/story/base_1",
+      "character/fire_dragon/ui/story/normal,character/fire_dragon/ui/story/angry,character/fire_dragon/ui/story/angry_b,character/fire_dragon/ui/story/angry_c,character/fire_dragon/ui/story/feel,character/fire_dragon/ui/story/feel_b,character/fire_dragon/ui/story/joy,character/fire_dragon/ui/story/joy_b,character/fire_dragon/ui/story/sad,character/fire_dragon/ui/story/sad_b,character/fire_dragon/ui/story/smile,character/fire_dragon/ui/story/smile_b,character/fire_dragon/ui/story/surprise,character/fire_dragon/ui/story/surprise_b,character/fire_dragon/ui/story/sweat,character/fire_dragon/ui/story/trouble,character/fire_dragon/ui/story/angry_d,character/fire_dragon/ui/story/angry_e,character/fire_dragon/ui/story/pain,character/fire_dragon/ui/story/pain_b,character/fire_dragon/ui/story/sad_c,character/fire_dragon/ui/story/shout,character/fire_dragon/ui/story/surprise_c,(None)"
     ]
   ],
   "brown_fighter": [
@@ -7737,6 +7737,66 @@
       "",
       "",
       ""
+    ]
+  ],
+  "fire_dragon_zenith": [
+    [
+      "ヴァーグナー",
+      "0xa32535",
+      "character/fire_dragon/voice/",
+      "normal,angry,angry_b,angry_c,serious,serious_b,shame,smile,smile_b,smile_c,surprise,sweat,think,evolve",
+      "character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_0,character/fire_dragon_zenith/ui/story/base_1",
+      "character/fire_dragon_zenith/ui/story/normal,character/fire_dragon_zenith/ui/story/angry,character/fire_dragon_zenith/ui/story/angry_b,character/fire_dragon_zenith/ui/story/angry_c,character/fire_dragon_zenith/ui/story/serious,character/fire_dragon_zenith/ui/story/serious_b,character/fire_dragon_zenith/ui/story/shame,character/fire_dragon_zenith/ui/story/smile,character/fire_dragon_zenith/ui/story/smile_b,character/fire_dragon_zenith/ui/story/smile_c,character/fire_dragon_zenith/ui/story/surprise,character/fire_dragon_zenith/ui/story/sweat,character/fire_dragon_zenith/ui/story/think,(None)"
+    ]
+  ],
+  "star_eater": [
+    [
+      "星喰い",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "apprentice_knight": [
+    [
+      "騎士見習い",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "alesy": [
+    [
+      "エルシー",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "alesy_unknown": [
+    [
+      "？？？",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "light_adventurer_unknown": [
+    [
+      "？？？",
+      "0xff9f1c",
+      "character/light/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
     ]
   ],
   "dryad_hw23": [

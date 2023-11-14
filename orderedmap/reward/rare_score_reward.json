@@ -18317,6 +18317,150 @@
       ]
     ]
   },
+  "11000840": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_1",
+        "0",
+        "10000042",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000841": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_2",
+        "0",
+        "10000046",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000842": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_3",
+        "0",
+        "10000046",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000843": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_4",
+        "0",
+        "10000051",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000844": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_5",
+        "0",
+        "10000051",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000845": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_6",
+        "0",
+        "10000046",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "kc_discarded_dragon_water_rare_6",
+        "0",
+        "10000046",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "kc_discarded_dragon_water_rare_6",
+        "0",
+        "10000051",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "kc_discarded_dragon_water_rare_6",
+        "0",
+        "10000051",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000846": {
+    "1": [
+      [
+        "kc_discarded_dragon_water_rare_7",
+        "0",
+        "10000046",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "kc_discarded_dragon_water_rare_7",
+        "0",
+        "10000046",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "kc_discarded_dragon_water_rare_7",
+        "0",
+        "10000051",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "kc_discarded_dragon_water_rare_7",
+        "0",
+        "10000051",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11000438": {
     "1": [
       [

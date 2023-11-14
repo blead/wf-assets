@@ -1199,6 +1199,36 @@
       "2023-10-30 04:59:59"
     ]
   ],
+  "200075": [
+    [
+      "kc_discarded_dragon_water",
+      "(None)",
+      "クグイとリョウキの特別訓練！",
+      "",
+      "quest/event/banner/advent_event/event_kc",
+      "quest/event/bossbattle_banner/advent_event/event_kc",
+      "0",
+      "quest/event/background/advent_event/kc",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "32",
+      "bgm/world_japan/story/japan_story_fuan",
+      "event",
+      "10000042",
+      "10000046",
+      "10000051",
+      "(None)",
+      "false",
+      "kc_discarded_dragon_water",
+      "true",
+      "2023-11-14 12:00:00",
+      "2023-11-28 20:59:59",
+      "2023-12-06 04:59:59"
+    ]
+  ],
   "200037": [
     [
       "kc_anv1",

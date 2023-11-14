@@ -25,6 +25,32 @@
       ]
     ]
   },
+  "100004": {
+    "1": [
+      [
+        "1",
+        "旋風必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "旋風強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "旋風直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ]
+  },
   "100003": {
     "1": [
       [

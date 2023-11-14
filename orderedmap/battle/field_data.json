@@ -5571,6 +5571,13 @@
       "guardian_golem_atnoher_light_kc"
     ]
   ],
+  "discarded_dragon_water_re_lv80_kc": [
+    [
+      "water_dragon_area",
+      "battle/terrain/event_quest/kc_event/discarded_dragon_water_re_lv80_kc",
+      "discarded_dragon_water_re_lv80_kc"
+    ]
+  ],
   "advent_k_collabo": [
     [
       "advent_k_collabo",
@@ -5863,6 +5870,13 @@
       "tree_forest",
       "battle/terrain/multi_normal_quest/chapter_01/boss_battle_grizzly",
       "multi_normal_1_24_4"
+    ]
+  ],
+  "skill_preview_fire_dragon_zenith": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_fire_dragon_zenith",
+      "skill_preview_common"
     ]
   ],
   "skill_preview_dryad_hw23": [

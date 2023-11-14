@@ -26,6 +26,33 @@
       "2021-06-11 04:59:59"
     ]
   ],
+  "100004": [
+    [
+      "haniwa_carnival_wind_20231114_20231128",
+      "ハニワカーニバル",
+      "",
+      "quest/event/banner/haniwa_carnival/haniwa_carnival_07",
+      "(None)",
+      "quest/event/background/haniwa_carnival/haniwa_carnival_07",
+      "quest/event/logo/haniwa_carnival/haniwa_logo",
+      "quest/event/animation_background/haniwa_carnival/haniwa_carnival_07/top/background",
+      "bgm/event/haniwa_carnival/haniwa_carnival_system",
+      "3",
+      "3195000",
+      "5515000",
+      "7075000",
+      "8335000",
+      "9565000",
+      "90070",
+      "90080",
+      "90090",
+      "(None)",
+      "haniwa_carnival_07",
+      "2023-11-14 12:00:00",
+      "2023-11-28 20:59:59",
+      "2023-12-06 04:59:59"
+    ]
+  ],
   "100003": [
     [
       "haniwa_carnival_water_20230907_20230921",

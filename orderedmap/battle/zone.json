@@ -24526,6 +24526,53 @@
       ]
     ]
   },
+  "discarded_dragon_water_re_lv80_kc": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "0",
+        "1",
+        "discarded_dragon_water_re_lv80_kc",
+        "1",
+        "discarded_dragon_water_re_lv80_kc",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_advent/water_dragon_area/outhole/water_dragon_area_outhole_zone1",
+        "battle/field_object/world_advent/water_dragon_area/yakumono/dash_panel",
+        "battle/field_object/world_advent/water_dragon_area/rotation_panel/water_dragon_area_rotation_panel",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "advent_k_collabo": {
     "0": [
       [

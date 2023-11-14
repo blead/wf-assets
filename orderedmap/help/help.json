@@ -945,6 +945,17 @@
       "2023-10-30 04:59:59"
     ]
   ],
+  "event_kc_discarded_dragon_water": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_discarded_dragon_water",
+      "2023-11-14 12:00:00",
+      "2023-12-06 04:59:59"
+    ]
+  ],
   "event_kc_anv1": [
     [
       "help_label_event_kc_summer_2021",
@@ -998,6 +1009,17 @@
       "rich_text/help_event_hard_multi_steam_robot_water",
       "2023-03-31 12:00:00",
       "2023-04-22 04:59:59"
+    ]
+  ],
+  "Help_haniwa_carnival_wind_20231114_20231128": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival",
+      "2023-11-14 12:00:00",
+      "2023-12-06 04:59:59"
     ]
   ],
   "Help_haniwa_carnival_water_20230907_20230921": [

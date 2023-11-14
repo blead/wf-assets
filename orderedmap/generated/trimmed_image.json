@@ -27242,7 +27242,7 @@
   "character/fire_dragon/ui/story/angry": [
     [
       "178",
-      "189",
+      "190",
       "570",
       "690"
     ]
@@ -27250,7 +27250,7 @@
   "character/fire_dragon/ui/story/angry_b": [
     [
       "178",
-      "189",
+      "190",
       "570",
       "690"
     ]
@@ -27258,7 +27258,23 @@
   "character/fire_dragon/ui/story/angry_c": [
     [
       "178",
-      "158",
+      "157",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/angry_d": [
+    [
+      "17",
+      "40",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/angry_e": [
+    [
+      "17",
+      "40",
       "570",
       "690"
     ]
@@ -27298,7 +27314,7 @@
   "character/fire_dragon/ui/story/joy": [
     [
       "178",
-      "158",
+      "157",
       "570",
       "690"
     ]
@@ -27306,7 +27322,7 @@
   "character/fire_dragon/ui/story/joy_b": [
     [
       "178",
-      "158",
+      "157",
       "570",
       "690"
     ]
@@ -27315,6 +27331,22 @@
     [
       "178",
       "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/pain": [
+    [
+      "17",
+      "40",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/pain_b": [
+    [
+      "17",
+      "40",
       "570",
       "690"
     ]
@@ -27331,6 +27363,22 @@
     [
       "178",
       "192",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/sad_c": [
+    [
+      "17",
+      "40",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/shout": [
+    [
+      "0",
+      "18",
       "570",
       "690"
     ]
@@ -27354,7 +27402,7 @@
   "character/fire_dragon/ui/story/surprise": [
     [
       "178",
-      "148",
+      "149",
       "570",
       "690"
     ]
@@ -27362,14 +27410,22 @@
   "character/fire_dragon/ui/story/surprise_b": [
     [
       "178",
-      "148",
+      "149",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon/ui/story/surprise_c": [
+    [
+      "17",
+      "40",
       "570",
       "690"
     ]
   ],
   "character/fire_dragon/ui/story/sweat": [
     [
-      "297",
+      "296",
       "183",
       "570",
       "690"
@@ -27378,7 +27434,159 @@
   "character/fire_dragon/ui/story/trouble": [
     [
       "178",
-      "148",
+      "149",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/full_shot_1440_1920_0": [
+    [
+      "139",
+      "124",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/skill_cutin_0": [
+    [
+      "41",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/full_shot_1440_1920_1": [
+    [
+      "181",
+      "161",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/angry": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/angry_b": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/angry_c": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/base_0": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/base_1": [
+    [
+      "0",
+      "0",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/normal": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/serious": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/serious_b": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/shame": [
+    [
+      "181",
+      "186",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/smile": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/smile_b": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/smile_c": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/surprise": [
+    [
+      "173",
+      "116",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/sweat": [
+    [
+      "224",
+      "157",
+      "570",
+      "690"
+    ]
+  ],
+  "character/fire_dragon_zenith/ui/story/think": [
+    [
+      "173",
+      "116",
       "570",
       "690"
     ]

@@ -12661,6 +12661,19 @@
       "dynamic/degree/degree_boss_battle_ex_clear_single_13"
     ]
   ],
+  "111183": [
+    [
+      "degree_favor_fire_dragon_zenith",
+      "1010",
+      "炎龍王",
+      "えんりゅうおう",
+      "獲得条件：【炎龍王】ヴァーグナーをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_fire_dragon_zenith"
+    ]
+  ],
   "121189": [
     [
       "degree_favor_dryad_hw23",

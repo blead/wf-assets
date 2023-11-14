@@ -7569,6 +7569,21 @@
       ]
     ]
   },
+  "210": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/red_element_character_pickup_06",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "188": {
     "1": [
       [
@@ -8428,6 +8443,47 @@
         "",
         "0",
         "211014",
+        ""
+      ]
+    ]
+  },
+  "209": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_99/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "111183",
+        "0",
+        "111183",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_99/fire_dragon_zenith/feature",
+        "",
+        "",
+        "",
+        "0",
+        "111183",
         ""
       ]
     ]

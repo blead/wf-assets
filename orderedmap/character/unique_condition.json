@@ -322,6 +322,25 @@
       "(None)"
     ]
   ],
+  "19": [
+    [
+      "unique_fire_dragon_zenith",
+      "ブレイブ・ブレイズ",
+      "battle/common/unique_condition/unique_fire_dragon_zenith",
+      "1200",
+      "3",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "true",
+      "0",
+      "0",
+      "true",
+      "fire_dragon_zenith"
+    ]
+  ],
   "18": [
     [
       "unique_psycho_reaper_meteor23",

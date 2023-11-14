@@ -4385,6 +4385,23 @@
       "800"
     ]
   ],
+  "discarded_dragon_water_re_lv80_kc": [
+    [
+      "0",
+      "hit_hp_basic_normal",
+      "390",
+      "2.7",
+      "hit_hp_boss",
+      "",
+      "",
+      "atk_basic_normal",
+      "26",
+      "1",
+      "atk_multi",
+      "tp_normal",
+      "800"
+    ]
+  ],
   "hungry_dragon": [
     [
       "0",

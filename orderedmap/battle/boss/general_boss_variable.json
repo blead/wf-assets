@@ -11282,6 +11282,152 @@
       ]
     }
   },
+  "discarded_dragon_water_re_lv80_kc": {
+    "79": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_charge": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_shot_loop": [
+        [
+          "300"
+        ]
+      ],
+      "beam_charge": [
+        [
+          "90"
+        ]
+      ],
+      "beam_shot_loop_p1": [
+        [
+          "135"
+        ]
+      ],
+      "beam_shot_loop_p2": [
+        [
+          "270"
+        ]
+      ],
+      "torrent_charge": [
+        [
+          "120"
+        ]
+      ],
+      "torrent_shot_loop": [
+        [
+          "60"
+        ]
+      ],
+      "homing_charge": [
+        [
+          "150"
+        ]
+      ],
+      "homing_shot_loop": [
+        [
+          "90"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "neutral_short": [
+        [
+          "60"
+        ]
+      ],
+      "before_cutin": [
+        [
+          "55"
+        ]
+      ],
+      "after_cutin": [
+        [
+          "95"
+        ]
+      ]
+    },
+    "100": {
+      "neutral": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_charge": [
+        [
+          "120"
+        ]
+      ],
+      "breathe_shot_loop": [
+        [
+          "300"
+        ]
+      ],
+      "beam_charge": [
+        [
+          "90"
+        ]
+      ],
+      "beam_shot_loop_p1": [
+        [
+          "135"
+        ]
+      ],
+      "beam_shot_loop_p2": [
+        [
+          "270"
+        ]
+      ],
+      "torrent_charge": [
+        [
+          "120"
+        ]
+      ],
+      "torrent_shot_loop": [
+        [
+          "60"
+        ]
+      ],
+      "homing_charge": [
+        [
+          "150"
+        ]
+      ],
+      "homing_shot_loop": [
+        [
+          "90"
+        ]
+      ],
+      "funnel_charge": [
+        [
+          "30"
+        ]
+      ],
+      "neutral_short": [
+        [
+          "60"
+        ]
+      ],
+      "before_cutin": [
+        [
+          "55"
+        ]
+      ],
+      "after_cutin": [
+        [
+          "95"
+        ]
+      ]
+    }
+  },
   "discarded_dragon_thunder_tower": {
     "80": {
       "move1": [

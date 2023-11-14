@@ -2075,6 +2075,48 @@
       ]
     ]
   },
+  "111183": {
+    "5": [
+      [
+        "sound_effect/fire/se_flare_up"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/monster/se_dragon_landing"
+      ]
+    ],
+    "109": [
+      [
+        "sound_effect/monster/se_dragon_roar"
+      ]
+    ],
+    "173": [
+      [
+        "sound_effect/fire/se_single_fire"
+      ]
+    ],
+    "203": [
+      [
+        "sound_effect/monster/se_dark_matter_arm_swing"
+      ]
+    ],
+    "227": [
+      [
+        "sound_effect/monster/se_teleportation"
+      ]
+    ],
+    "283": [
+      [
+        "sound_effect/monster/se_warp_in"
+      ]
+    ],
+    "293": [
+      [
+        "sound_effect/fire/se_single_explosion"
+      ]
+    ]
+  },
   "121189": {
     "5": [
       [
