@@ -4994,6 +4994,15 @@
       "false"
     ]
   ],
+  "218784": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_2anv_character_pickup_03",
+      "2023-11-22 12:00:00",
+      "2023-11-30 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5180,6 +5189,15 @@
       "dynamic/feature_announcement/halloween23_campaign_mission",
       "2023-10-31 12:00:00",
       "2023-11-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000061": [
+    [
+      "1000",
+      "dynamic/feature_announcement/bossbattle_multi_pickup_event",
+      "2023-11-22 12:00:00",
+      "2023-11-30 20:59:59",
       "false"
     ]
   ],

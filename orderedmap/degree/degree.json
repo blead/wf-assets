@@ -7175,6 +7175,97 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1141183": [
+    [
+      "degree_favor_combat_animal_meteor23_2",
+      "103021",
+      "煌めきの格闘術",
+      "きらめきのかくとうじゅつ",
+      "獲得条件：【疾風の拳闘士】フラフィのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_combat_animal_meteor23_2"
+    ]
+  ],
+  "1131170": [
+    [
+      "degree_favor_starbreak_hunter_meteor23_2",
+      "124011",
+      "オレ達、最強！",
+      "おれたちさいきょう",
+      "獲得条件：【強翼のシューター】タージェスのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_starbreak_hunter_meteor23_2"
+    ]
+  ],
+  "1121177": [
+    [
+      "degree_favor_psycho_reaper_meteor23_2",
+      "239021",
+      "愛の誓い",
+      "あいのちかい",
+      "獲得条件：【可能性の花嫁】ソーヴィのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_psycho_reaper_meteor23_2"
+    ]
+  ],
+  "1121183": [
+    [
+      "degree_favor_guild_front_girl_playable_2",
+      "59001",
+      "迷宮探索者生活安全改善広報部長",
+      "めいきゅうたんさくしゃせいかつあんぜんかいぜんこうほうぶちょう",
+      "獲得条件：【天蓋の担い手】プ・リリエのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_guild_front_girl_playable_2"
+    ]
+  ],
+  "1111177": [
+    [
+      "degree_favor_wirfled_playable_2",
+      "26001",
+      "ミクスト・エールズ",
+      "みくすとえーるず",
+      "獲得条件：【熱情プロポーズスーツ】ウィルフレッドのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wirfled_playable_2"
+    ]
+  ],
+  "1131176": [
+    [
+      "degree_favor_artificialeye_sniper_2",
+      "88001",
+      "Ace of Sniper",
+      "えーすおぶすないぱー",
+      "獲得条件：【コードネーム・死神】シャーリーンのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_artificialeye_sniper_2"
+    ]
+  ],
+  "1141189": [
+    [
+      "degree_favor_mob_jiguza_playable_2",
+      "117001",
+      "森羅万象を描き尽くせ",
+      "しんらばんしょうをかきつくせ",
+      "獲得条件：【異界渡りの画狂】画狂老人ジグザのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_mob_jiguza_playable_2"
+    ]
+  ],
   "1121165": [
     [
       "degree_favor_amulet_bosslady_2",

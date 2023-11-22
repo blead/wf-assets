@@ -148,7 +148,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_13_boar_rider",
       "quest/boss_battle/background/boss_battle_boar_rider",
-      "9,14,15,17,10000008,10000011,16",
+      "10000022,9,14,15,17,10000008,10000011,16",
       "false"
     ]
   ],
@@ -165,7 +165,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_14_white_tiger_ghost",
       "quest/boss_battle/background/boss_battle_white_tiger_ghost",
-      "10000016,1,3,4,6,8,10,11,13,14,15,17,10000010",
+      "10000016,10000022,1,3,4,6,8,10,11,13,14,15,17,10000010",
       "false"
     ]
   ],
@@ -182,7 +182,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_16_security_armor",
       "quest/boss_battle/background/boss_battle_security_armor",
-      "10000016,10000017,2,12,14,15,17,10000004,10000010",
+      "10000016,10000017,10000022,2,12,14,15,17,10000004,10000010",
       "false"
     ]
   ],
@@ -216,7 +216,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_19_ghost_fox",
       "quest/boss_battle/background/boss_battle_ghost_fox",
-      "10000016,7,12,14,15,17,10000010",
+      "10000016,10000022,7,12,14,15,17,10000010",
       "false"
     ]
   ],
@@ -233,7 +233,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_20_orochi",
       "quest/boss_battle/background/boss_battle_orochi",
-      "10000017,10000020,2,8,10,14,15,17,10000008,10000014,16",
+      "10000017,10000020,10000022,2,8,10,14,15,17,10000008,10000014,16",
       "false"
     ]
   ],
@@ -267,7 +267,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_23_dorsal_brothers",
       "quest/boss_battle/background/boss_battle_dorsal_brothers",
-      "10000017,14,15,17,10000004,10000014,16",
+      "10000017,10000022,14,15,17,10000004,10000014,16",
       "false"
     ]
   ],
@@ -335,7 +335,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_24_grizzly_fire",
       "quest/boss_battle/background/boss_battle_grizzly_fire",
-      "10000016,14,15,10000004,10000008,10000011,10000014,16",
+      "10000016,10000022,14,15,10000004,10000008,10000011,10000014,16",
       "false"
     ]
   ],
@@ -437,7 +437,7 @@
       "(None)",
       "quest/boss_battle/banner/boss_battle_33_evil_envy",
       "quest/boss_battle/background/boss_battle_evil_envy",
-      "10000016,17,10000004,10000010",
+      "10000016,10000022,17,10000004,10000010",
       "false"
     ]
   ],

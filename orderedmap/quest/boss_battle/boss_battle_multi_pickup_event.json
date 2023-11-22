@@ -299,6 +299,18 @@
       "2022-09-15 20:59:59"
     ]
   ],
+  "10000022": [
+    [
+      "boss_battle_multi_pickup_3_20231122_20231130",
+      "quest/event/background/bossbattle_multi_pickup_event/multi_boss_pickup_top_03",
+      "rich_text/bossbattle_multi_pickup_schedule5",
+      "1.5",
+      "1",
+      "2",
+      "2023-11-22 12:00:00",
+      "2023-11-30 20:59:59"
+    ]
+  ],
   "10000021": [
     [
       "boss_battle_multi_pickup_2_20230921_20230930",
