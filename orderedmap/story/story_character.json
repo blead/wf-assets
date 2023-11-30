@@ -1114,9 +1114,9 @@
       "ベルセティア",
       "0x3f2843",
       "character/dimension_witch/voice/",
-      "normal,angry,angry_b,angry_c,angry_d,joy,normal_b,pokerface,sad,sad_b,smile,surprise,sweat,yandere,angry_e,shame,smile_b,surprise_b,evolve",
-      "character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_1",
-      "character/dimension_witch/ui/story/normal,character/dimension_witch/ui/story/angry,character/dimension_witch/ui/story/angry_b,character/dimension_witch/ui/story/angry_c,character/dimension_witch/ui/story/angry_d,character/dimension_witch/ui/story/joy,character/dimension_witch/ui/story/normal_b,character/dimension_witch/ui/story/pokerface,character/dimension_witch/ui/story/sad,character/dimension_witch/ui/story/sad_b,character/dimension_witch/ui/story/smile,character/dimension_witch/ui/story/surprise,character/dimension_witch/ui/story/sweat,character/dimension_witch/ui/story/yandere,character/dimension_witch/ui/story/angry_e,character/dimension_witch/ui/story/shame,character/dimension_witch/ui/story/smile_b,character/dimension_witch/ui/story/surprise_b,(None)"
+      "normal,angry,angry_b,angry_c,angry_d,joy,normal_b,pokerface,sad,sad_b,smile,surprise,sweat,yandere,angry_e,shame,smile_b,surprise_b,jitome,joy_b,joy_c,pain,pain_b,pain_c,pain_d,sad_c,sad_d,serious,serious_b,think,think_b,evolve",
+      "character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_0,character/dimension_witch/ui/story/base_1",
+      "character/dimension_witch/ui/story/normal,character/dimension_witch/ui/story/angry,character/dimension_witch/ui/story/angry_b,character/dimension_witch/ui/story/angry_c,character/dimension_witch/ui/story/angry_d,character/dimension_witch/ui/story/joy,character/dimension_witch/ui/story/normal_b,character/dimension_witch/ui/story/pokerface,character/dimension_witch/ui/story/sad,character/dimension_witch/ui/story/sad_b,character/dimension_witch/ui/story/smile,character/dimension_witch/ui/story/surprise,character/dimension_witch/ui/story/sweat,character/dimension_witch/ui/story/yandere,character/dimension_witch/ui/story/angry_e,character/dimension_witch/ui/story/shame,character/dimension_witch/ui/story/smile_b,character/dimension_witch/ui/story/surprise_b,character/dimension_witch/ui/story/jitome,character/dimension_witch/ui/story/joy_b,character/dimension_witch/ui/story/joy_c,character/dimension_witch/ui/story/pain,character/dimension_witch/ui/story/pain_b,character/dimension_witch/ui/story/pain_c,character/dimension_witch/ui/story/pain_d,character/dimension_witch/ui/story/sad_c,character/dimension_witch/ui/story/sad_d,character/dimension_witch/ui/story/serious,character/dimension_witch/ui/story/serious_b,character/dimension_witch/ui/story/think,character/dimension_witch/ui/story/think_b,(None)"
     ]
   ],
   "dimension_witch_unknown": [
@@ -25829,6 +25829,346 @@
       ""
     ]
   ],
+  "wind_spgirl_4anv": [
+    [
+      "シルティー",
+      "0x539722",
+      "character/wind_spgirl/voice/",
+      "normal,anger,joy,sad,sad_b,sad_c,sad_d,serious,serious_b,serious_c,serious_d,shame,smile,smile_b,smile_c,smile_d,surprise,surprise_b,surprise_c,surprise_d,sweat,think,evolve",
+      "character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_0,character/wind_spgirl_4anv/ui/story/base_1",
+      "character/wind_spgirl_4anv/ui/story/normal,character/wind_spgirl_4anv/ui/story/anger,character/wind_spgirl_4anv/ui/story/joy,character/wind_spgirl_4anv/ui/story/sad,character/wind_spgirl_4anv/ui/story/sad_b,character/wind_spgirl_4anv/ui/story/sad_c,character/wind_spgirl_4anv/ui/story/sad_d,character/wind_spgirl_4anv/ui/story/serious,character/wind_spgirl_4anv/ui/story/serious_b,character/wind_spgirl_4anv/ui/story/serious_c,character/wind_spgirl_4anv/ui/story/serious_d,character/wind_spgirl_4anv/ui/story/shame,character/wind_spgirl_4anv/ui/story/smile,character/wind_spgirl_4anv/ui/story/smile_b,character/wind_spgirl_4anv/ui/story/smile_c,character/wind_spgirl_4anv/ui/story/smile_d,character/wind_spgirl_4anv/ui/story/surprise,character/wind_spgirl_4anv/ui/story/surprise_b,character/wind_spgirl_4anv/ui/story/surprise_c,character/wind_spgirl_4anv/ui/story/surprise_d,character/wind_spgirl_4anv/ui/story/sweat,character/wind_spgirl_4anv/ui/story/think,(None)"
+    ]
+  ],
+  "wind_spgirl_4anv_unknown": [
+    [
+      "？？？",
+      "0x539722",
+      "character/wind_spgirl/voice/",
+      "normal",
+      "character/wind_spgirl_4anv/ui/story/unknown",
+      "(None)"
+    ]
+  ],
+  "starbreak_hunter_meteor23_cheerful_unknown": [
+    [
+      "元気な声",
+      "0xb29614",
+      "character/starbreak_hunter/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "palpebra_merchants": [
+    [
+      "パルペブラの商人",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "palpebra_Ice_cream_shop": [
+    [
+      "パルペブラのアイス屋",
+      "0x27925e",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "blade_dancer_wt23_clearly_unknown": [
+    [
+      "ハキハキした声",
+      "0xb29614",
+      "character/blade_dancer/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "abominable_person_unknown": [
+    [
+      "？？？",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "stray_cat": [
+    [
+      "野良猫",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "cat_tribe_villager": [
+    [
+      "猫族の村人",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "role_of_swordsman": [
+    [
+      "剣士役の旅団員",
+      "0x8cc2c9",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "abominable_person": [
+    [
+      "忌まれ者",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "underling_of_stella_copy": [
+    [
+      "レーヴェの舎弟",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "kowloon_mafia": [
+    [
+      "クーロンズマフィア",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "kunoichi_1anv_4anv_unknown": [
+    [
+      "？？？",
+      "0xa32535",
+      "character/kunoichi/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "frightened_woman": [
+    [
+      "怯える女性",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "frightened_woman_unknown": [
+    [
+      "怯？る女？",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "heretical_priestess": [
+    [
+      "異端の神官",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "heretical_priestess_unknown": [
+    [
+      "異？？神？",
+      "0x5ea497",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "sardir_knight": [
+    [
+      "サーディア騎士",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "eldid": [
+    [
+      "エルディード",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "droop_knight": [
+    [
+      "うなだれた騎士",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "kapera_woman_unknown": [
+    [
+      "？？？",
+      "0xcdcd8b",
+      "character/kapera/voice/",
+      "normal",
+      "character/tiger_treasure_hunter_smr20/ui/story/base_0",
+      "character/tiger_treasure_hunter_smr20/ui/story/normal"
+    ]
+  ],
+  "demon_tribe_boy": [
+    [
+      "魔族の少年",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "yuzu": [
+    [
+      "ユズ",
+      "0x82a0c1",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "zebiru_and_jude": [
+    [
+      "ゼビルとジュド",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "zebiru": [
+    [
+      "ゼビル",
+      "0x8091a3",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "jude": [
+    [
+      "ジュド",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "brigade_member": [
+    [
+      "旅団員",
+      "0x9ba683",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "ran_cat_cafe": [
+    [
+      "渋谷の猫カフェ運営経験者",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "fascinated_knight": [
+    [
+      "見入られた騎士",
+      "0xcdcd8b",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "beast_boy": [
+    [
+      "獣人の少年",
+      "0x7c8574",
+      "(None)",
+      "",
+      "",
+      ""
+    ]
+  ],
+  "light_adventurer_4anv": [
+    [
+      "ライト",
+      "0xff9f1c",
+      "character/light/voice/",
+      "normal,evolve",
+      "character/light_adventurer_4anv/ui/story/base_0,character/light_adventurer_4anv/ui/story/base_1",
+      "character/light_adventurer_4anv/ui/story/normal,(None)"
+    ]
+  ],
+  "nova_4anv": [
+    [
+      "ノヴァ",
+      "0xabb283",
+      "character/nova/voice/",
+      "normal,evolve",
+      "character/nova_4anv/ui/story/base_0,character/nova_4anv/ui/story/base_1",
+      "character/nova_4anv/ui/story/normal,(None)"
+    ]
+  ],
+  "stella_copy_4anv": [
+    [
+      "レーヴェ",
+      "0xb01c99",
+      "character/stella_copy/voice/",
+      "normal,evolve",
+      "character/stella_copy_4anv/ui/story/base_0,character/stella_copy_4anv/ui/story/base_1",
+      "character/stella_copy_4anv/ui/story/normal,(None)"
+    ]
+  ],
   "whitedog_beast": [
     [
       "フロレッタ",
@@ -26654,9 +26994,9 @@
       "ノヴァ",
       "0x8cc2c9",
       "character/nova/voice/",
-      "normal,anger,anger_b,impassive,joy,sad,sad_b,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,joy_b,pain,pain_b,smile_c,smile_d,surprise_c,anger_c,anger_d,sad_c,sad_d,serious_c,serious_d,anger_e,fear,glazed,glazed_b,glazed_c,pain_c,smile_e,surprise_d,remna,remna_b,remna_c,remna_d,remna_e,remna_f,anger_b_tc_base_tc,anger_tc_base_tc,impassive_tc_base_tc,joy_tc_base_tc,normal_tc_base_tc,sad_b_tc_base_tc,sad_tc_base_tc,serious_b_tc_base_tc,serious_tc_base_tc,shame_tc_base_tc,smile_b_tc_base_tc,smile_tc_base_tc,surprise_b_tc_base_tc,surprise_tc_base_tc,sweat_tc_base_tc,think_tc_base_tc",
-      "character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc",
-      "character/nova/ui/story/normal,character/nova/ui/story/anger,character/nova/ui/story/anger_b,character/nova/ui/story/impassive,character/nova/ui/story/joy,character/nova/ui/story/sad,character/nova/ui/story/sad_b,character/nova/ui/story/serious,character/nova/ui/story/serious_b,character/nova/ui/story/shame,character/nova/ui/story/smile,character/nova/ui/story/smile_b,character/nova/ui/story/surprise,character/nova/ui/story/surprise_b,character/nova/ui/story/sweat,character/nova/ui/story/think,character/nova/ui/story/joy_b,character/nova/ui/story/pain,character/nova/ui/story/pain_b,character/nova/ui/story/smile_c,character/nova/ui/story/smile_d,character/nova/ui/story/surprise_c,character/nova/ui/story/anger_c,character/nova/ui/story/anger_d,character/nova/ui/story/sad_c,character/nova/ui/story/sad_d,character/nova/ui/story/serious_c,character/nova/ui/story/serious_d,character/nova/ui/story/anger_e,character/nova/ui/story/fear,character/nova/ui/story/glazed,character/nova/ui/story/glazed_b,character/nova/ui/story/glazed_c,character/nova/ui/story/pain_c,character/nova/ui/story/smile_e,character/nova/ui/story/surprise_d,character/nova/ui/story/remna,character/nova/ui/story/remna_b,character/nova/ui/story/remna_c,character/nova/ui/story/remna_d,character/nova/ui/story/remna_e,character/nova/ui/story/remna_f,character/nova/ui/story/anger_b_tc,character/nova/ui/story/anger_tc,character/nova/ui/story/impassive_tc,character/nova/ui/story/joy_tc,character/nova/ui/story/normal_tc,character/nova/ui/story/sad_b_tc,character/nova/ui/story/sad_tc,character/nova/ui/story/serious_b_tc,character/nova/ui/story/serious_tc,character/nova/ui/story/shame_tc,character/nova/ui/story/smile_b_tc,character/nova/ui/story/smile_tc,character/nova/ui/story/surprise_b_tc,character/nova/ui/story/surprise_tc,character/nova/ui/story/sweat_tc,character/nova/ui/story/think_tc"
+      "normal,anger,anger_b,impassive,joy,sad,sad_b,serious,serious_b,shame,smile,smile_b,surprise,surprise_b,sweat,think,joy_b,pain,pain_b,smile_c,smile_d,surprise_c,anger_c,anger_d,sad_c,sad_d,serious_c,serious_d,anger_e,fear,glazed,glazed_b,glazed_c,pain_c,smile_e,surprise_d,remna,remna_b,remna_c,remna_d,remna_e,remna_f,cry,cry_b,cry_c,cry_d,evil,evil_b,pain_d,pain_e,pain_f,sad_e,sad_f,smile_f,surprise_e,think_b,anger_b_tc_base_tc,anger_tc_base_tc,impassive_tc_base_tc,joy_tc_base_tc,normal_tc_base_tc,sad_b_tc_base_tc,sad_tc_base_tc,serious_b_tc_base_tc,serious_tc_base_tc,shame_tc_base_tc,smile_b_tc_base_tc,smile_tc_base_tc,surprise_b_tc_base_tc,surprise_tc_base_tc,sweat_tc_base_tc,think_tc_base_tc,evolve",
+      "character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova/ui/story/base_tc,character/nova_4anv/ui/story/base_1",
+      "character/nova/ui/story/normal,character/nova/ui/story/anger,character/nova/ui/story/anger_b,character/nova/ui/story/impassive,character/nova/ui/story/joy,character/nova/ui/story/sad,character/nova/ui/story/sad_b,character/nova/ui/story/serious,character/nova/ui/story/serious_b,character/nova/ui/story/shame,character/nova/ui/story/smile,character/nova/ui/story/smile_b,character/nova/ui/story/surprise,character/nova/ui/story/surprise_b,character/nova/ui/story/sweat,character/nova/ui/story/think,character/nova/ui/story/joy_b,character/nova/ui/story/pain,character/nova/ui/story/pain_b,character/nova/ui/story/smile_c,character/nova/ui/story/smile_d,character/nova/ui/story/surprise_c,character/nova/ui/story/anger_c,character/nova/ui/story/anger_d,character/nova/ui/story/sad_c,character/nova/ui/story/sad_d,character/nova/ui/story/serious_c,character/nova/ui/story/serious_d,character/nova/ui/story/anger_e,character/nova/ui/story/fear,character/nova/ui/story/glazed,character/nova/ui/story/glazed_b,character/nova/ui/story/glazed_c,character/nova/ui/story/pain_c,character/nova/ui/story/smile_e,character/nova/ui/story/surprise_d,character/nova/ui/story/remna,character/nova/ui/story/remna_b,character/nova/ui/story/remna_c,character/nova/ui/story/remna_d,character/nova/ui/story/remna_e,character/nova/ui/story/remna_f,character/nova/ui/story/cry,character/nova/ui/story/cry_b,character/nova/ui/story/cry_c,character/nova/ui/story/cry_d,character/nova/ui/story/evil,character/nova/ui/story/evil_b,character/nova/ui/story/pain_d,character/nova/ui/story/pain_e,character/nova/ui/story/pain_f,character/nova/ui/story/sad_e,character/nova/ui/story/sad_f,character/nova/ui/story/smile_f,character/nova/ui/story/surprise_e,character/nova/ui/story/think_b,character/nova/ui/story/anger_b_tc,character/nova/ui/story/anger_tc,character/nova/ui/story/impassive_tc,character/nova/ui/story/joy_tc,character/nova/ui/story/normal_tc,character/nova/ui/story/sad_b_tc,character/nova/ui/story/sad_tc,character/nova/ui/story/serious_b_tc,character/nova/ui/story/serious_tc,character/nova/ui/story/shame_tc,character/nova/ui/story/smile_b_tc,character/nova/ui/story/smile_tc,character/nova/ui/story/surprise_b_tc,character/nova/ui/story/surprise_tc,character/nova/ui/story/sweat_tc,character/nova/ui/story/think_tc,(None)"
     ]
   ],
   "mob_horn_children": [
@@ -26874,9 +27214,9 @@
       "レーヴェ",
       "0xb01c99",
       "character/stella_copy/voice/",
-      "normal,anger_b,cry,consent_b,joy_b,sad_c,sad_d,sad_e,serious_c,serious_d,serious_sad_b,shame_b,surprise_c,surprise_d,seriously,think,despaer,pain,panic,shout,shout_b_b,shout_c,shout_b,amazed,anger_c,consent_c,cry_b,pain_b,panic_b,sad_f,serious_e,serious_f,smile,normal_base_c,anger_b_base_c,cry_base_c,consent_b_base_c,joy_b_base_c,sad_c_base_c,sad_d_base_c,sad_e_base_c,serious_c_base_c,serious_d_base_c,serious_sad_b_base_c,shame_b_base_c,surprise_c_base_c,surprise_d_base_c,seriously_base_c,think_base_c,despaer_base_c,pain_base_c,panic_base_c,shout_base_c,shout_b_b_base_c,shout_c_base_c,shout_b_base_c,item_base_c,amazed_base_c,anger_c_base_c,consent_c_base_c,cry_b_base_c,pain_b_base_c,panic_b_base_c,sad_f_base_c,serious_e_base_c,serious_f_base_c,smile_base_c",
-      "character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c",
-      "character/stella_copy/ui/story/normal_b,character/stella_copy/ui/story/anger_b,character/stella_copy/ui/story/cry,character/stella_copy/ui/story/consent_b,character/stella_copy/ui/story/joy_b,character/stella_copy/ui/story/sad_c,character/stella_copy/ui/story/sad_d,character/stella_copy/ui/story/sad_e,character/stella_copy/ui/story/serious_c,character/stella_copy/ui/story/serious_d,character/stella_copy/ui/story/serious_sad_b,character/stella_copy/ui/story/shame_b,character/stella_copy/ui/story/surprise_c,character/stella_copy/ui/story/surprise_d,character/stella_copy/ui/story/seriously,character/stella_copy/ui/story/think,character/stella_copy/ui/story/despaer,character/stella_copy/ui/story/pain,character/stella_copy/ui/story/panic,character/stella_copy/ui/story/shout,character/stella_copy/ui/story/shout_b_b,character/stella_copy/ui/story/shout_c,character/stella_copy/ui/story/shout_b,character/stella_copy/ui/story/amazed,character/stella_copy/ui/story/anger_c,character/stella_copy/ui/story/consent_c,character/stella_copy/ui/story/cry_b,character/stella_copy/ui/story/pain_b,character/stella_copy/ui/story/panic_b,character/stella_copy/ui/story/sad_f,character/stella_copy/ui/story/serious_e,character/stella_copy/ui/story/serious_f,character/stella_copy/ui/story/smile,character/stella_copy/ui/story/normal_b,character/stella_copy/ui/story/anger_b,character/stella_copy/ui/story/cry,character/stella_copy/ui/story/consent_b,character/stella_copy/ui/story/joy_b,character/stella_copy/ui/story/sad_c,character/stella_copy/ui/story/sad_d,character/stella_copy/ui/story/sad_e,character/stella_copy/ui/story/serious_c,character/stella_copy/ui/story/serious_d,character/stella_copy/ui/story/serious_sad_b,character/stella_copy/ui/story/shame_b,character/stella_copy/ui/story/surprise_c,character/stella_copy/ui/story/surprise_d,character/stella_copy/ui/story/seriously,character/stella_copy/ui/story/think,character/stella_copy/ui/story/despaer,character/stella_copy/ui/story/pain,character/stella_copy/ui/story/panic,character/stella_copy/ui/story/shout,character/stella_copy/ui/story/shout_b_b,character/stella_copy/ui/story/shout_c,character/stella_copy/ui/story/shout_b,character/stella_copy/ui/story/item,character/stella_copy/ui/story/amazed,character/stella_copy/ui/story/anger_c,character/stella_copy/ui/story/consent_c,character/stella_copy/ui/story/cry_b,character/stella_copy/ui/story/pain_b,character/stella_copy/ui/story/panic_b,character/stella_copy/ui/story/sad_f,character/stella_copy/ui/story/serious_e,character/stella_copy/ui/story/serious_f,character/stella_copy/ui/story/smile"
+      "normal,anger_b,cry,consent_b,joy_b,sad_c,sad_d,sad_e,serious_c,serious_d,serious_sad_b,shame_b,surprise_c,surprise_d,seriously,think,despaer,pain,panic,shout,shout_b_b,shout_c,shout_b,amazed,anger_c,consent_c,cry_b,pain_b,panic_b,sad_f,serious_e,serious_f,smile,joy_c,joy_d,serious_g,serious_h,smile_b,smile_c,think_b,normal_base_c,anger_b_base_c,cry_base_c,consent_b_base_c,joy_b_base_c,sad_c_base_c,sad_d_base_c,sad_e_base_c,serious_c_base_c,serious_d_base_c,serious_sad_b_base_c,shame_b_base_c,surprise_c_base_c,surprise_d_base_c,seriously_base_c,think_base_c,despaer_base_c,pain_base_c,panic_base_c,shout_base_c,shout_b_b_base_c,shout_c_base_c,shout_b_base_c,item_base_c,amazed_base_c,anger_c_base_c,consent_c_base_c,cry_b_base_c,pain_b_base_c,panic_b_base_c,sad_f_base_c,serious_e_base_c,serious_f_base_c,smile_base_c,joy_c_base_c,joy_d_base_c,serious_g_base_c,serious_h_base_c,smile_b_base_c,smile_c_base_c,think_b_base_c",
+      "character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_b,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c,character/stella_copy/ui/story/base_c",
+      "character/stella_copy/ui/story/normal_b,character/stella_copy/ui/story/anger_b,character/stella_copy/ui/story/cry,character/stella_copy/ui/story/consent_b,character/stella_copy/ui/story/joy_b,character/stella_copy/ui/story/sad_c,character/stella_copy/ui/story/sad_d,character/stella_copy/ui/story/sad_e,character/stella_copy/ui/story/serious_c,character/stella_copy/ui/story/serious_d,character/stella_copy/ui/story/serious_sad_b,character/stella_copy/ui/story/shame_b,character/stella_copy/ui/story/surprise_c,character/stella_copy/ui/story/surprise_d,character/stella_copy/ui/story/seriously,character/stella_copy/ui/story/think,character/stella_copy/ui/story/despaer,character/stella_copy/ui/story/pain,character/stella_copy/ui/story/panic,character/stella_copy/ui/story/shout,character/stella_copy/ui/story/shout_b_b,character/stella_copy/ui/story/shout_c,character/stella_copy/ui/story/shout_b,character/stella_copy/ui/story/amazed,character/stella_copy/ui/story/anger_c,character/stella_copy/ui/story/consent_c,character/stella_copy/ui/story/cry_b,character/stella_copy/ui/story/pain_b,character/stella_copy/ui/story/panic_b,character/stella_copy/ui/story/sad_f,character/stella_copy/ui/story/serious_e,character/stella_copy/ui/story/serious_f,character/stella_copy/ui/story/smile,character/stella_copy/ui/story/joy_c,character/stella_copy/ui/story/joy_d,character/stella_copy/ui/story/serious_g,character/stella_copy/ui/story/serious_h,character/stella_copy/ui/story/smile_b,character/stella_copy/ui/story/smile_c,character/stella_copy/ui/story/think_b,character/stella_copy/ui/story/normal_b,character/stella_copy/ui/story/anger_b,character/stella_copy/ui/story/cry,character/stella_copy/ui/story/consent_b,character/stella_copy/ui/story/joy_b,character/stella_copy/ui/story/sad_c,character/stella_copy/ui/story/sad_d,character/stella_copy/ui/story/sad_e,character/stella_copy/ui/story/serious_c,character/stella_copy/ui/story/serious_d,character/stella_copy/ui/story/serious_sad_b,character/stella_copy/ui/story/shame_b,character/stella_copy/ui/story/surprise_c,character/stella_copy/ui/story/surprise_d,character/stella_copy/ui/story/seriously,character/stella_copy/ui/story/think,character/stella_copy/ui/story/despaer,character/stella_copy/ui/story/pain,character/stella_copy/ui/story/panic,character/stella_copy/ui/story/shout,character/stella_copy/ui/story/shout_b_b,character/stella_copy/ui/story/shout_c,character/stella_copy/ui/story/shout_b,character/stella_copy/ui/story/item,character/stella_copy/ui/story/amazed,character/stella_copy/ui/story/anger_c,character/stella_copy/ui/story/consent_c,character/stella_copy/ui/story/cry_b,character/stella_copy/ui/story/pain_b,character/stella_copy/ui/story/panic_b,character/stella_copy/ui/story/sad_f,character/stella_copy/ui/story/serious_e,character/stella_copy/ui/story/serious_f,character/stella_copy/ui/story/smile,character/stella_copy/ui/story/joy_c,character/stella_copy/ui/story/joy_d,character/stella_copy/ui/story/serious_g,character/stella_copy/ui/story/serious_h,character/stella_copy/ui/story/smile_b,character/stella_copy/ui/story/smile_c,character/stella_copy/ui/story/think_b"
     ]
   ],
   "memory_voice": [
@@ -27384,9 +27724,9 @@
       "ライト",
       "0xff9f1c",
       "character/light/voice/",
-      "normal,anger,discontent,normal_b,shame,smile,surprise,surprise_b,sweat,akire,anger_b,joy,joy_b,sad,serious,serious_b,smile_b,smile_c,think,think_b",
-      "character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base",
-      "character/light_adventurer/ui/story/normal,character/light_adventurer/ui/story/anger,character/light_adventurer/ui/story/discontent,character/light_adventurer/ui/story/normal_b,character/light_adventurer/ui/story/shame,character/light_adventurer/ui/story/smile,character/light_adventurer/ui/story/surprise,character/light_adventurer/ui/story/surprise_b,character/light_adventurer/ui/story/sweat,character/light_adventurer/ui/story/akire,character/light_adventurer/ui/story/anger_b,character/light_adventurer/ui/story/joy,character/light_adventurer/ui/story/joy_b,character/light_adventurer/ui/story/sad,character/light_adventurer/ui/story/serious,character/light_adventurer/ui/story/serious_b,character/light_adventurer/ui/story/smile_b,character/light_adventurer/ui/story/smile_c,character/light_adventurer/ui/story/think,character/light_adventurer/ui/story/think_b"
+      "normal,anger,discontent,normal_b,shame,smile,surprise,surprise_b,sweat,akire,anger_b,joy,joy_b,sad,serious,serious_b,smile_b,smile_c,think,think_b,anger_c,pain,pain_b,sad_b,sad_c,sad_d,shout,shout_b,smile_d,smile_e,smile_f,surprise_c,surprise_d",
+      "character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base,character/light_adventurer/ui/story/base",
+      "character/light_adventurer/ui/story/normal,character/light_adventurer/ui/story/anger,character/light_adventurer/ui/story/discontent,character/light_adventurer/ui/story/normal_b,character/light_adventurer/ui/story/shame,character/light_adventurer/ui/story/smile,character/light_adventurer/ui/story/surprise,character/light_adventurer/ui/story/surprise_b,character/light_adventurer/ui/story/sweat,character/light_adventurer/ui/story/akire,character/light_adventurer/ui/story/anger_b,character/light_adventurer/ui/story/joy,character/light_adventurer/ui/story/joy_b,character/light_adventurer/ui/story/sad,character/light_adventurer/ui/story/serious,character/light_adventurer/ui/story/serious_b,character/light_adventurer/ui/story/smile_b,character/light_adventurer/ui/story/smile_c,character/light_adventurer/ui/story/think,character/light_adventurer/ui/story/think_b,character/light_adventurer/ui/story/anger_c,character/light_adventurer/ui/story/pain,character/light_adventurer/ui/story/pain_b,character/light_adventurer/ui/story/sad_b,character/light_adventurer/ui/story/sad_c,character/light_adventurer/ui/story/sad_d,character/light_adventurer/ui/story/shout,character/light_adventurer/ui/story/shout_b,character/light_adventurer/ui/story/smile_d,character/light_adventurer/ui/story/smile_e,character/light_adventurer/ui/story/smile_f,character/light_adventurer/ui/story/surprise_c,character/light_adventurer/ui/story/surprise_d"
     ]
   ],
   "remna": [
@@ -27404,9 +27744,9 @@
       "？？？",
       "0x32587d",
       "character/nova/voice/",
-      "normal",
-      "character/remna/ui/story/unknown",
-      "(None)"
+      "normal,think",
+      "character/remna/ui/story/unknown,character/remna/ui/story/base",
+      "(None),character/remna/ui/story/think"
     ]
   ],
   "remna_name_nova": [
@@ -27914,9 +28254,9 @@
       "星乃サクヤ",
       "0xc6c6a8",
       "character/psychic_sakuya/voice/",
-      "normal,confused,joy,normal_b,sad,sad_b,serious,serious_b,shame,smile,speech,surprise,sweat,think",
-      "character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base",
-      "character/psychic_sakuya/ui/story/normal,character/psychic_sakuya/ui/story/confused,character/psychic_sakuya/ui/story/joy,character/psychic_sakuya/ui/story/normal_b,character/psychic_sakuya/ui/story/sad,character/psychic_sakuya/ui/story/sad_b,character/psychic_sakuya/ui/story/serious,character/psychic_sakuya/ui/story/serious_b,character/psychic_sakuya/ui/story/shame,character/psychic_sakuya/ui/story/smile,character/psychic_sakuya/ui/story/speech,character/psychic_sakuya/ui/story/surprise,character/psychic_sakuya/ui/story/sweat,character/psychic_sakuya/ui/story/think"
+      "normal,confused,joy,normal_b,sad,sad_b,serious,serious_b,shame,smile,speech,surprise,sweat,think,joy_b,normal_c,normal_d,smile_b,smile_c,smile_d,think_b",
+      "character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base,character/psychic_sakuya/ui/story/base",
+      "character/psychic_sakuya/ui/story/normal,character/psychic_sakuya/ui/story/confused,character/psychic_sakuya/ui/story/joy,character/psychic_sakuya/ui/story/normal_b,character/psychic_sakuya/ui/story/sad,character/psychic_sakuya/ui/story/sad_b,character/psychic_sakuya/ui/story/serious,character/psychic_sakuya/ui/story/serious_b,character/psychic_sakuya/ui/story/shame,character/psychic_sakuya/ui/story/smile,character/psychic_sakuya/ui/story/speech,character/psychic_sakuya/ui/story/surprise,character/psychic_sakuya/ui/story/sweat,character/psychic_sakuya/ui/story/think,character/psychic_sakuya/ui/story/joy_b,character/psychic_sakuya/ui/story/normal_c,character/psychic_sakuya/ui/story/normal_d,character/psychic_sakuya/ui/story/smile_b,character/psychic_sakuya/ui/story/smile_c,character/psychic_sakuya/ui/story/smile_d,character/psychic_sakuya/ui/story/think_b"
     ]
   ],
   "psychic_shouta_unknown": [
@@ -29944,9 +30284,9 @@
       "カペラ",
       "0xcdcd8b",
       "character/kapera/voice/",
-      "normal,anger,normal_b,normal_c,sad,serious,serious_b,shame,smile,surprise,surprise_b,sweat,think,think_b,normal_base_b,anger_base_b,normal_b_base_b,normal_c_base_b,sad_base_b,serious_base_b,serious_b_base_b,shame_base_b,smile_base_b,surprise_base_b,surprise_b_base_b,sweat_base_b,think_base_b,think_b_base_b",
-      "character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b",
-      "character/kapera/ui/story/normal,character/kapera/ui/story/anger,character/kapera/ui/story/normal_b,character/kapera/ui/story/normal_c,character/kapera/ui/story/sad,character/kapera/ui/story/serious,character/kapera/ui/story/serious_b,character/kapera/ui/story/shame,character/kapera/ui/story/smile,character/kapera/ui/story/surprise,character/kapera/ui/story/surprise_b,character/kapera/ui/story/sweat,character/kapera/ui/story/think,character/kapera/ui/story/think_b,character/kapera/ui/story/normal,character/kapera/ui/story/anger,character/kapera/ui/story/normal_b,character/kapera/ui/story/normal_c,character/kapera/ui/story/sad,character/kapera/ui/story/serious,character/kapera/ui/story/serious_b,character/kapera/ui/story/shame,character/kapera/ui/story/smile,character/kapera/ui/story/surprise,character/kapera/ui/story/surprise_b,character/kapera/ui/story/sweat,character/kapera/ui/story/think,character/kapera/ui/story/think_b"
+      "normal,anger,normal_b,normal_c,sad,serious,serious_b,shame,smile,surprise,surprise_b,sweat,think,think_b,pain,sad_b,sad_c,serious_c,serious_d,serious_e,serious_f,normal_base_b,anger_base_b,normal_b_base_b,normal_c_base_b,sad_base_b,serious_base_b,serious_b_base_b,shame_base_b,smile_base_b,surprise_base_b,surprise_b_base_b,sweat_base_b,think_base_b,think_b_base_b,pain_base_b,sad_b_base_b,sad_c_base_b,serious_c_base_b,serious_d_base_b,serious_e_base_b,serious_f_base_b",
+      "character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b,character/kapera/ui/story/base_b",
+      "character/kapera/ui/story/normal,character/kapera/ui/story/anger,character/kapera/ui/story/normal_b,character/kapera/ui/story/normal_c,character/kapera/ui/story/sad,character/kapera/ui/story/serious,character/kapera/ui/story/serious_b,character/kapera/ui/story/shame,character/kapera/ui/story/smile,character/kapera/ui/story/surprise,character/kapera/ui/story/surprise_b,character/kapera/ui/story/sweat,character/kapera/ui/story/think,character/kapera/ui/story/think_b,character/kapera/ui/story/pain,character/kapera/ui/story/sad_b,character/kapera/ui/story/sad_c,character/kapera/ui/story/serious_c,character/kapera/ui/story/serious_d,character/kapera/ui/story/serious_e,character/kapera/ui/story/serious_f,character/kapera/ui/story/normal,character/kapera/ui/story/anger,character/kapera/ui/story/normal_b,character/kapera/ui/story/normal_c,character/kapera/ui/story/sad,character/kapera/ui/story/serious,character/kapera/ui/story/serious_b,character/kapera/ui/story/shame,character/kapera/ui/story/smile,character/kapera/ui/story/surprise,character/kapera/ui/story/surprise_b,character/kapera/ui/story/sweat,character/kapera/ui/story/think,character/kapera/ui/story/think_b,character/kapera/ui/story/pain,character/kapera/ui/story/sad_b,character/kapera/ui/story/sad_c,character/kapera/ui/story/serious_c,character/kapera/ui/story/serious_d,character/kapera/ui/story/serious_e,character/kapera/ui/story/serious_f"
     ]
   ],
   "kapera_noname": [

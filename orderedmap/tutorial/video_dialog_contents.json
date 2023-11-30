@@ -903,6 +903,20 @@
       "dynamic/how_to/multi_special_exchange/how_to_04"
     ]
   ],
+  "multi_special_exchange_03": [
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_01"
+    ],
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_03"
+    ],
+    [
+      "0",
+      "dynamic/how_to/multi_special_exchange/how_to_04"
+    ]
+  ],
   "kc_summer_2023": [
     [
       "0",
@@ -1053,6 +1067,28 @@
     [
       "0",
       "dynamic/hard_multi_tutorial/hard_multi_steam_robot_thunder/tutorial_05"
+    ]
+  ],
+  "hard_multi_steam_robot_dark": [
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_dark/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_dark/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_dark/tutorial_03"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_dark/tutorial_04"
+    ],
+    [
+      "0",
+      "dynamic/hard_multi_tutorial/hard_multi_steam_robot_dark/tutorial_05"
     ]
   ],
   "haniwa_carnival_01": [
@@ -2037,6 +2073,26 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_variant_hw_fire/tutorial_01"
+    ]
+  ],
+  "advent_steam_robot_dark_20231130_20231214": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_dark/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_dark/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_dark/tutorial_03"
+    ]
+  ],
+  "advent_variant_empress_dark": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_variant_empress_dark/tutorial_01"
     ]
   ],
   "abyss_beast": [

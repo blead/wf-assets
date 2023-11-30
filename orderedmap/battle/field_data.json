@@ -2309,6 +2309,41 @@
       "multi_variant_empress_light_5"
     ]
   ],
+  "multi_variant_empress_dark_1": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_dark",
+      "multi_variant_empress_dark_1"
+    ]
+  ],
+  "multi_variant_empress_dark_2": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_dark",
+      "multi_variant_empress_dark_2"
+    ]
+  ],
+  "multi_variant_empress_dark_3": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_dark",
+      "multi_variant_empress_dark_3"
+    ]
+  ],
+  "multi_variant_empress_dark_4": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_dark",
+      "multi_variant_empress_dark_4"
+    ]
+  ],
+  "multi_variant_empress_dark_5": [
+    [
+      "end_dungeon",
+      "battle/terrain/multi_normal_quest/chapter_01/boss_battle_variantempress_dark",
+      "multi_variant_empress_dark_5"
+    ]
+  ],
   "valentine21_01": [
     [
       "valentine21_01",
@@ -4050,6 +4085,41 @@
       "steampunk_fire_area",
       "battle/terrain/event_quest/advent_event/steampunk_fire/steampunk_fire",
       "steampunk_fire_hard_multi"
+    ]
+  ],
+  "steampunk_dark_1": [
+    [
+      "steampunk_dark_area",
+      "battle/terrain/event_quest/advent_event/steampunk_dark/steampunk_dark",
+      "steampunk_dark_1"
+    ]
+  ],
+  "steampunk_dark_2": [
+    [
+      "steampunk_dark_area",
+      "battle/terrain/event_quest/advent_event/steampunk_dark/steampunk_dark",
+      "steampunk_dark_2"
+    ]
+  ],
+  "steampunk_dark_3": [
+    [
+      "steampunk_dark_area",
+      "battle/terrain/event_quest/advent_event/steampunk_dark/steampunk_dark",
+      "steampunk_dark_3"
+    ]
+  ],
+  "steampunk_dark_4": [
+    [
+      "steampunk_dark_area",
+      "battle/terrain/event_quest/advent_event/steampunk_dark/steampunk_dark",
+      "steampunk_dark_4"
+    ]
+  ],
+  "steampunk_dark_hard": [
+    [
+      "steampunk_dark_area",
+      "battle/terrain/event_quest/advent_event/steampunk_dark/steampunk_dark",
+      "steampunk_dark_hard"
     ]
   ],
   "solo_time_attack_red1": [
@@ -6873,6 +6943,34 @@
       "skill_preview_common"
     ]
   ],
+  "skill_preview_nova_4anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_nova_4anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_stella_copy_4anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_stella_copy_4anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_wind_spgirl_4anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_wind_spgirl_4anv",
+      "skill_preview_common"
+    ]
+  ],
+  "skill_preview_light_adventurer_4anv": [
+    [
+      "common_skill_preview",
+      "battle/terrain/skill_preview/skill_preview_light_adventurer_4anv",
+      "skill_preview_common"
+    ]
+  ],
   "fire_sphere": [
     [
       "fire_dragon_area",
@@ -8264,6 +8362,20 @@
       "common_skill_preview",
       "battle/terrain/skill_preview/skill_preview_noelle_silva",
       "skill_preview_common"
+    ]
+  ],
+  "anv4_release_event": [
+    [
+      "anv1_release_event",
+      "battle/terrain/event_quest/story_event/anv4_release_event/anv4_release_event",
+      "anv4_release_event"
+    ]
+  ],
+  "anv4_release_event_light": [
+    [
+      "anv1_release_event",
+      "battle/terrain/event_quest/story_event/anv4_release_event/anv4_release_event_light",
+      "anv4_release_event_light"
     ]
   ],
   "anv3_release_event": [

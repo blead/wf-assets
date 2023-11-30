@@ -5003,6 +5003,60 @@
       "false"
     ]
   ],
+  "218793": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_white_pickup_2",
+      "2023-11-30 12:00:00",
+      "2023-12-07 11:59:59",
+      "false"
+    ]
+  ],
+  "199258": [
+    [
+      "5000",
+      "dynamic/feature_announcement/anv4_release_event",
+      "2023-11-30 12:00:00",
+      "2023-12-17 11:59:59",
+      "false"
+    ]
+  ],
+  "220205": [
+    [
+      "5010",
+      "dynamic/feature_announcement/multi_special_exchange_campaign_03",
+      "2023-11-30 12:00:00",
+      "2023-12-15 11:59:59",
+      "false"
+    ]
+  ],
+  "219096": [
+    [
+      "3003",
+      "dynamic/feature_announcement/new_character_pickup_100",
+      "2023-11-30 12:00:00",
+      "2023-12-07 11:59:59",
+      "false"
+    ]
+  ],
+  "219086": [
+    [
+      "6000",
+      "dynamic/feature_announcement/notice_4th_aniv_campaign",
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59",
+      "false"
+    ]
+  ],
+  "4071": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_player_history",
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5291,6 +5345,15 @@
       "false"
     ]
   ],
+  "10000063": [
+    [
+      "1000",
+      "dynamic/feature_announcement/advent_variant_empress_dark",
+      "2023-11-30 12:00:00",
+      "2023-12-13 20:59:59",
+      "false"
+    ]
+  ],
   "10000043": [
     [
       "2000",
@@ -5324,6 +5387,24 @@
       "dynamic/feature_announcement/advent_event_steam_robot_light",
       "2023-05-31 12:00:00",
       "2023-06-16 20:59:59",
+      "false"
+    ]
+  ],
+  "218593": [
+    [
+      "2001",
+      "dynamic/feature_announcement/hard_multi_event_steam_robot_dark",
+      "2023-11-30 12:00:00",
+      "2023-12-14 20:59:59",
+      "false"
+    ]
+  ],
+  "218594": [
+    [
+      "2002",
+      "dynamic/feature_announcement/advent_event_steam_robot_dark",
+      "2023-11-30 12:00:00",
+      "2023-12-14 20:59:59",
       "false"
     ]
   ],

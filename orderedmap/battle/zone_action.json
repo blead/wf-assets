@@ -67,6 +67,34 @@
       ]
     ]
   },
+  "anv4_release_event": {
+    "0": [
+      [
+        "2",
+        "",
+        "anv4_alk",
+        "60",
+        "8",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  "anv4_release_event_light": {
+    "0": [
+      [
+        "2",
+        "",
+        "anv4_light_adventurer",
+        "60",
+        "8",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
   "anv3_release_event": {
     "0": [
       [

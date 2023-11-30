@@ -512,6 +512,60 @@
       ]
     ]
   },
+  "variant_empress_dark_bird_funnel_multi": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_multi1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_multi5"
+      ]
+    ]
+  },
+  "variant_empress_dark_bird_funnel_single": {
+    "25": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_single1"
+      ]
+    ],
+    "60": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_single2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_single3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/variant_empress_dark_bird_funnel_single5"
+      ]
+    ]
+  },
   "funnel_turf_boss_multi": {
     "25": [
       [
@@ -1173,6 +1227,91 @@
     "100": [
       [
         "battle/enemy/boss/steampunk_fire_funnel_core_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_dark_funnel_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_multi4"
+      ]
+    ]
+  },
+  "steampunk_dark_funnel_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_dark_funnel_core_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_core_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_core_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_core_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_core_multi4"
+      ]
+    ]
+  },
+  "steampunk_dark_funnel_core_hard_multi": {
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_core_hard_multi"
+      ]
+    ]
+  },
+  "steampunk_dark_funnel_heel_multi": {
+    "20": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_heel_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_heel_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_heel_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_heel_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/steampunk_dark_funnel_heel_hard_multi"
       ]
     ]
   },

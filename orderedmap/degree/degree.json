@@ -7175,6 +7175,84 @@
       "dynamic/degree/degree_favor_yamada_tae_2"
     ]
   ],
+  "1151182": [
+    [
+      "degree_favor_nova_4anv_2",
+      "146001",
+      "また明日も共に",
+      "またあすもともに",
+      "獲得条件：【同じ旅路を行く者】ノヴァのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nova_4anv_2"
+    ]
+  ],
+  "1161201": [
+    [
+      "degree_favor_stella_copy_4anv_2",
+      "179001",
+      "朝日の旅立ち",
+      "あさひのたびだち",
+      "獲得条件：【夢抱く旅人】レーヴェのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_copy_4anv_2"
+    ]
+  ],
+  "1141201": [
+    [
+      "degree_favor_wind_spgirl_4anv_2",
+      "91031",
+      "彼方を切り拓く剣",
+      "かなたをきりひらくつるぎ",
+      "獲得条件：【星の剣聖】シルティーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_4anv_2"
+    ]
+  ],
+  "1131182": [
+    [
+      "degree_favor_light_adventurer_4anv_2",
+      "143011",
+      "おとぎ話をもう一度",
+      "おとぎばなしをもういちど",
+      "獲得条件：【勇気の守護者】ライトのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_adventurer_4anv_2"
+    ]
+  ],
+  "1121189": [
+    [
+      "degree_favor_dryad_hw23_2",
+      "443021",
+      "明日はなにして遊ぶ？",
+      "あしたはなにしてあそぶ",
+      "獲得条件：【祝福の精霊】チャルアのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_dryad_hw23_2"
+    ]
+  ],
+  "1111183": [
+    [
+      "degree_favor_fire_dragon_zenith_2",
+      "1011",
+      "プロミネンス・プラウド",
+      "ぷろみねんすぷらうど",
+      "獲得条件：【炎龍王】ヴァーグナーのマナボード2枚目全強化",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_fire_dragon_zenith_2"
+    ]
+  ],
   "1141183": [
     [
       "degree_favor_combat_animal_meteor23_2",
@@ -16106,6 +16184,58 @@
       "dynamic/degree/degree_favor_vigilante_boy"
     ]
   ],
+  "151182": [
+    [
+      "degree_favor_nova_4anv",
+      "146000",
+      "同じ旅路を行く者",
+      "おなじたびじをゆくもの",
+      "獲得条件：【同じ旅路を行く者】ノヴァをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_nova_4anv"
+    ]
+  ],
+  "161201": [
+    [
+      "degree_favor_stella_copy_4anv",
+      "179000",
+      "夢抱く旅人",
+      "ゆめいだくたびびと",
+      "獲得条件：【夢抱く旅人】レーヴェをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_stella_copy_4anv"
+    ]
+  ],
+  "141201": [
+    [
+      "degree_favor_wind_spgirl_4anv",
+      "91030",
+      "星の剣聖",
+      "ほしのけんせい",
+      "獲得条件：【星の剣聖】シルティーをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_wind_spgirl_4anv"
+    ]
+  ],
+  "131182": [
+    [
+      "degree_favor_light_adventurer_4anv",
+      "143010",
+      "勇気の守護者",
+      "ゆうきのしゅごしゃ",
+      "獲得条件：【勇気の守護者】ライトをLv100かつ絆の証を入手",
+      "2",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_favor_light_adventurer_4anv"
+    ]
+  ],
   "11120": [
     [
       "degree_boss_battle_ex_clear_single_14",
@@ -17196,6 +17326,58 @@
       "dynamic/degree/background",
       "item/etc/degree",
       "dynamic/degree/degree_steam_robot_fire_challenge_clear_1_1"
+    ]
+  ],
+  "62500": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_1",
+      "646510",
+      "暗凛の打倒者",
+      "あんりんのだとうしゃ",
+      "獲得条件：降臨討伐 暗凛の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_1"
+    ]
+  ],
+  "62510": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_2",
+      "646511",
+      "暗凛の征服者",
+      "あんりんのせいふくしゃ",
+      "獲得条件：降臨討伐 暗凛の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_2"
+    ]
+  ],
+  "62520": [
+    [
+      "degree_advent_event_steam_robot_dark_clear_3",
+      "646512",
+      "暗凛の討滅者",
+      "あんりんのとうめつしゃ",
+      "獲得条件：降臨討伐 暗凛の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_dark_clear_3"
+    ]
+  ],
+  "62530": [
+    [
+      "degree_steam_robot_dark_challenge_clear_1",
+      "539500",
+      "暗凛の試練：決",
+      "あんりんのしれんけつ",
+      "獲得条件：共同決戦 暗凛の機兵で暗機兵ダグランの決戦級を討伐",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_steam_robot_dark_challenge_clear_1"
     ]
   ],
   "62030": [

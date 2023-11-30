@@ -15898,6 +15898,99 @@
       ]
     ]
   },
+  "212": {
+    "1": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_100/top/feature",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "141201",
+        "0",
+        "141201",
+        ""
+      ]
+    ],
+    "3": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_100/wind_spgirl_4anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "141201",
+        ""
+      ]
+    ],
+    "4": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "151182",
+        "0",
+        "151182",
+        ""
+      ]
+    ],
+    "5": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_100/nova_4anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "151182",
+        ""
+      ]
+    ],
+    "6": [
+      [
+        "2",
+        "",
+        "",
+        "0",
+        "",
+        "161201",
+        "0",
+        "161201",
+        ""
+      ]
+    ],
+    "7": [
+      [
+        "0",
+        "",
+        "gacha/feature_movie/new_character_pickup_100/stella_copy_4anv/feature",
+        "",
+        "",
+        "",
+        "0",
+        "161201",
+        ""
+      ]
+    ]
+  },
   "116": {
     "1": [
       [
@@ -16298,6 +16391,21 @@
       [
         "1",
         "dynamic/gacha_banner/equipment_wind_pickup_2",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5043": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_white_pickup_2",
         "",
         "",
         "",

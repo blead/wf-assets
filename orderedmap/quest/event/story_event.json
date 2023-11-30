@@ -436,6 +436,29 @@
       "2021-03-09 11:59:59"
     ]
   ],
+  "200031": [
+    [
+      "anv4_release_event",
+      "(None)",
+      "リリース4周年記念クエスト",
+      "",
+      "quest/event/banner/story_event/anv4_release_event_001",
+      "(None)",
+      "quest/event/background/story_event/anv4_release_event_001_background",
+      "(None)",
+      "1",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "false",
+      "(None)",
+      "2023-11-30 12:00:00",
+      "2023-12-17 11:59:59",
+      "2023-12-17 11:59:59"
+    ]
+  ],
   "200030": [
     [
       "anv3_release_event",

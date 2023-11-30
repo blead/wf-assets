@@ -1583,6 +1583,22 @@
       ""
     ]
   ],
+  "100017": [
+    [
+      "anv4_release_event_clear_first",
+      "3",
+      "",
+      "200"
+    ]
+  ],
+  "100018": [
+    [
+      "anv4_release_event_clear_light",
+      "2",
+      "131182",
+      ""
+    ]
+  ],
   "10042701": [
     [
       "anv3half_equipment_boss",

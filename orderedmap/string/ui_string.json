@@ -184,6 +184,11 @@
       "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「橙悚の機兵」の「橙機兵ギブシーズ 超級」をクリア"
     ]
   ],
+  "system_lock_hard_multi_dark": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・降臨討伐「暗凛の機兵」の「暗機兵ダグラン 超級」をクリア"
+    ]
+  ],
   "short_system_lock_boss_battle": [
     [
       "メインクエスト 1 章 4 - 2 をクリア"
@@ -257,6 +262,11 @@
   "party_character_list_edit_favourite_party_how_to_play": [
     [
       "この画面では推しキャラの設定ができます\n設定した枠に応じて、プロフィール画面やプロフカードで表示される場所が変わります"
+    ]
+  ],
+  "party_character_list_edit_player_history_favourite_party_how_to_play": [
+    [
+      "この画面では推しキャラの設定ができます\n設定した枠に応じて、マイヒストリー画面やマイヒストリーカードで表示される場所が変わります"
     ]
   ],
   "party_edit_button_label": [
@@ -1226,7 +1236,7 @@
   ],
   "field_cancel_trigger_kind_power_flip_hit_lv_high_count": [
     [
-      "::trigger_count:: 回、パワーフリップLv::level::::if (level <= 2)::以上::end::がヒット"
+      "::trigger_count:: 回、パワーフリップ::if (level >= 2)::Lv::level::::if (level <= 2)::以上::end::::end::がヒット"
     ]
   ],
   "field_cancel_trigger_kind_revival": [
@@ -1771,7 +1781,7 @@
   ],
   "ability_description_instant_trigger_kind_power_flip_hit_lv_high_count": [
     [
-      "パワーフリップLv::level::::if (level <= 2)::以上::end::が::if hasCount:: ::count::::else::::end::::if once::ヒット::else::ヒットする::end::"
+      "パワーフリップ::if (level >= 2)::Lv::level::::if (level <= 2)::以上::end::::end::が::if hasCount:: ::count::::else::::end::::if once::ヒット::else::ヒットする::end::"
     ]
   ],
   "ability_description_instant_trigger_kind_one_of_enemy_power_flip_count": [
@@ -5374,6 +5384,11 @@
       "降臨討伐 闇喚の精霊獣"
     ]
   ],
+  "help_label_event_advent_steam_robot_dark": [
+    [
+      "降臨討伐 暗凛の機兵"
+    ]
+  ],
   "help_label_event_advent_steam_robot_fire": [
     [
       "降臨討伐 紅嫉の機兵"
@@ -5464,6 +5479,11 @@
       "降臨討伐"
     ]
   ],
+  "help_label_event_advent_variant_empress_dark": [
+    [
+      "降臨討伐 レーヌ・ノワール"
+    ]
+  ],
   "help_label_event_advent_variant_empress_light": [
     [
       "降臨討伐 レーヌ・ブロンシュ"
@@ -5512,6 +5532,11 @@
   "help_label_event_hard_multi_thunder": [
     [
       "共同決戦 橙悚の機兵"
+    ]
+  ],
+  "help_label_event_hard_multi_dark": [
+    [
+      "共同決戦 暗凛の機兵"
     ]
   ],
   "help_label_event_challenge": [
@@ -10094,6 +10119,556 @@
       "編集"
     ]
   ],
+  "player_history_edit_title": [
+    [
+      "マイヒストリー編集"
+    ]
+  ],
+  "player_history_edit_favourite_party_title": [
+    [
+      "推しキャラ"
+    ]
+  ],
+  "player_history_edit_degree_title": [
+    [
+      "称号"
+    ]
+  ],
+  "player_history_edit_player_name_title": [
+    [
+      "名前"
+    ]
+  ],
+  "player_history_edit_card_template_title": [
+    [
+      "カードテンプレート"
+    ]
+  ],
+  "player_history_edit_display_topic_title": [
+    [
+      "マイヒストリーカード項目設定"
+    ]
+  ],
+  "player_history_edit_edit_button": [
+    [
+      "編集"
+    ]
+  ],
+  "player_history_edit_change_button": [
+    [
+      "設定変更"
+    ]
+  ],
+  "player_history_card_period_from": [
+    [
+      "～"
+    ]
+  ],
+  "player_history_card_date_format": [
+    [
+      "::year::年::month::月::date::日"
+    ]
+  ],
+  "player_history_card_period_date_format": [
+    [
+      "::year::/::month::/::date:: ::hour:::::minute::"
+    ]
+  ],
+  "player_history_card_template_title": [
+    [
+      "カードテンプレート一覧"
+    ]
+  ],
+  "player_history_card_template_description": [
+    [
+      "全てのマイヒストリーカード共通の背景を設定できます"
+    ]
+  ],
+  "player_history_card_template_tab_kind_all": [
+    [
+      "ALL"
+    ]
+  ],
+  "player_history_card_template_tab_kind_general": [
+    [
+      "一般"
+    ]
+  ],
+  "player_history_card_template_tab_kind_main_quest": [
+    [
+      "メイン\nクエスト"
+    ]
+  ],
+  "player_history_card_template_tab_kind_event": [
+    [
+      "イベント"
+    ]
+  ],
+  "player_history_card_template_tab_kind_town": [
+    [
+      "星見の街"
+    ]
+  ],
+  "player_history_card_topic_title": [
+    [
+      "マイヒストリー一覧"
+    ]
+  ],
+  "player_history_card_topic_description": [
+    [
+      "カードに載せるヒストリーを選択できます"
+    ]
+  ],
+  "player_history_card_topic_space_label": [
+    [
+      "スペース"
+    ]
+  ],
+  "player_history_card_topic_space_number": [
+    [
+      "：::current:: / ::max::"
+    ]
+  ],
+  "player_history_card_topic_card_label": [
+    [
+      "カード枚数"
+    ]
+  ],
+  "player_history_card_topic_card_number": [
+    [
+      "：::current:: / ::max::"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_all": [
+    [
+      "ALL"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_player": [
+    [
+      "プレイヤー"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_character": [
+    [
+      "キャラ"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_quest": [
+    [
+      "クエスト"
+    ]
+  ],
+  "player_history_card_topic_tab_kind_equipment": [
+    [
+      "装備"
+    ]
+  ],
+  "player_history_share_text": [
+    [
+      "ワールドフリッパーでマイヒストリーカードを作りました！ワーフリ開始から今までの歩みを振り返りましょう！#ワーフリ #祝ワーフリ4周年 #ワーフリマイヒストリー"
+    ]
+  ],
+  "player_history_card_preview_title": [
+    [
+      "マイヒストリーカードプレビュー"
+    ]
+  ],
+  "player_history_card_preview_share": [
+    [
+      "シェアする"
+    ]
+  ],
+  "player_history_card_preview_share_all": [
+    [
+      "まとめて\nシェアする"
+    ]
+  ],
+  "player_history_topic_player_info_rank": [
+    [
+      "ランク"
+    ]
+  ],
+  "player_history_topic_player_info_id": [
+    [
+      "ID"
+    ]
+  ],
+  "player_history_topic_start_game_title": [
+    [
+      "ワーフリ開始"
+    ]
+  ],
+  "player_history_topic_total_login_title": [
+    [
+      "累計プレイ"
+    ]
+  ],
+  "player_history_topic_clear_chapter_title": [
+    [
+      "メインクエストクリア"
+    ]
+  ],
+  "player_history_topic_clear_chapter_cleared": [
+    [
+      "::chapter::章：::date::"
+    ]
+  ],
+  "player_history_topic_clear_chapter_uncleared": [
+    [
+      "::chapter::章：<font color='#999999'>未クリア</font>"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_title": [
+    [
+      "初マナボード2枚目全強化"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_date": [
+    [
+      "::date::達成"
+    ]
+  ],
+  "player_history_topic_complete_mana_board_2_unrecorded": [
+    [
+      "達成したキャラなし"
+    ]
+  ],
+  "player_history_topic_lv_100_character_title": [
+    [
+      "Lv100のキャラ"
+    ]
+  ],
+  "player_history_topic_bond_token_title": [
+    [
+      "累計絆の証獲得"
+    ]
+  ],
+  "player_history_topic_get_100_characters_title": [
+    [
+      "100キャラ加入達成"
+    ]
+  ],
+  "player_history_topic_unachieved": [
+    [
+      "未達成"
+    ]
+  ],
+  "player_history_topic_unit_day": [
+    [
+      "日"
+    ]
+  ],
+  "player_history_topic_unit_character": [
+    [
+      "キャラ"
+    ]
+  ],
+  "player_history_topic_unit_item": [
+    [
+      "個"
+    ]
+  ],
+  "player_history_topic_unit_time": [
+    [
+      "回"
+    ]
+  ],
+  "player_history_topic_unit_group": [
+    [
+      "種"
+    ]
+  ],
+  "player_history_topic_unit_event": [
+    [
+      "イベント"
+    ]
+  ],
+  "player_history_topic_unit_mana": [
+    [
+      "マナ"
+    ]
+  ],
+  "player_history_topic_player_rank_100_title": [
+    [
+      "プレイヤーランク100達成"
+    ]
+  ],
+  "player_history_topic_complete_regular_mission_title": [
+    [
+      "レギュラーミッション達成"
+    ]
+  ],
+  "player_history_topic_complete_event_mission_title": [
+    [
+      "イベントミッション達成"
+    ]
+  ],
+  "player_history_topic_multi_first_place_title": [
+    [
+      "協力バトルMVP獲得"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_title": [
+    [
+      "協力バトル"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_host": [
+    [
+      "ホスト"
+    ]
+  ],
+  "player_history_topic_multi_host_guest_guest": [
+    [
+      "ゲスト"
+    ]
+  ],
+  "player_history_topic_owned_equipment_title": [
+    [
+      "所有装備アイテム"
+    ]
+  ],
+  "player_history_topic_complete_equipment_title": [
+    [
+      "装備アイテム覚醒"
+    ]
+  ],
+  "player_history_topic_complete_equipment_recorded": [
+    [
+      "種　最大覚醒Lv達成！"
+    ]
+  ],
+  "player_history_topic_complete_equipment_unrecorded": [
+    [
+      "最大覚醒Lvの装備はありません"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_title": [
+    [
+      "特殊装備強化"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_achieved": [
+    [
+      "種　最大強化Lv達成！"
+    ]
+  ],
+  "player_history_topic_complete_equipment_enhancement_unrecorded": [
+    [
+      "最大強化Lvの装備はありません"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_title": [
+    [
+      "プ・リリエの褒章装備強化"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_lv": [
+    [
+      "Lv <font color='#27B9AB' size='+2'>::level::</font>"
+    ]
+  ],
+  "player_history_topic_guild_girl_equipment_enhancement_unowned": [
+    [
+      "未所持"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_title": [
+    [
+      "コンバットダイバー最高記録"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_date": [
+    [
+      "::date::開催の"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_description": [
+    [
+      "コンバットダイバーエンドレスバトルにて"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_achieved": [
+    [
+      "戦達成！"
+    ]
+  ],
+  "player_history_topic_rush_endless_battle_record_unrecorded": [
+    [
+      "コンバットダイバーのエンドレスバトル未クリア"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_title": [
+    [
+      "ハニワカーニバル最高記録"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_total": [
+    [
+      "TOTAL"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_date": [
+    [
+      "::date::開催の\nハニワカーニバルにて"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_achieved": [
+    [
+      "達成！"
+    ]
+  ],
+  "player_history_topic_haniwa_carnival_record_unrecorded": [
+    [
+      "ハニワカーニバル未クリア"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_title": [
+    [
+      "極時の試練"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_clear": [
+    [
+      "踏破\n称号"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_complete": [
+    [
+      "制覇\n称号"
+    ]
+  ],
+  "player_history_topic_solo_time_attack_degree_achieved": [
+    [
+      "達成！"
+    ]
+  ],
+  "player_history_topic_score_attack_border_title": [
+    [
+      "無限演武"
+    ]
+  ],
+  "player_history_topic_score_attack_border_best": [
+    [
+      "最高"
+    ]
+  ],
+  "player_history_topic_score_attack_border_total": [
+    [
+      "累計"
+    ]
+  ],
+  "player_history_topic_score_attack_border_border": [
+    [
+      "ボーダー"
+    ]
+  ],
+  "player_history_topic_score_attack_border_achieved": [
+    [
+      "達成!"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_title": [
+    [
+      "追憶の試練"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_quest": [
+    [
+      "クエスト"
+    ]
+  ],
+  "player_history_topic_clear_expert_single_quest_clear": [
+    [
+      "クリア！"
+    ]
+  ],
+  "player_history_topic_complete_side_story_title": [
+    [
+      "サイドストーリークリア"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_title": [
+    [
+      "揺らぎの迷宮 幽玄域"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_total": [
+    [
+      "累計"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_floor": [
+    [
+      "階層"
+    ]
+  ],
+  "player_history_topic_clear_tower_dungeon_floor_cleared": [
+    [
+      "踏破！"
+    ]
+  ],
+  "player_history_topic_total_mana_paid_title": [
+    [
+      "ほりだしもの"
+    ]
+  ],
+  "player_history_topic_total_mana_paid_total": [
+    [
+      "累計\n消費"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_title": [
+    [
+      "星見の図鑑"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_keyword": [
+    [
+      "キーワード\n情報"
+    ]
+  ],
+  "player_history_topic_encyclopedia_read_complete": [
+    [
+      "読破！"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_title": [
+    [
+      "初めて討伐したチャレンジシングルバトル地獄級ボス"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_defeat": [
+    [
+      "を初討伐！"
+    ]
+  ],
+  "player_history_topic_defeat_expert_single_boss_unrecorded": [
+    [
+      "これまで一度もボスを討伐していません"
+    ]
+  ],
+  "player_history_invalid_period_dialog_text": [
+    [
+      "マイヒストリーカード開催期間外です"
+    ]
+  ],
+  "player_history_period_text": [
+    [
+      "開催期間：::start_date:: - ::end_date::"
+    ]
+  ],
+  "player_history_title": [
+    [
+      "マイヒストリー"
+    ]
+  ],
+  "player_history_favorite_party_name": [
+    [
+      "推しキャラ設定"
+    ]
+  ],
   "edit_profile_title": [
     [
       "プロフィール編集"
@@ -13122,6 +13697,11 @@
   "player_profile_how_to_play": [
     [
       "この画面では称号や名前や推しキャラ、\nプロフィールメッセージの編集ができます\n作成したプロフィールは、プロフカードとしてSNSなどにシェアすることもできます\n\n名前やプロフィールメッセージは\n他人にも見られることがあるので\n個人情報を書かないようにしましょう"
+    ]
+  ],
+  "player_history_how_to_play": [
+    [
+      "この画面では称号や名前や推しキャラ、\nマイヒストリーの編集ができます\n「編集」ボタンを押して、各種設定してみましょう\n作成したマイヒストリーは、マイヒストリーカードとしてSNSなどにシェアすることもできます\n\n名前は他人にも見られることがあるので\n個人情報を書かないようにしましょう"
     ]
   ],
   "expod_exp_charge": [

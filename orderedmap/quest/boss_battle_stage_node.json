@@ -485,6 +485,24 @@
         "quest/boss_battle/background/boss_battle_empress_03",
         "1021"
       ]
+    ],
+    "36": [
+      [
+        "ボスバトル",
+        "レーヌ・ノワール討伐",
+        "1",
+        "(None)",
+        "(None)",
+        "",
+        "33",
+        "40305",
+        "40306",
+        "40307",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_34_1",
+        "quest/boss_battle/background/boss_battle_empress_03",
+        "1021"
+      ]
     ]
   }
 }

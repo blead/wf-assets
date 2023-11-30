@@ -3459,6 +3459,16 @@
       "12"
     ]
   ],
+  "bgm/event/boss_battle_multi_pickup/battle/reine_noir_battle_boss": [
+    [
+      "0.35",
+      "198",
+      "0.054036282",
+      "106.68002",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/boss_battle_multi_pickup/battle/reine_jaune_battle_boss": [
     [
       "0.35",
@@ -5795,6 +5805,46 @@
       "60",
       "0.0715873",
       "0.20056689",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/light_adventurer_4anv/light_adventurer_4anv": [
+    [
+      "0.35",
+      "68",
+      "0.07390023",
+      "14.150885",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/nova_4anv/nova_4anv": [
+    [
+      "0.35",
+      "168",
+      "0.05984127",
+      "41.80483",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/stella_copy_4anv/stella_copy_4anv": [
+    [
+      "0.35",
+      "120",
+      "0.06995465",
+      "16.029955",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/character_unique/wind_spgirl_4anv/wind_spgirl_4anv": [
+    [
+      "0.35",
+      "164",
+      "0.07172336",
+      "43.74671",
       "(None)",
       "12"
     ]
@@ -9865,6 +9915,16 @@
       "155",
       "0.062267575",
       "7.7592516",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_dark/battle/advent_steam_robot_dark_boss": [
+    [
+      "0.35",
+      "162",
+      "0.07201814",
+      "13.365011",
       "(None)",
       "12"
     ]

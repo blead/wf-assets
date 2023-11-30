@@ -9054,6 +9054,135 @@
       ]
     ]
   },
+  "141201": {
+    "17": [
+      [
+        "sound_effect/slash/se_short_sharp_claw"
+      ]
+    ],
+    "39": [
+      [
+        "sound_effect/slash/se_rapier_slash"
+      ]
+    ],
+    "57": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "87": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "129": [
+      [
+        "sound_effect/slash/se_big_spark_claw"
+      ],
+      [
+        "sound_effect/slash/se_heavy_aura_critical"
+      ]
+    ],
+    "195": [
+      [
+        "sound_effect/slash/se_big_spark_claw"
+      ],
+      [
+        "sound_effect/slash/se_heavy_aura_critical"
+      ]
+    ]
+  },
+  "151182": {
+    "5": [
+      [
+        "sound_effect/light/se_light_flash_short"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/light/se_light_slash"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "101": [
+      [
+        "sound_effect/light/se_light_rising_shine"
+      ]
+    ],
+    "155": [
+      [
+        "sound_effect/light/se_light_sharp_reflection"
+      ]
+    ]
+  },
+  "131182": {
+    "5": [
+      [
+        "sound_effect/situation/se_impress_clashdish"
+      ]
+    ],
+    "29": [
+      [
+        "sound_effect/situation/se_impress_clashdish"
+      ]
+    ],
+    "65": [
+      [
+        "sound_effect/situation/se_impress_clashdish"
+      ]
+    ],
+    "107": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "155": [
+      [
+        "sound_effect/light/se_light_rising_shine"
+      ]
+    ],
+    "215": [
+      [
+        "sound_effect/thunder/se_thunder_stamp"
+      ]
+    ],
+    "264": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
+  "161201": {
+    "5": [
+      [
+        "sound_effect/element/se_magic_disappearance"
+      ]
+    ],
+    "41": [
+      [
+        "sound_effect/element/se_energy_inhalation"
+      ]
+    ],
+    "77": [
+      [
+        "sound_effect/light/se_light_sparkling_hard_explosion"
+      ]
+    ],
+    "113": [
+      [
+        "sound_effect/element/se_moving_wind"
+      ]
+    ],
+    "161": [
+      [
+        "sound_effect/light/se_light_hard_flash_parry"
+      ]
+    ]
+  },
   "141006": {
     "17": [
       [

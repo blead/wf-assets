@@ -22071,10 +22071,34 @@
       "690"
     ]
   ],
+  "character/dimension_witch/ui/story/jitome": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
   "character/dimension_witch/ui/story/joy": [
     [
       "181",
       "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/joy_b": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/joy_c": [
+    [
+      "175",
+      "205",
       "570",
       "690"
     ]
@@ -22091,6 +22115,38 @@
     [
       "213",
       "240",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/pain": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/pain_b": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/pain_c": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/pain_d": [
+    [
+      "175",
+      "205",
       "570",
       "690"
     ]
@@ -22115,6 +22171,38 @@
     [
       "181",
       "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/sad_c": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/sad_d": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/serious": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/serious_b": [
+    [
+      "175",
+      "205",
       "570",
       "690"
     ]
@@ -22163,6 +22251,22 @@
     [
       "237",
       "315",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/think": [
+    [
+      "175",
+      "205",
+      "570",
+      "690"
+    ]
+  ],
+  "character/dimension_witch/ui/story/think_b": [
+    [
+      "175",
+      "205",
       "570",
       "690"
     ]
@@ -38751,10 +38855,34 @@
       "690"
     ]
   ],
+  "character/kapera/ui/story/pain": [
+    [
+      "228",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
   "character/kapera/ui/story/sad": [
     [
       "241",
       "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/sad_b": [
+    [
+      "241",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/sad_c": [
+    [
+      "241",
+      "243",
       "570",
       "690"
     ]
@@ -38771,6 +38899,38 @@
     [
       "241",
       "231",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/serious_c": [
+    [
+      "241",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/serious_d": [
+    [
+      "241",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/serious_e": [
+    [
+      "241",
+      "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/kapera/ui/story/serious_f": [
+    [
+      "241",
+      "232",
       "570",
       "690"
     ]
@@ -42831,6 +42991,14 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/anger_c": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/base": [
     [
       "90",
@@ -42879,7 +43047,47 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/pain": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/pain_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/sad": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/sad_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/sad_c": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/sad_d": [
     [
       "190",
       "253",
@@ -42911,6 +43119,22 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/shout": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/shout_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/smile": [
     [
       "190",
@@ -42935,6 +43159,30 @@
       "690"
     ]
   ],
+  "character/light_adventurer/ui/story/smile_d": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/smile_e": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/smile_f": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/light_adventurer/ui/story/surprise": [
     [
       "190",
@@ -42944,6 +43192,22 @@
     ]
   ],
   "character/light_adventurer/ui/story/surprise_b": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/surprise_c": [
+    [
+      "190",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer/ui/story/surprise_d": [
     [
       "190",
       "253",
@@ -42971,6 +43235,62 @@
     [
       "190",
       "253",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/full_shot_1440_1920_0": [
+    [
+      "291",
+      "239",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/skill_cutin_0": [
+    [
+      "316",
+      "25",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/full_shot_1440_1920_1": [
+    [
+      "28",
+      "43",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/story/base_0": [
+    [
+      "0",
+      "151",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/story/base_1": [
+    [
+      "0",
+      "12",
+      "570",
+      "690"
+    ]
+  ],
+  "character/light_adventurer_4anv/ui/story/normal": [
+    [
+      "0",
+      "0",
       "570",
       "690"
     ]
@@ -52847,6 +53167,54 @@
       "690"
     ]
   ],
+  "character/nova/ui/story/cry": [
+    [
+      "207",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/cry_b": [
+    [
+      "207",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/cry_c": [
+    [
+      "207",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/cry_d": [
+    [
+      "207",
+      "236",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/evil": [
+    [
+      "210",
+      "243",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/evil_b": [
+    [
+      "206",
+      "223",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/fear": [
     [
       "205",
@@ -52959,6 +53327,30 @@
       "690"
     ]
   ],
+  "character/nova/ui/story/pain_d": [
+    [
+      "215",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/pain_e": [
+    [
+      "212",
+      "241",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/pain_f": [
+    [
+      "207",
+      "238",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/remna": [
     [
       "208",
@@ -53043,6 +53435,22 @@
     [
       "196",
       "232",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/sad_e": [
+    [
+      "206",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova/ui/story/sad_f": [
+    [
+      "206",
+      "248",
       "570",
       "690"
     ]
@@ -53167,6 +53575,14 @@
       "690"
     ]
   ],
+  "character/nova/ui/story/smile_f": [
+    [
+      "211",
+      "240",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/smile_tc": [
     [
       "196",
@@ -53215,6 +53631,14 @@
       "690"
     ]
   ],
+  "character/nova/ui/story/surprise_e": [
+    [
+      "205",
+      "233",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/surprise_tc": [
     [
       "197",
@@ -53247,10 +53671,74 @@
       "690"
     ]
   ],
+  "character/nova/ui/story/think_b": [
+    [
+      "209",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
   "character/nova/ui/story/think_tc": [
     [
       "196",
       "237",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova_4anv/ui/full_shot_1440_1920_0": [
+    [
+      "142",
+      "243",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/nova_4anv/ui/skill_cutin_0": [
+    [
+      "272",
+      "123",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/nova_4anv/ui/full_shot_1440_1920_1": [
+    [
+      "56",
+      "293",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/nova_4anv/ui/skill_cutin_1": [
+    [
+      "0",
+      "113",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/nova_4anv/ui/story/base_0": [
+    [
+      "0",
+      "131",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova_4anv/ui/story/base_1": [
+    [
+      "0",
+      "123",
+      "570",
+      "690"
+    ]
+  ],
+  "character/nova_4anv/ui/story/normal": [
+    [
+      "0",
+      "0",
       "570",
       "690"
     ]
@@ -60535,6 +61023,14 @@
       "690"
     ]
   ],
+  "character/psychic_sakuya/ui/story/joy_b": [
+    [
+      "238",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_sakuya/ui/story/normal": [
     [
       "238",
@@ -60544,6 +61040,22 @@
     ]
   ],
   "character/psychic_sakuya/ui/story/normal_b": [
+    [
+      "238",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_sakuya/ui/story/normal_c": [
+    [
+      "238",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_sakuya/ui/story/normal_d": [
     [
       "238",
       "250",
@@ -60599,6 +61111,30 @@
       "690"
     ]
   ],
+  "character/psychic_sakuya/ui/story/smile_b": [
+    [
+      "238",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_sakuya/ui/story/smile_c": [
+    [
+      "238",
+      "247",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_sakuya/ui/story/smile_d": [
+    [
+      "237",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
   "character/psychic_sakuya/ui/story/speech": [
     [
       "238",
@@ -60624,6 +61160,14 @@
     ]
   ],
   "character/psychic_sakuya/ui/story/think": [
+    [
+      "222",
+      "252",
+      "570",
+      "690"
+    ]
+  ],
+  "character/psychic_sakuya/ui/story/think_b": [
     [
       "222",
       "252",
@@ -76943,6 +77487,22 @@
       "690"
     ]
   ],
+  "character/stella_copy/ui/story/joy_c": [
+    [
+      "223",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy/ui/story/joy_d": [
+    [
+      "222",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
   "character/stella_copy/ui/story/normal": [
     [
       "267",
@@ -77087,6 +77647,22 @@
       "690"
     ]
   ],
+  "character/stella_copy/ui/story/serious_g": [
+    [
+      "224",
+      "254",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy/ui/story/serious_h": [
+    [
+      "224",
+      "253",
+      "570",
+      "690"
+    ]
+  ],
   "character/stella_copy/ui/story/serious_sad": [
     [
       "224",
@@ -77167,6 +77743,22 @@
       "690"
     ]
   ],
+  "character/stella_copy/ui/story/smile_b": [
+    [
+      "223",
+      "250",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy/ui/story/smile_c": [
+    [
+      "223",
+      "248",
+      "570",
+      "690"
+    ]
+  ],
   "character/stella_copy/ui/story/surprise": [
     [
       "279",
@@ -77207,6 +77799,14 @@
       "690"
     ]
   ],
+  "character/stella_copy/ui/story/think_b": [
+    [
+      "230",
+      "259",
+      "570",
+      "690"
+    ]
+  ],
   "character/stella_copy/ui/story/unknown": [
     [
       "18",
@@ -77219,6 +77819,62 @@
     [
       "9",
       "58",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/full_shot_1440_1920_0": [
+    [
+      "235",
+      "240",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/skill_cutin_0": [
+    [
+      "169",
+      "124",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/full_shot_1440_1920_1": [
+    [
+      "334",
+      "236",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/skill_cutin_1": [
+    [
+      "261",
+      "86",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/story/base_0": [
+    [
+      "0",
+      "130",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/story/base_1": [
+    [
+      "0",
+      "131",
+      "570",
+      "690"
+    ]
+  ],
+  "character/stella_copy_4anv/ui/story/normal": [
+    [
+      "0",
+      "0",
       "570",
       "690"
     ]
@@ -91027,6 +91683,238 @@
     [
       "50",
       "50",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/full_shot_1440_1920_0": [
+    [
+      "303",
+      "208",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/skill_cutin_0": [
+    [
+      "450",
+      "83",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/full_shot_1440_1920_1": [
+    [
+      "45",
+      "205",
+      "2000",
+      "2000"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/skill_cutin_1": [
+    [
+      "0",
+      "0",
+      "1024",
+      "512"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/anger": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/base_0": [
+    [
+      "0",
+      "91",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/base_1": [
+    [
+      "0",
+      "3",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/joy": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/normal": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/sad": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/sad_b": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/sad_c": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/sad_d": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/serious": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/serious_b": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/serious_c": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/serious_d": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/shame": [
+    [
+      "216",
+      "307",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/smile": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/smile_b": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/smile_c": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/smile_d": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/surprise": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/surprise_b": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/surprise_c": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/surprise_d": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/sweat": [
+    [
+      "321",
+      "331",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/think": [
+    [
+      "182",
+      "201",
+      "570",
+      "690"
+    ]
+  ],
+  "character/wind_spgirl_4anv/ui/story/unknown": [
+    [
+      "0",
+      "91",
       "570",
       "690"
     ]

@@ -359,5 +359,43 @@
       "true",
       "(None)"
     ]
+  ],
+  "20": [
+    [
+      "unique_nova_4anv",
+      "双星の旅路",
+      "battle/common/unique_condition/unique_nova_4anv",
+      "1200",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "0",
+      "0",
+      "true",
+      "(None)"
+    ]
+  ],
+  "21": [
+    [
+      "unique_stella_copy_4anv",
+      "夢の星標",
+      "battle/common/unique_condition/unique_stella_copy_4anv",
+      "1200",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "true",
+      "false",
+      "1",
+      "1",
+      "true",
+      "(None)"
+    ]
   ]
 }

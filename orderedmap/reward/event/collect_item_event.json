@@ -1247,6 +1247,38 @@
       "(None)"
     ]
   ],
+  "100009": [
+    [
+      "campaign_mission_anv4_20231130_20231217",
+      "キャンペーンミッション",
+      "(None)",
+      "2",
+      "3",
+      "初級,中級,上級",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "quest/event/background/collect_item_event/anv4_mission_event_background",
+      "quest/event/banner/collect_item_event/anv4_mission_event",
+      "(None)",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59",
+      "(None)",
+      "(None)",
+      "",
+      "",
+      "",
+      "(None)"
+    ]
+  ],
   "100007": [
     [
       "campaign_mission_01_20231031_20231114",

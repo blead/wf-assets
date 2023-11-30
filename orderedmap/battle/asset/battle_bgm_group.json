@@ -1700,6 +1700,24 @@
       "(None)"
     ]
   ],
+  "advent_steam_robot_dark_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/advent_steam_robot/advent_steam_robot_dark/battle/advent_steam_robot_dark_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "advent_variant_empress_dark_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/boss_battle_multi_pickup/battle/reine_noir_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
   "event_valentine_battle_boss": [
     [
       "2",

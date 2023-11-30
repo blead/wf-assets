@@ -1,0 +1,210 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "CreateShockWaveAttack",
+          "*",
+          -33,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          3.141592653589793,
+          [
+            "Donut"
+          ],
+          [
+            "ResolveByElement",
+            "battle/effect/enemy_general/enemy_shot_guard_wave_circle_slow",
+            255
+          ],
+          [
+            "ForesideOfCharacter"
+          ],
+          1,
+          0,
+          1,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateNormalAttack",
+                  1,
+                  255,
+                  null,
+                  null,
+                  0,
+                  [
+                    {
+                      "max": 2.5,
+                      "min": 2.5
+                    }
+                  ],
+                  [
+                    {
+                      "max": 0,
+                      "min": 0
+                    }
+                  ],
+                  false,
+                  false,
+                  false,
+                  false,
+                  false,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "None"
+                  ],
+                  true
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  1,
+                  [
+                    [
+                      "ACAttackPoint",
+                      [
+                        {
+                          "max": 9999999,
+                          "min": 9999999
+                        }
+                      ],
+                      [
+                        {
+                          "max": -0.5,
+                          "min": -0.5
+                        }
+                      ],
+                      [
+                        {
+                          "max": 20,
+                          "min": 20
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "atk_debuff",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  1,
+                  [
+                    [
+                      "ACSkillGaugeCharging",
+                      [
+                        {
+                          "max": 9999999,
+                          "min": 9999999
+                        }
+                      ],
+                      [
+                        {
+                          "max": -0.02,
+                          "min": -0.02
+                        }
+                      ],
+                      [
+                        {
+                          "max": 20,
+                          "min": 20
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "charge_debuff",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ]
+            ]
+          ],
+          [
+            "Suppress",
+            2,
+            3,
+            [
+              "Block",
+              null
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

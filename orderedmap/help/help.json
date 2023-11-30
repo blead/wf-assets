@@ -215,8 +215,8 @@
       "1",
       "0",
       "",
-      "2023-10-31 12:00:00",
-      "2023-11-14 20:59:59"
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59"
     ]
   ],
   "help_reward_campaign": [
@@ -237,8 +237,8 @@
       "1",
       "1",
       "rich_text/help_reward_campaign_2ndanv",
-      "2023-10-31 12:00:00",
-      "2023-11-14 20:59:59"
+      "2023-11-30 12:00:00",
+      "2023-12-17 20:59:59"
     ]
   ],
   "help_reward_campaign_spr22": [
@@ -888,6 +888,17 @@
       "rich_text/help_event_multi_special_exchange_02",
       "2022-11-28 12:00:00",
       "2022-12-23 11:59:59"
+    ]
+  ],
+  "multi_special_exchange_03": [
+    [
+      "help_label_event_multi_special_exchange",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_multi_special_exchange_03",
+      "2023-11-30 12:00:00",
+      "2023-12-23 11:59:59"
     ]
   ],
   "Event_material_trader": [
@@ -1715,6 +1726,17 @@
       "2023-09-05 04:59:59"
     ]
   ],
+  "Help_advent_variant_empress_dark_20231130_20231213": [
+    [
+      "help_label_event_advent_variant_empress_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_variant_empress_dark_template",
+      "2023-11-30 12:00:00",
+      "2023-12-21 04:59:59"
+    ]
+  ],
   "Help_advent_steam_robot_thunder_20230831_20230914": [
     [
       "help_label_event_advent_steam_robot_thunder",
@@ -1757,6 +1779,28 @@
       "rich_text/help_event_hard_multi_steam_robot_light",
       "2023-05-31 12:00:00",
       "2023-06-24 04:59:59"
+    ]
+  ],
+  "event_advent_steam_robot_dark_20231130_20231214": [
+    [
+      "help_label_event_advent_steam_robot_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_advent_steam_robot_dark_20231130_20231214",
+      "2023-11-30 12:00:00",
+      "2023-12-22 04:59:59"
+    ]
+  ],
+  "help_hard_multi_advent_steam_robot_dark_20231130_20231214": [
+    [
+      "help_label_event_hard_multi_dark",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_hard_multi_steam_robot_dark",
+      "2023-11-30 12:00:00",
+      "2023-12-22 04:59:59"
     ]
   ],
   "Help_advent_spirit_beast_water_20230707_20230721": [
