@@ -68,8 +68,9 @@ jobs:
         workflow_conclusion: success
     - name: Untar raw assets
       if: ${{ github.event_name == 'workflow_run' }}
-      run: tar -xvf dump.tar
-
+      run: |
+        mv dump-*/dump.tar . 
+        tar -xvf dump.tar
     - name: Extract character images
       continue-on-error: true
       run: ./wfax extract ../dump ../out --concurrency 20 --eliyabot --no-default-paths
