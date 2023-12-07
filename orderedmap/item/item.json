@@ -7929,6 +7929,32 @@
       "true"
     ]
   ],
+  "10000090": [
+    [
+      "limited_stamina_potion_62_00",
+      "10000090",
+      "期間限定スタミナ回復薬（小）",
+      "item/spends/general/stamina_rate_small_02",
+      "(None)",
+      "スタミナを25回復させる魔法の小瓶",
+      "2",
+      "25",
+      "false",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "1",
+      "2",
+      "9999",
+      "2015-12-31 23:59:59",
+      "2024-01-06 04:59:59",
+      "false"
+    ]
+  ],
   "30111": [
     [
       "box_token_yokai_emaki_01_re01",
@@ -9645,6 +9671,32 @@
       "true"
     ]
   ],
+  "30137": [
+    [
+      "box_token_raid_event_07",
+      "30137",
+      "幽光古貨",
+      "item/materials/event/raid_event/box_token_raid_event_02",
+      "item_icon/materials/event/raid_event/box_token_raid_event_02",
+      "刻印が淡く光る欠けたコイン、好事家たちが珍品として集めているらしい。\nイベント：戦陣の宴\nトークンガチャ専用アイテム",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "999999",
+      "2023-12-07 12:00:00",
+      "(None)",
+      "true"
+    ]
+  ],
   "980001": [
     [
       "multi_special_exchange_ticket_01_A",
@@ -9773,6 +9825,84 @@
       "2015-12-31 23:59:59",
       "2199-12-31 23:59:59",
       "false"
+    ]
+  ],
+  "10000087": [
+    [
+      "boss_coin_kc_yokai_emaki_big_boss_1",
+      "10000087",
+      "クグイの絵巻・梅",
+      "item/materials/event/kc/kc_exchange_item_01",
+      "item_icon/materials/boss_coin/boss_coin_1",
+      "絵巻の彫りが入った銀貨。好事家たちが集めているものを真似て作られているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "3",
+      "3",
+      "9999",
+      "2023-12-07 12:00:00",
+      "2023-12-29 04:59:59",
+      "true"
+    ]
+  ],
+  "10000088": [
+    [
+      "boss_coin_kc_yokai_emaki_big_boss_2",
+      "10000088",
+      "クグイの絵巻・竹",
+      "item/materials/event/kc/kc_exchange_item_02",
+      "item_icon/materials/boss_coin/boss_coin_2",
+      "絵巻の彫りが入った金貨。好事家たちが集めているものを真似て作られているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2023-12-07 12:00:00",
+      "2023-12-29 04:59:59",
+      "true"
+    ]
+  ],
+  "10000089": [
+    [
+      "boss_coin_kc_yokai_emaki_big_boss_3",
+      "10000089",
+      "クグイの絵巻・松",
+      "item/materials/event/kc/kc_exchange_item_03",
+      "item_icon/materials/boss_coin/boss_coin_3",
+      "絵巻の彫りが入った紫貨。好事家たちが集めているものを真似て作られているらしい。ショップでアイテムと交換できる",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2023-12-07 12:00:00",
+      "2023-12-29 04:59:59",
+      "true"
     ]
   ],
   "40336": [
@@ -15831,6 +15961,84 @@
       "2022-10-14 12:00:00",
       "2022-11-05 04:59:59",
       "true"
+    ]
+  ],
+  "10000070": [
+    [
+      "advent_boss_epuration_5_boss_coin_01",
+      "40323",
+      "粛清の光輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_01",
+      "粛清者との戦闘跡地から見つかった、歪んだ光輪。ドラゴンの素材と似た性質を持っている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "10",
+      "4",
+      "9999",
+      "2023-12-07 12:00:00",
+      "(None)",
+      "true"
+    ]
+  ],
+  "10000071": [
+    [
+      "advent_boss_epuration_5_boss_coin_02",
+      "40324",
+      "粛清の天輪",
+      "item/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_exchange_item_02",
+      "要注意粛清者の残留粒子が固まった光輪。学者達が対策を練る為に集めている。\nイベント：粛清者討伐戦\n交換用アイテム",
+      "15",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "6",
+      "(None)",
+      "30",
+      "5",
+      "9999",
+      "2023-12-07 12:00:00",
+      "(None)",
+      "true"
+    ]
+  ],
+  "10000072": [
+    [
+      "advent_boss_epuration_5_epuration_point",
+      "40325",
+      "粛清の心核",
+      "item/materials/event/boss_epuration_event/boss_epuration_point",
+      "item_icon/materials/event/boss_epuration_event/boss_epuration_point",
+      "粛清者を倒した場所で稀に発見される結晶。特殊な波長を発しており、要注意個体の粛清者をおびき出す事ができる",
+      "19",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "0",
+      "(None)",
+      "0",
+      "5",
+      "99",
+      "2023-12-07 12:00:00",
+      "(None)",
+      "false"
     ]
   ],
   "10000047": [

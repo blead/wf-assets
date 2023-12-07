@@ -1614,5 +1614,33 @@
         "battle/enemy/boss/anv3_big_boss_story"
       ]
     ]
+  },
+  "abyss_cloud": {
+    "80": [
+      [
+        "アビスクラウド",
+        "battle/enemy/boss/abyss_cloud_single4"
+      ]
+    ],
+    "100": [
+      [
+        "アビスクラウド",
+        "battle/enemy/boss/abyss_cloud_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_p3": {
+    "80": [
+      [
+        "アビスクラウド",
+        "battle/enemy/boss/abyss_cloud_p3_single4"
+      ]
+    ],
+    "100": [
+      [
+        "アビスクラウド",
+        "battle/enemy/boss/abyss_cloud_p3_single5"
+      ]
+    ]
   }
 }

@@ -2437,5 +2437,113 @@
         "battle/enemy/boss/anv3_big_boss_funnel_small2_story"
       ]
     ]
+  },
+  "abyss_cloud_guard_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_guard_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_guard_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_crystal_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_crystal_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_crystal_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_left_arm_p2_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p2_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p2_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_right_arm_p2_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p2_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p2_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_left_arm_p3_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p3_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p3_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_right_arm_p3_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p3_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p3_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_left_arm_p3_side_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p3_side_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_left_arm_p3_side_funnel_single5"
+      ]
+    ]
+  },
+  "abyss_cloud_right_arm_p3_side_funnel": {
+    "80": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p3_side_funnel_single4"
+      ]
+    ],
+    "100": [
+      [
+        "battle/enemy/boss/abyss_cloud_right_arm_p3_side_funnel_single5"
+      ]
+    ]
   }
 }

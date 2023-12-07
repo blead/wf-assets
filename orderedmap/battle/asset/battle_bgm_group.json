@@ -809,6 +809,15 @@
       "(None)"
     ]
   ],
+  "raid_event_07_battle": [
+    [
+      "2",
+      "",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_1",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_2",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_3"
+    ]
+  ],
   "multi_pickup_empress_01_boss": [
     [
       "2",
@@ -1714,6 +1723,33 @@
       "2",
       "",
       "bgm/event/boss_battle_multi_pickup/battle/reine_noir_battle_boss",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "abyss_cloud_battle_1": [
+    [
+      "2",
+      "",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_1",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "abyss_cloud_battle_2": [
+    [
+      "2",
+      "",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_2",
+      "(None)",
+      "(None)"
+    ]
+  ],
+  "abyss_cloud_battle_3": [
+    [
+      "2",
+      "",
+      "bgm/event/abyss_cloud/abyss_cloud_battle_3",
       "(None)",
       "(None)"
     ]

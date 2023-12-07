@@ -1532,6 +1532,103 @@
       ]
     ]
   },
+  "28": {
+    "1": [
+      [
+        "2801",
+        "ガチャBOX A",
+        "A",
+        "(None)",
+        "box_gacha/icon/box_gacha_icon_green_a",
+        "box_gacha/icon/box_gacha_icon_green_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_a",
+        "0x15E5EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "(None)"
+      ]
+    ],
+    "2": [
+      [
+        "2802",
+        "ガチャBOX B",
+        "B",
+        "1",
+        "box_gacha/icon/box_gacha_icon_silver_b",
+        "box_gacha/icon/box_gacha_icon_silver_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_b",
+        "0x9ADB54",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "(None)"
+      ]
+    ],
+    "3": [
+      [
+        "2803",
+        "ガチャBOX C",
+        "C",
+        "2",
+        "box_gacha/icon/box_gacha_icon_gold_c",
+        "box_gacha/icon/box_gacha_icon_gold_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_c",
+        "0xF3CE08",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "(None)"
+      ]
+    ],
+    "4": [
+      [
+        "2804",
+        "ガチャBOX D",
+        "D",
+        "3",
+        "box_gacha/icon/box_gacha_icon_red_d",
+        "box_gacha/icon/box_gacha_icon_red_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_d",
+        "0xC115EC",
+        "0xFFFFFF",
+        "3",
+        "0",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "(None)"
+      ]
+    ],
+    "5": [
+      [
+        "2805",
+        "ガチャBOX E",
+        "E",
+        "4",
+        "box_gacha/icon/box_gacha_icon_orange_e",
+        "box_gacha/icon/box_gacha_icon_orange_locked",
+        "box_gacha/icon/box_gacha_icon_empty",
+        "box_gacha/logo/logo_box_e",
+        "0xE83417",
+        "0xFFFFFF",
+        "3",
+        "2",
+        "(None)",
+        "2023-12-07 12:00:00",
+        "(None)"
+      ]
+    ]
+  },
   "2": {
     "3": [
       [

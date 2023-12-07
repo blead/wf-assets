@@ -1,0 +1,256 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "画面全体用の演出",
+          [
+            "SpecifyEffectDirectly",
+            "battle/effect/enemy_unique/enemy_shot_arck_evil/enemy_shot_arck_evil"
+          ],
+          -1,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Some",
+            [
+              {
+                "max": 1,
+                "min": 1
+              }
+            ]
+          ]
+        ]
+      ],
+      [
+        "Command",
+        [
+          "CreateHitArea",
+          "*",
+          -1,
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          false,
+          false,
+          [
+            "Rectangle",
+            [
+              {
+                "max": 1000,
+                "min": 1000
+              }
+            ],
+            [
+              {
+                "max": 1600,
+                "min": 1600
+              }
+            ]
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Center"
+          ],
+          [
+            "Single"
+          ],
+          [
+            "SpecifyHitAreaLifetimeDirectly",
+            60
+          ],
+          [
+            "CalculatedUsingMaxNumOfHits",
+            1
+          ],
+          [
+            "Some",
+            [
+              {
+                "max": 1,
+                "min": 1
+              }
+            ]
+          ],
+          false,
+          true,
+          [
+            "None"
+          ],
+          0,
+          [
+            "Block",
+            null
+          ],
+          1,
+          2,
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACAttackPoint",
+                      [
+                        {
+                          "max": 600,
+                          "min": 600
+                        }
+                      ],
+                      [
+                        {
+                          "max": -0.5,
+                          "min": -0.5
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateCondition",
+                  2,
+                  [
+                    [
+                      "ACToleranceOfElement",
+                      [
+                        {
+                          "max": 600,
+                          "min": 600
+                        }
+                      ],
+                      254,
+                      [
+                        {
+                          "max": -0.5,
+                          "min": -0.5
+                        }
+                      ],
+                      [
+                        {
+                          "max": 1,
+                          "min": 1
+                        }
+                      ]
+                    ]
+                  ],
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  [
+                    "GenericConditionHitEffect"
+                  ],
+                  true,
+                  false,
+                  "",
+                  null,
+                  false,
+                  3,
+                  [
+                    {
+                      "max": 1,
+                      "min": 1
+                    }
+                  ],
+                  false
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "DeleteCondition",
+                  2,
+                  [
+                    "DCAll",
+                    2
+                  ],
+                  1,
+                  0,
+                  "",
+                  [
+                    "Default"
+                  ]
+                ]
+              ]
+            ]
+          ],
+          0,
+          0,
+          [
+            "None"
+          ]
+        ]
+      ]
+    ]
+  ]
+]

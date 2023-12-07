@@ -137,6 +137,21 @@
       ]
     ]
   },
+  "216": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/yellow_element_character_pickup_07",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "191": {
     "1": [
       [
@@ -570,6 +585,21 @@
       [
         "1",
         "dynamic/gacha_banner/white_ranged_special_chara_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "218": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/white_element_character_pickup_03",
         "",
         "",
         "",
@@ -4787,6 +4817,21 @@
       ]
     ]
   },
+  "213": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/revival_fes_1",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "199": {
     "1": [
       [
@@ -7688,6 +7733,21 @@
       ]
     ]
   },
+  "214": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/red_element_character_pickup_07",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "210": {
     "1": [
       [
@@ -8158,6 +8218,21 @@
       [
         "1",
         "dynamic/gacha_banner/rarity_over4_guaranteed_02",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "5044": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/equipment_gacha",
         "",
         "",
         "",
@@ -16177,6 +16252,21 @@
       ]
     ]
   },
+  "217": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/green_element_character_pickup_04",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "160": {
     "1": [
       [
@@ -17809,6 +17899,21 @@
       ]
     ]
   },
+  "215": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/blue_element_character_pickup_05",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
   "185": {
     "1": [
       [
@@ -18030,6 +18135,21 @@
       [
         "1",
         "dynamic/gacha_banner/black_jammer_healer_chara_pickup_01",
+        "",
+        "",
+        "",
+        "",
+        "(None)",
+        "",
+        ""
+      ]
+    ]
+  },
+  "219": {
+    "1": [
+      [
+        "1",
+        "dynamic/gacha_banner/black_element_pickup_05",
         "",
         "",
         "",

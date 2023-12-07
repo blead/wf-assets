@@ -1079,6 +1079,36 @@
       "2022-07-07 04:59:59"
     ]
   ],
+  "200080": [
+    [
+      "kc_yokai_emaki_big_boss",
+      "(None)",
+      "クグイとリョウキの特別訓練！",
+      "",
+      "quest/event/banner/advent_event/event_kc",
+      "quest/event/bossbattle_banner/advent_event/event_kc",
+      "0",
+      "quest/event/background/advent_event/kc",
+      "(None)",
+      "(None)",
+      "",
+      "1",
+      "(None)",
+      "32",
+      "bgm/world_japan/story/japan_story_fuan",
+      "event",
+      "10000087",
+      "10000088",
+      "10000089",
+      "(None)",
+      "false",
+      "kc_yokai_emaki_big_boss",
+      "true",
+      "2023-12-07 12:00:00",
+      "2023-12-21 20:59:59",
+      "2023-12-29 04:59:59"
+    ]
+  ],
   "200055": [
     [
       "kc_summer_2023",
@@ -2037,6 +2067,36 @@
       "2022-10-14 12:00:00",
       "2022-10-28 20:59:59",
       "2022-11-05 04:59:59"
+    ]
+  ],
+  "200076": [
+    [
+      "advent_boss_epuration_5",
+      "(None)",
+      "粛清者討伐戦",
+      "",
+      "quest/event/banner/advent_event/boss_epuration_event_01",
+      "(None)",
+      "1",
+      "quest/event/animation_background/advent_event/boss_epuration_event_background",
+      "quest/event/logo/advent_event/boss_epuration_event",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon",
+      "quest/event/main_quest_guide/boss_epuration/main_quest_guide_icon_event_lock",
+      "3",
+      "(None)",
+      "27",
+      "bgm/event/boss_epuration_event/system/boss_epuration_event_top",
+      "boss_epuration",
+      "10000070",
+      "10000071",
+      "(None)",
+      "(None)",
+      "false",
+      "boss_epuration_event_01",
+      "true",
+      "2023-12-07 12:00:00",
+      "(None)",
+      "(None)"
     ]
   ],
   "200071": [

@@ -1,0 +1,860 @@
+{
+  "aa": [
+    "Element"
+  ],
+  "ab": 6,
+  "ac": "Unknown",
+  "ae": [
+    "T1",
+    "p0"
+  ],
+  "ah": 100000,
+  "ar": "battle/boss/abyss_cloud/abyss_cloud_p3",
+  "as": "battle/boss/abyss_cloud/abyss_cloud_p3",
+  "at": "battle/boss/abyss_cloud/abyss_cloud_p3_shadow",
+  "au": [
+    {
+      "a": 0,
+      "b": 0,
+      "bq": [
+        "T2"
+      ],
+      "c": [
+        "T1",
+        "p0"
+      ],
+      "d": [
+        "T1",
+        2700000000
+      ],
+      "g": [
+        {
+          "a": 0,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  1
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": true,
+          "bK": false,
+          "bL": true,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  1
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              300
+            ]
+          ],
+          "e": 0,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "p3_funnel_reset",
+              "c": 0,
+              "d": 0
+            },
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "bgm_change_off",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "k": null
+        },
+        {
+          "a": 1,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  2
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": true,
+          "bK": false,
+          "bL": true,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T2",
+              1
+            ]
+          ],
+          "e": 1,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "風域暴走",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 2,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  3
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": true,
+          "bK": false,
+          "bL": true,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T2",
+              1
+            ]
+          ],
+          "e": 2,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 3,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  4
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": true,
+          "bK": false,
+          "bL": true,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T2",
+              1
+            ]
+          ],
+          "e": 3,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 4,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  5
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": true,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              100
+            ]
+          ],
+          "e": 4,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "all_heel",
+              "c": 0,
+              "d": 0
+            },
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "bgm_change_p3",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "k": null
+        },
+        {
+          "a": 5,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": true,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  6
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T2",
+              1
+            ]
+          ],
+          "e": 5,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "体力が全回復した",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 6,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  7
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  7
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              120
+            ]
+          ],
+          "e": 6,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 7,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  8
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": true,
+          "bJ": true,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  8
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              240
+            ]
+          ],
+          "e": 6,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "徐々に自壊している",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "count_down",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "k": null
+        },
+        {
+          "a": 8,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  9
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  9
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              60
+            ]
+          ],
+          "e": 6,
+          "f": null,
+          "g": null,
+          "h": null,
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 9,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  10
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  10
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              120
+            ]
+          ],
+          "e": 7,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "クランブルタイム",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "arm_funnel_p3",
+              "c": 0,
+              "d": 0
+            }
+          ],
+          "k": null
+        },
+        {
+          "a": 10,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  11
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  11
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              600
+            ]
+          ],
+          "e": 8,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "風域解析",
+              "c": 0,
+              "d": 150
+            },
+            {
+              "a": [
+                "T3",
+                300
+              ],
+              "b": "回答:失敗",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 11,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  12
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  12
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              540
+            ]
+          ],
+          "e": 8,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "制御機構の修正",
+              "c": 0,
+              "d": 150
+            },
+            {
+              "a": [
+                "T3",
+                300
+              ],
+              "b": "権限:消失",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": null,
+          "k": null
+        },
+        {
+          "a": 12,
+          "b": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  10
+                ]
+              ]
+            ]
+          ],
+          "bA": 1,
+          "bB": false,
+          "bJ": false,
+          "bK": false,
+          "bL": false,
+          "bM": false,
+          "bO": 1,
+          "bf": false,
+          "c": [
+            "T2",
+            [
+              "T1",
+              [
+                "T1",
+                [
+                  10
+                ]
+              ]
+            ]
+          ],
+          "d": [
+            "T1",
+            [
+              "T1",
+              660
+            ]
+          ],
+          "e": 8,
+          "f": null,
+          "g": null,
+          "h": [
+            {
+              "a": [
+                "T1"
+              ],
+              "b": "外敵探知",
+              "c": 0,
+              "d": 150
+            },
+            {
+              "a": [
+                "T3",
+                300
+              ],
+              "b": "対象:該当なし",
+              "c": 0,
+              "d": 150
+            }
+          ],
+          "i": null,
+          "k": null
+        }
+      ],
+      "h": null,
+      "i": null,
+      "j": null,
+      "k": null,
+      "l": null,
+      "m": null,
+      "n": null
+    }
+  ],
+  "av": null,
+  "aw": [
+    "wince",
+    "skill1_start",
+    "skill1_charge",
+    "skill1_fire_start",
+    "skill1_fire_loop",
+    "skill1_end",
+    "neutral",
+    "arm_dead",
+    "neutral_no_arm"
+  ],
+  "bC": false,
+  "bD": false,
+  "bE": false,
+  "bF": [
+    "T1"
+  ],
+  "bH": "battle/action/enemy/action/boss_abyss_cloud/boss_abyss_cloud$",
+  "bI": [
+    "T1"
+  ],
+  "bJ": false,
+  "ba": 175,
+  "bd": [
+    "T1",
+    180
+  ],
+  "be": [
+    "T1",
+    180
+  ],
+  "bg": true,
+  "bh": false,
+  "bi": false,
+  "bj": false,
+  "bx": [
+    "T1",
+    {
+      "a": "アビスクラウド",
+      "b": false,
+      "c": false,
+      "f": false,
+      "g": null,
+      "h": false
+    }
+  ],
+  "cA": false,
+  "cB": false,
+  "cC": false,
+  "cD": false,
+  "cE": false,
+  "cF": false
+}

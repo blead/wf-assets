@@ -5057,6 +5057,42 @@
       "false"
     ]
   ],
+  "220327": [
+    [
+      "2002",
+      "dynamic/feature_announcement/notice_kc",
+      "2023-12-07 12:00:00",
+      "2023-12-21 20:59:59",
+      "false"
+    ]
+  ],
+  "219623": [
+    [
+      "3003",
+      "dynamic/feature_announcement/revival_fes_1",
+      "2023-12-07 12:00:00",
+      "2024-02-20 11:59:59",
+      "false"
+    ]
+  ],
+  "219638": [
+    [
+      "3002",
+      "dynamic/feature_announcement/revival_character_pickup",
+      "2023-12-07 12:00:00",
+      "2024-02-20 11:59:59",
+      "false"
+    ]
+  ],
+  "220484": [
+    [
+      "3000",
+      "dynamic/feature_announcement/equipment_gacha",
+      "2023-12-07 12:00:00",
+      "2024-02-20 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5099,6 +5135,15 @@
       "dynamic/feature_announcement/star_heroes_8",
       "2022-06-30 12:00:00",
       "2022-07-15 11:59:59",
+      "false"
+    ]
+  ],
+  "214167": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_raid_event_07",
+      "2023-12-07 12:00:00",
+      "2024-01-20 20:59:59",
       "false"
     ]
   ],
@@ -5468,6 +5513,15 @@
       "dynamic/feature_announcement/advent_event_spirit_beast_dark2",
       "2023-10-31 12:00:00",
       "2023-11-13 20:59:59",
+      "false"
+    ]
+  ],
+  "10000068": [
+    [
+      "1000",
+      "dynamic/feature_announcement/boss_epuration_event_05",
+      "2023-12-07 12:00:00",
+      "2024-02-20 11:59:59",
       "false"
     ]
   ],

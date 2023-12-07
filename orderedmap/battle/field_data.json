@@ -5648,6 +5648,13 @@
       "discarded_dragon_water_re_lv80_kc"
     ]
   ],
+  "yokai_emaki_big_boss_kc": [
+    [
+      "japan_shrine",
+      "battle/terrain/event_quest/kc_event/yokai_emaki_big_boss_kc",
+      "yokai_emaki_01_16"
+    ]
+  ],
   "advent_k_collabo": [
     [
       "advent_k_collabo",
@@ -9125,6 +9132,13 @@
       "end_wall_gate",
       "battle/terrain/event_quest/advent_event/discarded_dragon_thunder/discarded_dragon_thunder_multi_05",
       "advent_event_multi_advent_discarded_dragon_thunder_single_5"
+    ]
+  ],
+  "abyss_cloud": [
+    [
+      "light_guardian_raid",
+      "battle/terrain/event_quest/raid_event/abyss_cloud/abyss_cloud",
+      "abyss_cloud"
     ]
   ],
   "advent_z_collabo": [

@@ -59321,6 +59321,53 @@
       ]
     ]
   },
+  "abyss_cloud": {
+    "0": [
+      [
+        "1",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "1",
+        "0",
+        "abyss_cloud",
+        "0",
+        "abyss_cloud",
+        "0",
+        "abyss_cloud_p3",
+        "0",
+        "abyss_cloud_p3",
+        "(None)",
+        "",
+        "(None)",
+        "",
+        "battle/field_object/world_raid/raid_event_light/outhole/outhole",
+        "battle/field_object/world_raid/raid_event_light/yakumono/dash_panel",
+        "battle/field_object/world_raid/raid_event_light/rotation_panel/raid_event_ligh_rotation_panel",
+        "(None)",
+        "(None)",
+        "(None)"
+      ]
+    ]
+  },
   "advent_z_collabo_1": {
     "0": [
       [

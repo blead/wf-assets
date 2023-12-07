@@ -1304,7 +1304,7 @@
   "light_guardian_raid": [
     [
       "battle/field/world_raid/raid_event_light/background/background",
-      "(None)",
+      "battle/field/world_raid/raid_event_light/foreground/foreground",
       "battle/field/world_raid/raid_event_light/added/added",
       "(None)",
       "(None)",

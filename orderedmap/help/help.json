@@ -868,6 +868,17 @@
       "2023-11-07 04:59:59"
     ]
   ],
+  "event_raid_event_07": [
+    [
+      "help_label_event_raid_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_raid_event_07",
+      "2023-12-07 12:00:00",
+      "(None)"
+    ]
+  ],
   "multi_special_exchange_01": [
     [
       "help_label_event_multi_special_exchange",
@@ -910,6 +921,17 @@
       "rich_text/help_event_material_trader",
       "2022-02-28 12:00:00",
       "2022-03-12 20:59:59"
+    ]
+  ],
+  "event_kc_yokai_emaki_big_boss": [
+    [
+      "help_label_event_kc_summer_2021",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_kc_yokai_emaki_big_boss",
+      "2023-12-07 12:00:00",
+      "2023-12-29 04:59:59"
     ]
   ],
   "event_kc_summer_2023": [
@@ -2318,6 +2340,17 @@
       "rich_text/help_event_advent_hw23",
       "2023-08-07 12:00:00",
       "2023-08-29 04:59:59"
+    ]
+  ],
+  "Help_advent_boss_epuration_5": [
+    [
+      "help_label_event_boss_epuration_event_01",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_boss_epuration_event_01",
+      "2023-12-07 12:00:00",
+      "(None)"
     ]
   ],
   "Help_advent_boss_epuration_20230929_20231012": [

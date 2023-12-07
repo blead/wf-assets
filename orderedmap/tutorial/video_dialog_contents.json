@@ -871,6 +871,28 @@
       "dynamic/how_to/raid_event/raid_event_01/howto_04"
     ]
   ],
+  "raid_event_07": [
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_07/howto_01"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_07/howto_02"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_07/howto_03"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_07/howto_04"
+    ],
+    [
+      "0",
+      "dynamic/how_to/raid_event/raid_event_07/howto_05"
+    ]
+  ],
   "multi_special_exchange": [
     [
       "0",
@@ -915,6 +937,12 @@
     [
       "0",
       "dynamic/how_to/multi_special_exchange/how_to_04"
+    ]
+  ],
+  "kc_yokai_emaki_big_boss": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/kc/kc_tutorial_01"
     ]
   ],
   "kc_summer_2023": [

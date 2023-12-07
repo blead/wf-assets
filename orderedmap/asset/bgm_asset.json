@@ -10169,6 +10169,36 @@
       "12"
     ]
   ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_1": [
+    [
+      "0.32",
+      "185",
+      "0.053424038",
+      "6.2954197",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_2": [
+    [
+      "0.32",
+      "205",
+      "0.060975056",
+      "7.084966",
+      "(None)",
+      "12"
+    ]
+  ],
+  "bgm/event/abyss_cloud/abyss_cloud_battle_3": [
+    [
+      "0.32",
+      "175",
+      "0.07485261",
+      "11.043832",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/common/worldflipper_town_quest_spring": [
     [
       "0.35",

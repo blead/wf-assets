@@ -16481,6 +16481,42 @@
       ]
     ]
   },
+  "20030119": {
+    "1": [
+      [
+        "raid_event_07_token100",
+        "0",
+        "30137",
+        "100",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "20030120": {
+    "1": [
+      [
+        "raid_event_07_token150",
+        "0",
+        "30137",
+        "150",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "20030121": {
+    "1": [
+      [
+        "raid_event_07_token250",
+        "0",
+        "30137",
+        "250",
+        "1",
+        "true"
+      ]
+    ]
+  },
   "4004001": {
     "1": [
       [
@@ -17737,6 +17773,150 @@
         "5060045",
         "1",
         "1",
+        "true"
+      ]
+    ]
+  },
+  "11000888": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_1",
+        "0",
+        "10000087",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000889": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_2",
+        "0",
+        "10000088",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000890": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_3",
+        "0",
+        "10000088",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000891": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_4",
+        "0",
+        "10000089",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000892": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_5",
+        "0",
+        "10000089",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000893": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_6",
+        "0",
+        "10000088",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "kc_yokai_emaki_big_boss_rare_6",
+        "0",
+        "10000088",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "kc_yokai_emaki_big_boss_rare_6",
+        "0",
+        "10000089",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "kc_yokai_emaki_big_boss_rare_6",
+        "0",
+        "10000089",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000894": {
+    "1": [
+      [
+        "kc_yokai_emaki_big_boss_rare_7",
+        "0",
+        "10000088",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "kc_yokai_emaki_big_boss_rare_7",
+        "0",
+        "10000088",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "kc_yokai_emaki_big_boss_rare_7",
+        "0",
+        "10000089",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "kc_yokai_emaki_big_boss_rare_7",
+        "0",
+        "10000089",
+        "10",
+        "0.15",
         "true"
       ]
     ]
@@ -34225,6 +34405,208 @@
         "5100006",
         "1",
         "0.3",
+        "true"
+      ]
+    ]
+  },
+  "11000847": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_1",
+        "0",
+        "10000071",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000848": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_2",
+        "0",
+        "10000070",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000849": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_3",
+        "0",
+        "10000070",
+        "2",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000850": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_4",
+        "0",
+        "10000070",
+        "3",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000851": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_5",
+        "0",
+        "10000070",
+        "4",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000852": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_6",
+        "0",
+        "10000070",
+        "6",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000853": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_7",
+        "0",
+        "10000070",
+        "7",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000854": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_8",
+        "0",
+        "10000070",
+        "8",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000855": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_9",
+        "0",
+        "10000070",
+        "3",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_5_rare_score_group_9",
+        "0",
+        "10000070",
+        "4",
+        "0.6",
+        "true"
+      ]
+    ]
+  },
+  "11000856": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_10",
+        "0",
+        "10000070",
+        "5",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_5_rare_score_group_10",
+        "0",
+        "10000070",
+        "10",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_5_rare_score_group_10",
+        "0",
+        "10000070",
+        "15",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_5_rare_score_group_10",
+        "0",
+        "10000070",
+        "20",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000857": {
+    "1": [
+      [
+        "advent_boss_epuration_5_rare_score_group_11",
+        "0",
+        "10000070",
+        "10",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_boss_epuration_5_rare_score_group_11",
+        "0",
+        "10000070",
+        "20",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_boss_epuration_5_rare_score_group_11",
+        "0",
+        "10000070",
+        "30",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_boss_epuration_5_rare_score_group_11",
+        "0",
+        "10000070",
+        "40",
+        "0.15",
         "true"
       ]
     ]
