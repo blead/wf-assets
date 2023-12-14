@@ -457,5 +457,107 @@
       "10000004,10000011,10000013,10000018",
       "true"
     ]
+  ],
+  "34": [
+    [
+      "empress_constant_01",
+      "890",
+      "1",
+      "2",
+      "1",
+      "35",
+      "1",
+      "1035001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_water",
+      "quest/boss_battle/background/boss_battle_variant_empress_water",
+      "",
+      "false"
+    ]
+  ],
+  "35": [
+    [
+      "empress_constant_02",
+      "889",
+      "0",
+      "2",
+      "1",
+      "37",
+      "1",
+      "1037001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_fire",
+      "quest/boss_battle/background/boss_battle_variant_empress_fire",
+      "",
+      "false"
+    ]
+  ],
+  "36": [
+    [
+      "empress_constant_03",
+      "888",
+      "3",
+      "2",
+      "1",
+      "38",
+      "1",
+      "1038001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_wind",
+      "quest/boss_battle/background/boss_battle_variant_empress_wind",
+      "",
+      "false"
+    ]
+  ],
+  "37": [
+    [
+      "empress_constant_04",
+      "887",
+      "4",
+      "2",
+      "1",
+      "39",
+      "1",
+      "1039001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_light",
+      "quest/boss_battle/background/boss_battle_variant_empress_light",
+      "",
+      "false"
+    ]
+  ],
+  "38": [
+    [
+      "empress_constant_05",
+      "886",
+      "2",
+      "2",
+      "1",
+      "40",
+      "1",
+      "1040001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_thunder",
+      "quest/boss_battle/background/boss_battle_variant_empress_thunder",
+      "",
+      "false"
+    ]
+  ],
+  "39": [
+    [
+      "empress_constant_06",
+      "885",
+      "5",
+      "2",
+      "1",
+      "41",
+      "1",
+      "1041001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_dark",
+      "quest/boss_battle/background/boss_battle_variant_empress_dark",
+      "",
+      "false"
+    ]
   ]
 }

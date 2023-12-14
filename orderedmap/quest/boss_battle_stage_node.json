@@ -503,6 +503,114 @@
         "quest/boss_battle/background/boss_battle_empress_03",
         "1021"
       ]
+    ],
+    "35": [
+      [
+        "降臨討伐",
+        "レーヌ・ブル討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "34",
+        "40257",
+        "40258",
+        "40259",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_22_1",
+        "quest/boss_battle/background/boss_battle_variant_empress_water",
+        "1000"
+      ]
+    ],
+    "37": [
+      [
+        "降臨討伐",
+        "レーヌ・ルージュ討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "35",
+        "40293",
+        "40294",
+        "40295",
+        "(None)",
+        "quest/thumbnail/multi_battle/multi_pick_31_1",
+        "quest/boss_battle/background/boss_battle_variant_empress_fire",
+        "1000"
+      ]
+    ],
+    "38": [
+      [
+        "降臨討伐",
+        "レーヌ・ヴェルト討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "36",
+        "40305",
+        "40306",
+        "40307",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_wind/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_wind",
+        "1000"
+      ]
+    ],
+    "39": [
+      [
+        "降臨討伐",
+        "レーヌ・ブロンシュ討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "37",
+        "10000010",
+        "10000011",
+        "10000012",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_light/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_light",
+        "1000"
+      ]
+    ],
+    "40": [
+      [
+        "降臨討伐",
+        "レーヌ・ジョーヌ討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "38",
+        "10000043",
+        "10000044",
+        "10000045",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_thunder/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_thunder",
+        "1000"
+      ]
+    ],
+    "41": [
+      [
+        "降臨討伐",
+        "レーヌ・ノワール討伐",
+        "2",
+        "(None)",
+        "(None)",
+        "",
+        "39",
+        "10000081",
+        "10000082",
+        "10000083",
+        "(None)",
+        "quest/thumbnail/advent_event/variant_empress_dark/1",
+        "quest/boss_battle/background/boss_battle_variant_empress_dark",
+        "1000"
+      ]
     ]
   }
 }
