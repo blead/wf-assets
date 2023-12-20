@@ -1119,6 +1119,20 @@
       "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
     ]
   ],
+  "steampunk_another_area": [
+    [
+      "battle/field/world_advent/steampunk_another_area/background/background",
+      "battle/field/world_advent/steampunk_fire_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/steampunk_area/fever_gauge/steampunk_area_fever_gauge"
+    ]
+  ],
   "end_dungeon_gacha_skill_preview": [
     [
       "battle/field/world_end/end_dungeon/background/background",
@@ -2391,6 +2405,34 @@
       "(None)",
       "(None)",
       "battle/field_object/world_advent/valentine_area_expert/fever_gauge/valentine_area_expert_fever_gauge"
+    ]
+  ],
+  "anv3_hell": [
+    [
+      "battle/field/world_advent/anv3_expert_area/background/background",
+      "battle/field/world_advent/anv3_expert_area/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/anv3_expert_area/fever_gauge/anv3_expert_area_fever_gauge"
+    ]
+  ],
+  "halfanv3_hell": [
+    [
+      "battle/field/world_advent/halfanv3_area_expert/background/background",
+      "battle/field/world_advent/halfanv3_area_expert/foreground/foreground",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "(None)",
+      "battle/field_object/world_advent/halfanv3_area_expert/fever_gauge/halfanv3_area_expert_fever_gauge"
     ]
   ],
   "boss_battle_shark_area": [

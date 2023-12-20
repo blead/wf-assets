@@ -5093,6 +5093,15 @@
       "false"
     ]
   ],
+  "220371": [
+    [
+      "2000",
+      "dynamic/feature_announcement/notice_sidestory_231220",
+      "2023-12-20 12:00:00",
+      "2024-01-21 11:59:59",
+      "false"
+    ]
+  ],
   "174595": [
     [
       "1005",
@@ -5450,6 +5459,15 @@
       "dynamic/feature_announcement/advent_event_steam_robot_dark",
       "2023-11-30 12:00:00",
       "2023-12-14 20:59:59",
+      "false"
+    ]
+  ],
+  "10000067": [
+    [
+      "2001",
+      "dynamic/feature_announcement/advent_event_steam_robot_another",
+      "2023-12-20 12:00:00",
+      "2024-01-08 20:59:59",
       "false"
     ]
   ],

@@ -953,6 +953,70 @@
       ]
     ]
   },
+  "steampunk_another_multi": {
+    "20": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_multi5"
+      ]
+    ]
+  },
+  "steampunk_another_foom2_multi": {
+    "20": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_foom2_multi1"
+      ]
+    ],
+    "50": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_foom2_multi2"
+      ]
+    ],
+    "70": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_foom2_multi3"
+      ]
+    ],
+    "80": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_foom2_multi4"
+      ]
+    ],
+    "100": [
+      [
+        "機工神兵フェノメナ",
+        "battle/enemy/boss/steampunk_another_foom2_multi5"
+      ]
+    ]
+  },
   "spirit_beast_wind": {
     "25": [
       [
@@ -1314,6 +1378,14 @@
       [
         "Uタロス君∞",
         "battle/enemy/boss/halfanv3_boss_story"
+      ]
+    ]
+  },
+  "halfanv3_boss_hell": {
+    "100": [
+      [
+        "Uタロス君∞",
+        "battle/enemy/boss/halfanv3_boss_hell"
       ]
     ]
   },

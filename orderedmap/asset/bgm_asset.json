@@ -9929,6 +9929,16 @@
       "12"
     ]
   ],
+  "bgm/event/advent_steam_robot/advent_steam_robot_another/battle/advent_steam_robot_another_boss": [
+    [
+      "0.35",
+      "158",
+      "0.05324263",
+      "91.15122",
+      "(None)",
+      "12"
+    ]
+  ],
   "bgm/event/advent_event_spirit_beast/spirit_beast_storm/battle/spirit_beast_storm_battle": [
     [
       "0.35",

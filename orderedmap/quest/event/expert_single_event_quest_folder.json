@@ -181,6 +181,24 @@
         "quest/event/logo/expert_single_side_story/boss_logo_big_boss_vt22",
         "quest/event/animation_background/expert_single_event/vt22/background"
       ]
+    ],
+    "98": [
+      [
+        "追憶の試練【闇】",
+        "パラサイト・アビス",
+        "quest/thumbnail/world_story_event/single_battle/anv3/anv3_battle_8",
+        "quest/event/logo/expert_single_side_story/boss_logo_anv3_big_boss",
+        "quest/event/animation_background/expert_single_event/anv3_big_boss/background"
+      ]
+    ],
+    "97": [
+      [
+        "追憶の試練【闇】",
+        "Uタロス君∞",
+        "quest/thumbnail/world_story_event/single_battle/anv3half/anv3half_single_battle",
+        "quest/event/logo/expert_single_side_story/boss_logo_halfanv3_boss",
+        "quest/event/animation_background/expert_single_event/halfanv3_boss/background"
+      ]
     ]
   }
 }

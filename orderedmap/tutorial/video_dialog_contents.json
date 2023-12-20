@@ -635,6 +635,34 @@
       "dynamic/world_story_event_tutorial/summer_2022/tutorial_plot_03"
     ]
   ],
+  "anv3_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_how_to_play_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3/tutorial_how_to_play_03"
+    ]
+  ],
+  "anv3half_side_story_event_outline": [
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_plot"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_how_to_play_02"
+    ],
+    [
+      "0",
+      "dynamic/world_story_event_tutorial/anv3half/tutorial_how_to_play_03"
+    ]
+  ],
   "score_attack_event_how_to_play": [
     [
       "0",
@@ -2121,6 +2149,20 @@
     [
       "0",
       "dynamic/advent_event_tutorial/advent_event_variant_empress_dark/tutorial_01"
+    ]
+  ],
+  "advent_steam_robot_another_20231220_20240108": [
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_another/tutorial_01"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_another/tutorial_02"
+    ],
+    [
+      "0",
+      "dynamic/advent_event_tutorial/advent_event_steam_robot_another/tutorial_03"
     ]
   ],
   "abyss_beast": [

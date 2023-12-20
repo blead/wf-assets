@@ -4122,6 +4122,13 @@
       "steampunk_dark_hard"
     ]
   ],
+  "steampunk_another": [
+    [
+      "steampunk_another_area",
+      "battle/terrain/event_quest/advent_event/steampunk_another/steampunk_another",
+      "steampunk_another"
+    ]
+  ],
   "solo_time_attack_red1": [
     [
       "tree_forest",
@@ -8348,6 +8355,20 @@
       "vt22_boss_hell",
       "battle/terrain/event_quest/story_event/vt22/vt22_boss",
       "vt22_boss_hell"
+    ]
+  ],
+  "anv3_hell": [
+    [
+      "anv3_hell",
+      "battle/terrain/event_quest/story_event/anv3/anv3",
+      "anv3_hell"
+    ]
+  ],
+  "halfanv3_hell": [
+    [
+      "halfanv3_hell",
+      "battle/terrain/event_quest/story_event/halfanv3/halfanv3",
+      "halfanv3_hell"
     ]
   ],
   "skill_preview_asta": [

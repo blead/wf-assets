@@ -7864,6 +7864,17 @@
         "(None)",
         "(None)"
       ]
+    ],
+    "SeparatedTermDamage": [
+      [
+        "action_skill",
+        "attack_red",
+        "attack_blue",
+        "attack_yellow",
+        "attack_green",
+        "attack_white",
+        "attack_black"
+      ]
     ]
   },
   "During": {

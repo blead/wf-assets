@@ -1684,6 +1684,11 @@
       "（別枠８）"
     ]
   ],
+  "ability_description_separated_term_damage": [
+    [
+      "（別枠９）"
+    ]
+  ],
   "ability_description_instant_max_strength": [
     [
       "[最大 ::max_strength::&nbsp;]"
@@ -2757,6 +2762,16 @@
   "ability_description_common_content_attack_summary": [
     [
       "::if !withoutTarget::::target::の::end::攻撃力::if (strength >= 0)::アップ::else::ダウン::end::"
+    ]
+  ],
+  "ability_description_common_content_damage_separated_term": [
+    [
+      "::if !withoutTarget::::target::の::end::敵に与えるダメージ ::percent_up_down::"
+    ]
+  ],
+  "ability_description_common_content_damage_summary": [
+    [
+      "::if !withoutTarget::::target::の::end::ダメージ::if (strength >= 0)::アップ::else::ダウン::end::"
     ]
   ],
   "ability_description_common_content_direct_damage": [
@@ -5384,6 +5399,11 @@
       "降臨討伐 闇喚の精霊獣"
     ]
   ],
+  "help_label_event_advent_steam_robot_another": [
+    [
+      "降臨討伐 無猾の機兵"
+    ]
+  ],
   "help_label_event_advent_steam_robot_dark": [
     [
       "降臨討伐 暗凛の機兵"
@@ -7291,7 +7311,7 @@
   ],
   "shop_buy_shortage_stone_message": [
     [
-      "星導石 × <font color='#ea354c'>::count::</font> が不足しています\n星導石を購入しますか？"
+      "星導石 × <font color='#ea354c'>::count::</font> が不足しています"
     ]
   ],
   "shop_buy_shortage_stone_stone_count": [
@@ -8599,6 +8619,11 @@
       "資金決済法に基づく表示"
     ]
   ],
+  "stone_buy_stop_selling": [
+    [
+      "星導石の販売は終了しました"
+    ]
+  ],
   "stone_buy_stone_max": [
     [
       "星導石の保有上限を超えるため\n購入できません"
@@ -8752,11 +8777,6 @@
   "battle_continue_dialog_description_cost": [
     [
       "星導石 × ::stone:: を使用します"
-    ]
-  ],
-  "battle_continue_dialog_disable_description": [
-    [
-      "星導石が不足しているため\nコンティニューできません"
     ]
   ],
   "battle_continue_dialog_insufficient": [
@@ -9047,6 +9067,16 @@
   "application_option_attention_enable_in_battle_description": [
     [
       "バトル画面で救援依頼を新たに受け取るか\n設定することができます"
+    ]
+  ],
+  "application_option_flipper_skin_title": [
+    [
+      "フリッパースキン表示"
+    ]
+  ],
+  "application_option_flipper_skin_description": [
+    [
+      "フリッパースキン解放済みの装備アイテムを編成時、\nフリッパーの見た目が変わります"
     ]
   ],
   "application_option_simple_ability_text_title": [
@@ -9965,6 +9995,11 @@
     ]
   ],
   "play_continue_shortage_stone_message": [
+    [
+      "星導石が不足しています"
+    ]
+  ],
+  "shortage_stone_and_stop_selling_message": [
     [
       "星導石が不足しています"
     ]
@@ -11039,6 +11074,26 @@
       "キャラ加入 / 装備獲得"
     ]
   ],
+  "event_folder_event_select_tab_notcleared": [
+    [
+      "未クリア"
+    ]
+  ],
+  "event_folder_event_select_tab_cleared": [
+    [
+      "クリア済み"
+    ]
+  ],
+  "event_folder_event_select_tab_complete": [
+    [
+      "コンプリート"
+    ]
+  ],
+  "event_folder_event_select_empty_placeholder": [
+    [
+      "該当するイベントがありません"
+    ]
+  ],
   "remaining_time_many_days": [
     [
       "あと::days::日以上"
@@ -11682,6 +11737,16 @@
   "equipment_select_disrobe_equipment_dialog_header": [
     [
       "現在の装備をはずしますか？"
+    ]
+  ],
+  "equipment_flipper_skin_button": [
+    [
+      "フリッパー\nスキン"
+    ]
+  ],
+  "equipment_flipper_skin_lock_description": [
+    [
+      "フリッパースキンを設定するには\n特殊装備強化Lvが120である必要があります"
     ]
   ],
   "ability_sphere_list_tab_detail_mode": [

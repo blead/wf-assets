@@ -1,0 +1,708 @@
+[
+  "ActionDsl",
+  1,
+  [
+    "None"
+  ],
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  false,
+  0,
+  [
+    "Block",
+    [
+      [
+        "Command",
+        [
+          "ShowEffect",
+          "画面全体用の演出",
+          [
+            "ResolveByElement",
+            "battle/effect/enemy_general/enemy_shot_overall_attack",
+            7
+          ],
+          -1,
+          [
+            "ForesideOfCharacter"
+          ],
+          [
+            "PlayOnlyFirstSequence"
+          ],
+          [
+            "AB"
+          ],
+          0,
+          0,
+          0,
+          true,
+          true,
+          [
+            "None"
+          ]
+        ]
+      ],
+      [
+        "Event",
+        [
+          "Wait",
+          45,
+          "*",
+          [
+            "Block",
+            [
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 630,
+                        "min": 630
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  150,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  300,
+                  -450,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  300,
+                  -150,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  300,
+                  450,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  -300,
+                  -450,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  -300,
+                  -150,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 600,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  -300,
+                  450,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 615,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  -300,
+                  150,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 615,
+                        "min": 600
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  300,
+                  150,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "ShowEffect",
+                  "ダメージエリアの演出",
+                  [
+                    "SpecifyEffectDirectly",
+                    "battle/effect/enemy_unique/enemy_shot_ghost_fox/enemy_shot_ghost_fox_black_fire"
+                  ],
+                  -1,
+                  [
+                    "BacksideOfCharacter"
+                  ],
+                  [
+                    "SpecifyEffectLifetimeSLv",
+                    [
+                      {
+                        "max": 615,
+                        "min": 615
+                      }
+                    ]
+                  ],
+                  [
+                    "AB"
+                  ],
+                  0,
+                  450,
+                  0,
+                  true,
+                  true,
+                  [
+                    "Some",
+                    [
+                      {
+                        "max": 3,
+                        "min": 3
+                      }
+                    ]
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "CreateHitArea",
+                  "*",
+                  -1,
+                  [
+                    "AB"
+                  ],
+                  0,
+                  0,
+                  0,
+                  false,
+                  false,
+                  [
+                    "Rectangle",
+                    [
+                      {
+                        "max": 1500,
+                        "min": 1500
+                      }
+                    ],
+                    [
+                      {
+                        "max": 2000,
+                        "min": 2000
+                      }
+                    ]
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Center"
+                  ],
+                  [
+                    "Single"
+                  ],
+                  [
+                    "SpecifyHitAreaLifetimeDirectly",
+                    600
+                  ],
+                  [
+                    "SpecifyMinHitIntervalDirectly",
+                    20
+                  ],
+                  [
+                    "None"
+                  ],
+                  false,
+                  true,
+                  [
+                    "None"
+                  ],
+                  0,
+                  [
+                    "Block",
+                    null
+                  ],
+                  1,
+                  2,
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          2,
+                          255,
+                          null,
+                          null,
+                          0,
+                          [
+                            {
+                              "max": 0.25,
+                              "min": 0.25
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          false,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "Dark"
+                          ],
+                          true
+                        ]
+                      ]
+                    ]
+                  ],
+                  0,
+                  0,
+                  [
+                    "None"
+                  ]
+                ]
+              ],
+              [
+                "Command",
+                [
+                  "FindAllSubjects",
+                  3,
+                  33,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
+                  [
+                    "Block",
+                    [
+                      [
+                        "Command",
+                        [
+                          "CreateNormalAttack",
+                          3,
+                          255,
+                          null,
+                          null,
+                          0,
+                          [
+                            {
+                              "max": 3,
+                              "min": 3
+                            }
+                          ],
+                          [
+                            {
+                              "max": 0,
+                              "min": 0
+                            }
+                          ],
+                          false,
+                          false,
+                          false,
+                          false,
+                          false,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "None"
+                          ],
+                          true
+                        ]
+                      ],
+                      [
+                        "Command",
+                        [
+                          "CreateCondition",
+                          3,
+                          [
+                            [
+                              "ACToleranceOfElement",
+                              [
+                                {
+                                  "max": 3600,
+                                  "min": 3600
+                                }
+                              ],
+                              254,
+                              [
+                                {
+                                  "max": -0.25,
+                                  "min": -0.25
+                                }
+                              ],
+                              [
+                                {
+                                  "max": 1,
+                                  "min": 1
+                                }
+                              ]
+                            ]
+                          ],
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          [
+                            "GenericConditionHitEffect"
+                          ],
+                          true,
+                          false,
+                          "",
+                          null,
+                          false,
+                          3,
+                          [
+                            {
+                              "max": 1,
+                              "min": 1
+                            }
+                          ],
+                          false
+                        ]
+                      ]
+                    ]
+                  ]
+                ]
+              ]
+            ]
+          ]
+        ]
+      ]
+    ]
+  ]
+]

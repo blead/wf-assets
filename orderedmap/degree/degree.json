@@ -17380,6 +17380,45 @@
       "dynamic/degree/degree_steam_robot_dark_challenge_clear_1"
     ]
   ],
+  "62540": [
+    [
+      "degree_advent_event_steam_robot_another_clear_1",
+      "646520",
+      "無猾の打倒者",
+      "むかつのだとうしゃ",
+      "獲得条件：降臨討伐 無猾の機兵を 10 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_1"
+    ]
+  ],
+  "62550": [
+    [
+      "degree_advent_event_steam_robot_another_clear_2",
+      "646521",
+      "無猾の征服者",
+      "むかつのせいふくしゃ",
+      "獲得条件：降臨討伐 無猾の機兵を 100 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_2"
+    ]
+  ],
+  "62560": [
+    [
+      "degree_advent_event_steam_robot_another_clear_3",
+      "646522",
+      "無猾の討滅者",
+      "むかつのとうめつしゃ",
+      "獲得条件：降臨討伐 無猾の機兵を 500 回クリア",
+      "5",
+      "dynamic/degree/background",
+      "item/etc/degree",
+      "dynamic/degree/degree_advent_event_steam_robot_another_clear_3"
+    ]
+  ],
   "62030": [
     [
       "degree_advent_event_sramgon_clear_1",
