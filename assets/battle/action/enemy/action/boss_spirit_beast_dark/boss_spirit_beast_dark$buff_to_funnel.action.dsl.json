@@ -16,82 +16,95 @@
     "Block",
     [
       [
-        "Command",
+        "Event",
         [
-          "FindAllSubjects",
-          0,
-          52,
-          null,
-          null,
-          null,
-          null,
-          null,
-          [
-            "DoNothing"
-          ],
+          "Wait",
+          90,
+          "*",
           [
             "Block",
             [
               [
-                "Event",
+                "Command",
                 [
-                  "Repeat",
-                  60,
-                  99,
-                  "*",
+                  "FindAllSubjects",
+                  0,
+                  52,
+                  null,
+                  null,
+                  null,
+                  null,
+                  null,
+                  [
+                    "DoNothing"
+                  ],
                   [
                     "Block",
                     [
                       [
-                        "Command",
+                        "Event",
                         [
-                          "CreateCondition",
-                          0,
+                          "Repeat",
+                          60,
+                          99,
+                          "*",
                           [
+                            "Block",
                             [
-                              "ACAttackPoint",
                               [
-                                {
-                                  "max": 9999999,
-                                  "min": 9999999
-                                }
-                              ],
-                              [
-                                {
-                                  "max": 1,
-                                  "min": 1
-                                }
-                              ],
-                              [
-                                {
-                                  "max": 99,
-                                  "min": 99
-                                }
+                                "Command",
+                                [
+                                  "CreateCondition",
+                                  0,
+                                  [
+                                    [
+                                      "ACAttackPoint",
+                                      [
+                                        {
+                                          "max": 9999999,
+                                          "min": 9999999
+                                        }
+                                      ],
+                                      [
+                                        {
+                                          "max": 1,
+                                          "min": 1
+                                        }
+                                      ],
+                                      [
+                                        {
+                                          "max": 99,
+                                          "min": 99
+                                        }
+                                      ]
+                                    ]
+                                  ],
+                                  [
+                                    {
+                                      "max": 1,
+                                      "min": 1
+                                    }
+                                  ],
+                                  [
+                                    "None"
+                                  ],
+                                  false,
+                                  true,
+                                  "",
+                                  null,
+                                  false,
+                                  3,
+                                  [
+                                    {
+                                      "max": 1,
+                                      "min": 1
+                                    }
+                                  ],
+                                  false
+                                ]
                               ]
                             ]
-                          ],
-                          [
-                            {
-                              "max": 1,
-                              "min": 1
-                            }
-                          ],
-                          [
-                            "None"
-                          ],
-                          false,
-                          true,
-                          "",
-                          null,
-                          false,
-                          3,
-                          [
-                            {
-                              "max": 1,
-                              "min": 1
-                            }
-                          ],
-                          false
+                          ]
                         ]
                       ]
                     ]

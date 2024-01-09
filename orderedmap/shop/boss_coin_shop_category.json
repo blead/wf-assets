@@ -274,7 +274,7 @@
   "23": [
     [
       "discarded_dragon_thunder_revival_bossbattle",
-      "2000",
+      "1997",
       "2",
       "2",
       "1",
@@ -291,7 +291,7 @@
   "24": [
     [
       "discarded_dragon_fire_revival_bossbattle",
-      "1999",
+      "1995",
       "0",
       "2",
       "1",
@@ -308,7 +308,7 @@
   "25": [
     [
       "discarded_dragon_water_revival_bossbattle",
-      "1998",
+      "1996",
       "1",
       "2",
       "1",
@@ -342,7 +342,7 @@
   "27": [
     [
       "discarded_dragon_wind_revival_bossbattle",
-      "1997",
+      "1998",
       "3",
       "2",
       "1",
@@ -359,7 +359,7 @@
   "28": [
     [
       "discarded_dragon_light_revival_bossbattle",
-      "1996",
+      "1999",
       "4",
       "2",
       "1",
@@ -376,7 +376,7 @@
   "29": [
     [
       "discarded_dragon_dark_revival_bossbattle",
-      "1995",
+      "2000",
       "5",
       "2",
       "1",
@@ -458,10 +458,27 @@
       "true"
     ]
   ],
+  "35": [
+    [
+      "empress_constant_02",
+      "885",
+      "0",
+      "2",
+      "1",
+      "37",
+      "1",
+      "1037001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_variant_empress_fire",
+      "quest/boss_battle/background/boss_battle_variant_empress_fire",
+      "",
+      "false"
+    ]
+  ],
   "34": [
     [
       "empress_constant_01",
-      "890",
+      "886",
       "1",
       "2",
       "1",
@@ -475,19 +492,19 @@
       "false"
     ]
   ],
-  "35": [
+  "38": [
     [
-      "empress_constant_02",
-      "889",
-      "0",
+      "empress_constant_05",
+      "887",
+      "2",
       "2",
       "1",
-      "37",
+      "40",
       "1",
-      "1037001",
+      "1040001",
       "(None)",
-      "quest/event/banner/advent_event/advent_variant_empress_fire",
-      "quest/boss_battle/background/boss_battle_variant_empress_fire",
+      "quest/event/banner/advent_event/advent_variant_empress_thunder",
+      "quest/boss_battle/background/boss_battle_variant_empress_thunder",
       "",
       "false"
     ]
@@ -512,7 +529,7 @@
   "37": [
     [
       "empress_constant_04",
-      "887",
+      "889",
       "4",
       "2",
       "1",
@@ -526,27 +543,10 @@
       "false"
     ]
   ],
-  "38": [
-    [
-      "empress_constant_05",
-      "886",
-      "2",
-      "2",
-      "1",
-      "40",
-      "1",
-      "1040001",
-      "(None)",
-      "quest/event/banner/advent_event/advent_variant_empress_thunder",
-      "quest/boss_battle/background/boss_battle_variant_empress_thunder",
-      "",
-      "false"
-    ]
-  ],
   "39": [
     [
       "empress_constant_06",
-      "885",
+      "890",
       "5",
       "2",
       "1",
@@ -556,6 +556,261 @@
       "(None)",
       "quest/event/banner/advent_event/advent_variant_empress_dark",
       "quest/boss_battle/background/boss_battle_variant_empress_dark",
+      "",
+      "false"
+    ]
+  ],
+  "60": [
+    [
+      "steam_constant_another",
+      "650",
+      "(None)",
+      "2",
+      "1",
+      "60",
+      "1",
+      "1060001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_another",
+      "quest/boss_battle/background/boss_battle_steam_robot_another",
+      "",
+      "false"
+    ]
+  ],
+  "61": [
+    [
+      "steam_constant_red",
+      "651",
+      "0",
+      "2",
+      "1",
+      "61",
+      "1",
+      "1061001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_fire",
+      "quest/boss_battle/background/boss_battle_steam_robot_fire",
+      "",
+      "false"
+    ]
+  ],
+  "62": [
+    [
+      "steam_constant_blue",
+      "652",
+      "1",
+      "2",
+      "1",
+      "62",
+      "1",
+      "1062001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_water",
+      "quest/boss_battle/background/boss_battle_steam_robot_water",
+      "",
+      "false"
+    ]
+  ],
+  "63": [
+    [
+      "steam_constant_yellow",
+      "653",
+      "2",
+      "2",
+      "1",
+      "63",
+      "1",
+      "1063001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_thunder",
+      "quest/boss_battle/background/boss_battle_steam_robot_thunder",
+      "",
+      "false"
+    ]
+  ],
+  "64": [
+    [
+      "steam_constant_green",
+      "654",
+      "3",
+      "2",
+      "1",
+      "64",
+      "1",
+      "1064001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_wind",
+      "quest/boss_battle/background/boss_battle_steam_robot_wind",
+      "",
+      "false"
+    ]
+  ],
+  "65": [
+    [
+      "steam_constant_white",
+      "655",
+      "4",
+      "2",
+      "1",
+      "65",
+      "1",
+      "1065001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_light",
+      "quest/boss_battle/background/boss_battle_steam_robot_light",
+      "",
+      "false"
+    ]
+  ],
+  "66": [
+    [
+      "steam_constant_black",
+      "656",
+      "5",
+      "2",
+      "1",
+      "66",
+      "1",
+      "1066001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_steam_robot_dark",
+      "quest/boss_battle/background/boss_battle_steam_robot_dark",
+      "",
+      "false"
+    ]
+  ],
+  "51": [
+    [
+      "spirit_beast_fire_constant",
+      "703",
+      "0",
+      "2",
+      "1",
+      "51",
+      "1",
+      "1051001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_fire",
+      "quest/boss_battle/background/boss_battle_spirit_beast_fire",
+      "",
+      "false"
+    ]
+  ],
+  "52": [
+    [
+      "spirit_beast_water_constant",
+      "704",
+      "1",
+      "2",
+      "1",
+      "52",
+      "1",
+      "1052001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_water",
+      "quest/boss_battle/background/boss_battle_spirit_beast_water",
+      "",
+      "false"
+    ]
+  ],
+  "53": [
+    [
+      "spirit_beast_thunder_constant",
+      "705",
+      "2",
+      "2",
+      "1",
+      "53",
+      "1",
+      "1053001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_thunder",
+      "quest/boss_battle/background/boss_battle_spirit_beast_thunder",
+      "",
+      "false"
+    ]
+  ],
+  "54": [
+    [
+      "spirit_beast_storm_constant",
+      "706",
+      "3",
+      "2",
+      "1",
+      "54",
+      "1",
+      "1054001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_storm",
+      "quest/boss_battle/background/boss_battle_spirit_beast_wind",
+      "",
+      "false"
+    ]
+  ],
+  "55": [
+    [
+      "spirit_beast_light_constant",
+      "707",
+      "4",
+      "2",
+      "1",
+      "55",
+      "1",
+      "1055001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_light",
+      "quest/boss_battle/background/boss_battle_spirit_beast_light",
+      "",
+      "false"
+    ]
+  ],
+  "56": [
+    [
+      "spirit_beast_dark_constant",
+      "708",
+      "5",
+      "2",
+      "1",
+      "56",
+      "1",
+      "1056001",
+      "(None)",
+      "quest/event/banner/advent_event/advent_event_spirit_beast_dark",
+      "quest/boss_battle/background/boss_battle_spirit_beast_dark",
+      "",
+      "false"
+    ]
+  ],
+  "57": [
+    [
+      "advent_hw_constant",
+      "701",
+      "5",
+      "2",
+      "1",
+      "57",
+      "1",
+      "1057001",
+      "(None)",
+      "quest/event/banner/advent_event/event_advent_hw20",
+      "quest/boss_battle/background/boss_battle_halloween",
+      "",
+      "false"
+    ]
+  ],
+  "58": [
+    [
+      "advent_xm_constant",
+      "702",
+      "0",
+      "2",
+      "1",
+      "58",
+      "1",
+      "1058001",
+      "(None)",
+      "quest/event/banner/advent_event/event_advent_xm21",
+      "quest/boss_battle/background/boss_battle_xmas",
       "",
       "false"
     ]

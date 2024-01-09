@@ -190,5 +190,61 @@
       "short_system_lock_hard_multi_red",
       "1"
     ]
+  ],
+  "steam_hard_constant": [
+    [
+      "condition_steam_hard_constant",
+      "system_lock_steam_hard_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_red_constant": [
+    [
+      "condition_steam_hard_red_constant",
+      "system_lock_steam_hard_red_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_blue_constant": [
+    [
+      "condition_steam_hard_blue_constant",
+      "system_lock_steam_hard_blue_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_yellow_constant": [
+    [
+      "condition_steam_hard_yellow_constant",
+      "system_lock_steam_hard_yellow_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_green_constant": [
+    [
+      "condition_steam_hard_green_constant",
+      "system_lock_steam_hard_green_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_light_constant": [
+    [
+      "condition_steam_hard_light_constant",
+      "system_lock_steam_hard_light_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
+  ],
+  "steam_hard_dark_constant": [
+    [
+      "condition_steam_hard_dark_constant",
+      "system_lock_steam_hard_dark_constant",
+      "short_system_lock_hard_multi_red",
+      "1"
+    ]
   ]
 }

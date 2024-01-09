@@ -5559,6 +5559,11 @@
       "共同決戦 暗凛の機兵"
     ]
   ],
+  "help_label_event_hard_multi_constant": [
+    [
+      "機兵共同決戦"
+    ]
+  ],
   "help_label_event_challenge": [
     [
       "崩壊域"
@@ -7866,17 +7871,17 @@
   ],
   "boss_coin_exchange_cant_select_purple_coin": [
     [
-      "紫貨を一括交換の対象にすることはできません"
+      "この交換素材を一括交換の対象にすることはできません"
     ]
   ],
   "boss_coin_exchange_cant_select_gold_coin": [
     [
-      "金貨を一括交換の対象にすることはできません"
+      "この交換素材を一括交換の対象にすることはできません"
     ]
   ],
   "boss_coin_exchange_cant_select_silver_coin": [
     [
-      "銀貨を一括交換の対象にすることはできません"
+      "この交換素材を一括交換の対象にすることはできません"
     ]
   ],
   "boss_coin_exchange_bulk_exchange_dialog_title": [
@@ -15007,6 +15012,41 @@
   "help_label_event_advent_u_collabo": [
     [
       "降臨討伐 揺らぐ彼方のニューゲート"
+    ]
+  ],
+  "system_lock_steam_hard_constant": [
+    [
+      "共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_red_constant": [
+    [
+      "「紅嫉の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「紅嫉の機兵」の「紅機兵ハインライト 超級」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_blue_constant": [
+    [
+      "「蒼歎の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「蒼歎の機兵」の「蒼機兵ヴェルヌス 超級」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_yellow_constant": [
+    [
+      "「橙悚の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「橙悚の機兵」の「橙機兵ギブシーズ 超級」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_green_constant": [
+    [
+      "「翠愁の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「翠愁の機兵」の「翠機兵クラーグ 超級」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_light_constant": [
+    [
+      "「閃哭の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「閃哭の機兵」の「閃機兵アイザン 超級」をクリア"
+    ]
+  ],
+  "system_lock_steam_hard_dark_constant": [
+    [
+      "「暗凛の機兵」の共同決戦は下記を満たすことで解放されます\n・プレイヤーランクが::need_player_rank::以上\n・揺らぎの迷宮 崩壊域「臨境域 アビスの獣」をクリア\n・ボスバトル降臨討伐「暗凛の機兵」の「暗機兵ダグラン 超級」をクリア"
     ]
   ],
   "help_label_event_score_attack_event": [

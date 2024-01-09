@@ -18991,6 +18991,138 @@
       ]
     ]
   },
+  "11001105": {
+    "1": [
+      [
+        "hard_multi_steam_robot_fire_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_fire_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
+  "11001106": {
+    "1": [
+      [
+        "hard_multi_steam_robot_water_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_water_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
+  "11001107": {
+    "1": [
+      [
+        "hard_multi_steam_robot_thunder_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_thunder_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
+  "11001108": {
+    "1": [
+      [
+        "hard_multi_steam_robot_wind_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_wind_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
+  "11001109": {
+    "1": [
+      [
+        "hard_multi_steam_robot_light_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_light_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
+  "11001110": {
+    "1": [
+      [
+        "hard_multi_steam_robot_dark_constant_rare_1",
+        "0",
+        "49300",
+        "5",
+        "0.65",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "hard_multi_steam_robot_dark_constant_rare_1",
+        "0",
+        "49300",
+        "10",
+        "0.35",
+        "true"
+      ]
+    ]
+  },
   "6000001": {
     "1": [
       [
@@ -29009,6 +29141,1098 @@
       ]
     ]
   },
+  "11000916": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_1",
+        "1",
+        "5010073",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000917": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000918": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000919": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_4",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000920": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_5",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000921": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_6",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000922": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_7",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_fire_constant_rare_7",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_fire_constant_rare_7",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_fire_constant_rare_7",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000923": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_8",
+        "0",
+        "10000092",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_fire_constant_rare_8",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_fire_constant_rare_8",
+        "0",
+        "10000093",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_fire_constant_rare_8",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000924": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_9",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000925": {
+    "1": [
+      [
+        "advent_steam_robot_fire_constant_rare_10",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000926": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_1",
+        "1",
+        "5090047",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000927": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000928": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000929": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_4",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000930": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_5",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000931": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_6",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000932": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_7",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_water_constant_rare_7",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_water_constant_rare_7",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_water_constant_rare_7",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000933": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_8",
+        "0",
+        "10000092",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_water_constant_rare_8",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_water_constant_rare_8",
+        "0",
+        "10000093",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_water_constant_rare_8",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000934": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_9",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000935": {
+    "1": [
+      [
+        "advent_steam_robot_water_constant_rare_10",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000936": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_1",
+        "1",
+        "5080032",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000937": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000938": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000939": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_4",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000940": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_5",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000941": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_6",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000942": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_7",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000943": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_8",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000944": {
+    "1": [
+      [
+        "advent_steam_robot_thunder_constant_rare_9",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_thunder_constant_rare_9",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_thunder_constant_rare_9",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_thunder_constant_rare_9",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000945": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_1",
+        "1",
+        "5020042",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000946": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000947": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000948": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_4",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000949": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_5",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000950": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_6",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000951": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_7",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000952": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_8",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000953": {
+    "1": [
+      [
+        "advent_steam_robot_wind_constant_rare_9",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_wind_constant_rare_9",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_wind_constant_rare_9",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_wind_constant_rare_9",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000954": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_1",
+        "1",
+        "5100020",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000955": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000956": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000957": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_4",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000958": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_5",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000959": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_6",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000960": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_7",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000961": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_8",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000962": {
+    "1": [
+      [
+        "advent_steam_robot_light_constant_rare_9",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_light_constant_rare_9",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_light_constant_rare_9",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_light_constant_rare_9",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001112": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_1",
+        "1",
+        "5070044",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001113": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001114": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001115": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_4",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001116": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_5",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001117": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_6",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001118": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_7",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001119": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_8",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001120": {
+    "1": [
+      [
+        "advent_steam_robot_dark_constant_rare_9",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_dark_constant_rare_9",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_dark_constant_rare_9",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_dark_constant_rare_9",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001121": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_1",
+        "0",
+        "10000093",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001122": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_2",
+        "0",
+        "10000091",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001123": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_3",
+        "0",
+        "10000092",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001124": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_4",
+        "0",
+        "10000091",
+        "60",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001125": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_5",
+        "0",
+        "10000092",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001126": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_6",
+        "0",
+        "10000093",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001127": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_7",
+        "0",
+        "10000093",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001128": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_8",
+        "0",
+        "10000092",
+        "30",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001129": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_9",
+        "0",
+        "10000092",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_another_constant_rare_9",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_another_constant_rare_9",
+        "0",
+        "10000093",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_another_constant_rare_9",
+        "0",
+        "10000093",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001130": {
+    "1": [
+      [
+        "advent_steam_robot_another_constant_rare_10",
+        "0",
+        "10000092",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_steam_robot_another_constant_rare_10",
+        "0",
+        "10000092",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_steam_robot_another_constant_rare_10",
+        "0",
+        "10000093",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_steam_robot_another_constant_rare_10",
+        "0",
+        "10000093",
+        "15",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
   "11001104": {
     "1": [
       [
@@ -33041,6 +34265,1416 @@
         "advent_spirit_beast_dark_rare_coin",
         "0",
         "49316",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000984": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_1",
+        "1",
+        "4070038",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000985": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_2",
+        "1",
+        "5030040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000986": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_3",
+        "1",
+        "5010060",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000987": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_4",
+        "0",
+        "10000112",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000988": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_5",
+        "0",
+        "10000113",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000989": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_6",
+        "0",
+        "10000113",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000990": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_7",
+        "0",
+        "10000114",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000991": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_8",
+        "0",
+        "10000114",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11000992": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_9",
+        "0",
+        "10000113",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_9",
+        "0",
+        "10000113",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_9",
+        "0",
+        "10000114",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_9",
+        "0",
+        "10000114",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000993": {
+    "1": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_10",
+        "0",
+        "10000113",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_10",
+        "0",
+        "10000113",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_10",
+        "0",
+        "10000114",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_fire_constant_rare_score_group_10",
+        "0",
+        "10000114",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11000994": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_1",
+        "1",
+        "4050030",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000995": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_2",
+        "1",
+        "5030036",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000996": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_3",
+        "1",
+        "5070033",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000997": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_4",
+        "0",
+        "10000115",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000998": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_5",
+        "0",
+        "10000116",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11000999": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_6",
+        "0",
+        "10000116",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001000": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_7",
+        "0",
+        "10000117",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001001": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_8",
+        "0",
+        "10000117",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001002": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_9",
+        "0",
+        "10000116",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_9",
+        "0",
+        "10000116",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_9",
+        "0",
+        "10000117",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_9",
+        "0",
+        "10000117",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001003": {
+    "1": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_10",
+        "0",
+        "10000116",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_10",
+        "0",
+        "10000116",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_10",
+        "0",
+        "10000117",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_water_constant_rare_score_group_10",
+        "0",
+        "10000117",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001004": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_1",
+        "1",
+        "4080024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001005": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_2",
+        "1",
+        "5020032",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001006": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_3",
+        "1",
+        "5040025",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001007": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_4",
+        "0",
+        "10000118",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001008": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_5",
+        "0",
+        "10000119",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001009": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_6",
+        "0",
+        "10000119",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001010": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_7",
+        "0",
+        "10000120",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001011": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_8",
+        "0",
+        "10000120",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001012": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_9",
+        "0",
+        "10000119",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_9",
+        "0",
+        "10000119",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_9",
+        "0",
+        "10000120",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_9",
+        "0",
+        "10000120",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001013": {
+    "1": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_10",
+        "0",
+        "10000119",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_10",
+        "0",
+        "10000119",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_10",
+        "0",
+        "10000120",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_thunder_constant_rare_score_group_10",
+        "0",
+        "10000120",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001014": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_1",
+        "1",
+        "4040034",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001015": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_2",
+        "1",
+        "5010065",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001016": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_3",
+        "1",
+        "5010064",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001017": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_4",
+        "0",
+        "10000121",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001018": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_5",
+        "0",
+        "10000122",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001019": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_6",
+        "0",
+        "10000122",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001020": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_7",
+        "0",
+        "10000123",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001021": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_8",
+        "0",
+        "10000123",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001022": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_9",
+        "0",
+        "10000122",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_9",
+        "0",
+        "10000122",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_9",
+        "0",
+        "10000123",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_9",
+        "0",
+        "10000123",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001023": {
+    "1": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_10",
+        "0",
+        "10000122",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_10",
+        "0",
+        "10000122",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_10",
+        "0",
+        "10000123",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_storm_constant_rare_score_group_10",
+        "0",
+        "10000123",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001024": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_1",
+        "1",
+        "4090037",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001025": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_2",
+        "1",
+        "5070039",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001026": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_3",
+        "1",
+        "5040033",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001027": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_4",
+        "0",
+        "10000124",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001028": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_5",
+        "0",
+        "10000125",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001029": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_6",
+        "0",
+        "10000125",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001030": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_7",
+        "0",
+        "10000126",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001031": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_8",
+        "0",
+        "10000126",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001032": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_9",
+        "0",
+        "10000125",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_9",
+        "0",
+        "10000125",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_9",
+        "0",
+        "10000126",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_9",
+        "0",
+        "10000126",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001033": {
+    "1": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_10",
+        "0",
+        "10000125",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_10",
+        "0",
+        "10000125",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_10",
+        "0",
+        "10000126",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_light_constant_rare_score_group_10",
+        "0",
+        "10000126",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001034": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_1",
+        "1",
+        "4070041",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001035": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_2",
+        "1",
+        "5060040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001036": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_3",
+        "1",
+        "5020040",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001037": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_4",
+        "0",
+        "10000127",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001038": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_5",
+        "0",
+        "10000128",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001039": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_6",
+        "0",
+        "10000128",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001040": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_7",
+        "0",
+        "10000129",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001041": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_8",
+        "0",
+        "10000129",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001042": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_9",
+        "0",
+        "10000128",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_9",
+        "0",
+        "10000128",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_9",
+        "0",
+        "10000129",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_9",
+        "0",
+        "10000129",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001043": {
+    "1": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_10",
+        "0",
+        "10000128",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_10",
+        "0",
+        "10000128",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_10",
+        "0",
+        "10000129",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_spirit_beast_dark_constant_rare_score_group_10",
+        "0",
+        "10000129",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001080": {
+    "1": [
+      [
+        "advent_hw_constant_rare_1",
+        "1",
+        "4050023",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001081": {
+    "1": [
+      [
+        "advent_hw_constant_rare_2",
+        "1",
+        "5070024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001082": {
+    "1": [
+      [
+        "advent_hw_constant_rare_3",
+        "1",
+        "5060024",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001083": {
+    "1": [
+      [
+        "advent_hw_constant_rare_4",
+        "0",
+        "10000130",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001084": {
+    "1": [
+      [
+        "advent_hw_constant_rare_5",
+        "0",
+        "10000131",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001085": {
+    "1": [
+      [
+        "advent_hw_constant_rare_6",
+        "0",
+        "10000131",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001086": {
+    "1": [
+      [
+        "advent_hw_constant_rare_7",
+        "0",
+        "10000132",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001087": {
+    "1": [
+      [
+        "advent_hw_constant_rare_8",
+        "0",
+        "10000132",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001088": {
+    "1": [
+      [
+        "advent_hw_constant_rare_9",
+        "0",
+        "10000131",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_hw_constant_rare_9",
+        "0",
+        "10000131",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_hw_constant_rare_9",
+        "0",
+        "10000132",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_hw_constant_rare_9",
+        "0",
+        "10000132",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001089": {
+    "1": [
+      [
+        "advent_xm_constant_rare_1",
+        "1",
+        "4100008",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001090": {
+    "1": [
+      [
+        "advent_xm_constant_rare_2",
+        "1",
+        "5060026",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001091": {
+    "1": [
+      [
+        "advent_xm_constant_rare_3",
+        "1",
+        "5080014",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001092": {
+    "1": [
+      [
+        "advent_xm_constant_rare_4",
+        "1",
+        "5070026",
+        "1",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001093": {
+    "1": [
+      [
+        "advent_xm_constant_rare_5",
+        "0",
+        "10000133",
+        "50",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001094": {
+    "1": [
+      [
+        "advent_xm_constant_rare_6",
+        "0",
+        "10000134",
+        "25",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001095": {
+    "1": [
+      [
+        "advent_xm_constant_rare_7",
+        "0",
+        "10000134",
+        "10",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001096": {
+    "1": [
+      [
+        "advent_xm_constant_rare_8",
+        "0",
+        "10000135",
+        "5",
+        "1",
+        "true"
+      ]
+    ]
+  },
+  "11001097": {
+    "1": [
+      [
+        "advent_xm_constant_rare_9",
+        "0",
+        "10000135",
+        "1",
+        "1",
+        "false"
+      ]
+    ]
+  },
+  "11001098": {
+    "1": [
+      [
+        "advent_xm_constant_rare_10",
+        "0",
+        "10000134",
+        "25",
+        "0.4",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_xm_constant_rare_10",
+        "0",
+        "10000134",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_xm_constant_rare_10",
+        "0",
+        "10000135",
+        "5",
+        "0.2",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_xm_constant_rare_10",
+        "0",
+        "10000135",
+        "10",
+        "0.15",
+        "true"
+      ]
+    ]
+  },
+  "11001099": {
+    "1": [
+      [
+        "advent_xm_constant_rare_11",
+        "0",
+        "10000134",
+        "25",
+        "0.3",
+        "true"
+      ]
+    ],
+    "2": [
+      [
+        "advent_xm_constant_rare_11",
+        "0",
+        "10000134",
+        "50",
+        "0.25",
+        "true"
+      ]
+    ],
+    "3": [
+      [
+        "advent_xm_constant_rare_11",
+        "0",
+        "10000135",
+        "5",
+        "0.3",
+        "true"
+      ]
+    ],
+    "4": [
+      [
+        "advent_xm_constant_rare_11",
+        "0",
+        "10000135",
         "10",
         "0.15",
         "true"
