@@ -4900,7 +4900,7 @@
       "4000",
       "dynamic/feature_announcement/exchange_character_ticket_gift_09",
       "2024-01-31 12:00:00",
-      "2024-02-23 11:59:59",
+      "2024-02-15 11:59:59",
       "false"
     ]
   ],
@@ -5225,6 +5225,15 @@
       "dynamic/feature_announcement/haniwa_carnival_11",
       "2023-06-30 12:00:00",
       "2023-07-14 20:59:59",
+      "false"
+    ]
+  ],
+  "220358": [
+    [
+      "1000",
+      "dynamic/feature_announcement/notice_combat_haniwa",
+      "2024-01-23 12:00:00",
+      "2024-02-23 20:59:59",
       "false"
     ]
   ],

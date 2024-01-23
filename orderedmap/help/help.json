@@ -802,6 +802,17 @@
       "2023-11-29 04:59:59"
     ]
   ],
+  "combat_diver_constant": [
+    [
+      "help_label_event_rush_event",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_rush_event",
+      "2024-01-23 12:00:00",
+      "(None)"
+    ]
+  ],
   "event_raid_event": [
     [
       "help_label_event_raid_event",
@@ -1086,6 +1097,17 @@
       "rich_text/help_event_haniwa_carnival",
       "2023-06-30 12:00:00",
       "2023-07-22 04:59:59"
+    ]
+  ],
+  "Event_haniwa_carnival_constant": [
+    [
+      "help_label_event_haniwa_carnival",
+      "Event",
+      "1",
+      "1",
+      "rich_text/help_event_haniwa_carnival_constant",
+      "2024-01-23 12:00:00",
+      "(None)"
     ]
   ],
   "Event_haniwa_carnival": [

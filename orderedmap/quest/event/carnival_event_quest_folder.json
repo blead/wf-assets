@@ -129,6 +129,162 @@
       ]
     ]
   },
+  "103": {
+    "1": [
+      [
+        "1",
+        "溢光強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "溢光必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "溢光直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_light_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/white/background"
+      ]
+    ]
+  },
+  "104": {
+    "1": [
+      [
+        "1",
+        "雲水強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "雲水必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "雲水狂乱ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_blue_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/blue/background"
+      ]
+    ]
+  },
+  "105": {
+    "1": [
+      [
+        "1",
+        "宵闇直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "宵闇強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "宵闇必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_dark_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/black/background"
+      ]
+    ]
+  },
+  "106": {
+    "1": [
+      [
+        "1",
+        "奔雷必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "奔雷強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "奔雷直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_02_yellow_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_02/yellow/background"
+      ]
+    ]
+  },
+  "107": {
+    "1": [
+      [
+        "1",
+        "旋風必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "旋風強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "旋風直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_green_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/green/background"
+      ]
+    ]
+  },
+  "111": {
+    "1": [
+      [
+        "1",
+        "閃火必殺ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ],
+    "2": [
+      [
+        "2",
+        "閃火強振ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ],
+    "3": [
+      [
+        "3",
+        "閃火直撃ハニンガー",
+        "quest/thumbnail/haniwa_carnival/haniwa_carnival_01_red_01",
+        "quest/event/animation_background/haniwa_carnival/haniwa_carnival_01/red/background"
+      ]
+    ]
+  },
   "9": {
     "1": [
       [

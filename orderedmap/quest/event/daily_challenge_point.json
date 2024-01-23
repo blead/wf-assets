@@ -861,7 +861,7 @@
     [
       "solo_time_attack_challenge_point",
       "99",
-      "10",
+      "99",
       "true",
       "極時の試練挑戦回数\n対象クエスト：極時の試練",
       "item/etc/solo_time_attack_challenge_point",

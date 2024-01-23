@@ -9333,6 +9333,32 @@
       "true"
     ]
   ],
+  "10000136": [
+    [
+      "rush_event_item_constant",
+      "10000136",
+      "ダイバーズチェック",
+      "item/materials/event/rush_event/rush_event_item_01",
+      "item_icon/materials/event/rush_event/rush_event_item",
+      "VRゲーム『コンバットダイバー』で得られる仮想通貨。バトル記憶をテクニカルレートに応じてポイント化したもの",
+      "9",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "3",
+      "(None)",
+      "1",
+      "1",
+      "99999",
+      "2024-01-23 12:00:00",
+      "(None)",
+      "true"
+    ]
+  ],
   "70001": [
     [
       "rush_event_item_01",
