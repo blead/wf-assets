@@ -75,4 +75,3 @@ jobs:
       with:
         name: dump-${{ github.sha }}
         path: ${{env.TMP_WORKDIR}}/dump.tar
-        retention-days: 14
