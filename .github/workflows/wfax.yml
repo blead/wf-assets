@@ -68,9 +68,11 @@ jobs:
         git push origin master
         git push --tags --force origin
     - name: Tar raw assets
+      if: always()
       run: tar -cvf dump.tar dump
       working-directory: ${{env.TMP_WORKDIR}}
     - name: Upload raw assets
+      if: always()
       uses: actions/upload-artifact@v3
       with:
         name: dump-${{ github.sha }}
